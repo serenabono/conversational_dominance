@@ -1,0 +1,558 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5f4c5105ad5ee685d48bcca2,182.09,182.98,Hey,,0.8899999999999864,0,False,False,1
+1,5bd086bbc3b40e0001df9551,183.44,184.66,"Hey, how's it going?",0.46000000000000796,1.2199999999999989,1,True,False,5
+2,5f4c5105ad5ee685d48bcca2,184.64,187.76,"Good, good.",-0.020000000000010232,3.1200000000000045,0,False,True,2
+3,5bd086bbc3b40e0001df9551,185.94,189.15,Okay. I'm sorry.,-1.8199999999999932,3.210000000000008,0,False,True,4
+4,5f4c5105ad5ee685d48bcca2,188.92,190.34,My name is danish,-0.2300000000000182,1.420000000000016,0,False,True,4
+5,5bd086bbc3b40e0001df9551,190.34,192.05,"Oh, my name's Quentin",0.0,1.710000000000008,0,False,False,5
+6,5f4c5105ad5ee685d48bcca2,192.34,193.86,"Queen, Can You Hear Me? 30?",0.28999999999999204,1.5200000000000102,2,True,False,6
+7,5bd086bbc3b40e0001df9551,194.14,195.55,"I can hear you, pretty good.",0.2799999999999727,1.410000000000025,0,False,False,6
+8,5f4c5105ad5ee685d48bcca2,195.94,197.16,Perfect.,0.38999999999998636,1.2199999999999989,0,False,False,1
+9,5bd086bbc3b40e0001df9551,197.54,199.85,So how's your day going?,0.37999999999999545,2.3100000000000023,1,True,False,6
+10,5f4c5105ad5ee685d48bcca2,199.04,200.76,"Well yeah, pretty much still",-0.8100000000000023,1.7199999999999989,0,False,True,5
+11,5bd086bbc3b40e0001df9551,200.54,200.75,So?,-0.21999999999999886,0.21000000000000796,1,True,True,1
+12,5f4c5105ad5ee685d48bcca2,200.76,201.26,love.,0.009999999999990905,0.5,0,False,False,1
+13,5bd086bbc3b40e0001df9551,201.94,202.56,Yeah.,0.6800000000000068,0.6200000000000045,0,False,False,1
+14,5f4c5105ad5ee685d48bcca2,202.94,203.56,Yeah.,0.37999999999999545,0.6200000000000045,0,False,False,1
+15,5bd086bbc3b40e0001df9551,203.24,207.78,"Yeah. Okay. Uh same, I'm having a pretty good day. I got",-0.3199999999999932,4.539999999999992,0,False,True,13
+16,5f4c5105ad5ee685d48bcca2,207.74,208.16,Um,-0.03999999999999204,0.4199999999999875,0,False,True,1
+17,5bd086bbc3b40e0001df9551,207.78,210.16,"a little bit of a migraine, but that's about it.",-0.37999999999999545,2.3799999999999955,0,False,True,11
+18,5f4c5105ad5ee685d48bcca2,210.14,211.06,Oh I'm sorry,-0.020000000000010232,0.9200000000000159,0,False,True,4
+19,5bd086bbc3b40e0001df9551,210.94,211.14,Yeah.,-0.12000000000000455,0.19999999999998863,0,False,True,1
+20,5f4c5105ad5ee685d48bcca2,211.06,211.76,about that. This is,-0.07999999999998408,0.6999999999999886,0,False,True,4
+21,5bd086bbc3b40e0001df9551,211.74,212.06,Yeah.,-0.01999999999998181,0.3199999999999932,0,False,True,1
+22,5f4c5105ad5ee685d48bcca2,211.76,213.46,the first time we are trying this.,-0.30000000000001137,1.700000000000017,0,False,True,7
+23,5bd086bbc3b40e0001df9551,213.84,217.05,Uh this would be my 4th time.,0.37999999999999545,3.210000000000008,0,False,False,7
+24,5f4c5105ad5ee685d48bcca2,216.54,218.52,4-3. Okay. Actually,-0.5100000000000193,1.9800000000000182,0,False,True,4
+25,5bd086bbc3b40e0001df9551,218.14,218.34,Yeah.,-0.3800000000000239,0.20000000000001705,0,False,True,1
+26,5f4c5105ad5ee685d48bcca2,218.52,219.86,second them for me.,0.18000000000000682,1.3400000000000034,0,False,False,4
+27,5bd086bbc3b40e0001df9551,219.94,220.69,Yeah.,0.07999999999998408,0.75,0,False,False,1
+28,5f4c5105ad5ee685d48bcca2,220.64,220.96,Yeah.,-0.05000000000001137,0.3200000000000216,0,False,True,1
+29,5bd086bbc3b40e0001df9551,220.7,222.85,Have you had good experiences with it so far?,-0.2600000000000193,2.1500000000000057,1,True,True,9
+30,5f4c5105ad5ee685d48bcca2,223.04,224.96,Well yeah it was just,0.18999999999999773,1.920000000000016,0,False,False,5
+31,5bd086bbc3b40e0001df9551,224.64,224.84,Yeah.,-0.3200000000000216,0.20000000000001705,0,False,True,1
+32,5f4c5105ad5ee685d48bcca2,224.97,225.56,yesterday,0.12999999999999545,0.5900000000000034,0,False,False,1
+33,5bd086bbc3b40e0001df9551,225.24,225.44,Yeah.,-0.3199999999999932,0.19999999999998863,0,False,True,1
+34,5f4c5105ad5ee685d48bcca2,225.56,227.15,I had for the first time.,0.12000000000000455,1.5900000000000034,0,False,False,6
+35,5bd086bbc3b40e0001df9551,226.74,226.95,Mhm.,-0.4099999999999966,0.20999999999997954,0,False,True,1
+36,5f4c5105ad5ee685d48bcca2,227.54,229.13,Uh in fact since,0.5900000000000034,1.5900000000000034,0,False,False,4
+37,5bd086bbc3b40e0001df9551,229.04,229.24,Uh huh.,-0.09000000000000341,0.20000000000001705,0,False,True,2
+38,5f4c5105ad5ee685d48bcca2,229.13,230.13,you said it's a 43,-0.11000000000001364,1.0,0,False,True,6
+39,5bd086bbc3b40e0001df9551,229.74,230.06,Yeah.,-0.38999999999998636,0.3199999999999932,0,False,True,1
+40,5f4c5105ad5ee685d48bcca2,230.13,236.58,and pretty much you should experience like 100 scheduled last month I guess it was the,0.06999999999999318,6.450000000000017,0,False,False,16
+41,5bd086bbc3b40e0001df9551,236.44,236.64,"Yeah,",-0.14000000000001478,0.19999999999998863,0,False,True,1
+42,5f4c5105ad5ee685d48bcca2,236.58,237.11,first,-0.05999999999997385,0.5300000000000011,0,False,True,1
+43,5bd086bbc3b40e0001df9551,237.04,237.2,mm,-0.0700000000000216,0.1599999999999966,0,False,True,1
+44,5f4c5105ad5ee685d48bcca2,237.11,237.41,week,-0.08999999999997499,0.29999999999998295,0,False,True,1
+45,5bd086bbc3b40e0001df9551,237.2,238.06,hmm.,-0.21000000000000796,0.8600000000000136,0,False,True,1
+46,5f4c5105ad5ee685d48bcca2,237.41,242.22,of october and I was quite excited to have this because the first,-0.6500000000000057,4.810000000000002,0,False,True,13
+47,5bd086bbc3b40e0001df9551,242.14,243.46,Hi.,-0.0800000000000125,1.3200000000000216,0,False,True,1
+48,5f4c5105ad5ee685d48bcca2,242.22,244.86,time I uh I'm having these kind of,-1.240000000000009,2.640000000000015,0,False,True,9
+49,5bd086bbc3b40e0001df9551,244.64,244.84,Yeah.,-0.22000000000002728,0.20000000000001705,0,False,True,1
+50,5f4c5105ad5ee685d48bcca2,244.87,246.12,conversations,0.030000000000001137,1.25,0,False,False,1
+51,5bd086bbc3b40e0001df9551,245.94,246.14,Yeah.,-0.18000000000000682,0.19999999999998863,0,False,True,1
+52,5f4c5105ad5ee685d48bcca2,246.13,249.36,and unfortunately it was scheduled right,-0.009999999999990905,3.230000000000018,0,False,True,6
+53,5bd086bbc3b40e0001df9551,249.34,249.54,Yeah.,-0.020000000000010232,0.19999999999998863,0,False,True,1
+54,5f4c5105ad5ee685d48bcca2,249.37,249.99,and both,-0.1699999999999875,0.6200000000000045,0,False,True,2
+55,5bd086bbc3b40e0001df9551,249.94,250.14,Yeah.,-0.05000000000001137,0.19999999999998863,0,False,True,1
+56,5f4c5105ad5ee685d48bcca2,249.99,251.48,times my,-0.14999999999997726,1.4899999999999807,0,False,True,2
+57,5bd086bbc3b40e0001df9551,251.14,251.34,Yeah.,-0.3400000000000034,0.20000000000001705,0,False,True,1
+58,5f4c5105ad5ee685d48bcca2,251.48,254.38,partner did not arabe to,0.13999999999998636,2.9000000000000057,0,False,False,5
+59,5bd086bbc3b40e0001df9551,254.24,254.66,Mhm.,-0.13999999999998636,0.4199999999999875,0,False,True,1
+60,5f4c5105ad5ee685d48bcca2,254.38,257.95,"be honest, I thought that this is going to be the",-0.28000000000000114,3.569999999999993,0,False,True,11
+61,5bd086bbc3b40e0001df9551,257.84,258.04,Yeah.,-0.11000000000001364,0.20000000000004547,0,False,True,1
+62,5f4c5105ad5ee685d48bcca2,257.96,261.86,"third time, but I'm happy that you actually showed up on time.",-0.08000000000004093,3.900000000000034,0,False,True,13
+63,5bd086bbc3b40e0001df9551,262.14,267.51,"Oh yeah. Yeah. I try to I try to show up when I'm supposed to, you know,",0.2799999999999727,5.3700000000000045,0,False,False,18
+64,5f4c5105ad5ee685d48bcca2,267.44,267.76,Yeah.,-0.06999999999999318,0.3199999999999932,0,False,True,1
+65,5bd086bbc3b40e0001df9551,267.52,271.44,I've had only one time so far were uh,-0.2400000000000091,3.920000000000016,0,False,True,10
+66,5f4c5105ad5ee685d48bcca2,270.54,270.74,Yeah.,-0.8999999999999773,0.19999999999998863,0,False,True,1
+67,5bd086bbc3b40e0001df9551,271.45,274.2,the person didn't show up. It's,0.7099999999999795,2.75,0,False,False,8
+68,5f4c5105ad5ee685d48bcca2,274.04,274.24,Yeah.,-0.15999999999996817,0.19999999999998863,0,False,True,1
+69,5bd086bbc3b40e0001df9551,274.2,275.35,"very disappointing,",-0.040000000000020464,1.150000000000034,0,False,True,2
+70,5f4c5105ad5ee685d48bcca2,275.64,276.56,Okay.,0.2899999999999636,0.9200000000000159,0,False,False,1
+71,5bd086bbc3b40e0001df9551,276.24,276.45,right?,-0.3199999999999932,0.20999999999997954,1,True,True,1
+72,5f4c5105ad5ee685d48bcca2,276.56,277.56,So where are you from?,0.11000000000001364,1.0,1,True,False,5
+73,5bd086bbc3b40e0001df9551,278.04,281.16,Um I am originally from colorado.,0.4800000000000182,3.1200000000000045,0,False,False,6
+74,5f4c5105ad5ee685d48bcca2,281.34,282.15,Okay.,0.17999999999994998,0.8100000000000023,0,False,False,1
+75,5bd086bbc3b40e0001df9551,282.64,283.66,How about yourself?,0.4900000000000091,1.0200000000000387,1,True,False,3
+76,5f4c5105ad5ee685d48bcca2,283.84,286.36,Oh I'm from Chicago Illinois.,0.17999999999994998,2.5200000000000387,0,False,False,6
+77,5bd086bbc3b40e0001df9551,286.74,294.99,"Oh, yeah, Chicago is do you like Chicago? I know because it's your hometown, you probably, you know, feel",0.37999999999999545,8.25,1,False,False,20
+78,5f4c5105ad5ee685d48bcca2,294.54,294.74,"Yeah,",-0.44999999999998863,0.19999999999998863,0,False,True,1
+79,5bd086bbc3b40e0001df9551,294.99,307.76,"warmth to it. But um, you know, for me like colorado, I don't live in colorado anymore. But I look when I look think of colorado to me, it's like, you know it's like home, you know?",0.25,12.769999999999982,1,True,False,40
+80,5f4c5105ad5ee685d48bcca2,308.14,309.36,so where do you stay now?,0.37999999999999545,1.2200000000000273,1,True,False,6
+81,5bd086bbc3b40e0001df9551,309.94,315.06,Well I'm in uh I'm in the south now. I'm near the Virginia border.,0.5799999999999841,5.1200000000000045,0,False,False,17
+82,5f4c5105ad5ee685d48bcca2,315.94,317.46,New Virginia.,0.8799999999999955,1.5199999999999818,0,False,False,2
+83,5bd086bbc3b40e0001df9551,317.74,318.36,Yeah.,0.28000000000002956,0.6200000000000045,0,False,False,1
+84,5f4c5105ad5ee685d48bcca2,319.04,346.15,Oh okay. So I live here just a quick introduction about myself. I live here in Chicago with my wife and my six year old kid. So right now I'm just taking care of my kid who was actually going to school before Covid. And right now he is home schooling. And my wife wife works for a private company here in the suburbs.,0.6800000000000068,27.109999999999957,0,False,False,65
+85,5bd086bbc3b40e0001df9551,346.84,349.88,Okay. Yeah. So you do you,0.6899999999999977,3.0400000000000205,0,False,False,6
+86,5f4c5105ad5ee685d48bcca2,349.84,350.04,"Yeah,",-0.040000000000020464,0.20000000000004547,0,False,True,1
+87,5bd086bbc3b40e0001df9551,349.88,351.06,like Chicago then?,-0.160000000000025,1.1800000000000068,1,True,True,3
+88,5f4c5105ad5ee685d48bcca2,351.04,356.16,absolutely. I've been here for close to three years now and I really enjoy,-0.01999999999998181,5.1200000000000045,0,False,True,15
+89,5bd086bbc3b40e0001df9551,356.74,369.15,Yeah. I've um I haven't spent much time in Chicago. Um My um I I was there for a little bit and I don't remember where I was. I just remember we were near the ocean,0.5799999999999841,12.409999999999968,0,False,False,39
+90,5f4c5105ad5ee685d48bcca2,369.34,369.76,uh,0.18999999999999773,0.4200000000000159,0,False,False,1
+91,5bd086bbc3b40e0001df9551,369.54,373.7,"and there's like this famous bay, we went to war, like this gigantic, it's like this dock",-0.21999999999997044,4.159999999999968,0,False,True,19
+92,5f4c5105ad5ee685d48bcca2,373.54,373.74,Yeah.,-0.15999999999996817,0.19999999999998863,0,False,True,1
+93,5bd086bbc3b40e0001df9551,373.7,375.26,that goes out into the sea,-0.040000000000020464,1.5600000000000023,0,False,True,6
+94,5f4c5105ad5ee685d48bcca2,374.64,374.84,Yeah.,-0.6200000000000045,0.19999999999998863,0,False,True,1
+95,5bd086bbc3b40e0001df9551,375.27,382.14,"and it was it was pretty cool. We were I think we're yeah, I don't know where we were but it was a good",0.4300000000000068,6.8700000000000045,0,False,False,26
+96,5f4c5105ad5ee685d48bcca2,382.04,382.52,Mhm.,-0.0999999999999659,0.47999999999996135,0,False,True,1
+97,5bd086bbc3b40e0001df9551,382.14,382.56,"time,",-0.37999999999999545,0.4200000000000159,0,False,True,1
+98,5f4c5105ad5ee685d48bcca2,382.53,383.64,Veterans,-0.03000000000002956,1.1100000000000136,0,False,True,1
+99,5bd086bbc3b40e0001df9551,383.14,383.95,very calm,-0.5,0.8100000000000023,0,False,True,2
+100,5f4c5105ad5ee685d48bcca2,383.64,384.05,next.,-0.3100000000000023,0.410000000000025,0,False,True,1
+101,5bd086bbc3b40e0001df9551,384.84,387.26,and that was a while ago. Um,0.7899999999999636,2.420000000000016,0,False,False,7
+102,5f4c5105ad5ee685d48bcca2,387.34,387.66,Okay.,0.07999999999998408,0.32000000000005,0,False,False,1
+103,5bd086bbc3b40e0001df9551,388.64,389.11,I,0.9799999999999613,0.4700000000000273,0,False,False,1
+104,5f4c5105ad5ee685d48bcca2,388.84,389.04,Yeah.,-0.27000000000003865,0.20000000000004547,0,False,True,1
+105,5bd086bbc3b40e0001df9551,389.11,394.05,can't even remember. I I think I had to have been a my my second,0.06999999999999318,4.939999999999998,0,False,False,16
+106,5f4c5105ad5ee685d48bcca2,393.94,394.15,What?,-0.11000000000001364,0.20999999999997954,1,True,True,1
+107,5bd086bbc3b40e0001df9551,394.05,395.06,"year in high school,",-0.0999999999999659,1.009999999999991,0,False,True,4
+108,5f4c5105ad5ee685d48bcca2,394.94,396.46,Okay.,-0.12000000000000455,1.5199999999999818,0,False,True,1
+109,5bd086bbc3b40e0001df9551,396.14,398.66,So that was probably over 10 years ago.,-0.3199999999999932,2.5200000000000387,0,False,True,8
+110,5f4c5105ad5ee685d48bcca2,398.94,399.37,"Okay,",0.2799999999999727,0.4300000000000068,0,False,False,1
+111,5bd086bbc3b40e0001df9551,399.04,399.36,Okay.,-0.3299999999999841,0.3199999999999932,0,False,True,1
+112,5f4c5105ad5ee685d48bcca2,399.37,399.92,So what do you do,0.009999999999990905,0.5500000000000114,0,False,False,5
+113,5bd086bbc3b40e0001df9551,399.84,400.05,Oh.,-0.08000000000004093,0.21000000000003638,0,False,True,1
+114,5f4c5105ad5ee685d48bcca2,399.92,400.35,now?,-0.12999999999999545,0.4300000000000068,1,True,True,1
+115,5bd086bbc3b40e0001df9551,400.64,405.69,Oh me. Well currently I'm unemployed I'm looking for work so I,0.2899999999999636,5.050000000000011,0,False,False,14
+116,5f4c5105ad5ee685d48bcca2,405.54,406.05,Okay.,-0.14999999999997726,0.5099999999999909,0,False,True,1
+117,5bd086bbc3b40e0001df9551,405.69,408.65,do these kind of things to you know make a little cash on the side,-0.36000000000001364,2.9599999999999795,0,False,True,15
+118,5f4c5105ad5ee685d48bcca2,408.94,409.17,"Well,",0.29000000000002046,0.2300000000000182,0,False,False,1
+119,5bd086bbc3b40e0001df9551,409.04,409.46,until,-0.12999999999999545,0.4199999999999591,0,False,True,1
+120,5f4c5105ad5ee685d48bcca2,409.17,409.55,honestly,-0.2899999999999636,0.37999999999999545,0,False,True,1
+121,5bd086bbc3b40e0001df9551,409.46,409.96,something,-0.09000000000003183,0.5,0,False,True,1
+122,5f4c5105ad5ee685d48bcca2,409.55,412.12,"seemed like me. That's what I do, pretty",-0.40999999999996817,2.569999999999993,0,False,True,9
+123,5bd086bbc3b40e0001df9551,411.94,412.26,I don't,-0.18000000000000682,0.3199999999999932,0,False,True,3
+124,5f4c5105ad5ee685d48bcca2,412.12,416.26,"much attempt, you know, kind of cash for me as well.",-0.13999999999998636,4.139999999999986,0,False,True,11
+125,5bd086bbc3b40e0001df9551,416.34,417.64,now. So,0.07999999999998408,1.3000000000000114,0,False,False,2
+126,5f4c5105ad5ee685d48bcca2,417.14,417.76,Mhm.,-0.5,0.6200000000000045,0,False,True,1
+127,5bd086bbc3b40e0001df9551,417.64,418.34,how about yourself,-0.12000000000000455,0.6999999999999886,0,False,True,3
+128,5f4c5105ad5ee685d48bcca2,418.34,418.54,Yeah.,0.0,0.20000000000004547,0,False,False,1
+129,5bd086bbc3b40e0001df9551,418.34,419.06,what do you do?,-0.20000000000004547,0.7200000000000273,1,True,True,4
+130,5f4c5105ad5ee685d48bcca2,419.56,420.06,When,0.5,0.5,0,False,False,1
+131,5bd086bbc3b40e0001df9551,419.74,419.95,Mhm.,-0.3199999999999932,0.20999999999997954,0,False,True,1
+132,5f4c5105ad5ee685d48bcca2,420.06,425.4,has he told you predominantly it's my job to just take care of my kid apart,0.11000000000001364,5.339999999999975,0,False,False,17
+133,5bd086bbc3b40e0001df9551,425.14,426.16,Okay.,-0.2599999999999909,1.0200000000000387,0,False,True,1
+134,5f4c5105ad5ee685d48bcca2,425.4,426.77,from that. Yes. Just,-0.7600000000000477,1.3700000000000045,0,False,True,4
+135,5bd086bbc3b40e0001df9551,426.74,426.95,Oh,-0.029999999999972715,0.20999999999997954,0,False,True,1
+136,5f4c5105ad5ee685d48bcca2,426.78,433.86,"for a quick cash, like for fun and I did not entertainment. I do this kind of uh stuff at times,",-0.17000000000001592,7.080000000000041,0,False,True,21
+137,5bd086bbc3b40e0001df9551,434.04,434.66,yeah.,0.18000000000000682,0.6200000000000045,0,False,False,1
+138,5f4c5105ad5ee685d48bcca2,434.34,435.56,and this is one of them.,-0.32000000000005,1.2200000000000273,0,False,True,6
+139,5bd086bbc3b40e0001df9551,435.94,445.58,Yeah I was I did work in a store prior to this uh produce basically stock the produce and make sure it looks,0.37999999999999545,9.639999999999986,0,False,False,23
+140,5f4c5105ad5ee685d48bcca2,445.34,445.6,What,-0.2400000000000091,0.26000000000004775,0,False,True,1
+141,5bd086bbc3b40e0001df9551,445.58,446.06,nice.,-0.020000000000038654,0.4800000000000182,0,False,True,1
+142,5f4c5105ad5ee685d48bcca2,445.6,446.75,is that protests?,-0.45999999999997954,1.1499999999999773,1,True,True,3
+143,5bd086bbc3b40e0001df9551,446.94,449.96,Yeah like vegetables in the store. Um,0.18999999999999773,3.019999999999982,0,False,False,7
+144,5f4c5105ad5ee685d48bcca2,449.34,450.36,Okay.,-0.6200000000000045,1.0200000000000387,0,False,True,1
+145,5bd086bbc3b40e0001df9551,450.54,453.45,Making sure everything was stored properly and stuff.,0.18000000000000682,2.909999999999968,0,False,False,8
+146,5f4c5105ad5ee685d48bcca2,453.84,454.15,"Oh,",0.38999999999998636,0.3100000000000023,0,False,False,1
+147,5bd086bbc3b40e0001df9551,454.04,454.46,Um,-0.1099999999999568,0.4199999999999591,0,False,True,1
+148,5f4c5105ad5ee685d48bcca2,454.16,454.65,great.,-0.2999999999999545,0.48999999999995225,0,False,True,1
+149,5bd086bbc3b40e0001df9551,454.84,459.05,So that was what I was doing prior. Well you know Covid you know,0.18999999999999773,4.210000000000036,0,False,False,14
+150,5f4c5105ad5ee685d48bcca2,459.24,477.15,"Yeah. Even I was actually before Covid. No, I wouldn't say before Covid, it was like in the month of december last year. Even I was uh working like in a kind of uh I would say I wouldn't say it's a restaurant, it's a indian type fast food restaurant.",0.18999999999999773,17.909999999999968,0,False,False,54
+151,5bd086bbc3b40e0001df9551,477.24,481.16,ooh that sounds tasty. What did you do?,0.09000000000003183,3.920000000000016,1,True,False,8
+152,5f4c5105ad5ee685d48bcca2,480.9,484.36,I mean it's just a frank level cashier. Uh,-0.26000000000004775,3.4600000000000364,0,False,True,10
+153,5bd086bbc3b40e0001df9551,483.74,484.55,Okay.,-0.6200000000000045,0.8100000000000023,0,False,True,1
+154,5f4c5105ad5ee685d48bcca2,484.84,485.95,"It's like cashier,",0.2899999999999636,1.1100000000000136,0,False,False,4
+155,5bd086bbc3b40e0001df9551,485.54,485.75,Mhm.,-0.40999999999996817,0.20999999999997954,0,False,True,1
+156,5f4c5105ad5ee685d48bcca2,485.95,486.43,but it's,0.19999999999998863,0.4800000000000182,0,False,False,3
+157,5bd086bbc3b40e0001df9551,486.34,486.76,Oh,-0.09000000000003183,0.4200000000000159,0,False,True,1
+158,5f4c5105ad5ee685d48bcca2,486.43,491.6,"also just to, you know, supervise everything there, everyone does everything there. So",-0.3299999999999841,5.170000000000016,0,False,True,13
+159,5bd086bbc3b40e0001df9551,491.44,491.65,okay.,-0.160000000000025,0.20999999999997954,0,False,True,1
+160,5f4c5105ad5ee685d48bcca2,491.6,531.42,"like we just switch roles safe. I'm in doing the cash cashier thing for 2-3 us, then I should go and take care of to see what kind of food is ready for black first. What kind of uh desserts are ready? Like cakes, cookies, ice cream, just to organize and all those stuff. So I've just worked there for some time and then you know, the timings was not comfortable because predominantly I stopped working just to send my sent to school. And since it was conflicting, I thought it's better though. It was for money.",-0.049999999999954525,39.819999999999936,1,False,True,101
+161,5bd086bbc3b40e0001df9551,531.24,531.45,Okay.,-0.17999999999994998,0.21000000000003638,0,False,True,1
+162,5f4c5105ad5ee685d48bcca2,531.43,541.86,I thought I would we would feel much comfortable if I stay home. So I just quit after working for a month. So that was something I was doing last year.,-0.020000000000095497,10.430000000000064,0,False,True,31
+163,5bd086bbc3b40e0001df9551,542.34,545.02,Oh yeah I mean this whole you know just no,0.4800000000000182,2.67999999999995,0,False,False,10
+164,5f4c5105ad5ee685d48bcca2,544.94,545.03,All,-0.07999999999992724,0.08999999999991815,0,False,True,1
+165,5bd086bbc3b40e0001df9551,545.02,545.18,one,-0.009999999999990905,0.15999999999996817,0,False,True,1
+166,5f4c5105ad5ee685d48bcca2,545.03,545.15,right.,-0.14999999999997726,0.12000000000000455,0,False,True,1
+167,5bd086bbc3b40e0001df9551,545.18,553.26,could have foreseen how it was gonna go. So you know I mean that makes sense to me. Has it been with your son being home,0.029999999999972715,8.080000000000041,0,False,False,27
+168,5f4c5105ad5ee685d48bcca2,552.44,552.76,Mhm.,-0.8199999999999363,0.31999999999993634,0,False,True,1
+169,5bd086bbc3b40e0001df9551,553.26,553.86,schooled?,0.5,0.6000000000000227,1,True,False,1
+170,5f4c5105ad5ee685d48bcca2,553.94,554.72,Yes.,0.08000000000004093,0.7799999999999727,0,False,False,1
+171,5bd086bbc3b40e0001df9551,554.34,554.85,Um,-0.37999999999999545,0.5099999999999909,0,False,True,1
+172,5f4c5105ad5ee685d48bcca2,554.73,556.22,Absolutely. Right.,-0.12000000000000455,1.490000000000009,0,False,True,2
+173,5bd086bbc3b40e0001df9551,556.14,556.35,"Right,",-0.08000000000004093,0.21000000000003638,0,False,True,1
+174,5f4c5105ad5ee685d48bcca2,556.22,556.56,Talk.,-0.12999999999999545,0.33999999999991815,0,False,True,1
+175,5bd086bbc3b40e0001df9551,557.04,562.26,yeah. It has that been has it been difficult or have you enjoyed that?,0.4800000000000182,5.220000000000027,1,True,False,14
+176,5f4c5105ad5ee685d48bcca2,561.04,568.17,"Oh you do. So nature of both because we need to sit, myself and my wife have",-1.2200000000000273,7.1299999999999955,0,False,True,17
+177,5bd086bbc3b40e0001df9551,568.04,568.24,Yeah.,-0.12999999999999545,0.20000000000004547,0,False,True,1
+178,5f4c5105ad5ee685d48bcca2,568.17,600.66,"to sit in multiple sessions with them. So when I'm sitting with them I won't be able to focus on other things because when the teacher is asking something, most of the times he might be distracted. So we have to, myself or my wife have to ensure that is concentrating. So it's kind of, you know honestly difficult though. It is easy for him because he did not go for school and everything is done just from here. So it is going on for the last close to three months now since uh the false start it.",-0.07000000000005002,32.49000000000001,0,False,True,101
+179,5bd086bbc3b40e0001df9551,601.54,605.37,"Yeah. So Oh yeah, because yeah, that makes sense. So",0.8799999999999955,3.830000000000041,0,False,False,10
+180,5f4c5105ad5ee685d48bcca2,604.84,605.04,Yeah.,-0.5299999999999727,0.1999999999999318,0,False,True,1
+181,5bd086bbc3b40e0001df9551,605.38,608.02,um they didn't have lockdown this like,0.34000000000003183,2.6399999999999864,0,False,False,8
+182,5f4c5105ad5ee685d48bcca2,607.94,608.14,Yeah.,-0.07999999999992724,0.1999999999999318,0,False,True,1
+183,5bd086bbc3b40e0001df9551,608.03,611.46,early like March um,-0.11000000000001364,3.4300000000000637,0,False,True,4
+184,5f4c5105ad5ee685d48bcca2,611.64,611.96,Okay.,0.17999999999994998,0.32000000000005,0,False,False,1
+185,5bd086bbc3b40e0001df9551,611.94,612.74,april,-0.01999999999998181,0.7999999999999545,0,False,True,1
+186,5f4c5105ad5ee685d48bcca2,612.44,612.86,Thanks.,-0.2999999999999545,0.4199999999999591,0,False,True,1
+187,5bd086bbc3b40e0001df9551,612.74,613.97,may june around,-0.12000000000000455,1.2300000000000182,0,False,True,3
+188,5f4c5105ad5ee685d48bcca2,613.74,614.12,Yes.,-0.2300000000000182,0.37999999999999545,0,False,True,1
+189,5bd086bbc3b40e0001df9551,613.97,614.3,"the time,",-0.14999999999997726,0.32999999999992724,0,False,True,2
+190,5f4c5105ad5ee685d48bcca2,614.13,614.46,Uh,-0.16999999999995907,0.3300000000000409,0,False,True,1
+191,5bd086bbc3b40e0001df9551,614.3,614.96,covenant,-0.16000000000008185,0.6600000000000819,0,False,True,1
+192,5f4c5105ad5ee685d48bcca2,615.14,630.61,yes. The lockdown actually started early in Illinois and ended late in Illinois is because the governor here was very strict with the lockdown. So what happened as it was,0.17999999999994998,15.470000000000027,0,False,False,30
+193,5bd086bbc3b40e0001df9551,630.34,630.55,Sure.,-0.2699999999999818,0.2099999999999227,0,False,True,1
+194,5f4c5105ad5ee685d48bcca2,630.62,639.47,in the month of March 2nd week or third week? The lockdown started during which the school was passed for some time. But,0.07000000000005002,8.850000000000023,1,False,False,23
+195,5bd086bbc3b40e0001df9551,639.04,639.66,Uh huh.,-0.43000000000006366,0.6200000000000045,0,False,True,2
+196,5f4c5105ad5ee685d48bcca2,639.47,640.41,fortunately that,-0.18999999999994088,0.9399999999999409,0,False,True,2
+197,5bd086bbc3b40e0001df9551,640.14,640.35,Oh.,-0.2699999999999818,0.21000000000003638,0,False,True,1
+198,5f4c5105ad5ee685d48bcca2,640.41,650.95,"was, well the summer holidays was nearing and you know it it is close to 3.5 months. So almost the lockdown was actually the summer holidays from",0.05999999999994543,10.540000000000077,0,False,False,27
+199,5bd086bbc3b40e0001df9551,650.44,650.86,Mhm.,-0.5099999999999909,0.4199999999999591,0,False,True,1
+200,5f4c5105ad5ee685d48bcca2,651.44,655.76,Forum between is Kindergarten and 1st grade.,0.5800000000000409,4.319999999999936,0,False,False,7
+201,5bd086bbc3b40e0001df9551,656.34,657.26,Oh,0.5800000000000409,0.9199999999999591,0,False,False,1
+202,5f4c5105ad5ee685d48bcca2,656.44,668.46,"So once it was over that is spent, uh, we have to decide whether to send him to school or tools do it from home and we decided to do it from home.",-0.8199999999999363,12.019999999999982,0,False,True,33
+203,5bd086bbc3b40e0001df9551,668.84,670.54,"it's safer, it's safer to do",0.37999999999999545,1.6999999999999318,0,False,False,8
+204,5f4c5105ad5ee685d48bcca2,670.54,671.41,Absolutely.,0.0,0.8700000000000045,0,False,False,1
+205,5bd086bbc3b40e0001df9551,670.54,672.28,"that. Yeah,",-0.8700000000000045,1.740000000000009,0,False,True,2
+206,5f4c5105ad5ee685d48bcca2,671.42,671.95,That's for,-0.8600000000000136,0.5300000000000864,0,False,True,3
+207,5bd086bbc3b40e0001df9551,672.29,676.25,"so it has to be very stressful on you though, I imagine this whole thing.",0.33999999999991815,3.9600000000000364,0,False,False,15
+208,5f4c5105ad5ee685d48bcca2,675.94,679.81,"Yes, as we speak. Actually, I was just reading",-0.30999999999994543,3.869999999999891,0,False,True,9
+209,5bd086bbc3b40e0001df9551,679.64,679.84,Yeah.,-0.16999999999995907,0.20000000000004547,0,False,True,1
+210,5f4c5105ad5ee685d48bcca2,679.81,693.53,something in my Twitter now. I did not go into it deeply because I just read it like five minutes before the Frenchman. It seems the mayor of Chicago has announced another lockdown for the next 30,-0.030000000000086402,13.720000000000027,0,False,True,37
+211,5bd086bbc3b40e0001df9551,693.34,693.54,"Yeah,",-0.18999999999994088,0.1999999999999318,0,False,True,1
+212,5f4c5105ad5ee685d48bcca2,693.53,695.36,"days. I'm,",-0.009999999999990905,1.830000000000041,0,False,True,3
+213,5bd086bbc3b40e0001df9551,694.61,696.05,Best.,-0.75,1.4399999999999409,0,False,True,1
+214,5f4c5105ad5ee685d48bcca2,695.84,697.25,I'm not sure because,-0.2099999999999227,1.4099999999999682,0,False,True,5
+215,5bd086bbc3b40e0001df9551,696.94,697.26,Mhm,-0.30999999999994543,0.31999999999993634,0,False,True,1
+216,5f4c5105ad5ee685d48bcca2,697.74,709.43,At this time I was really not sure because the headlines that like the mayor has announced logged on for another 30 days because of the increase in the number of debts.,0.4800000000000182,11.68999999999994,0,False,False,32
+217,5bd086bbc3b40e0001df9551,708.94,709.14,Uh huh.,-0.4899999999998954,0.1999999999999318,0,False,True,2
+218,5f4c5105ad5ee685d48bcca2,709.44,716.13,That's what decline said in the CBS Chicago website. So probably we need to dig in more to find out if,0.3000000000000682,6.689999999999941,0,False,False,22
+219,5bd086bbc3b40e0001df9551,716.04,716.24,"Yeah,",-0.09000000000003183,0.20000000000004547,0,False,True,1
+220,5f4c5105ad5ee685d48bcca2,716.13,720.52,"it is mandatory or it is an advisor, not sure what it is.",-0.11000000000001364,4.389999999999986,0,False,True,13
+221,5bd086bbc3b40e0001df9551,720.64,725.43,"and like you said, you've been in lockdown already in um Chicago.",0.12000000000000455,4.789999999999964,0,False,False,13
+222,5f4c5105ad5ee685d48bcca2,724.74,725.24,"Yeah,",-0.6899999999999409,0.5,0,False,True,1
+223,5bd086bbc3b40e0001df9551,725.43,725.86,Right.,0.18999999999994088,0.43000000000006366,0,False,False,1
+224,5f4c5105ad5ee685d48bcca2,726.04,726.66,"yeah,",0.17999999999994998,0.6200000000000045,0,False,False,1
+225,5bd086bbc3b40e0001df9551,726.24,726.44,Yeah.,-0.4199999999999591,0.20000000000004547,0,False,True,1
+226,5f4c5105ad5ee685d48bcca2,726.67,728.01,"actually, if you are involved in but",0.2299999999999045,1.3400000000000318,0,False,False,7
+227,5bd086bbc3b40e0001df9551,727.94,728.0,Uh,-0.06999999999993634,0.05999999999994543,0,False,True,1
+228,5f4c5105ad5ee685d48bcca2,728.01,728.13,the,0.009999999999990905,0.12000000000000455,0,False,False,1
+229,5bd086bbc3b40e0001df9551,728.08,730.15,huh.,-0.049999999999954525,2.0699999999999363,0,False,True,1
+230,5f4c5105ad5ee685d48bcca2,728.13,737.87,"thing is like they are multiple faces. Phase one, Phase two. And right now we were in phase five in phase five almost everything is open",-2.019999999999982,9.740000000000009,0,False,True,26
+231,5bd086bbc3b40e0001df9551,737.34,737.55,Mhm.,-0.5299999999999727,0.2099999999999227,0,False,True,1
+232,5f4c5105ad5ee685d48bcca2,737.87,750.26,"except for very few things. So it's kind of like everything was back to normal. Yeah. So, but right now, let's see, I have to go and check it again because",0.32000000000005,12.389999999999986,0,False,False,33
+233,5bd086bbc3b40e0001df9551,749.74,750.15,Yeah.,-0.5199999999999818,0.40999999999996817,0,False,True,1
+234,5f4c5105ad5ee685d48bcca2,750.74,760.16,"if one governor or one mayor says that like it spreads slowly, right? Because initially in the month of March, uh though",0.5900000000000318,9.419999999999959,1,False,False,22
+235,5bd086bbc3b40e0001df9551,759.74,759.95,Yes.,-0.4199999999999591,0.21000000000003638,0,False,True,1
+236,5f4c5105ad5ee685d48bcca2,760.84,777.41,"in Chicago and in Illinois, the lockdown was started slowly. It spread where and I know that it was there everywhere, but the restrictions and the strictness was more in the states where the governors were from the Democratic Party and",0.8899999999999864,16.569999999999936,0,False,False,41
+237,5bd086bbc3b40e0001df9551,777.34,777.42,Uh,-0.06999999999993634,0.07999999999992724,0,False,True,1
+238,5f4c5105ad5ee685d48bcca2,777.41,777.53,it,-0.009999999999990905,0.12000000000000455,0,False,True,1
+239,5bd086bbc3b40e0001df9551,777.42,778.05,huh.,-0.11000000000001364,0.6299999999999955,0,False,True,1
+240,5f4c5105ad5ee685d48bcca2,777.53,791.0,"was normal or ok in the places where we're from Republican parties. So let's see how things are, are getting projected right now the change",-0.5199999999999818,13.470000000000027,0,False,True,27
+241,5bd086bbc3b40e0001df9551,790.84,791.04,"Yeah,",-0.15999999999996817,0.1999999999999318,0,False,True,1
+242,5f4c5105ad5ee685d48bcca2,791.0,795.36,"of the government and all those things, so not sure what where it is going to do.",-0.03999999999996362,4.360000000000014,0,False,True,17
+243,5bd086bbc3b40e0001df9551,795.84,798.58,"hopefully we get a stimulus back, you know,",0.4800000000000182,2.740000000000009,0,False,False,8
+244,5f4c5105ad5ee685d48bcca2,798.04,798.36,Oh,-0.5400000000000773,0.32000000000005,0,False,True,1
+245,5bd086bbc3b40e0001df9551,798.59,799.56,that be nice,0.2300000000000182,0.9699999999999136,0,False,False,3
+246,5f4c5105ad5ee685d48bcca2,800.14,825.26,oh yeah I guess the government has to be formed and I just read another tweet from trump like one hour back now is saying that uh 2.7 billion what's have been fraudulently transferred From Trump to biden that 40 claims.,0.5800000000000409,25.120000000000005,0,False,False,42
+247,5bd086bbc3b40e0001df9551,825.44,831.16,"was that's a lot, I don't think that's realistic,",0.18000000000006366,5.719999999999914,0,False,False,12
+248,5f4c5105ad5ee685d48bcca2,829.54,833.06,Yeah the interesting thing is he tweeted around,-1.6200000000000045,3.519999999999982,0,False,True,8
+249,5bd086bbc3b40e0001df9551,832.64,833.06,Right?,-0.4199999999999591,0.4199999999999591,1,True,True,1
+250,5f4c5105ad5ee685d48bcca2,833.07,834.61,12 30. Actually,0.010000000000104592,1.5399999999999636,0,False,False,3
+251,5bd086bbc3b40e0001df9551,834.14,834.46,Mhm.,-0.4700000000000273,0.32000000000005,0,False,True,1
+252,5f4c5105ad5ee685d48bcca2,834.61,835.72,it was 12 30 PM,0.14999999999997726,1.1100000000000136,0,False,False,5
+253,5bd086bbc3b40e0001df9551,835.64,838.06,"Yeah,",-0.08000000000004093,2.419999999999959,0,False,True,1
+254,5f4c5105ad5ee685d48bcca2,835.72,904.75,"Cst and when I read it in twitter already there was a tiger. I'm not sure if you have come across this tag whenever there is something which is uh subject to incorrect information or something like that. Immediately tweeter places attached stating that this one is not verified and trump is don't for it. Most of his tweets get that famous tackling because it just gives kind of false uh information and in fact I do not follow trump directly how I came to know if I read a tweet which was forwarded by chris events right? The actor chris events actually sent a very sarcastic message replying to trump setting, it's over man do not try to you know just give them false hope again and again, go home and sleep some sarcastic message like like that so when I read it then it was the tweet of trump for which this guy has retweeted so that is one more craziest of which I read, I'm not sure what is going to happen when he you know goes to the Supreme Court",-2.339999999999918,69.02999999999997,1,False,True,188
+255,5bd086bbc3b40e0001df9551,905.24,908.36,"it's bad when politics becomes a reality show, you",0.4900000000000091,3.1200000000000045,0,False,False,10
+256,5f4c5105ad5ee685d48bcca2,908.14,909.04,Yeah,-0.22000000000002728,0.8999999999999773,0,False,True,1
+257,5bd086bbc3b40e0001df9551,908.36,908.75,know?,-0.67999999999995,0.38999999999998636,1,True,True,1
+258,5f4c5105ad5ee685d48bcca2,909.05,910.15,too much,0.2999999999999545,1.1000000000000227,0,False,False,2
+259,5bd086bbc3b40e0001df9551,909.94,916.16,"Too much, it's yeah, it really is too much. It's it's been very very damaging um",-0.2099999999999227,6.219999999999914,0,False,True,19
+260,5f4c5105ad5ee685d48bcca2,916.04,916.25,mhm,-0.12000000000000455,0.21000000000003638,0,False,True,1
+261,5bd086bbc3b40e0001df9551,916.17,918.43,"for a lot of people, you know, I don't think",-0.08000000000004093,2.259999999999991,0,False,True,11
+262,5f4c5105ad5ee685d48bcca2,918.34,918.76,but,-0.08999999999991815,0.4199999999999591,0,False,True,1
+263,5bd086bbc3b40e0001df9551,918.43,920.16,he's really helped people,-0.3300000000000409,1.7300000000000182,0,False,True,5
+264,5f4c5105ad5ee685d48bcca2,920.54,920.86,okay,0.37999999999999545,0.32000000000005,0,False,False,1
+265,5bd086bbc3b40e0001df9551,920.54,921.46,to be honest with you.,-0.32000000000005,0.9200000000000728,0,False,True,5
+266,5f4c5105ad5ee685d48bcca2,921.54,922.44,yeah even,0.07999999999992724,0.900000000000091,0,False,False,2
+267,5bd086bbc3b40e0001df9551,922.14,922.46,Uh huh.,-0.3000000000000682,0.32000000000005,0,False,True,2
+268,5f4c5105ad5ee685d48bcca2,922.45,958.35,I thought the same but the interesting thing is I thought that there is going to be you know when I was reading that treat I thought that there is going to be a lot of backlash but interestingly when I read the replies beneath the tweet there were so many tweets which were supporting trump and accusing chris for sending this sarcastic message. Then I realized that yes there are still so many followers and supporters still for trump though I feel the other way route you know,-0.009999999999990905,35.89999999999998,0,False,True,89
+269,5bd086bbc3b40e0001df9551,958.04,960.88,Yeah it's it's um it's,-0.3100000000000591,2.840000000000032,0,False,True,8
+270,5f4c5105ad5ee685d48bcca2,960.74,961.06,sure,-0.13999999999998636,0.31999999999993634,0,False,True,1
+271,5bd086bbc3b40e0001df9551,960.88,961.88,scary. I,-0.17999999999994998,1.0,0,False,True,2
+272,5f4c5105ad5ee685d48bcca2,961.54,961.75,I,-0.34000000000003183,0.21000000000003638,0,False,True,1
+273,5bd086bbc3b40e0001df9551,961.89,973.09,I've heard that there's been people leaving facebook for this at parlor and um a good amount of these people just it's,0.13999999999998636,11.200000000000045,0,False,False,25
+274,5f4c5105ad5ee685d48bcca2,972.44,972.64,yeah,-0.6499999999999773,0.1999999999999318,0,False,True,1
+275,5bd086bbc3b40e0001df9551,973.09,975.17,over trump stuff that they're,0.4500000000000455,2.0799999999999272,0,False,False,6
+276,5f4c5105ad5ee685d48bcca2,975.04,975.45,uh huh.,-0.12999999999999545,0.41000000000008185,0,False,True,2
+277,5bd086bbc3b40e0001df9551,975.17,982.16,"they feel like facebook is oppressing them and you know, like they're they're blocking out all the trump stuff and",-0.2800000000000864,6.990000000000009,0,False,True,22
+278,5f4c5105ad5ee685d48bcca2,982.54,982.96,No,0.37999999999999545,0.42000000000007276,0,False,False,1
+279,5bd086bbc3b40e0001df9551,982.84,983.56,it's,-0.12000000000000455,0.7199999999999136,0,False,True,2
+280,5f4c5105ad5ee685d48bcca2,982.96,985.3,I don't think facebook is blocking trump stuff.,-0.599999999999909,2.339999999999918,0,False,True,9
+281,5bd086bbc3b40e0001df9551,985.54,993.05,"no I don't think so, I don't think so either. But you know these some of these supporters are very radical trump supporters,",0.2400000000000091,7.509999999999991,0,False,False,25
+282,5f4c5105ad5ee685d48bcca2,993.64,995.42,Oh,0.5900000000000318,1.7799999999999727,0,False,False,1
+283,5bd086bbc3b40e0001df9551,993.64,994.15,you know?,-1.7799999999999727,0.5099999999999909,1,True,True,2
+284,5f4c5105ad5ee685d48bcca2,995.43,998.11,okay I can do because that is when this,1.2799999999999727,2.6800000000000637,0,False,False,9
+285,5bd086bbc3b40e0001df9551,997.74,998.15,Yeah,-0.37000000000000455,0.40999999999996817,0,False,True,1
+286,5f4c5105ad5ee685d48bcca2,998.11,1000.36,day uh Mark right the,-0.03999999999996362,2.25,0,False,True,5
+287,5bd086bbc3b40e0001df9551,1000.24,1000.57,man.,-0.12000000000000455,0.3300000000000409,0,False,True,1
+288,5f4c5105ad5ee685d48bcca2,1000.36,1043.56,ceo of facebook Mark Zuckerberg right so he faced a lot of backlash like four months back. I told you read the twitter placed a flag mark but facebook denied to do it. And the explanation which mark gave irritated the Facebook uses so much that they started abusing him and that is when all the famous companies including Nike Starbucks and many companies withdrew their ads from Facebook. I'm not sure if you had a chance to look at it. That is when Facebook started losing the refugees. This was like 3-4 months back.,-0.21000000000003638,43.19999999999993,0,False,True,97
+289,5bd086bbc3b40e0001df9551,1044.24,1054.1,Yeah facebook's uh facebook's gotten a lot of trouble about that because they they have helped spread some really ridiculous conspiracy,0.6800000000000637,9.8599999999999,0,False,False,23
+290,5f4c5105ad5ee685d48bcca2,1053.74,1054.36,Hebert,-0.35999999999989996,0.6199999999998909,0,False,True,1
+291,5bd086bbc3b40e0001df9551,1054.1,1054.8,"theories,",-0.2599999999999909,0.7000000000000455,0,False,True,1
+292,5f4c5105ad5ee685d48bcca2,1054.74,1055.42,hatred.,-0.05999999999994543,0.6800000000000637,0,False,True,1
+293,5bd086bbc3b40e0001df9551,1054.81,1055.46,you know.,-0.6100000000001273,0.650000000000091,0,False,True,2
+294,5f4c5105ad5ee685d48bcca2,1055.42,1055.96,Right.,-0.03999999999996362,0.5399999999999636,0,False,True,1
+295,5bd086bbc3b40e0001df9551,1055.94,1061.03,"Exactly, hatred, yeah a lot of hatred, hatred based conspiracy theories which I guess maybe that's",-0.01999999999998181,5.089999999999918,0,False,True,17
+296,5f4c5105ad5ee685d48bcca2,1060.94,1061.17,Right.,-0.08999999999991815,0.2300000000000182,0,False,True,1
+297,5bd086bbc3b40e0001df9551,1061.03,1065.58,"all conspiracy theories, but yeah, they've been very damaging in that",-0.14000000000010004,4.5499999999999545,0,False,True,12
+298,5f4c5105ad5ee685d48bcca2,1065.44,1065.74,Yeah.,-0.13999999999987267,0.2999999999999545,0,False,True,1
+299,5bd086bbc3b40e0001df9551,1065.58,1065.95,way.,-0.16000000000008185,0.37000000000011823,0,False,True,1
+300,5f4c5105ad5ee685d48bcca2,1065.75,1084.24,"So they as though they do not directly uh portray the conspiracy theory, they are influencing people because there are so many people who are either dependent or who get influenced reading the materials",-0.20000000000004547,18.49000000000001,0,False,True,34
+301,5bd086bbc3b40e0001df9551,1083.84,1084.56,Exactly.,-0.40000000000009095,0.7200000000000273,0,False,True,1
+302,5f4c5105ad5ee685d48bcca2,1084.24,1085.27,and facebook.,-0.31999999999993634,1.0299999999999727,0,False,True,2
+303,5bd086bbc3b40e0001df9551,1085.54,1088.24,Exactly. And it's it's just not it's,0.2699999999999818,2.7000000000000455,0,False,False,10
+304,5f4c5105ad5ee685d48bcca2,1088.04,1088.54,Uh huh.,-0.20000000000004547,0.5,0,False,True,2
+305,5bd086bbc3b40e0001df9551,1088.24,1091.36,"not a realistic portrayal of how things are, you know, you can't",-0.2999999999999545,3.119999999999891,0,False,True,13
+306,5f4c5105ad5ee685d48bcca2,1091.64,1091.84,Yeah.,0.2800000000002001,0.1999999999998181,0,False,False,1
+307,5bd086bbc3b40e0001df9551,1091.74,1093.46,you can't get information like that just,-0.09999999999990905,1.7200000000000273,0,False,True,8
+308,5f4c5105ad5ee685d48bcca2,1093.34,1093.55,Okay.,-0.12000000000011823,0.21000000000003638,0,False,True,1
+309,5bd086bbc3b40e0001df9551,1093.46,1094.99,off of a facebook image,-0.08999999999991815,1.5299999999999727,0,False,True,5
+310,5f4c5105ad5ee685d48bcca2,1094.54,1094.77,Good.,-0.4500000000000455,0.2300000000000182,0,False,True,1
+311,5bd086bbc3b40e0001df9551,1095.01,1096.45,that anybody could have posted.,0.2400000000000091,1.4400000000000546,0,False,False,5
+312,5f4c5105ad5ee685d48bcca2,1096.54,1096.77,Mhm.,0.08999999999991815,0.2300000000000182,0,False,False,1
+313,5bd086bbc3b40e0001df9551,1097.04,1097.18,You,0.2699999999999818,0.14000000000010004,0,False,False,1
+314,5f4c5105ad5ee685d48bcca2,1097.14,1097.67,Everything,-0.03999999999996362,0.5299999999999727,0,False,True,1
+315,5bd086bbc3b40e0001df9551,1097.18,1101.43,"know, um it takes it takes a little bit of research, which I feel",-0.4900000000000091,4.25,0,False,True,14
+316,5f4c5105ad5ee685d48bcca2,1101.24,1101.66,what?,-0.19000000000005457,0.42000000000007276,1,True,True,1
+317,5bd086bbc3b40e0001df9551,1101.43,1102.66,like maybe,-0.2300000000000182,1.2300000000000182,0,False,True,2
+318,5f4c5105ad5ee685d48bcca2,1102.64,1102.84,Yeah.,-0.01999999999998181,0.1999999999998181,0,False,True,1
+319,5bd086bbc3b40e0001df9551,1102.66,1106.8,"facebook should do the opposite, that they need to they need to crack",-0.1799999999998363,4.139999999999873,0,False,True,13
+320,5f4c5105ad5ee685d48bcca2,1106.54,1106.86,Yeah.,-0.2599999999999909,0.31999999999993634,0,False,True,1
+321,5bd086bbc3b40e0001df9551,1106.8,1108.55,down more on on,-0.05999999999994543,1.75,0,False,True,4
+322,5f4c5105ad5ee685d48bcca2,1108.04,1109.49,Okay. You don't,-0.5099999999999909,1.4500000000000455,0,False,True,4
+323,5bd086bbc3b40e0001df9551,1109.44,1110.19,information,-0.049999999999954525,0.75,0,False,True,1
+324,5f4c5105ad5ee685d48bcca2,1109.5,1109.76,know.,-0.6900000000000546,0.2599999999999909,0,False,True,1
+325,5bd086bbc3b40e0001df9551,1110.19,1119.05,"that's just wildly false. I mean, I feel like a lot of damage done with Covid where people were doing silly things and not listening to, you know, um",0.43000000000006366,8.8599999999999,0,False,False,30
+326,5f4c5105ad5ee685d48bcca2,1119.54,1119.77,Mhm,0.4900000000000091,0.2300000000000182,0,False,False,1
+327,5bd086bbc3b40e0001df9551,1119.74,1121.12,basically basic,-0.029999999999972715,1.3799999999998818,0,False,True,2
+328,5f4c5105ad5ee685d48bcca2,1120.64,1120.96,Course.,-0.4799999999997908,0.31999999999993634,0,False,True,1
+329,5bd086bbc3b40e0001df9551,1121.12,1125.25,health parameters. I feel like facebook influenced um,0.15999999999985448,4.130000000000109,0,False,False,8
+330,5f4c5105ad5ee685d48bcca2,1124.74,1125.64,Yeah.,-0.5099999999999909,0.900000000000091,0,False,True,1
+331,5bd086bbc3b40e0001df9551,1125.26,1125.91,it's cones,-0.38000000000010914,0.650000000000091,0,False,True,3
+332,5f4c5105ad5ee685d48bcca2,1125.65,1126.1,And one,-0.2599999999999909,0.4499999999998181,0,False,True,2
+333,5bd086bbc3b40e0001df9551,1125.91,1126.26,that,-0.1899999999998272,0.34999999999990905,0,False,True,1
+334,5f4c5105ad5ee685d48bcca2,1126.1,1142.06,"more thing like you said so tomorrow I can just say something either against a famous personality or I just I can just say something and assuming that I have like one million followers, everyone are going to believe what I say without",-0.16000000000008185,15.960000000000036,0,False,True,43
+335,5bd086bbc3b40e0001df9551,1141.34,1141.84,Yeah.,-0.7200000000000273,0.5,0,False,True,1
+336,5f4c5105ad5ee685d48bcca2,1142.06,1156.72,"verifying the facts. So again then as you said, they need to bring in a strong fact checking policies because writers, this is one term I come across very often when I watched the President shall debate.",0.22000000000002728,14.660000000000082,0,False,False,37
+337,5bd086bbc3b40e0001df9551,1156.34,1156.67,Mhm.,-0.38000000000010914,0.3300000000001546,0,False,True,1
+338,5f4c5105ad5ee685d48bcca2,1156.73,1161.85,This term was used often fact checking because these guys both,0.05999999999994543,5.119999999999891,0,False,False,11
+339,5bd086bbc3b40e0001df9551,1161.74,1162.15,"Yeah,",-0.10999999999989996,0.41000000000008185,0,False,True,1
+340,5f4c5105ad5ee685d48bcca2,1161.85,1187.05,"biden and trump just say something in the debate and people should not bluntly believe that, right? So these guys have a like an NBC cbs, Fox, abc c and then these guys are having a group of people who check the facts to see if what these guys are telling. Is it true or is it misleading or is it completely Fox?",-0.3000000000001819,25.200000000000045,2,True,True,63
+341,5bd086bbc3b40e0001df9551,1187.94,1188.77,that's important.,0.8900000000001,0.8299999999999272,0,False,False,3
+342,5f4c5105ad5ee685d48bcca2,1188.24,1188.66,But,-0.5299999999999727,0.42000000000007276,0,False,True,1
+343,5bd086bbc3b40e0001df9551,1189.24,1190.86,That's important.,0.5799999999999272,1.6199999999998909,0,False,False,3
+344,5f4c5105ad5ee685d48bcca2,1190.54,1191.88,so that is something,-0.31999999999993634,1.3400000000001455,0,False,True,4
+345,5bd086bbc3b40e0001df9551,1191.24,1191.44,Yeah.,-0.6400000000001,0.20000000000004547,0,False,True,1
+346,5f4c5105ad5ee685d48bcca2,1191.89,1231.34,"which nowadays treated is doing very much. And even the tv channels are adopted. And even when I'm reading the news articles online, either from like Washington Post, your Secretary or new york times, I'm able to see that even if I feel that this could be biased either by trump or biden, they make it very clear that this is purely based on what they said. But based on fact checking this might be misleading. It's up indirectly saying it's up to you to decide whether it is true or false. Crazy stuff in the recent",0.4500000000000455,39.44999999999982,0,False,False,101
+347,5bd086bbc3b40e0001df9551,1231.24,1232.69,Yeah.,-0.09999999999990905,1.4500000000000455,0,False,True,1
+348,5f4c5105ad5ee685d48bcca2,1231.34,1231.85,times.,-1.3500000000001364,0.5099999999999909,0,False,True,1
+349,5bd086bbc3b40e0001df9551,1232.69,1237.7,"I mean, there's, you know, it's there's just so much at stake for",0.8400000000001455,5.009999999999991,0,False,False,16
+350,5f4c5105ad5ee685d48bcca2,1237.44,1237.67,Yeah.,-0.2599999999999909,0.2300000000000182,0,False,True,1
+351,5bd086bbc3b40e0001df9551,1237.71,1238.36,um,0.03999999999996362,0.6499999999998636,0,False,False,1
+352,5f4c5105ad5ee685d48bcca2,1238.74,1239.16,Okay.,0.38000000000010914,0.42000000000007276,0,False,False,1
+353,5bd086bbc3b40e0001df9551,1239.34,1243.12,"for individuals in those positions, that",0.1799999999998363,3.7799999999999727,0,False,False,6
+354,5f4c5105ad5ee685d48bcca2,1242.44,1242.67,Mhm.,-0.6799999999998363,0.2300000000000182,0,False,True,1
+355,5bd086bbc3b40e0001df9551,1243.13,1249.07,"there is this there is this need to influence um voters, right? And",0.4600000000000364,5.939999999999827,1,False,False,13
+356,5f4c5105ad5ee685d48bcca2,1248.94,1249.52,It's,-0.12999999999988177,0.5799999999999272,0,False,True,2
+357,5bd086bbc3b40e0001df9551,1249.07,1250.23,you have to remember,-0.4500000000000455,1.1600000000000819,0,False,True,4
+358,5f4c5105ad5ee685d48bcca2,1249.52,1249.77,it.,-0.7100000000000364,0.25,0,False,True,1
+359,5bd086bbc3b40e0001df9551,1250.24,1250.79,"that that,",0.4700000000000273,0.5499999999999545,0,False,False,2
+360,5f4c5105ad5ee685d48bcca2,1250.54,1251.35,Exactly.,-0.25,0.8099999999999454,0,False,True,1
+361,5bd086bbc3b40e0001df9551,1250.79,1254.46,"you know, and that you have to do your own research because um",-0.5599999999999454,3.6700000000000728,0,False,True,13
+362,5f4c5105ad5ee685d48bcca2,1254.84,1255.04,Yeah.,0.37999999999988177,0.20000000000004547,0,False,False,1
+363,5bd086bbc3b40e0001df9551,1254.84,1259.36,"when it gets stressful and tense, I mean, you know, people, people tend to",-0.20000000000004547,4.519999999999982,0,False,True,14
+364,5f4c5105ad5ee685d48bcca2,1260.04,1260.27,Okay.,0.6800000000000637,0.2300000000000182,0,False,False,1
+365,5bd086bbc3b40e0001df9551,1260.04,1261.38,to um change,-0.2300000000000182,1.3400000000001455,0,False,True,3
+366,5f4c5105ad5ee685d48bcca2,1261.24,1261.45,That,-0.14000000000010004,0.21000000000003638,0,False,True,1
+367,5bd086bbc3b40e0001df9551,1261.38,1271.67,"information to be a little bit more false than it is, or sometimes when you're like trump, just entirely false, he said some things that have been absolutely ridiculous. Um So yeah, it's very important to do research.",-0.06999999999993634,10.289999999999964,0,False,True,40
+368,5f4c5105ad5ee685d48bcca2,1271.64,1293.26,"and that will make a big difference if not if people if they do just by what they believe rather not without checking facts. You know as he said recruit influence but would be done, done on a very wrong way and would lead might lead to a very difficult situation here. I agree with you on that.",-0.029999999999972715,21.61999999999989,0,False,True,58
+369,5bd086bbc3b40e0001df9551,1293.44,1302.99,"Really, really bad situations. Yeah, you know, hopefully we can move past that, you know, now, hopefully hopefully we can",0.18000000000006366,9.549999999999955,0,False,False,20
+370,5f4c5105ad5ee685d48bcca2,1302.94,1303.17,Yeah.,-0.049999999999954525,0.2300000000000182,0,False,True,1
+371,5bd086bbc3b40e0001df9551,1302.99,1308.38,"we can move past the whole trump stage of politics, Maybe it gets to",-0.18000000000006366,5.3900000000001,0,False,True,14
+372,5f4c5105ad5ee685d48bcca2,1308.34,1308.67,Good.,-0.040000000000190994,0.3300000000001546,0,False,True,1
+373,5bd086bbc3b40e0001df9551,1308.38,1310.26,"something a little bit more rational, but",-0.2899999999999636,1.8799999999998818,0,False,True,7
+374,5f4c5105ad5ee685d48bcca2,1310.44,1311.58,So,0.18000000000006366,1.1399999999998727,0,False,False,1
+375,5bd086bbc3b40e0001df9551,1311.24,1311.56,"yeah,",-0.33999999999991815,0.31999999999993634,0,False,True,1
+376,5f4c5105ad5ee685d48bcca2,1311.59,1332.46,then what him as he got hurt time to deal this with Supreme Court. Any idea? Because I did not read it in those times because I really get irritated seeing those things. Does he get get time till january or cannot prolong biggest in january? The new government has to be formed? Right,0.029999999999972715,20.87000000000012,3,False,False,55
+377,5bd086bbc3b40e0001df9551,1332.14,1333.98,"yeah, he passes the presidency",-0.31999999999993634,1.8399999999999181,0,False,True,5
+378,5f4c5105ad5ee685d48bcca2,1333.94,1334.17,okay.,-0.03999999999996362,0.2300000000000182,0,False,True,1
+379,5bd086bbc3b40e0001df9551,1333.98,1335.83,"over to biden in january,",-0.19000000000005457,1.849999999999909,0,False,True,5
+380,5f4c5105ad5ee685d48bcca2,1335.24,1335.56,Yeah.,-0.5899999999999181,0.31999999999993634,0,False,True,1
+381,5bd086bbc3b40e0001df9551,1335.84,1336.24,so,0.2799999999999727,0.40000000000009095,0,False,False,1
+382,5f4c5105ad5ee685d48bcca2,1336.04,1336.75,Yeah.,-0.20000000000004547,0.7100000000000364,0,False,True,1
+383,5bd086bbc3b40e0001df9551,1336.24,1340.24,for the rest of the year he has to um he,-0.5099999999999909,4.0,0,False,True,11
+384,5f4c5105ad5ee685d48bcca2,1339.94,1340.45,Well,-0.2999999999999545,0.5099999999999909,0,False,True,1
+385,5bd086bbc3b40e0001df9551,1340.24,1341.1,had he,-0.21000000000003638,0.8599999999999,0,False,True,2
+386,5f4c5105ad5ee685d48bcca2,1340.84,1341.11,you have,-0.2599999999999909,0.2699999999999818,0,False,True,2
+387,5bd086bbc3b40e0001df9551,1341.1,1341.45,has,-0.009999999999990905,0.3500000000001364,0,False,True,1
+388,5f4c5105ad5ee685d48bcca2,1341.11,1342.89,until december till this.,-0.3400000000001455,1.7800000000002,0,False,True,4
+389,5bd086bbc3b40e0001df9551,1342.44,1346.81,"until december, so we still have november and december but he's going to be so angry",-0.4500000000000455,4.369999999999891,0,False,True,17
+390,5f4c5105ad5ee685d48bcca2,1346.44,1346.67,Uh huh.,-0.36999999999989086,0.2300000000000182,0,False,True,2
+391,5bd086bbc3b40e0001df9551,1346.81,1350.96,"about the election and trying to prove it false. I highly doubt he's going to do anything else,",0.13999999999987267,4.150000000000091,0,False,False,19
+392,5f4c5105ad5ee685d48bcca2,1351.14,1351.49,Even,0.18000000000006366,0.34999999999990905,0,False,False,1
+393,5bd086bbc3b40e0001df9551,1351.34,1351.54,you,-0.15000000000009095,0.20000000000004547,0,False,True,1
+394,5f4c5105ad5ee685d48bcca2,1351.49,1351.58,I,-0.049999999999954525,0.08999999999991815,0,False,True,1
+395,5bd086bbc3b40e0001df9551,1351.54,1351.85,know,-0.03999999999996362,0.30999999999994543,0,False,True,1
+396,5f4c5105ad5ee685d48bcca2,1351.58,1361.77,read like what if trump is not willing to transfer the power like he has to willingly vacate the U. The White House? Right,-0.2699999999999818,10.190000000000055,1,False,True,24
+397,5bd086bbc3b40e0001df9551,1362.04,1366.73,"he does. That's so the thing is when I think about it, I don't think he",0.2699999999999818,4.690000000000055,0,False,False,18
+398,5f4c5105ad5ee685d48bcca2,1366.64,1366.96,wow.,-0.08999999999991815,0.31999999999993634,0,False,True,1
+399,5bd086bbc3b40e0001df9551,1366.73,1370.53,he might try something crazy but it's not going to work. You,-0.2300000000000182,3.7999999999999545,0,False,True,13
+400,5f4c5105ad5ee685d48bcca2,1370.44,1370.76,Yeah.,-0.08999999999991815,0.31999999999993634,0,False,True,1
+401,5bd086bbc3b40e0001df9551,1370.53,1371.79,know? Um,-0.2300000000000182,1.259999999999991,1,False,True,2
+402,5f4c5105ad5ee685d48bcca2,1371.74,1371.92,Yeah.,-0.049999999999954525,0.18000000000006366,0,False,True,1
+403,5bd086bbc3b40e0001df9551,1371.8,1373.15,The one thing that,-0.12000000000011823,1.3500000000001364,0,False,True,4
+404,5f4c5105ad5ee685d48bcca2,1372.94,1373.27,And.,-0.21000000000003638,0.32999999999992724,0,False,True,1
+405,5bd086bbc3b40e0001df9551,1373.16,1374.03,I think is dangerous,-0.10999999999989996,0.8699999999998909,0,False,True,4
+406,5f4c5105ad5ee685d48bcca2,1373.94,1374.17,Uh huh.,-0.08999999999991815,0.2300000000000182,0,False,True,2
+407,5bd086bbc3b40e0001df9551,1374.03,1377.26,about it is he might polarize people more,-0.14000000000010004,3.230000000000018,0,False,True,8
+408,5f4c5105ad5ee685d48bcca2,1377.24,1377.54,Yeah.,-0.01999999999998181,0.2999999999999545,0,False,True,1
+409,5bd086bbc3b40e0001df9551,1377.27,1381.86,and that's the big dangers that he might have actual people backing,-0.2699999999999818,4.589999999999918,0,False,True,13
+410,5f4c5105ad5ee685d48bcca2,1382.34,1383.06,Uh,0.4800000000000182,0.7200000000000273,0,False,False,1
+411,5bd086bbc3b40e0001df9551,1382.34,1386.77,like actual citizens back in it and that that can be dangerous. Um,-0.7200000000000273,4.430000000000064,0,False,True,13
+412,5f4c5105ad5ee685d48bcca2,1387.14,1387.56,Okay.,0.37000000000011823,0.4199999999998454,0,False,False,1
+413,5bd086bbc3b40e0001df9551,1387.24,1389.46,"But hope, you know, I don't know it's",-0.31999999999993634,2.2200000000000273,0,False,True,10
+414,5f4c5105ad5ee685d48bcca2,1389.04,1389.55,Okay.,-0.42000000000007276,0.5099999999999909,0,False,True,1
+415,5bd086bbc3b40e0001df9551,1389.84,1398.35,"it's going to be destructive if he chooses to do that, it will be destructive. But again it's just another thing we have to move past, you know? Just",0.2899999999999636,8.509999999999991,1,False,False,31
+416,5f4c5105ad5ee685d48bcca2,1398.14,1398.42,Yeah,-0.209999999999809,0.2799999999999727,0,False,True,1
+417,5bd086bbc3b40e0001df9551,1398.35,1398.67,get,-0.07000000000016371,0.3200000000001637,0,False,True,1
+418,5f4c5105ad5ee685d48bcca2,1398.43,1405.06,even I from what he said even I think that yes he might be planning something because I,-0.2400000000000091,6.629999999999882,0,False,True,18
+419,5bd086bbc3b40e0001df9551,1405.04,1405.27,right.,-0.01999999999998181,0.2300000000000182,0,False,True,1
+420,5f4c5105ad5ee685d48bcca2,1405.06,1466.16,"was just watching the CBS news yesterday for the first time I guess after the elections, this is the first time or second time he has given a public appearance I think it is for some Veterans Day or something where he observed like he went to a place but the thing is he did not meet the press because it is very very Araki's that trump whenever he comes out, he meets the press and he tries to give something. But yesterday he did not meet the press, which once again now that you're telling telling all this, even I'm feeling like maybe he's planning to do something big to polarize people because he's building a silence so that everyone starts watching him and maybe he's going to arab big time, which might all arrays and influence his followers. But as he said, it should not be destructive because again if it turns into wiring senator will become very nasty.",-0.21000000000003638,61.100000000000136,0,False,True,167
+421,5bd086bbc3b40e0001df9551,1467.34,1470.73,"Yeah, that's that's the one thing is violence",1.1799999999998363,3.3900000000001,0,False,False,10
+422,5f4c5105ad5ee685d48bcca2,1470.24,1470.44,Yeah.,-0.4900000000000091,0.20000000000004547,0,False,True,1
+423,5bd086bbc3b40e0001df9551,1470.74,1474.7,and you know that the thing is I don't feel like so,0.2999999999999545,3.9600000000000364,0,False,False,13
+424,5f4c5105ad5ee685d48bcca2,1474.44,1474.67,Yeah.,-0.2599999999999909,0.2300000000000182,0,False,True,1
+425,5bd086bbc3b40e0001df9551,1474.7,1477.14,like I'll read things that like people,0.029999999999972715,2.4400000000000546,0,False,False,8
+426,5f4c5105ad5ee685d48bcca2,1476.84,1477.05,Oh,-0.3000000000001819,0.21000000000003638,0,False,True,1
+427,5bd086bbc3b40e0001df9551,1477.14,1491.29,who are very progressive or put out there and I'll read things that people who are very conservative put out there and there's a very gigantic misunderstanding between the two groups. They don't they don't really see each other anymore. Um,0.09000000000014552,14.149999999999864,0,False,False,45
+428,5f4c5105ad5ee685d48bcca2,1490.74,1491.85,okay.,-0.5499999999999545,1.1099999999999,0,False,True,1
+429,5bd086bbc3b40e0001df9551,1491.3,1493.08,"So one side does something,",-0.5499999999999545,1.7799999999999727,0,False,True,5
+430,5f4c5105ad5ee685d48bcca2,1493.04,1493.22,I,-0.03999999999996362,0.18000000000006366,0,False,True,1
+431,5bd086bbc3b40e0001df9551,1493.08,1493.39,the other,-0.14000000000010004,0.3100000000001728,0,False,True,2
+432,5f4c5105ad5ee685d48bcca2,1493.23,1493.59,didn't,-0.16000000000008185,0.35999999999989996,0,False,True,2
+433,5bd086bbc3b40e0001df9551,1493.39,1497.96,side is gonna polarized more. It's not going to unite people,-0.1999999999998181,4.569999999999936,0,False,True,13
+434,5f4c5105ad5ee685d48bcca2,1498.04,1498.36,Mhm.,0.07999999999992724,0.31999999999993634,0,False,False,1
+435,5bd086bbc3b40e0001df9551,1498.34,1499.38,"essentially, you",-0.01999999999998181,1.040000000000191,0,False,True,2
+436,5f4c5105ad5ee685d48bcca2,1499.34,1500.96,Basically,-0.040000000000190994,1.6200000000001182,0,False,True,1
+437,5bd086bbc3b40e0001df9551,1499.38,1499.77,know?,-1.5799999999999272,0.38999999999987267,1,True,True,1
+438,5f4c5105ad5ee685d48bcca2,1500.97,1522.92,"like from what you're saying even, I feel like do they claim themselves as progressive, liberal or conservative? The themselves do not know what they're doing or are they really going by the policies of being conservative or liberal uh liberated or whatever it is, they",1.2000000000000455,21.950000000000045,1,False,False,48
+439,5bd086bbc3b40e0001df9551,1522.74,1523.06,Yeah.,-0.18000000000006366,0.31999999999993634,0,False,True,1
+440,5f4c5105ad5ee685d48bcca2,1522.92,1524.81,just claim to be so. But,-0.13999999999987267,1.8899999999998727,0,False,True,6
+441,5bd086bbc3b40e0001df9551,1524.34,1524.76,Mhm.,-0.4700000000000273,0.42000000000007276,0,False,True,1
+442,5f4c5105ad5ee685d48bcca2,1524.82,1534.85,"the directions or whatever crazy stuff they do might not be the same thing, which really makes people crazy.",0.05999999999994543,10.029999999999973,0,False,False,19
+443,5bd086bbc3b40e0001df9551,1535.34,1535.99,"Yeah,",0.4900000000000091,0.650000000000091,0,False,False,1
+444,5f4c5105ad5ee685d48bcca2,1535.64,1535.84,Yeah.,-0.34999999999990905,0.1999999999998181,0,False,True,1
+445,5bd086bbc3b40e0001df9551,1535.99,1540.73,there's um it's not their how they view things emotionally,0.15000000000009095,4.740000000000009,0,False,False,12
+446,5f4c5105ad5ee685d48bcca2,1540.04,1540.27,Oh.,-0.6900000000000546,0.2300000000000182,0,False,True,1
+447,5bd086bbc3b40e0001df9551,1540.74,1555.93,"and this is something we all do. So you know, like I get it, it's something that we always have to check ourselves for. But just when when you start identifying emotionally with your politics and not based on reality or what the facts are, you tend to double down on",0.4700000000000273,15.190000000000055,0,False,False,52
+448,5f4c5105ad5ee685d48bcca2,1555.54,1555.77,Mhm.,-0.39000000000010004,0.2300000000000182,0,False,True,1
+449,5bd086bbc3b40e0001df9551,1555.93,1564.51,your beliefs because you begin to identify with them too much. And so when someone attacks your belief is like they're attacking your identity and then it gets,0.16000000000008185,8.579999999999927,0,False,False,29
+450,5f4c5105ad5ee685d48bcca2,1564.04,1564.78,Hey.,-0.4700000000000273,0.7400000000000091,0,False,True,1
+451,5bd086bbc3b40e0001df9551,1564.52,1565.46,"it can get nasty,",-0.2599999999999909,0.9400000000000546,0,False,True,4
+452,5f4c5105ad5ee685d48bcca2,1565.54,1566.35,Yeah,0.07999999999992724,0.8099999999999454,0,False,False,1
+453,5bd086bbc3b40e0001df9551,1566.04,1566.55,you know?,-0.30999999999994543,0.5099999999999909,1,True,True,2
+454,5f4c5105ad5ee685d48bcca2,1566.35,1573.08,like even uh even uh we like back in India we have similar type of thing,-0.20000000000004547,6.730000000000018,0,False,True,16
+455,5bd086bbc3b40e0001df9551,1572.84,1573.16,"Yeah,",-0.2400000000000091,0.3200000000001637,0,False,True,1
+456,5f4c5105ad5ee685d48bcca2,1573.08,1579.01,"where we do not use the term uh emotionally, but instead we often say like please",-0.08000000000015461,5.930000000000064,0,False,True,16
+457,5bd086bbc3b40e0001df9551,1578.84,1579.94,Scottish.,-0.17000000000007276,1.1000000000001364,0,False,True,1
+458,5f4c5105ad5ee685d48bcca2,1579.01,1580.99,do not take a decision from your,-0.9300000000000637,1.9800000000000182,0,False,True,7
+459,5bd086bbc3b40e0001df9551,1580.84,1581.04,Yeah.,-0.15000000000009095,0.20000000000004547,0,False,True,1
+460,5f4c5105ad5ee685d48bcca2,1580.99,1586.73,"heart, take a decision from your brain. So it's very very similar to what you say when",-0.049999999999954525,5.740000000000009,0,False,True,18
+461,5bd086bbc3b40e0001df9551,1586.64,1586.84,Yeah.,-0.08999999999991815,0.1999999999998181,0,False,True,1
+462,5f4c5105ad5ee685d48bcca2,1586.73,1589.9,"someone takes their decision emotionally, it",-0.10999999999989996,3.1700000000000728,0,False,True,6
+463,5bd086bbc3b40e0001df9551,1589.44,1589.67,Right.,-0.4600000000000364,0.2300000000000182,0,False,True,1
+464,5f4c5105ad5ee685d48bcca2,1589.9,1599.26,"depends upon their mode and obviously there is very high chances that it will end up wrong, right?",0.2300000000000182,9.3599999999999,1,True,False,18
+465,5bd086bbc3b40e0001df9551,1598.84,1608.1,Yeah. It's it's um when following your heart is really good when you're dealing with your own like like your own sphere of interaction.,-0.42000000000007276,9.259999999999991,0,False,True,27
+466,5f4c5105ad5ee685d48bcca2,1607.54,1608.04,"Yeah,",-0.5599999999999454,0.5,0,False,True,1
+467,5bd086bbc3b40e0001df9551,1608.11,1608.89,But,0.06999999999993634,0.7800000000002001,0,False,False,1
+468,5f4c5105ad5ee685d48bcca2,1608.64,1608.94,but,-0.25,0.2999999999999545,0,False,True,1
+469,5bd086bbc3b40e0001df9551,1608.89,1609.16,you,-0.049999999999954525,0.2699999999999818,0,False,True,1
+470,5f4c5105ad5ee685d48bcca2,1608.94,1609.28,not,-0.22000000000002728,0.33999999999991815,0,False,True,1
+471,5bd086bbc3b40e0001df9551,1609.17,1609.55,know what,-0.10999999999989996,0.37999999999988177,0,False,True,2
+472,5f4c5105ad5ee685d48bcca2,1609.28,1611.55,at the cost of someone else.,-0.2699999999999818,2.269999999999982,0,False,True,6
+473,5bd086bbc3b40e0001df9551,1611.54,1619.71,exactly exactly. Uh Yeah once you start dealing with other people it gets it gets you have to start using your head and start thinking about,-0.009999999999990905,8.170000000000073,0,False,True,26
+474,5f4c5105ad5ee685d48bcca2,1619.54,1619.77,What?,-0.17000000000007276,0.2300000000000182,1,True,True,1
+475,5bd086bbc3b40e0001df9551,1619.71,1637.38,what other people are gonna doing stuff. That's very true. It's very true. I actually have to think about that now to like seeing it instead of just saying emotionally but follow like to follow your heart thing because there's just a slight difference. But I think it makes a very big statement and I'd like to think more about the whole instead of,-0.05999999999994543,17.670000000000073,0,False,True,69
+476,5f4c5105ad5ee685d48bcca2,1637.34,1637.54,"Yeah,",-0.040000000000190994,0.20000000000004547,0,False,True,1
+477,5bd086bbc3b40e0001df9551,1637.38,1638.27,following your heart,-0.15999999999985448,0.8899999999998727,0,False,True,3
+478,5f4c5105ad5ee685d48bcca2,1638.64,1639.24,I'm,0.37000000000011823,0.599999999999909,0,False,False,2
+479,5bd086bbc3b40e0001df9551,1638.64,1639.29,follow your,-0.599999999999909,0.6499999999998636,0,False,True,2
+480,5f4c5105ad5ee685d48bcca2,1639.24,1639.66,for,-0.049999999999954525,0.42000000000007276,0,False,True,1
+481,5bd086bbc3b40e0001df9551,1639.29,1639.66,head.,-0.37000000000011823,0.37000000000011823,0,False,True,1
+482,5f4c5105ad5ee685d48bcca2,1640.04,1658.81,"unfortunate thing is like you're telling that you're going to think, but the unfortunate thing is, majority of these people will not do that. So that is the reason all these kind of things keep happening and the more we talk actually, I'm not sure how it is going to end because you see it's going to be like another one or two months",0.37999999999988177,18.769999999999982,0,False,False,68
+483,5bd086bbc3b40e0001df9551,1658.39,1659.46,Yeah.,-0.4199999999998454,1.0699999999999363,0,False,True,1
+484,5f4c5105ad5ee685d48bcca2,1658.82,1667.62,in spite of in the midst of all this covered and so many people are just looking observing all these things very,-0.6400000000001,8.799999999999955,0,False,True,22
+485,5bd086bbc3b40e0001df9551,1667.14,1667.46,Yeah.,-0.4799999999997908,0.31999999999993634,0,False,True,1
+486,5f4c5105ad5ee685d48bcca2,1667.63,1678.22,cautiously. So the surprise might be there for another at least a month or until that I'm trump except this defeat because until now he hasn't I,0.17000000000007276,10.589999999999918,0,False,False,29
+487,5bd086bbc3b40e0001df9551,1678.04,1678.27,Yeah,-0.18000000000006366,0.2300000000000182,0,False,True,1
+488,5f4c5105ad5ee685d48bcca2,1678.23,1682.06,"mean, he's very, very far from different years.",-0.03999999999996362,3.8299999999999272,0,False,True,9
+489,5bd086bbc3b40e0001df9551,1681.74,1682.06,sure.,-0.31999999999993634,0.31999999999993634,0,False,True,1
+490,5f4c5105ad5ee685d48bcca2,1682.44,1690.36,"He was the first person, in fact on the day of results to say that he won the election. He just tweeted that he had actually won the election.",0.38000000000010914,7.919999999999845,0,False,False,29
+491,5bd086bbc3b40e0001df9551,1690.94,1693.46,Did you tweet it three times now,0.5800000000001546,2.519999999999982,0,False,False,7
+492,5f4c5105ad5ee685d48bcca2,1693.94,1694.56,I'm sorry.,0.4800000000000182,0.6199999999998909,0,False,False,3
+493,5bd086bbc3b40e0001df9551,1694.54,1697.96,Didn't he? He announced that he was President three times now.,-0.01999999999998181,3.4200000000000728,1,False,True,12
+494,5f4c5105ad5ee685d48bcca2,1699.44,1701.66,"Oh no, I don't think so.",1.4800000000000182,2.2200000000000273,0,False,False,7
+495,5bd086bbc3b40e0001df9551,1702.14,1705.75,Okay. I know that he went on live tv and announced that he won,0.4800000000000182,3.6099999999999,0,False,False,14
+496,5f4c5105ad5ee685d48bcca2,1705.64,1706.06,Oh,-0.10999999999989996,0.4199999999998454,0,False,True,1
+497,5bd086bbc3b40e0001df9551,1705.75,1706.67,the presidency.,-0.30999999999994543,0.9200000000000728,0,False,True,2
+498,5f4c5105ad5ee685d48bcca2,1707.44,1710.46,"no, I I said a tweet like in twitter,",0.7699999999999818,3.019999999999982,0,False,False,9
+499,5bd086bbc3b40e0001df9551,1710.64,1711.96,Okay.,0.18000000000006366,1.3199999999999363,0,False,False,1
+500,5f4c5105ad5ee685d48bcca2,1711.04,1713.12,he just,-0.9200000000000728,2.0799999999999272,0,False,True,2
+501,5bd086bbc3b40e0001df9551,1712.54,1712.77,Yeah,-0.5799999999999272,0.2300000000000182,0,False,True,1
+502,5f4c5105ad5ee685d48bcca2,1713.13,1722.86,sent a public messages. It's good that we are we are won the elections and we are leading. Let's wait a hope that twitter related. They are to put a,0.36000000000012733,9.72999999999979,0,False,False,32
+503,5bd086bbc3b40e0001df9551,1722.74,1726.62,they,-0.11999999999989086,3.8799999999998818,0,False,True,1
+504,5f4c5105ad5ee685d48bcca2,1722.87,1725.17,flag stating there.,-3.75,2.300000000000182,0,False,True,3
+505,5bd086bbc3b40e0001df9551,1726.63,1732.51,do that too much of our president. I mean they do it as much as they have to but it said that they have to do it so much,1.4600000000000364,5.879999999999882,0,False,False,29
+506,5f4c5105ad5ee685d48bcca2,1732.34,1732.78,"Yeah,",-0.17000000000007276,0.44000000000005457,0,False,True,1
+507,5bd086bbc3b40e0001df9551,1732.51,1733.03,for the United,-0.2699999999999818,0.5199999999999818,0,False,True,3
+508,5f4c5105ad5ee685d48bcca2,1732.78,1733.46,because,-0.25,0.6800000000000637,0,False,True,1
+509,5bd086bbc3b40e0001df9551,1733.03,1734.05,States of the President.,-0.43000000000006366,1.0199999999999818,0,False,True,4
+510,5f4c5105ad5ee685d48bcca2,1733.47,1748.75,"this guy, I'm not sure if you had followed him actually, I told you that I'm not following trump, which is true, but I stopped following him until a month back. I was actually following him but I really got irritated like he tweets like every 30 minutes. Everyone",-0.5799999999999272,15.279999999999973,0,False,True,51
+511,5bd086bbc3b40e0001df9551,1748.24,1748.44,Yeah.,-0.5099999999999909,0.20000000000004547,0,False,True,1
+512,5f4c5105ad5ee685d48bcca2,1748.75,1765.13,"merry tweets just something a one liner attack, sleepy joe, just calling someone. I but I love that I'm sleepy joe. Every time it tells that sleepy joe just keeps calling, Someone gives a sarcastic message",0.30999999999994543,16.38000000000011,0,False,False,37
+513,5bd086bbc3b40e0001df9551,1764.74,1765.16,Mhm.,-0.39000000000010004,0.42000000000007276,0,False,True,1
+514,5f4c5105ad5ee685d48bcca2,1765.13,1769.83,to a Democratic leader or a congressman somewhere,-0.029999999999972715,4.699999999999818,0,False,True,8
+515,5bd086bbc3b40e0001df9551,1768.94,1769.27,Yes.,-0.8899999999998727,0.32999999999992724,0,False,True,1
+516,5f4c5105ad5ee685d48bcca2,1769.84,1770.1,that,0.5699999999999363,0.2599999999999909,0,False,False,1
+517,5bd086bbc3b40e0001df9551,1769.84,1770.16,Yeah.,-0.2599999999999909,0.3200000000001637,0,False,True,1
+518,5f4c5105ad5ee685d48bcca2,1770.1,1779.24,"is when I really got irritated and and honestly I followed him not to, you know, To follow the news. I just wanted to have some fun at",-0.060000000000172804,9.1400000000001,0,False,True,28
+519,5bd086bbc3b40e0001df9551,1778.94,1779.35,Yeah.,-0.2999999999999545,0.4099999999998545,0,False,True,1
+520,5f4c5105ad5ee685d48bcca2,1779.24,1785.91,"least for 15-30 minutes for me daily by reading the streets. You know to not be reading the streets,",-0.10999999999989996,6.670000000000073,0,False,True,20
+521,5bd086bbc3b40e0001df9551,1785.74,1785.94,Yeah.,-0.17000000000007276,0.20000000000004547,0,False,True,1
+522,5f4c5105ad5ee685d48bcca2,1785.92,1788.18,"but I go and read the replace,",-0.01999999999998181,2.259999999999991,0,False,True,7
+523,5bd086bbc3b40e0001df9551,1787.74,1788.06,Mhm.,-0.44000000000005457,0.31999999999993634,0,False,True,1
+524,5f4c5105ad5ee685d48bcca2,1788.19,1788.6,you know,0.13000000000010914,0.4099999999998545,0,False,False,2
+525,5bd086bbc3b40e0001df9551,1788.44,1788.67,Mhm.,-0.15999999999985448,0.2300000000000182,0,False,True,1
+526,5f4c5105ad5ee685d48bcca2,1788.6,1794.45,"the haters gift again many of those things, you know that is one",-0.07000000000016371,5.850000000000136,0,False,True,13
+527,5bd086bbc3b40e0001df9551,1794.24,1794.77,Mhm.,-0.21000000000003638,0.5299999999999727,0,False,True,1
+528,5f4c5105ad5ee685d48bcca2,1794.45,1817.17,"thing I really like about americans, sarcastic, sarcastic like people cannot beat americans for being sarcastic in a very, very gentle and nice way. Like I just keep laughing looking at those tweeters on how trump you know, get insulted by people when he tweets uh something.",-0.31999999999993634,22.720000000000027,0,False,True,48
+529,5bd086bbc3b40e0001df9551,1818.24,1828.56,Yeah trump is uh trump is a character. Um Yeah I I laughed at a lot of the tweets. I know what you're talking about.,1.0699999999999363,10.319999999999936,0,False,False,26
+530,5f4c5105ad5ee685d48bcca2,1828.74,1829.55,Oh,0.18000000000006366,0.8099999999999454,0,False,False,1
+531,5bd086bbc3b40e0001df9551,1829.84,1834.16,I can't think of any on the top of my head but yeah I,0.2899999999999636,4.320000000000164,0,False,False,15
+532,5f4c5105ad5ee685d48bcca2,1833.34,1833.96,yeah.,-0.8200000000001637,0.6200000000001182,0,False,True,1
+533,5bd086bbc3b40e0001df9551,1834.54,1836.54,there are some good ones out there.,0.5799999999999272,2.0,0,False,False,7
+534,5f4c5105ad5ee685d48bcca2,1836.44,1837.16,Mhm,-0.09999999999990905,0.7200000000000273,0,False,True,1
+535,5bd086bbc3b40e0001df9551,1836.55,1839.12,I'm trying to think of one to tell you but I can't I can't,-0.6100000000001273,2.5699999999999363,0,False,True,17
+536,5f4c5105ad5ee685d48bcca2,1838.94,1839.17,Right.,-0.1799999999998363,0.2300000000000182,0,False,True,1
+537,5bd086bbc3b40e0001df9551,1839.12,1845.24,think of one. I I don't have a good memory when it comes to Um two tweets for some reason. But,-0.0500000000001819,6.120000000000118,0,False,True,22
+538,5f4c5105ad5ee685d48bcca2,1844.84,1845.93,But,-0.40000000000009095,1.0900000000001455,0,False,True,1
+539,5bd086bbc3b40e0001df9551,1845.25,1845.67,um,-0.6800000000000637,0.42000000000007276,0,False,True,1
+540,5f4c5105ad5ee685d48bcca2,1845.94,1852.27,"no problem. Anyways, our time has entered. I think you can go back and have some good time reading the streets.",0.2699999999999818,6.329999999999927,0,False,False,21
+541,5bd086bbc3b40e0001df9551,1852.64,1856.66,yeah well that means that I have to follow him right?,0.37000000000011823,4.019999999999982,1,True,False,11
+542,5f4c5105ad5ee685d48bcca2,1856.94,1858.77,"Oh yeah, obviously.",0.2799999999999727,1.8299999999999272,0,False,False,3
+543,5bd086bbc3b40e0001df9551,1858.44,1859.46,Oh,-0.32999999999992724,1.0199999999999818,0,False,True,1
+544,5f4c5105ad5ee685d48bcca2,1859.94,1860.33,Can,0.4800000000000182,0.38999999999987267,0,False,False,1
+545,5bd086bbc3b40e0001df9551,1859.94,1860.63,all,-0.38999999999987267,0.6900000000000546,0,False,True,1
+546,5f4c5105ad5ee685d48bcca2,1860.33,1861.56,you 16?,-0.3000000000001819,1.2300000000000182,1,True,True,2
+547,5bd086bbc3b40e0001df9551,1860.63,1864.44,right but it was nice to meet you and I you know I hope that um I,-0.9299999999998363,3.8099999999999454,0,False,True,17
+548,5f4c5105ad5ee685d48bcca2,1864.34,1864.54,Yeah.,-0.10000000000013642,0.20000000000004547,0,False,True,1
+549,5bd086bbc3b40e0001df9551,1864.44,1868.14,hope that everything is it's an easy,-0.09999999999990905,3.7000000000000455,0,False,True,8
+550,5f4c5105ad5ee685d48bcca2,1868.04,1868.27,Okay.,-0.10000000000013642,0.2300000000000182,0,False,True,1
+551,5bd086bbc3b40e0001df9551,1868.15,1871.49,it's an easy journey between now and january for you and,-0.11999999999989086,3.339999999999918,0,False,True,12
+552,5f4c5105ad5ee685d48bcca2,1871.44,1871.85,I hope,-0.049999999999954525,0.4099999999998545,0,False,True,2
+553,5bd086bbc3b40e0001df9551,1871.49,1872.06,your family.,-0.35999999999989996,0.5699999999999363,0,False,True,2
+554,5f4c5105ad5ee685d48bcca2,1871.85,1874.05,so. Let's hope so. Thank you so much.,-0.21000000000003638,2.2000000000000455,0,False,True,9
+555,5bd086bbc3b40e0001df9551,1873.84,1875.55,Absolutely. Well you have a great day.,-0.21000000000003638,1.7100000000000364,0,False,True,7
+556,5f4c5105ad5ee685d48bcca2,1875.54,1876.77,"All right, thank you. Bye.",-0.009999999999990905,1.2300000000000182,0,False,True,5

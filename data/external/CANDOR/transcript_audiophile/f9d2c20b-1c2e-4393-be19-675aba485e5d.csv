@@ -1,0 +1,542 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5bf336d965825d00017cf3c2,6.74,93.46,Yeah. Yes. Most okay. Yeah. Yeah. Shit. Okay. Uh huh. I'm sorry. Mhm. Yeah.,,86.72,0,False,False,15
+1,5eaabf0113401e01e554cd32,97.14,97.94,Yeah.,3.680000000000007,0.7999999999999972,0,False,False,1
+2,5bf336d965825d00017cf3c2,98.04,98.96,Yeah.,0.10000000000000853,0.9199999999999875,0,False,False,1
+3,5eaabf0113401e01e554cd32,99.04,100.96,Hi,0.0800000000000125,1.9199999999999875,0,False,False,1
+4,5bf336d965825d00017cf3c2,99.54,103.57,Mhm. Hey answer. I wasn't paying attention to,-1.4199999999999875,4.029999999999987,0,False,True,9
+5,5eaabf0113401e01e554cd32,103.54,103.99,body.,-0.029999999999986926,0.44999999999998863,0,False,True,1
+6,5bf336d965825d00017cf3c2,103.57,105.56,my screen so I know you were there.,-0.4200000000000017,1.990000000000009,0,False,True,8
+7,5eaabf0113401e01e554cd32,105.44,108.65,I just got I just got here like two seconds ago. You're good.,-0.12000000000000455,3.210000000000008,0,False,True,14
+8,5bf336d965825d00017cf3c2,108.74,109.96,How are you doing?,0.0899999999999892,1.2199999999999989,1,True,False,4
+9,5eaabf0113401e01e554cd32,110.54,111.86,I'm doing pretty good. How about you?,0.5800000000000125,1.3199999999999932,1,True,False,8
+10,5bf336d965825d00017cf3c2,112.14,113.46,"Yeah, I'm Jack by the way.",0.28000000000000114,1.3199999999999932,0,False,False,7
+11,5eaabf0113401e01e554cd32,113.64,114.75,Let's read you Jeff.,0.18000000000000682,1.1099999999999994,0,False,False,5
+12,5bf336d965825d00017cf3c2,115.84,122.56,"Um So just so you're aware my son is upstairs sleeping. So if you hear something weird, it's him. All right.",1.0900000000000034,6.719999999999999,0,False,False,23
+13,5eaabf0113401e01e554cd32,122.2,123.46,No worries. No worries.,-0.35999999999999943,1.259999999999991,0,False,True,4
+14,5bf336d965825d00017cf3c2,123.14,126.06,You were sleeping. I mean happened.,-0.3199999999999932,2.9200000000000017,0,False,True,6
+15,5eaabf0113401e01e554cd32,126.44,127.16,Got it.,0.37999999999999545,0.7199999999999989,0,False,False,2
+16,5bf336d965825d00017cf3c2,127.04,127.96,What do they do that?,-0.11999999999999034,0.9199999999999875,1,True,True,5
+17,5eaabf0113401e01e554cd32,128.44,128.86,Sure.,0.480000000000004,0.4200000000000159,0,False,False,1
+18,5bf336d965825d00017cf3c2,129.14,129.64,Yeah.,0.2799999999999727,0.5,0,False,False,1
+19,5eaabf0113401e01e554cd32,129.24,130.76,How you doing? How are you doing today?,-0.39999999999997726,1.5199999999999818,2,True,True,8
+20,5bf336d965825d00017cf3c2,130.94,136.08,"Yeah. Good day as any, I suppose to take my tie off. So I don't really know why I'm",0.18000000000000682,5.140000000000015,0,False,False,21
+21,5eaabf0113401e01e554cd32,135.94,136.14,Yeah.,-0.14000000000001478,0.19999999999998863,0,False,True,1
+22,5bf336d965825d00017cf3c2,136.08,139.64,"working from home, but sometimes I'm just when I have a hearing. Yeah,",-0.05999999999997385,3.559999999999974,0,False,True,14
+23,5eaabf0113401e01e554cd32,139.54,140.65,"God,",-0.09999999999999432,1.1100000000000136,0,False,True,1
+24,5bf336d965825d00017cf3c2,140.04,146.96,"I've been hearing from home. I feel better when I have a tie on, but this isn't a hearing, so it's kind of silly to have it on stuff.",-0.6100000000000136,6.920000000000016,0,False,True,32
+25,5eaabf0113401e01e554cd32,146.54,147.9,got it. So,-0.4200000000000159,1.3600000000000136,0,False,True,3
+26,5bf336d965825d00017cf3c2,147.74,147.94,"Yeah,",-0.1599999999999966,0.19999999999998863,0,False,True,1
+27,5eaabf0113401e01e554cd32,147.9,149.36,are you a lawyer?,-0.03999999999999204,1.460000000000008,1,True,True,4
+28,5bf336d965825d00017cf3c2,149.44,153.75,I am. I'm a Social security disability lawyer in new york upstate,0.07999999999998408,4.310000000000002,0,False,False,13
+29,5eaabf0113401e01e554cd32,153.44,153.64,"Yeah,",-0.3100000000000023,0.19999999999998863,0,False,True,1
+30,5bf336d965825d00017cf3c2,153.75,154.96,new york new york city.,0.11000000000001364,1.210000000000008,0,False,False,5
+31,5eaabf0113401e01e554cd32,155.44,161.26,"jeez, so, okay, so can you tell me a little bit more about what you do then?",0.47999999999998977,5.819999999999993,1,True,False,17
+32,5bf336d965825d00017cf3c2,160.74,170.35,"Um Yeah, so if you were disabled, like let's say, I hope this is how it happened to you. But let's say you broke your back. Um you would apply to Social Security",-0.5199999999999818,9.609999999999985,0,False,True,35
+33,5eaabf0113401e01e554cd32,169.74,169.94,Uh huh.,-0.6099999999999852,0.19999999999998863,0,False,True,2
+34,5bf336d965825d00017cf3c2,170.36,175.06,at your age. They probably deny you in the first instance and then you come see me and,0.4200000000000159,4.699999999999989,0,False,False,18
+35,5eaabf0113401e01e554cd32,175.04,175.34,Yeah.,-0.020000000000010232,0.30000000000001137,0,False,True,1
+36,5bf336d965825d00017cf3c2,175.06,177.71,I would try to get all your records in and argue,-0.28000000000000114,2.6500000000000057,0,False,True,11
+37,5eaabf0113401e01e554cd32,177.34,177.54,Yeah.,-0.37000000000000455,0.19999999999998863,0,False,True,1
+38,5bf336d965825d00017cf3c2,177.71,179.41,with judges on your behalf. Sometimes,0.17000000000001592,1.6999999999999886,0,False,False,6
+39,5eaabf0113401e01e554cd32,179.04,179.33,Big,-0.37000000000000455,0.29000000000002046,0,False,True,1
+40,5bf336d965825d00017cf3c2,179.42,179.5,a,0.08999999999997499,0.0800000000000125,0,False,False,1
+41,5eaabf0113401e01e554cd32,179.45,179.85,Brother.,-0.05000000000001137,0.4000000000000057,0,False,True,1
+42,5bf336d965825d00017cf3c2,179.5,181.84,"lot of the judges are cool and I wouldn't have to argue with them,",-0.3499999999999943,2.3400000000000034,0,False,True,15
+43,5eaabf0113401e01e554cd32,181.84,182.16,"Mhm,",0.0,0.3199999999999932,0,False,False,1
+44,5bf336d965825d00017cf3c2,181.85,186.26,but some of our real dickheads and you have to argue with them. So um,-0.3100000000000023,4.409999999999997,0,False,True,15
+45,5eaabf0113401e01e554cd32,185.64,186.56,interesting.,-0.6200000000000045,0.9200000000000159,0,False,True,1
+46,5bf336d965825d00017cf3c2,186.74,190.75,"yeah, so it's basically that it's a as",0.18000000000000682,4.009999999999991,0,False,False,10
+47,5eaabf0113401e01e554cd32,190.74,190.94,Yeah.,-0.009999999999990905,0.19999999999998863,0,False,True,1
+48,5bf336d965825d00017cf3c2,190.75,195.32,"a lawyer, the cool thing about it is, um, there's no opposing attorney. There's only me",-0.18999999999999773,4.569999999999993,0,False,True,18
+49,5eaabf0113401e01e554cd32,195.14,195.37,Right.,-0.18000000000000682,0.2300000000000182,0,False,True,1
+50,5bf336d965825d00017cf3c2,195.33,196.63,which cuts down on the do shyness,-0.03999999999999204,1.299999999999983,0,False,True,7
+51,5eaabf0113401e01e554cd32,196.34,196.55,Mhm.,-0.28999999999999204,0.21000000000000796,0,False,True,1
+52,5bf336d965825d00017cf3c2,196.63,199.06,by like 200%.,0.07999999999998408,2.430000000000007,0,False,False,3
+53,5eaabf0113401e01e554cd32,199.44,199.76,Okay.,0.37999999999999545,0.3199999999999932,0,False,False,1
+54,5bf336d965825d00017cf3c2,199.84,200.65,What do you do?,0.0800000000000125,0.8100000000000023,1,True,False,4
+55,5eaabf0113401e01e554cd32,200.74,204.76,All right. I'm a senior. I'm still senior in college.,0.09000000000000341,4.019999999999982,0,False,False,12
+56,5bf336d965825d00017cf3c2,204.74,205.46,Okay.,-0.01999999999998181,0.7199999999999989,0,False,True,1
+57,5eaabf0113401e01e554cd32,205.64,206.26,Yeah.,0.1799999999999784,0.6200000000000045,0,False,False,1
+58,5bf336d965825d00017cf3c2,206.54,206.88,I wish,0.28000000000000114,0.3400000000000034,0,False,False,2
+59,5eaabf0113401e01e554cd32,206.84,207.05,Mhm.,-0.03999999999999204,0.21000000000000796,0,False,True,1
+60,5bf336d965825d00017cf3c2,206.88,219.69,"I found stuff like this when I was in college when I was in college, I didn't know about, I used prolific and I'm sure I didn't know about those and they really would have helped me because I would have been graduating with a couple $1000 less than that,",-0.17000000000001592,12.810000000000002,0,False,True,54
+61,5eaabf0113401e01e554cd32,219.54,219.75,Mhm.,-0.15000000000000568,0.21000000000000796,0,False,True,1
+62,5bf336d965825d00017cf3c2,219.69,222.34,"I'm sure. So a smart thing you're doing, getting",-0.060000000000002274,2.6500000000000057,0,False,True,11
+63,5eaabf0113401e01e554cd32,221.94,222.96,"Oh,",-0.4000000000000057,1.0200000000000102,0,False,True,1
+64,5bf336d965825d00017cf3c2,222.34,223.16,on these.,-0.6200000000000045,0.8199999999999932,0,False,True,2
+65,5eaabf0113401e01e554cd32,223.44,230.01,"yeah. Yeah. I mean, it doesn't take much time for me, so.",0.28000000000000114,6.569999999999993,0,False,False,13
+66,5bf336d965825d00017cf3c2,228.54,230.08,"Yeah, it's easy to pick it up, put",-1.4699999999999989,1.5400000000000205,0,False,True,9
+67,5eaabf0113401e01e554cd32,230.02,230.34,Yeah.,-0.060000000000002274,0.3199999999999932,0,False,True,1
+68,5bf336d965825d00017cf3c2,230.08,231.95,"it down, you're busy. You don't have to do it. If",-0.2599999999999909,1.8699999999999761,0,False,True,13
+69,5eaabf0113401e01e554cd32,231.84,232.04,"Yeah,",-0.10999999999998522,0.19999999999998863,0,False,True,1
+70,5bf336d965825d00017cf3c2,231.95,233.68,"you're not busy, you can do it",-0.09000000000000341,1.7300000000000182,0,False,True,8
+71,5eaabf0113401e01e554cd32,233.64,234.49,"exactly,",-0.040000000000020464,0.8500000000000227,0,False,True,1
+72,5bf336d965825d00017cf3c2,233.69,234.06,right.,-0.8000000000000114,0.37000000000000455,0,False,True,1
+73,5eaabf0113401e01e554cd32,234.52,241.86,exactly. Um So dang I've never heard of a social security defense lawyer. Um,0.46000000000000796,7.340000000000003,0,False,False,15
+74,5bf336d965825d00017cf3c2,242.14,243.4,Well it's not a defense lawyer is,0.2799999999999727,1.2600000000000193,0,False,False,8
+75,5eaabf0113401e01e554cd32,243.34,243.61,"Right,",-0.060000000000002274,0.27000000000001023,0,False,True,1
+76,5bf336d965825d00017cf3c2,243.4,244.65,"a, which",-0.21000000000000796,1.25,0,False,True,2
+77,5eaabf0113401e01e554cd32,244.54,244.96,okay.,-0.11000000000001364,0.4200000000000159,0,False,True,1
+78,5bf336d965825d00017cf3c2,244.65,245.74,is so,-0.3100000000000023,1.0900000000000034,0,False,True,2
+79,5eaabf0113401e01e554cd32,245.34,245.76,Got it.,-0.4000000000000057,0.4199999999999875,0,False,True,2
+80,5bf336d965825d00017cf3c2,245.75,249.6,a defense lawyer is like the government is trying to take something from you. So,-0.009999999999990905,3.8499999999999943,0,False,True,15
+81,5eaabf0113401e01e554cd32,249.54,249.96,Mhm.,-0.060000000000002274,0.4200000000000159,0,False,True,1
+82,5bf336d965825d00017cf3c2,249.6,257.25,"I think like if you commit a crime at some level, what we're trying to do is take your freedom from you. So I would defend you. This",-0.36000000000001364,7.650000000000006,0,False,True,29
+83,5eaabf0113401e01e554cd32,256.94,257.15,What?,-0.3100000000000023,0.20999999999997954,1,True,True,1
+84,5bf336d965825d00017cf3c2,257.25,274.57,"is more like you're telling the government that your own benefits so are more, I guess the fence isn't quite the right word. But um, I do defend people from bad judges once in a blue moon, but most I make it sound like all the judges are assholes and most of them are okay. It's just",0.10000000000002274,17.319999999999993,0,False,False,60
+85,5eaabf0113401e01e554cd32,274.44,274.76,Mhm.,-0.12999999999999545,0.3199999999999932,0,False,True,1
+86,5bf336d965825d00017cf3c2,274.57,275.66,the asshole stick out.,-0.18999999999999773,1.0900000000000318,0,False,True,4
+87,5eaabf0113401e01e554cd32,276.84,288.66,"Yeah, because taking Social Security away from someone just like disabled, seems like something that would be pretty bad or also pretty hard for someone on an ethical level.",1.17999999999995,11.82000000000005,0,False,False,29
+88,5bf336d965825d00017cf3c2,289.74,299.21,"So most of the time they haven't gotten it yet, but there's, there's huge problems with, so like you become disabled tomorrow, you're probably not gonna start getting paid to like three years from now.",1.079999999999984,9.46999999999997,0,False,False,40
+89,5eaabf0113401e01e554cd32,298.94,299.36,Mhm.,-0.2699999999999818,0.4200000000000159,0,False,True,1
+90,5bf336d965825d00017cf3c2,299.22,323.65,"Um, that's the problem. That's a problem. I do occasionally do cases where people could lose their benefits because um, for instance, depression is a good example. Sometimes people, well no longer be depressed or be less depressed less enough that they can go back to work. I don't like association cases because they're just don't like their pain in the ass and",-0.13999999999998636,24.42999999999995,0,False,True,68
+91,5eaabf0113401e01e554cd32,323.64,323.85,Mhm.,-0.009999999999990905,0.21000000000003638,0,False,True,1
+92,5bf336d965825d00017cf3c2,323.65,326.19,I feel bad for folks because they have expectations,-0.20000000000004547,2.5400000000000205,0,False,True,9
+93,5eaabf0113401e01e554cd32,325.54,325.74,Yeah.,-0.6499999999999773,0.19999999999998863,0,False,True,1
+94,5bf336d965825d00017cf3c2,326.19,346.93,"that they will win. The one thing that's really common is that, um, well then it's surprising to people I think is judges are so different. So the field is so wildly unfair. Sometimes you'll get one somebody who won, You kind of go on, how do you win? And then you get somebody who lost your, how'd you lose? Um,",0.44999999999998863,20.74000000000001,2,False,False,65
+95,5eaabf0113401e01e554cd32,346.04,346.24,Yeah.,-0.8899999999999864,0.19999999999998863,0,False,True,1
+96,5bf336d965825d00017cf3c2,346.94,353.36,"and it's just the judge. So if you had a good judge when you want, and then on the cessation case, you don't have a good judge. That's a problem.",0.6999999999999886,6.420000000000016,0,False,False,33
+97,5eaabf0113401e01e554cd32,354.04,358.16,"Mhm, jesus. There's no accountability between judges land.",0.6800000000000068,4.1200000000000045,0,False,False,9
+98,5bf336d965825d00017cf3c2,359.04,360.71,"There's a, there's a program.",0.8799999999999955,1.669999999999959,0,False,False,7
+99,5eaabf0113401e01e554cd32,360.54,360.75,Mhm.,-0.16999999999995907,0.20999999999997954,0,False,True,1
+100,5bf336d965825d00017cf3c2,360.71,361.85,"Carpal appeals counsel,",-0.040000000000020464,1.1400000000000432,0,False,True,3
+101,5eaabf0113401e01e554cd32,361.64,361.85,Okay.,-0.21000000000003638,0.21000000000003638,0,False,True,1
+102,5bf336d965825d00017cf3c2,361.86,369.27,"you would think would do that, but they don't really. So for instance, if a judge has a 20% approval rating, which is ridiculously low, another",0.009999999999990905,7.409999999999968,0,False,False,27
+103,5eaabf0113401e01e554cd32,368.94,369.36,"Mhm,",-0.3299999999999841,0.4200000000000159,0,False,True,1
+104,5bf336d965825d00017cf3c2,369.27,410.46,"has an 80% approval rating, you would think that organization would try to bring them together somehow. Um, but they don't because there's a, a fiction in my mind that says, well, if a judge says only grants 20% that means that judge happened to get 80% of people who aren't disabled. Um And I think it's true, but that's kind of the logic behind it. And I think both Associated Administration and I worked for a private firm. People who working in private firms are afraid two um kind of make that point because we would be afraid that instead of the twenties moving up, the eighties would move down,",-0.09000000000003183,41.19,0,False,True,116
+105,5eaabf0113401e01e554cd32,410.84,411.95,mm hmm.,0.37999999999999545,1.1100000000000136,0,False,False,2
+106,5bf336d965825d00017cf3c2,411.74,417.46,"right, so it's kind of a huge problem. Um But you do what you can with it.",-0.20999999999997954,5.71999999999997,0,False,True,18
+107,5eaabf0113401e01e554cd32,418.34,420.35,"20% is extremely low,",0.8799999999999955,2.0100000000000477,0,False,False,4
+108,5bf336d965825d00017cf3c2,420.84,421.46,Yes.,0.48999999999995225,0.6200000000000045,0,False,False,1
+109,5eaabf0113401e01e554cd32,421.14,422.75,right? Why,-0.3199999999999932,1.6100000000000136,1,False,True,2
+110,5bf336d965825d00017cf3c2,422.94,423.14,Yeah.,0.18999999999999773,0.19999999999998863,0,False,False,1
+111,5eaabf0113401e01e554cd32,423.94,425.2,are they biased?,0.8000000000000114,1.259999999999991,1,True,False,3
+112,5bf336d965825d00017cf3c2,424.34,424.55,Mhm.,-0.8600000000000136,0.21000000000003638,0,False,True,1
+113,5eaabf0113401e01e554cd32,425.4,428.54,What makes it that low? Like what kind,0.8499999999999659,3.140000000000043,1,False,False,8
+114,5bf336d965825d00017cf3c2,428.54,428.72,I,0.0,0.18000000000000682,0,False,False,1
+115,5eaabf0113401e01e554cd32,428.54,429.19,of person,-0.18000000000000682,0.6499999999999773,0,False,True,2
+116,5bf336d965825d00017cf3c2,428.74,433.06,think their job is to deny as many people as they possibly can.,-0.44999999999998863,4.319999999999993,0,False,True,13
+117,5eaabf0113401e01e554cd32,433.44,435.15,and there's no incentive for that is there?,0.37999999999999545,1.7099999999999795,1,True,False,9
+118,5bf336d965825d00017cf3c2,435.64,460.46,"Not really. Um Now there are cases where it's very rare, but I have some cases one or two um where someone was doing something wrong and got fired, but it's hard to get fired as a judge. So the case I know of is uh this judge basically had a lawyer and a doctor and they were all in this kind of scheme and they just, the doctor just said the person was disabled. The judge just came in with the person and then",0.4900000000000091,24.819999999999993,0,False,False,87
+119,5eaabf0113401e01e554cd32,460.44,460.76,Yeah.,-0.01999999999998181,0.3199999999999932,0,False,True,1
+120,5bf336d965825d00017cf3c2,460.46,475.06,"they were just was, he had like a 99% approval rating. Um, and they found that out and that guy got fired. But the people who have really low approval ratings, they're not going to get fired. It's just not what it is. So it's really a function of luck.",-0.30000000000001137,14.600000000000023,0,False,True,53
+121,5eaabf0113401e01e554cd32,475.54,475.96,Mhm.,0.4800000000000182,0.4199999999999591,0,False,False,1
+122,5bf336d965825d00017cf3c2,475.64,478.75,A lot more than people realize. What,-0.3199999999999932,3.1100000000000136,0,False,True,7
+123,5eaabf0113401e01e554cd32,478.74,478.89,Do,-0.009999999999990905,0.14999999999997726,0,False,True,1
+124,5bf336d965825d00017cf3c2,478.75,479.04,do you want,-0.13999999999998636,0.29000000000002046,0,False,True,3
+125,5eaabf0113401e01e554cd32,478.89,479.16,you?,-0.1500000000000341,0.27000000000003865,1,True,True,1
+126,5bf336d965825d00017cf3c2,479.04,480.26,to? You done college?,-0.12000000000000455,1.2199999999999704,2,True,True,4
+127,5eaabf0113401e01e554cd32,480.64,485.66,Uh huh. Probably. So I'm supposed to graduate this past semester but,0.37999999999999545,5.020000000000039,0,False,False,13
+128,5bf336d965825d00017cf3c2,485.54,486.04,Yeah.,-0.12000000000000455,0.5,0,False,True,1
+129,5eaabf0113401e01e554cd32,486.14,489.06,I was going to go abroad but,0.0999999999999659,2.920000000000016,0,False,False,7
+130,5bf336d965825d00017cf3c2,489.04,489.24,Yeah.,-0.01999999999998181,0.19999999999998863,0,False,True,1
+131,5eaabf0113401e01e554cd32,489.07,491.06,the programme got cancelled due to Covid.,-0.17000000000001592,1.990000000000009,0,False,True,7
+132,5bf336d965825d00017cf3c2,491.54,491.8,Yeah,0.4800000000000182,0.2599999999999909,0,False,False,1
+133,5eaabf0113401e01e554cd32,491.74,492.07,Let's,-0.060000000000002274,0.3299999999999841,0,False,True,2
+134,5bf336d965825d00017cf3c2,491.81,492.05,right,-0.2599999999999909,0.2400000000000091,0,False,True,1
+135,5eaabf0113401e01e554cd32,492.07,494.95,set up to work in san Francisco,0.01999999999998181,2.8799999999999955,0,False,False,7
+136,5bf336d965825d00017cf3c2,495.44,495.76,between,0.4900000000000091,0.3199999999999932,0,False,False,1
+137,5eaabf0113401e01e554cd32,495.44,499.03,"as a consultant, visit a small firm. Uh I",-0.3199999999999932,3.589999999999975,0,False,True,9
+138,5bf336d965825d00017cf3c2,498.94,499.14,yeah,-0.08999999999997499,0.19999999999998863,0,False,True,1
+139,5eaabf0113401e01e554cd32,499.03,510.56,go to U. C. Berkeley. Um So I set up to do that. This is my semester cancelled. Uh You know that offer clearly has been rescinded,-0.11000000000001364,11.53000000000003,0,False,True,27
+140,5bf336d965825d00017cf3c2,510.84,511.26,right.,0.2799999999999727,0.4200000000000159,0,False,False,1
+141,5eaabf0113401e01e554cd32,511.04,534.26,because yeah so I don't know exactly what I'll do. A lot of my a lot of my buddies were planning on doing something similar but their offerings got resented as well. So I'm trying to look at this as like a like a positive in terms of um at least hopefully the job market will be a tiny bit more stable by the time I graduate than it is right now.,-0.21999999999997044,23.21999999999997,0,False,True,75
+142,5bf336d965825d00017cf3c2,534.34,534.75,You will,0.08000000000004093,0.40999999999996817,0,False,False,2
+143,5eaabf0113401e01e554cd32,534.64,534.85,All,-0.11000000000001364,0.21000000000003638,0,False,True,1
+144,5bf336d965825d00017cf3c2,534.75,535.06,be.,-0.10000000000002274,0.30999999999994543,0,False,True,1
+145,5eaabf0113401e01e554cd32,534.85,535.06,right.,-0.2099999999999227,0.2099999999999227,0,False,True,1
+146,5bf336d965825d00017cf3c2,535.44,535.79,I think,0.38000000000010914,0.34999999999990905,0,False,False,2
+147,5eaabf0113401e01e554cd32,535.64,535.96,"Uh huh,",-0.14999999999997726,0.32000000000005,0,False,True,2
+148,5bf336d965825d00017cf3c2,535.79,563.52,"this is one of those things, I mean I could be wrong but it's not like so 2000 and eight is when I graduated approved approximately and that was like there was like false money out there, like there was a whole subprime mortgage thing, the way I look at it that they're never really should have been that money created and so when I was gone all of a sudden it was a disaster. But this is a little different because I think I think a lot of people are just holding onto their money because they don't they can't go out and spend it and as soon",-0.17000000000007276,27.730000000000018,0,False,True,113
+149,5eaabf0113401e01e554cd32,563.34,563.66,mm.,-0.17999999999994998,0.31999999999993634,0,False,True,1
+150,5bf336d965825d00017cf3c2,563.52,570.35,"as everything starts opening up I think it will get better pretty quick but I could be wrong, I've been wrong before mm",-0.13999999999998636,6.830000000000041,0,False,True,24
+151,5eaabf0113401e01e554cd32,570.24,570.75,Mhm.,-0.11000000000001364,0.5099999999999909,0,False,True,1
+152,5bf336d965825d00017cf3c2,570.94,571.82,So,0.19000000000005457,0.8799999999999955,0,False,False,1
+153,5eaabf0113401e01e554cd32,571.54,571.74,"Yeah,",-0.2800000000000864,0.20000000000004547,0,False,True,1
+154,5bf336d965825d00017cf3c2,571.83,572.76,we're gonna be fine.,0.09000000000003183,0.92999999999995,0,False,False,6
+155,5eaabf0113401e01e554cd32,573.04,590.96,"definitely, definitely. I'm hoping I'm economics major, so I've been following a lot of the news right now, there's just like no, like personally the way I see it, there's just no way to make a prediction for even the next week or the next two weeks.",0.2799999999999727,17.920000000000073,0,False,False,52
+156,5bf336d965825d00017cf3c2,591.24,591.45,Oh,0.2799999999999727,0.21000000000003638,0,False,False,1
+157,5eaabf0113401e01e554cd32,591.44,591.49,Uh,-0.009999999999990905,0.049999999999954525,0,False,True,1
+158,5bf336d965825d00017cf3c2,591.45,591.86,yeah,-0.03999999999996362,0.40999999999996817,0,False,True,1
+159,5eaabf0113401e01e554cd32,591.49,593.06,huh. Yeah.,-0.37000000000000455,1.5699999999999363,0,False,True,2
+160,5bf336d965825d00017cf3c2,592.74,594.23,so either I think,-0.31999999999993634,1.490000000000009,0,False,True,4
+161,5eaabf0113401e01e554cd32,594.04,594.36,Yeah.,-0.19000000000005457,0.32000000000005,0,False,True,1
+162,5bf336d965825d00017cf3c2,594.23,618.96,"that honestly it's easier to what's going on in the next couple of weeks is gonna be crazy because so I'm working from home but a lot of folks aren't able to work. I know my ex wife uh lost her job but she's giving me good unemployment social like whatever. Um And then people are essential are making the same, they used to make and it really isn't 100% fair, but I don't, sometimes life isn't but",-0.12999999999999545,24.730000000000018,0,False,True,87
+163,5eaabf0113401e01e554cd32,619.14,619.65,Mhm.,0.17999999999994998,0.5099999999999909,0,False,False,1
+164,5bf336d965825d00017cf3c2,619.74,623.76,people are just doing what they have to do. Have you lived in California your whole life?,0.09000000000003183,4.019999999999982,1,True,False,17
+165,5eaabf0113401e01e554cd32,624.24,628.05,"No, I'm actually born and raised in Hawaii, that's where I am right now.",0.4800000000000182,3.8099999999999454,0,False,False,16
+166,5bf336d965825d00017cf3c2,628.54,629.56,Oh you're in hawaii?,0.4900000000000091,1.0199999999999818,1,True,False,5
+167,5eaabf0113401e01e554cd32,629.64,630.14,Yeah.,0.08000000000004093,0.5,0,False,False,1
+168,5bf336d965825d00017cf3c2,630.54,633.36,"Okay, so you've probably never seen snow in your life?",0.39999999999997726,2.82000000000005,1,True,False,11
+169,5eaabf0113401e01e554cd32,633.34,643.26,Oh man. Uh I saw it for the first time when I turned 2022 I turned 21 saw it for the first time and the only time it was weird.,-0.01999999999998181,9.919999999999959,0,False,True,30
+170,5bf336d965825d00017cf3c2,644.04,644.55,"Right,",0.7799999999999727,0.5099999999999909,0,False,False,1
+171,5eaabf0113401e01e554cd32,644.74,645.54,"Yeah, yeah,",0.19000000000005457,0.7999999999999545,0,False,False,2
+172,5bf336d965825d00017cf3c2,645.14,650.46,mm I'm going to tell you it's cool the first time it gets old really fucking quick like.,-0.39999999999997726,5.32000000000005,0,False,True,20
+173,5eaabf0113401e01e554cd32,650.14,656.01,"if I live in snow I would that would be awful. But if if I can, you know, see it once",-0.32000000000005,5.8700000000000045,0,False,True,21
+174,5bf336d965825d00017cf3c2,655.84,656.16,Yeah.,-0.16999999999995907,0.31999999999993634,0,False,True,1
+175,5eaabf0113401e01e554cd32,656.01,657.46,"a year, that'd be great.",-0.14999999999997726,1.4500000000000455,0,False,True,6
+176,5bf336d965825d00017cf3c2,656.94,658.76,"Yes. Yeah it gets,",-0.5199999999999818,1.8199999999999363,0,False,True,4
+177,5eaabf0113401e01e554cd32,658.54,658.86,Yeah.,-0.22000000000002728,0.32000000000005,0,False,True,1
+178,5bf336d965825d00017cf3c2,658.77,667.35,"although I do like where I live even though it's cold because it's just it's like a chill place to live. But I live in Rochester, I don't live in like new york city as I told you",-0.09000000000003183,8.580000000000041,0,False,True,42
+179,5eaabf0113401e01e554cd32,667.14,667.65,"Mhm,",-0.21000000000003638,0.5099999999999909,0,False,True,1
+180,5bf336d965825d00017cf3c2,667.36,675.16,"uh in the suburbs. So driving to work when I haven't been driving into work. So I work from home judges follow me and I do hearings,",-0.2899999999999636,7.7999999999999545,0,False,True,28
+181,5eaabf0113401e01e554cd32,675.54,675.96,Mhm.,0.37999999999999545,0.42000000000007276,0,False,False,1
+182,5bf336d965825d00017cf3c2,675.84,679.95,"which is not that easy, but we have to do what we have to do and",-0.12000000000000455,4.110000000000014,0,False,True,16
+183,5eaabf0113401e01e554cd32,679.14,679.46,Mhm,-0.8100000000000591,0.32000000000005,0,False,True,1
+184,5bf336d965825d00017cf3c2,680.34,683.8,"from there that everything is going well, you",0.8799999999999955,3.4599999999999227,0,False,False,8
+185,5eaabf0113401e01e554cd32,683.24,683.66,"Okay,",-0.5599999999999454,0.4199999999999591,0,False,True,1
+186,5bf336d965825d00017cf3c2,683.81,690.76,"know, So let me ask you a question. Are you, are you a basketball guy? Do you follow the Lakers or anything like that?",0.14999999999997726,6.9500000000000455,2,True,False,24
+187,5eaabf0113401e01e554cd32,690.84,699.26,"jeez, I I I followed basketball fisher, but um his hawaii doesn't have a team",0.08000000000004093,8.419999999999959,0,False,False,16
+188,5bf336d965825d00017cf3c2,699.54,700.05,Right.,0.2799999999999727,0.5099999999999909,0,False,False,1
+189,5eaabf0113401e01e554cd32,699.74,704.16,"and Berkeley is in the bay, so I'm a Warriors fan.",-0.30999999999994543,4.419999999999959,0,False,True,12
+190,5bf336d965825d00017cf3c2,704.34,711.42,"All right, that's fine. We can be friends because I'm like, Lakers are like public enemy number one to me. Although",0.18000000000006366,7.079999999999927,0,False,False,23
+191,5eaabf0113401e01e554cd32,710.74,711.25,"Okay,",-0.67999999999995,0.5099999999999909,0,False,True,1
+192,5bf336d965825d00017cf3c2,711.43,717.46,"to be fair this year's theme other than Dwight howard, They're not really that dislikable. Like",0.17999999999994998,6.030000000000086,0,False,False,18
+193,5eaabf0113401e01e554cd32,718.44,719.66,mm hmm.,0.9800000000000182,1.2199999999999136,0,False,False,2
+194,5bf336d965825d00017cf3c2,719.54,720.15,I don't like to,-0.12000000000000455,0.6100000000000136,0,False,True,5
+195,5eaabf0113401e01e554cd32,720.04,720.45,"Yeah,",-0.11000000000001364,0.41000000000008185,0,False,True,1
+196,5bf336d965825d00017cf3c2,720.15,720.35,have,-0.3000000000000682,0.20000000000004547,0,False,True,1
+197,5eaabf0113401e01e554cd32,720.84,725.16,"that's available. Yeah. Sweat. Howard is not likable. Wait,",0.4900000000000091,4.319999999999936,0,False,False,10
+198,5bf336d965825d00017cf3c2,725.14,725.46,and,-0.01999999999998181,0.32000000000005,0,False,True,1
+199,5eaabf0113401e01e554cd32,725.16,725.56,"dad,",-0.3000000000000682,0.39999999999997726,0,False,True,1
+200,5bf336d965825d00017cf3c2,726.34,726.55,mm,0.7800000000000864,0.2099999999999227,0,False,False,1
+201,5eaabf0113401e01e554cd32,726.54,728.25,"dad rondo though, right?",-0.009999999999990905,1.7100000000000364,1,True,True,4
+202,5bf336d965825d00017cf3c2,728.94,734.66,"Oh yes, I belong to boston guy. So I actually kind of like from them, although rondo can be an asshole. Like",0.6900000000000546,5.719999999999914,0,False,False,22
+203,5eaabf0113401e01e554cd32,734.14,735.66,"Yeah, absolutely.",-0.5199999999999818,1.5199999999999818,0,False,True,2
+204,5bf336d965825d00017cf3c2,735.44,739.93,I don't give me a little bit of a little bit of a bit sometimes. But,-0.2199999999999136,4.489999999999895,0,False,True,17
+205,5eaabf0113401e01e554cd32,739.34,739.76,Mhm.,-0.5899999999999181,0.4199999999999591,0,False,True,1
+206,5bf336d965825d00017cf3c2,739.94,749.68,"when he was young, I liked him because he just he just like was such a hard notes about things. He was the first one of the ball and he just wanted it so much and",0.18000000000006366,9.739999999999895,0,False,False,36
+207,5eaabf0113401e01e554cd32,749.54,749.74,"Yeah,",-0.13999999999998636,0.20000000000004547,0,False,True,1
+208,5bf336d965825d00017cf3c2,749.68,762.92,"as he got older, I think he got injured and now I'm like, he's not that impressive anymore. But but you know Lebron, I think is likable, Dwight howard to me is just so displaying because he had all the gifts and he never got better. He was the same",-0.06000000000005912,13.240000000000009,0,False,True,52
+209,5eaabf0113401e01e554cd32,762.74,762.94,"yeah,",-0.17999999999994998,0.20000000000004547,0,False,True,1
+210,5bf336d965825d00017cf3c2,762.92,764.86,player for like 15 years.,-0.020000000000095497,1.9400000000000546,0,False,True,5
+211,5eaabf0113401e01e554cd32,764.84,768.46,very consistent. Just not very good. That's,-0.01999999999998181,3.6200000000000045,0,False,True,8
+212,5bf336d965825d00017cf3c2,768.34,768.66,Mhm.,-0.12000000000000455,0.31999999999993634,0,False,True,1
+213,5eaabf0113401e01e554cd32,768.46,770.26,how I feel. Uh,-0.1999999999999318,1.7999999999999545,0,False,True,4
+214,5bf336d965825d00017cf3c2,769.84,779.46,"But he was really great. But you know, he could have learned how to post up. He could I mean, he could have been great, he could have been one of the best of all time. He just kind of squandered the",-0.4199999999999591,9.620000000000005,0,False,True,42
+215,5eaabf0113401e01e554cd32,779.94,780.62,yep. He,0.4800000000000182,0.67999999999995,0,False,False,2
+216,5bf336d965825d00017cf3c2,780.54,780.74,Yeah.,-0.08000000000004093,0.20000000000004547,0,False,True,1
+217,5eaabf0113401e01e554cd32,780.62,781.7,really never lived up to the,-0.12000000000000455,1.080000000000041,0,False,True,6
+218,5bf336d965825d00017cf3c2,781.64,781.85,Mhm.,-0.06000000000005912,0.21000000000003638,0,False,True,1
+219,5eaabf0113401e01e554cd32,781.7,782.66,expectations.,-0.14999999999997726,0.9599999999999227,0,False,True,1
+220,5bf336d965825d00017cf3c2,782.74,783.46,What?,0.08000000000004093,0.7200000000000273,1,True,False,1
+221,5eaabf0113401e01e554cd32,783.14,787.25,"I mean, I don't know like I think some",-0.32000000000005,4.110000000000014,0,False,True,10
+222,5bf336d965825d00017cf3c2,787.14,787.34,Yeah.,-0.11000000000001364,0.20000000000004547,0,False,True,1
+223,5eaabf0113401e01e554cd32,787.25,793.85,"Lakers fat, I don't just like the Lakers inherently right, but like Lakers fans can be a little bit much",-0.09000000000003183,6.600000000000023,0,False,True,21
+224,5bf336d965825d00017cf3c2,794.24,794.46,All,0.38999999999998636,0.22000000000002728,0,False,False,1
+225,5eaabf0113401e01e554cd32,794.24,794.55,same,-0.22000000000002728,0.30999999999994543,0,False,True,1
+226,5bf336d965825d00017cf3c2,794.46,795.16,right.,-0.08999999999991815,0.6999999999999318,0,False,True,1
+227,5eaabf0113401e01e554cd32,794.55,796.36,with the Warriors fans for sure.,-0.6100000000000136,1.8100000000000591,0,False,True,6
+228,5bf336d965825d00017cf3c2,796.14,808.58,"I used to hate them when Kobe was still playing, but he missed and they'd be like, he got out. I'm like, no, he just meant he took over three people instead of passing through the wide open guy in the corner and he missed. Why",-0.22000000000002728,12.440000000000055,0,False,True,48
+229,5eaabf0113401e01e554cd32,808.34,808.66,Mhm.,-0.2400000000000091,0.31999999999993634,0,False,True,1
+230,5bf336d965825d00017cf3c2,808.58,810.56,are we surprised?,-0.07999999999992724,1.9799999999999045,1,True,True,3
+231,5eaabf0113401e01e554cd32,810.44,815.8,"I feel bad for the like late Kobe Lakers, they were at",-0.11999999999989086,5.3599999999999,0,False,True,12
+232,5bf336d965825d00017cf3c2,815.74,815.95,Mm.,-0.05999999999994543,0.21000000000003638,0,False,True,1
+233,5eaabf0113401e01e554cd32,815.8,828.27,least like that's like the one thing I kind of can commend L. A. For is they kept him even though like he was clearly past his prime for a while. I couldn't really afford to build around him. But,-0.15000000000009095,12.470000000000027,0,False,True,42
+234,5bf336d965825d00017cf3c2,828.24,828.63,"Yeah,",-0.029999999999972715,0.38999999999998636,0,False,True,1
+235,5eaabf0113401e01e554cd32,828.28,830.66,I feel like they tried by him at least.,-0.35000000000002274,2.3799999999999955,0,False,True,9
+236,5bf336d965825d00017cf3c2,830.44,835.15,"they did baited him lots of favors, but he did not do them any in return.",-0.2199999999999136,4.709999999999923,0,False,True,16
+237,5eaabf0113401e01e554cd32,835.64,836.15,Mhm.,0.4900000000000091,0.5099999999999909,0,False,False,1
+238,5bf336d965825d00017cf3c2,835.74,852.15,"You know, like tim Duncan you like was like, yeah, guys, I'm old now. You don't have to pay me as much. Let's get some. I'm old. My knees are cranky, your creaky and do the best I can. You can pay me like 10 million will be good. Tim Duncan was Yeah, he was,",-0.40999999999996817,16.409999999999968,0,False,True,59
+239,5eaabf0113401e01e554cd32,851.94,852.35,Yeah.,-0.2099999999999227,0.40999999999996817,0,False,True,1
+240,5bf336d965825d00017cf3c2,852.84,857.46,"in my opinion, he was the best of his era. A lot of my friends will tell me Kobe, but",0.4900000000000091,4.6200000000000045,0,False,False,20
+241,5eaabf0113401e01e554cd32,857.04,862.86,And just interesting tim Duncan. He's a great player. There's no denying that,-0.42000000000007276,5.82000000000005,0,False,True,15
+242,5bf336d965825d00017cf3c2,862.64,865.65,"he was still boring that you missed it half the time, Right? He",-0.22000000000002728,3.009999999999991,1,False,True,13
+243,5eaabf0113401e01e554cd32,865.44,865.8,100,-0.2099999999999227,0.35999999999989996,0,False,True,1
+244,5bf336d965825d00017cf3c2,865.65,865.85,was,-0.14999999999997726,0.20000000000004547,0,False,True,1
+245,5eaabf0113401e01e554cd32,865.8,866.16,people.,-0.05000000000006821,0.36000000000001364,0,False,True,1
+246,5bf336d965825d00017cf3c2,866.16,870.4,"he was boring, but he was great. Were",0.0,4.240000000000009,0,False,False,8
+247,5eaabf0113401e01e554cd32,870.14,870.51,Maybe it will,-0.2599999999999909,0.37000000000000455,0,False,True,3
+248,5bf336d965825d00017cf3c2,870.41,871.19,never,-0.10000000000002274,0.7800000000000864,0,False,True,1
+249,5eaabf0113401e01e554cd32,870.51,870.86,happen.,-0.6800000000000637,0.35000000000002274,0,False,True,1
+250,5bf336d965825d00017cf3c2,871.19,872.06,born.,0.3300000000000409,0.8699999999998909,0,False,False,1
+251,5eaabf0113401e01e554cd32,872.24,876.46,"Well, the documentary about him and we'll figure out how good he is in like 5 10 years.",0.18000000000006366,4.220000000000027,0,False,False,19
+252,5bf336d965825d00017cf3c2,876.74,877.63,Right.,0.2799999999999727,0.8899999999999864,0,False,False,1
+253,5eaabf0113401e01e554cd32,877.44,877.85,Yeah.,-0.18999999999994088,0.40999999999996817,0,False,True,1
+254,5bf336d965825d00017cf3c2,877.64,880.66,I haven't actually watched any of the Jordan documentary. Have you seen any of it?,-0.21000000000003638,3.019999999999982,1,True,True,16
+255,5eaabf0113401e01e554cd32,880.94,884.26,"I'm actually waiting to watch it all at once, so.",0.2800000000000864,3.3199999999999363,0,False,False,11
+256,5bf336d965825d00017cf3c2,883.84,884.97,"Right. Well, I'm going",-0.4199999999999591,1.1299999999999955,0,False,True,5
+257,5eaabf0113401e01e554cd32,884.84,885.05,"Oh,",-0.12999999999999545,0.2099999999999227,0,False,True,1
+258,5bf336d965825d00017cf3c2,884.97,885.25,to,-0.07999999999992724,0.2799999999999727,0,False,True,1
+259,5eaabf0113401e01e554cd32,885.74,890.03,"we'll see Weight. Which um which new york team, which is new",0.4900000000000091,4.289999999999964,0,False,False,13
+260,5bf336d965825d00017cf3c2,889.94,891.2,my,-0.08999999999991815,1.259999999999991,0,False,True,1
+261,5eaabf0113401e01e554cd32,890.03,891.75,york with,-1.1700000000000728,1.7200000000000273,0,False,True,2
+262,5bf336d965825d00017cf3c2,891.2,891.68,team is,-0.5499999999999545,0.4799999999999045,0,False,True,2
+263,5eaabf0113401e01e554cd32,893.04,894.26,your next plan?,1.3600000000000136,1.2200000000000273,1,True,False,3
+264,5bf336d965825d00017cf3c2,894.44,895.55,"No, I'm a Celtics fan.",0.18000000000006366,1.1099999999999,0,False,False,6
+265,5eaabf0113401e01e554cd32,895.64,896.45,"Politics. That,",0.09000000000003183,0.8100000000000591,0,False,False,2
+266,5bf336d965825d00017cf3c2,896.94,897.16,I don't,0.4900000000000091,0.2199999999999136,0,False,False,3
+267,5eaabf0113401e01e554cd32,897.04,897.46,wow.,-0.12000000000000455,0.42000000000007276,0,False,True,1
+268,5bf336d965825d00017cf3c2,897.16,901.86,"have a new work, but it's too hard to be a next fan. It's too much pain.",-0.3000000000000682,4.7000000000000455,0,False,True,19
+269,5eaabf0113401e01e554cd32,901.94,902.26,Yeah.,0.08000000000004093,0.31999999999993634,0,False,False,1
+270,5bf336d965825d00017cf3c2,902.24,902.66,Mhm.,-0.01999999999998181,0.4199999999999591,0,False,True,1
+271,5eaabf0113401e01e554cd32,902.27,904.46,But I mean it's a good time to be a nets fan.,-0.38999999999998636,2.1900000000000546,0,False,True,13
+272,5bf336d965825d00017cf3c2,905.04,922.05,"Yeah. Well, well, I don't know. I'm not sure. I'm not sure how much I like Kyrie. I think a certain extent. I think he had some bad luck last year. I'm not fully throw him under the bus by the same time. I just get the impression that he's just something's not right with him.",0.5799999999999272,17.00999999999999,0,False,False,62
+273,5eaabf0113401e01e554cd32,921.24,922.76,A little wacky.,-0.8099999999999454,1.5199999999999818,0,False,True,3
+274,5bf336d965825d00017cf3c2,922.74,924.06,He's a weird guy.,-0.01999999999998181,1.3199999999999363,0,False,True,5
+275,5eaabf0113401e01e554cd32,924.34,924.84,Yeah.,0.2800000000000864,0.5,0,False,False,1
+276,5bf336d965825d00017cf3c2,924.44,929.06,"Right? So, but Katie is going to be great. It has always been great.",-0.39999999999997726,4.619999999999891,1,False,True,14
+277,5eaabf0113401e01e554cd32,929.24,929.66,Mhm.,0.18000000000006366,0.4199999999999591,0,False,False,1
+278,5bf336d965825d00017cf3c2,929.84,931.66,"And so they'll, they'll be competitive.",0.18000000000006366,1.8199999999999363,0,False,False,8
+279,5eaabf0113401e01e554cd32,932.04,932.36,Mhm.,0.37999999999999545,0.32000000000005,0,False,False,1
+280,5bf336d965825d00017cf3c2,933.04,935.16,Bye. Thanks.,0.67999999999995,2.1200000000000045,0,False,False,2
+281,5eaabf0113401e01e554cd32,934.24,937.15,"Mhm. I mean, they'll sell out the stadium for sure.",-0.9199999999999591,2.909999999999968,0,False,True,11
+282,5bf336d965825d00017cf3c2,937.44,938.36,"Yeah. Yeah, That's for sure.",0.2900000000000773,0.9199999999999591,0,False,False,6
+283,5eaabf0113401e01e554cd32,938.84,939.28,Kyrie,0.4800000000000182,0.4399999999999409,0,False,False,1
+284,5bf336d965825d00017cf3c2,939.04,939.36,And,-0.2400000000000091,0.32000000000005,0,False,True,1
+285,5eaabf0113401e01e554cd32,939.28,941.75,"is the president of the Players Association, right?",-0.08000000000004093,2.4700000000000273,1,True,True,8
+286,5bf336d965825d00017cf3c2,942.84,943.35,is he?,1.0900000000000318,0.5099999999999909,1,True,False,2
+287,5eaabf0113401e01e554cd32,943.74,944.45,Yeah. Which,0.38999999999998636,0.7100000000000364,0,False,False,2
+288,5bf336d965825d00017cf3c2,944.34,944.66,Yeah.,-0.11000000000001364,0.31999999999993634,0,False,True,1
+289,5eaabf0113401e01e554cd32,944.45,945.66,is that? It's like crazy.,-0.2099999999999227,1.2099999999999227,1,False,True,6
+290,5bf336d965825d00017cf3c2,945.94,954.55,Yeah. Derek Fisher was for a lot of years. I know that that means dance because he was always he was always that kind of guy. I wouldn't have thought Kyrie would be that kind of guy.,0.2800000000000864,8.6099999999999,0,False,False,38
+291,5eaabf0113401e01e554cd32,954.74,957.25,happy Neither. That's just a weird thought,0.19000000000005457,2.509999999999991,0,False,False,8
+292,5bf336d965825d00017cf3c2,958.94,959.27,Dead,1.6900000000000546,0.32999999999992724,0,False,False,1
+293,5eaabf0113401e01e554cd32,958.94,959.45,like.,-0.32999999999992724,0.5099999999999909,0,False,True,1
+294,5bf336d965825d00017cf3c2,959.27,961.64,fish wildly underrated. I hated,-0.18000000000006366,2.3700000000000045,0,False,True,5
+295,5eaabf0113401e01e554cd32,961.54,961.86,Yeah.,-0.10000000000002274,0.32000000000005,0,False,True,1
+296,5bf336d965825d00017cf3c2,961.64,965.76,the layers. But he was he was one of the best pick and roll defenders of all time.,-0.22000000000002728,4.1200000000000045,0,False,True,18
+297,5eaabf0113401e01e554cd32,966.74,970.36,I don't know enough about basketball history to appreciate Derek Fisher for sure.,0.9800000000000182,3.6200000000000045,0,False,False,14
+298,5bf336d965825d00017cf3c2,970.14,971.04,"Yeah,",-0.22000000000002728,0.8999999999999773,0,False,True,1
+299,5eaabf0113401e01e554cd32,970.37,971.44,Yeah.,-0.6699999999999591,1.07000000000005,0,False,True,1
+300,5bf336d965825d00017cf3c2,971.04,975.86,"he was he was good Kobe, Kobe didn't have any rings without Derek Fisher.",-0.40000000000009095,4.82000000000005,0,False,True,15
+301,5eaabf0113401e01e554cd32,975.74,976.06,Mhm.,-0.12000000000000455,0.31999999999993634,0,False,True,1
+302,5bf336d965825d00017cf3c2,976.34,976.55,Mhm.,0.2800000000000864,0.2099999999999227,0,False,False,1
+303,5eaabf0113401e01e554cd32,976.54,979.95,You think Celtics will get a ring with their team? The current team?,-0.009999999999990905,3.410000000000082,2,True,True,13
+304,5bf336d965825d00017cf3c2,979.94,986.73,"You know, I think it really depends on how much of a jump up jayson tatum has. I mean",-0.009999999999990905,6.789999999999964,0,False,True,19
+305,5eaabf0113401e01e554cd32,986.64,986.96,Mhm.,-0.09000000000003183,0.32000000000005,0,False,True,1
+306,5bf336d965825d00017cf3c2,986.73,989.96,"that kid can play, so",-0.2300000000000182,3.230000000000018,0,False,True,5
+307,5eaabf0113401e01e554cd32,989.54,991.81,"His he's coming like, I",-0.42000000000007276,2.269999999999982,0,False,True,6
+308,5bf336d965825d00017cf3c2,991.74,991.95,Mhm.,-0.06999999999993634,0.21000000000003638,0,False,True,1
+309,5eaabf0113401e01e554cd32,991.81,996.75,"think in the next at least two or three years he's going to have like a breakout year, he's",-0.14000000000010004,4.940000000000055,0,False,True,21
+310,5bf336d965825d00017cf3c2,996.64,996.93,He's,-0.11000000000001364,0.2899999999999636,0,False,True,2
+311,5eaabf0113401e01e554cd32,996.75,996.96,here,-0.17999999999994998,0.21000000000003638,0,False,True,1
+312,5bf336d965825d00017cf3c2,996.94,997.95,right,-0.01999999999998181,1.009999999999991,0,False,True,1
+313,5eaabf0113401e01e554cd32,996.96,997.35,for it.,-0.9900000000000091,0.38999999999998636,0,False,True,2
+314,5bf336d965825d00017cf3c2,997.95,1008.77,"before this covid thing, he was kind of starting to have a little bit of a break out for himself and then everything that closed down, you know, I'm gonna, I don't know if we'll come back or not, but I'm I think",0.6000000000000227,10.819999999999936,0,False,False,48
+315,5eaabf0113401e01e554cd32,1008.94,1009.14,Yeah.,0.17000000000007276,0.1999999999999318,0,False,False,1
+316,5bf336d965825d00017cf3c2,1009.24,1014.87,you're gonna be surprised by whose advantage who's not advantaged by this big break. Like,0.10000000000002274,5.6299999999999955,0,False,False,18
+317,5eaabf0113401e01e554cd32,1014.84,1015.07,Oh.,-0.029999999999972715,0.2300000000000182,0,False,True,1
+318,5bf336d965825d00017cf3c2,1014.87,1034.56,"some of the older teams who normally have a great time. I think I think that was going to hurt them. I could see Lebron being really hurt by the break. I could see um some of the older Lakers players being hurt by the break. I can see it being a huge advantage for the clippers and to a certain extent, little Celtics, we haven't actually been healthy all year really.",-0.20000000000004547,19.68999999999994,0,False,True,73
+319,5eaabf0113401e01e554cd32,1034.84,1035.35,Mhm.,0.2799999999999727,0.5099999999999909,0,False,False,1
+320,5bf336d965825d00017cf3c2,1034.94,1041.66,"We always say we like I'm on the team even though must be serious, they don't want me on the team right?",-0.4099999999998545,6.720000000000027,1,True,True,24
+321,5eaabf0113401e01e554cd32,1041.14,1042.06,Mhm.,-0.5199999999999818,0.9199999999998454,0,False,True,1
+322,5bf336d965825d00017cf3c2,1041.67,1043.96,"Like if you like, what are you doing here?",-0.38999999999987267,2.2899999999999636,1,True,True,9
+323,5eaabf0113401e01e554cd32,1043.74,1044.36,Okay.,-0.22000000000002728,0.6199999999998909,0,False,True,1
+324,5bf336d965825d00017cf3c2,1044.44,1047.41,"Oh guys, I don't want to be part of it.",0.08000000000015461,2.9700000000000273,0,False,False,11
+325,5eaabf0113401e01e554cd32,1047.24,1047.77,Right.,-0.17000000000007276,0.5299999999999727,0,False,True,1
+326,5bf336d965825d00017cf3c2,1047.42,1051.06,"I'll just sit on the bench, get some people water, don't even worry about it.",-0.34999999999990905,3.6399999999998727,0,False,True,17
+327,5eaabf0113401e01e554cd32,1051.34,1056.05,"Yeah. They're like um they're gonna come away with the Eastern Conference,",0.2799999999999727,4.710000000000036,0,False,False,15
+328,5bf336d965825d00017cf3c2,1056.84,1057.17,Mhm.,0.7899999999999636,0.3300000000001546,0,False,False,1
+329,5eaabf0113401e01e554cd32,1056.84,1057.65,right? Like,-0.3300000000001546,0.8100000000001728,1,False,True,2
+330,5bf336d965825d00017cf3c2,1057.64,1057.96,Who?,-0.009999999999990905,0.31999999999993634,1,True,True,1
+331,5eaabf0113401e01e554cd32,1057.65,1058.46,there's no way,-0.30999999999994543,0.8099999999999454,0,False,True,4
+332,5bf336d965825d00017cf3c2,1058.74,1058.96,That's,0.2799999999999727,0.22000000000002728,0,False,False,2
+333,5eaabf0113401e01e554cd32,1058.94,1059.61,the,-0.01999999999998181,0.6699999999998454,0,False,True,1
+334,5bf336d965825d00017cf3c2,1058.96,1059.36,something.,-0.6499999999998636,0.3999999999998636,0,False,True,1
+335,5eaabf0113401e01e554cd32,1059.62,1060.67,"Yeah, the Celtics.",0.2599999999999909,1.050000000000182,0,False,False,3
+336,5bf336d965825d00017cf3c2,1062.04,1070.96,"Well, I think there's a couple of teams in the east who have a chance. I think Milwaukee is probably the most likely honestly bucks other.",1.3699999999998909,8.920000000000073,0,False,False,27
+337,5eaabf0113401e01e554cd32,1070.24,1071.67,Yeah.,-0.7200000000000273,1.4300000000000637,0,False,True,1
+338,5bf336d965825d00017cf3c2,1071.94,1079.27,"And then I think that Toronto is still there. Well, I don't can't win the championship without quiet but they could win use.",0.2699999999999818,7.329999999999927,0,False,False,25
+339,5eaabf0113401e01e554cd32,1079.14,1079.46,Mhm.,-0.12999999999988177,0.31999999999993634,0,False,True,1
+340,5bf336d965825d00017cf3c2,1079.64,1080.97,Um I don't,0.18000000000006366,1.3299999999999272,0,False,False,4
+341,5eaabf0113401e01e554cd32,1080.94,1081.17,Yeah.,-0.029999999999972715,0.2300000000000182,0,False,True,1
+342,5bf336d965825d00017cf3c2,1080.97,1087.86,think the 70 sixers. Are there some things wrong with that team? I know it's weird because they have the talent but but I just don't think they have the shooters.,-0.20000000000004547,6.889999999999873,1,False,True,33
+343,5eaabf0113401e01e554cd32,1088.74,1090.56,Yeah. And also I think like,0.8800000000001091,1.8199999999999363,0,False,False,6
+344,5bf336d965825d00017cf3c2,1091.04,1091.54,Okay.,0.4800000000000182,0.5,0,False,False,1
+345,5eaabf0113401e01e554cd32,1091.44,1095.07,and beat gases out. I don't know like what he plays like,-0.09999999999990905,3.6299999999998818,0,False,True,13
+346,5bf336d965825d00017cf3c2,1095.04,1095.27,Yeah.,-0.029999999999972715,0.2300000000000182,0,False,True,1
+347,5eaabf0113401e01e554cd32,1095.1,1098.16,an average of 8 to 10 minutes per quarter and then just like,-0.17000000000007276,3.060000000000173,0,False,True,13
+348,5bf336d965825d00017cf3c2,1098.74,1099.04,Right.,0.5799999999999272,0.2999999999999545,0,False,False,1
+349,5eaabf0113401e01e554cd32,1098.84,1109.67,"the last two or three minutes of his play. Just so tired. Just not the kind of playing really off ball, not really calling the shots, it's really sad to see.",-0.20000000000004547,10.830000000000155,0,False,True,32
+350,5bf336d965825d00017cf3c2,1109.94,1135.34,"He also has this weird thing. I think we're like when his when I think he comes into a game, he has a plan. His plan was called planning when it doesn't work. He gets really freaked out. Whereas like someone that might be his age, he's getting he's still young. But someone like Kobe Lebron join the way they wouldn't do that when they just go to plan B, plan C and keep going. I'll",0.2699999999999818,25.399999999999864,0,False,False,82
+351,5eaabf0113401e01e554cd32,1134.54,1135.05,Mhm.,-0.7999999999999545,0.5099999999999909,0,False,True,1
+352,5bf336d965825d00017cf3c2,1135.34,1140.98,give you credit for that. I give Kobe more credit now that he's dead. Which I feel like it's kind of nasty of me.,0.2899999999999636,5.6400000000001,0,False,False,26
+353,5eaabf0113401e01e554cd32,1140.94,1141.56,Mhm.,-0.03999999999996362,0.6199999999998909,0,False,True,1
+354,5bf336d965825d00017cf3c2,1140.99,1147.76,"But like he was a great player. He just made some stupid decisions, which I think damaged his capacity to win now.",-0.5699999999999363,6.769999999999982,0,False,True,22
+355,5eaabf0113401e01e554cd32,1147.24,1157.99,"I agree, I agree. I think, I think it's also definitely um because he's brought up in the greatest of all time debate so much and then you kind of look at his career as a whole",-0.5199999999999818,10.75,0,False,True,39
+356,5bf336d965825d00017cf3c2,1157.94,1158.06,All,-0.049999999999954525,0.11999999999989086,0,False,True,1
+357,5eaabf0113401e01e554cd32,1157.99,1158.09,and,-0.06999999999993634,0.09999999999990905,0,False,True,1
+358,5bf336d965825d00017cf3c2,1158.06,1158.17,right.,-0.029999999999972715,0.11000000000012733,0,False,True,1
+359,5eaabf0113401e01e554cd32,1158.09,1163.26,"you're like, there's like personally, I think there's no way you should be in that conversation.",-0.08000000000015461,5.170000000000073,0,False,True,19
+360,5bf336d965825d00017cf3c2,1163.74,1169.44,"I agree with that. By the way, that happens more in L. A. In California, I think than anywhere else",0.4800000000000182,5.7000000000000455,0,False,False,20
+361,5eaabf0113401e01e554cd32,1169.44,1169.95,Okay.,0.0,0.5099999999999909,0,False,False,1
+362,5bf336d965825d00017cf3c2,1169.45,1189.93,"outside of California. Like everyone's allow on facebook, someone throw them in and people kind of go. So the problem wasn't like it depends on what you value, right? Like if you value the killer instinct, like you're going to have Jordan first and then Kobe second. The problem is the killer instinct is only for the last 40 seconds of the game. Like there's 48",-0.5,20.480000000000018,1,False,True,70
+363,5eaabf0113401e01e554cd32,1189.64,1189.96,Yeah.,-0.2899999999999636,0.31999999999993634,0,False,True,1
+364,5bf336d965825d00017cf3c2,1189.93,1196.86,"minutes. So to me, I actually I have a hard time not putting Lebron first. I think Jordan was great. Don't get me wrong.",-0.029999999999972715,6.929999999999836,0,False,True,25
+365,5eaabf0113401e01e554cd32,1197.24,1197.77,Mhm.,0.38000000000010914,0.5299999999999727,0,False,False,1
+366,5bf336d965825d00017cf3c2,1197.44,1207.26,"Mhm. But, you know, he has just had some in terms of his competition, some seriously bad luck in a certain way. Like who saw the warriors coming?",-0.32999999999992724,9.819999999999936,1,True,True,28
+367,5eaabf0113401e01e554cd32,1208.14,1208.64,That's,0.8800000000001091,0.5,0,False,False,2
+368,5bf336d965825d00017cf3c2,1208.24,1208.77,"You know,",-0.40000000000009095,0.5299999999999727,0,False,True,2
+369,5eaabf0113401e01e554cd32,1208.64,1209.67,true. It came,-0.12999999999988177,1.0299999999999727,0,False,True,3
+370,5bf336d965825d00017cf3c2,1209.54,1210.46,but,-0.13000000000010914,0.9200000000000728,0,False,True,1
+371,5eaabf0113401e01e554cd32,1209.67,1211.17,from nowhere.,-0.7899999999999636,1.5,0,False,True,2
+372,5bf336d965825d00017cf3c2,1211.04,1218.45,"when when staff was I think it was in 2014, 2015, his ankles were still kind of hurting him. I remember thinking this team is never gonna work.",-0.13000000000010914,7.410000000000082,0,False,True,29
+373,5eaabf0113401e01e554cd32,1218.64,1218.84,Yeah.,0.19000000000005457,0.1999999999998181,0,False,False,1
+374,5bf336d965825d00017cf3c2,1219.14,1222.81,All right. I was that wrong. That's fine. Because I,0.3000000000001819,3.6699999999998454,0,False,False,11
+375,5eaabf0113401e01e554cd32,1222.74,1222.94,Yeah.,-0.06999999999993634,0.20000000000004547,0,False,True,1
+376,5bf336d965825d00017cf3c2,1222.81,1230.86,"was just thinking, you know, they have too much shooters and they don't have enough download game. And then Steph curry just showed us all, hey, you guys are idiots, you're all wrong. 50",-0.13000000000010914,8.049999999999955,0,False,True,36
+377,5eaabf0113401e01e554cd32,1230.44,1230.67,Yeah.,-0.4199999999998454,0.2300000000000182,0,False,True,1
+378,5bf336d965825d00017cf3c2,1230.86,1235.77,"Taro, we can win basketball games. I was like, all right, Steph showed me, I believe you now,",0.1899999999998272,4.910000000000082,0,False,False,18
+379,5eaabf0113401e01e554cd32,1236.14,1239.45,"He is such an exciting player. Holy crap, definitely, definitely.",0.37000000000011823,3.3099999999999454,0,False,False,10
+380,5bf336d965825d00017cf3c2,1239.44,1239.86,right?,-0.009999999999990905,0.4199999999998454,1,True,True,1
+381,5eaabf0113401e01e554cd32,1239.45,1240.55,Probably my favorite player.,-0.4099999999998545,1.099999999999909,0,False,True,4
+382,5bf336d965825d00017cf3c2,1241.04,1246.17,"There's like three times a game. I go, holy I didn't even know that was possible,",0.4900000000000091,5.130000000000109,0,False,False,18
+383,5eaabf0113401e01e554cd32,1244.94,1250.79,"Yeah, it's just every time he lets the ball go, you think it's going in? Which is very cool.",-1.2300000000000182,5.849999999999909,1,False,True,21
+384,5bf336d965825d00017cf3c2,1250.64,1251.06,right?,-0.14999999999986358,0.4199999999998454,1,True,True,1
+385,5eaabf0113401e01e554cd32,1250.79,1251.76,"Very, very,",-0.2699999999999818,0.9700000000000273,0,False,True,2
+386,5bf336d965825d00017cf3c2,1251.84,1256.19,"And they're they're like these shots that are like, it was just like, I'm like, how",0.07999999999992724,4.350000000000136,0,False,False,19
+387,5eaabf0113401e01e554cd32,1256.14,1256.34,Yeah.,-0.049999999999954525,0.1999999999998181,0,False,True,1
+388,5bf336d965825d00017cf3c2,1256.19,1257.77,did you do that? I,-0.14999999999986358,1.5799999999999272,1,False,True,5
+389,5eaabf0113401e01e554cd32,1257.74,1258.45,Yeah.,-0.029999999999972715,0.7100000000000364,0,False,True,1
+390,5bf336d965825d00017cf3c2,1257.78,1264.33,wish I could do that. I could do that. I wouldn't be worried about judges. I would be worried about supermodels.,-0.6700000000000728,6.5499999999999545,0,False,True,22
+391,5eaabf0113401e01e554cd32,1264.04,1264.75,Yeah.,-0.2899999999999636,0.7100000000000364,0,False,True,1
+392,5bf336d965825d00017cf3c2,1264.34,1270.96,"I think he's actually a I'm married. I think he's a home guy who doesn't worry about that kind of things, but still",-0.41000000000008185,6.620000000000118,0,False,True,27
+393,5eaabf0113401e01e554cd32,1271.04,1278.72,"Yeah. I feel bad for him though because like I've seen pictures of him after games, he gets banged up by",0.07999999999992724,7.680000000000064,0,False,False,22
+394,5bf336d965825d00017cf3c2,1278.64,1278.84,yeah.,-0.07999999999992724,0.1999999999998181,0,False,True,1
+395,5eaabf0113401e01e554cd32,1278.72,1279.96,"the defenders, like",-0.11999999999989086,1.240000000000009,0,False,True,3
+396,5bf336d965825d00017cf3c2,1279.94,1281.26,"All right, sure.",-0.01999999999998181,1.3199999999999363,0,False,True,3
+397,5eaabf0113401e01e554cd32,1280.74,1288.55,"not quite as bad as like Jordan era, like how bad you get banged up but like people go at him to try and stop him.",-0.5199999999999818,7.809999999999945,0,False,True,26
+398,5bf336d965825d00017cf3c2,1288.74,1291.26,"Well, he would work a lot tinier than Jordan.",0.19000000000005457,2.519999999999982,0,False,False,9
+399,5eaabf0113401e01e554cd32,1291.54,1292.05,Mhm.,0.2799999999999727,0.5099999999999909,0,False,False,1
+400,5bf336d965825d00017cf3c2,1291.74,1309.56,"All right. That's the that's the thing that impresses me so much. I mean, you know, shock Jordan, even Kobe. To a lesser extent. They all had like the bodies that you would expect for it. You saw Steph curry on the street, you don't know who Steph curry was. You wouldn't think, oh, that's a basketball player. You think, oh, that's a tall guy. That's it.",-0.30999999999994543,17.819999999999936,0,False,True,74
+401,5eaabf0113401e01e554cd32,1310.04,1311.27,Mhm.,0.4800000000000182,1.2300000000000182,0,False,False,1
+402,5bf336d965825d00017cf3c2,1310.74,1318.27,"He's gonna track would be like, that's well, first of all you have to walk around shock to begin with because he's huge. But",-0.5299999999999727,7.529999999999973,0,False,True,28
+403,5eaabf0113401e01e554cd32,1318.74,1319.58,True,0.4700000000000273,0.8399999999999181,0,False,False,1
+404,5bf336d965825d00017cf3c2,1318.84,1319.34,yeah.,-0.7400000000000091,0.5,0,False,True,1
+405,5eaabf0113401e01e554cd32,1319.59,1320.4,true. Steph,0.25,0.8100000000001728,0,False,False,2
+406,5bf336d965825d00017cf3c2,1320.24,1320.56,Really?,-0.16000000000008185,0.31999999999993634,1,True,True,1
+407,5eaabf0113401e01e554cd32,1320.4,1323.45,curry is still tall though. He is what 65?,-0.15999999999985448,3.0499999999999545,1,True,True,9
+408,5bf336d965825d00017cf3c2,1323.03,1324.56,15 63? I think,-0.42000000000007276,1.5299999999999727,1,False,True,4
+409,5eaabf0113401e01e554cd32,1324.74,1325.85,He's only 63,0.18000000000006366,1.1099999999999,0,False,False,4
+410,5bf336d965825d00017cf3c2,1326.64,1329.54,you might be successful. You might be right. I don't know. It's weird,0.790000000000191,2.8999999999998636,0,False,False,15
+411,5eaabf0113401e01e554cd32,1329.24,1329.56,Yeah.,-0.2999999999999545,0.31999999999993634,0,False,True,1
+412,5bf336d965825d00017cf3c2,1329.54,1333.79,because it always like they're all next to each other. So,-0.01999999999998181,4.25,0,False,True,12
+413,5eaabf0113401e01e554cd32,1333.14,1333.56,Mhm.,-0.6499999999998636,0.4199999999998454,0,False,True,1
+414,5bf336d965825d00017cf3c2,1333.8,1345.96,even the short guys in the N. B. A. At this point you think are actually tall are actually not that tall because they're next to like seven footers but they are tall all.,0.2400000000000091,12.160000000000082,0,False,False,35
+415,5eaabf0113401e01e554cd32,1345.04,1346.69,Okay. Yeah. You,-0.9200000000000728,1.650000000000091,0,False,True,3
+416,5bf336d965825d00017cf3c2,1346.54,1346.77,Yeah.,-0.15000000000009095,0.2300000000000182,0,False,True,1
+417,5eaabf0113401e01e554cd32,1346.69,1350.03,really get no perspective during game especially.,-0.07999999999992724,3.339999999999918,0,False,True,7
+418,5bf336d965825d00017cf3c2,1349.44,1349.76,Yeah.,-0.5899999999999181,0.31999999999993634,0,False,True,1
+419,5eaabf0113401e01e554cd32,1350.04,1351.22,"Yeah, especially",0.2799999999999727,1.1800000000000637,0,False,False,2
+420,5bf336d965825d00017cf3c2,1351.14,1351.46,Mhm.,-0.07999999999992724,0.31999999999993634,0,False,True,1
+421,5eaabf0113401e01e554cd32,1351.22,1352.36,in the modern times.,-0.2400000000000091,1.1399999999998727,0,False,True,4
+422,5bf336d965825d00017cf3c2,1352.44,1354.77,Most of those people would tower over you and,0.08000000000015461,2.3299999999999272,0,False,False,9
+423,5eaabf0113401e01e554cd32,1355.24,1355.44,"Yeah,",0.4700000000000273,0.20000000000004547,0,False,False,1
+424,5bf336d965825d00017cf3c2,1355.54,1357.32,"yeah. Thank you,",0.09999999999990905,1.7799999999999727,0,False,False,3
+425,5eaabf0113401e01e554cd32,1356.84,1357.17,true.,-0.4800000000000182,0.3300000000001546,0,False,True,1
+426,5bf336d965825d00017cf3c2,1357.33,1358.96,scared.,0.15999999999985448,1.6300000000001091,0,False,False,1
+427,5eaabf0113401e01e554cd32,1358.84,1376.68,I'm excited for the new era of basketball though I think um there are some really exciting place coming up. Uh Thank you. I don't really like Trae young but I kind of like I kind of like the way he I kind,-0.12000000000011823,17.840000000000146,0,False,True,45
+428,5bf336d965825d00017cf3c2,1376.54,1376.75,Yeah.,-0.14000000000010004,0.21000000000003638,0,False,True,1
+429,5eaabf0113401e01e554cd32,1376.68,1378.56,of like the way he pisses older players off,-0.06999999999993634,1.8799999999998818,0,False,True,9
+430,5bf336d965825d00017cf3c2,1379.64,1380.86,Yeah.,1.0800000000001546,1.2199999999998,0,False,False,1
+431,5eaabf0113401e01e554cd32,1379.84,1381.49,and. Yeah.,-1.0199999999999818,1.650000000000091,0,False,True,2
+432,5bf336d965825d00017cf3c2,1381.24,1381.45,Mhm.,-0.25,0.21000000000003638,0,False,True,1
+433,5eaabf0113401e01e554cd32,1381.49,1381.94,Yeah.,0.03999999999996362,0.4500000000000455,0,False,False,1
+434,5bf336d965825d00017cf3c2,1381.84,1386.46,He just recently said he was going to in a year or two. He's gonna overtake stuff as the best shooter in the game.,-0.10000000000013642,4.620000000000118,0,False,True,26
+435,5eaabf0113401e01e554cd32,1387.44,1387.94,Yeah.,0.9800000000000182,0.5,0,False,False,1
+436,5bf336d965825d00017cf3c2,1387.85,1389.27,Back that up buddy.,-0.09000000000014552,1.4200000000000728,0,False,True,4
+437,5eaabf0113401e01e554cd32,1389.54,1402.88,"Yeah. We'll see. I mean well I don't think the bar will ever will be hit at least a few years, but I could see Trey having a crazy season somewhere down the line where does really well like he you made",0.2699999999999818,13.340000000000146,0,False,False,44
+438,5bf336d965825d00017cf3c2,1402.84,1403.05,Mm,-0.040000000000190994,0.21000000000003638,0,False,True,1
+439,5eaabf0113401e01e554cd32,1402.88,1411.17,a very similar amount of three points to stuff this season but on like on like 400 more attempts. So,-0.16999999999984539,8.289999999999964,0,False,True,20
+440,5bf336d965825d00017cf3c2,1410.94,1411.56,"Yeah,",-0.2300000000000182,0.6199999999998909,0,False,True,1
+441,5eaabf0113401e01e554cd32,1411.94,1413.05,so it's not,0.38000000000010914,1.1099999999999,0,False,False,4
+442,5bf336d965825d00017cf3c2,1413.44,1413.62,that's,0.39000000000010004,0.1799999999998363,0,False,False,2
+443,5eaabf0113401e01e554cd32,1413.44,1414.26,to the,-0.1799999999998363,0.8199999999999363,0,False,True,2
+444,5bf336d965825d00017cf3c2,1413.62,1413.98,great.,-0.6400000000001,0.36000000000012733,0,False,True,1
+445,5eaabf0113401e01e554cd32,1414.27,1414.85,basket.,0.2899999999999636,0.5799999999999272,0,False,False,1
+446,5bf336d965825d00017cf3c2,1415.44,1416.23,Fair,0.5900000000001455,0.7899999999999636,0,False,False,1
+447,5eaabf0113401e01e554cd32,1415.44,1416.27,Yeah.,-0.7899999999999636,0.8299999999999272,0,False,True,1
+448,5bf336d965825d00017cf3c2,1416.23,1422.54,"efficient at times to add shots that for anyone else are like the least efficient shots in the game. Yeah,",-0.03999999999996362,6.309999999999945,0,False,True,20
+449,5eaabf0113401e01e554cd32,1422.34,1422.85,Mhm.,-0.20000000000004547,0.5099999999999909,0,False,True,1
+450,5bf336d965825d00017cf3c2,1422.94,1434.76,"I think efficiency is the thing, people mess and that's why I like to me, I have a hard time not saying maybe Lebron is the best of all time. Um I mean Jordan is to,",0.09000000000014552,11.819999999999936,0,False,False,37
+451,5eaabf0113401e01e554cd32,1434.54,1434.77,Yeah.,-0.22000000000002728,0.2300000000000182,0,False,True,1
+452,5bf336d965825d00017cf3c2,1435.24,1441.58,and you got Bill Russell and uh cream Abdul Jabbar right there. Magic and Bird. And,0.4700000000000273,6.339999999999918,0,False,False,16
+453,5eaabf0113401e01e554cd32,1441.34,1441.67,Mhm.,-0.2400000000000091,0.3300000000001546,0,False,True,1
+454,5bf336d965825d00017cf3c2,1441.59,1445.49,it's true. It's hard to measure between errors because you,-0.08000000000015461,3.900000000000091,0,False,True,12
+455,5eaabf0113401e01e554cd32,1445.44,1445.76,Yeah.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+456,5bf336d965825d00017cf3c2,1445.49,1471.77,"know, Bill Russell played when they were like 10 other teams in the league. Does that make it more impressive or less impressive though? Like if you think about that, because like if you took away how many times I don't leave now, 30 if you took away 20 of them, then everyone playing would be amazingly good. Right? You wouldn't have half the role players would go away and you have like all stars almost on every team. So in a way it's more impressive.",-0.2699999999999818,26.279999999999973,2,False,True,89
+457,5eaabf0113401e01e554cd32,1472.24,1475.96,"Yeah. That that would be insane to be like an all star game like every game,",0.4700000000000273,3.7200000000000273,0,False,False,16
+458,5bf336d965825d00017cf3c2,1476.34,1477.09,Yeah.,0.37999999999988177,0.75,0,False,False,1
+459,5eaabf0113401e01e554cd32,1477.04,1477.55,jesus,-0.049999999999954525,0.5099999999999909,0,False,True,1
+460,5bf336d965825d00017cf3c2,1477.1,1481.7,"A lot of really great, really really great players.",-0.4500000000000455,4.600000000000136,0,False,True,9
+461,5eaabf0113401e01e554cd32,1481.24,1481.96,Oh,-0.4600000000000364,0.7200000000000273,0,False,True,1
+462,5bf336d965825d00017cf3c2,1481.71,1486.88,"Um Okay and you wouldn't have very many mediocre players. Again,",-0.25,5.170000000000073,0,False,True,12
+463,5eaabf0113401e01e554cd32,1486.44,1486.67,yeah.,-0.44000000000005457,0.2300000000000182,0,False,True,1
+464,5bf336d965825d00017cf3c2,1486.88,1498.16,"it was you know, it was the sixties before it was popular and I think most people who are athletes then would have gone to probably baseball because that's where the real money was. A lot of these guys I think I think",0.21000000000003638,11.279999999999973,0,False,False,44
+465,5eaabf0113401e01e554cd32,1498.14,1498.34,Yeah.,-0.01999999999998181,0.1999999999998181,0,False,True,1
+466,5bf336d965825d00017cf3c2,1498.16,1510.56,"that our career as an athlete to a certain degree, obviously they can't go beat figure skaters, but a lot of basketball players could play football or baseball,",-0.1799999999998363,12.399999999999864,0,False,True,29
+467,5eaabf0113401e01e554cd32,1510.04,1510.27,Yeah.,-0.5199999999999818,0.2300000000000182,0,False,True,1
+468,5bf336d965825d00017cf3c2,1510.56,1522.06,"a lot of baseball players can play football. And I just think it's all about the gift you're given for your body gift by the way. I was not given, I have none of those gifts. So",0.2899999999999636,11.5,0,False,False,39
+469,5eaabf0113401e01e554cd32,1521.64,1523.56,Never ever.,-0.4199999999998454,1.9199999999998454,0,False,True,2
+470,5bf336d965825d00017cf3c2,1523.14,1525.65,uh everybody. Yeah,-0.4199999999998454,2.509999999999991,0,False,True,3
+471,5eaabf0113401e01e554cd32,1525.54,1527.06,Well that's how it is.,-0.11000000000012733,1.5199999999999818,0,False,True,6
+472,5bf336d965825d00017cf3c2,1527.34,1530.08,I wasn't I wasn't designed to be a basketball player. Too,0.2799999999999727,2.740000000000009,0,False,False,13
+473,5eaabf0113401e01e554cd32,1529.84,1530.35,Mhm.,-0.2400000000000091,0.5099999999999909,0,False,True,1
+474,5bf336d965825d00017cf3c2,1530.08,1538.17,"bad. Sometimes I'll make that joke was like I'd be playing if it weren't for the complete lack of talent, I'd be playing white guard for the boston Celtics.",-0.2699999999999818,8.090000000000146,0,False,True,33
+475,5eaabf0113401e01e554cd32,1537.54,1538.35,Oh man.,-0.6300000000001091,0.8099999999999454,0,False,True,2
+476,5bf336d965825d00017cf3c2,1539.04,1539.36,Uh huh.,0.6900000000000546,0.31999999999993634,0,False,False,2
+477,5eaabf0113401e01e554cd32,1539.74,1543.36,"Do you imagine a, imagine a reality where that happened? That'd be insane.",0.38000000000010914,3.619999999999891,1,False,False,14
+478,5bf336d965825d00017cf3c2,1544.04,1551.09,"It might be fun, but at the same time it probably be a little harder than you think you'll be away from. You don't have to catch it. I don't imagine because",0.6800000000000637,7.0499999999999545,0,False,False,35
+479,5eaabf0113401e01e554cd32,1550.84,1551.46,Mm.,-0.25,0.6200000000001182,0,False,True,1
+480,5bf336d965825d00017cf3c2,1551.09,1557.68,you're a senior in college for you to be away from your kids would be away from my one. I only have one but still I don't,-0.37000000000011823,6.5900000000001455,0,False,True,29
+481,5eaabf0113401e01e554cd32,1557.54,1557.95,Yeah.,-0.14000000000010004,0.41000000000008185,0,False,True,1
+482,5bf336d965825d00017cf3c2,1557.68,1559.85,like this from God.,-0.2699999999999818,2.1699999999998454,0,False,True,4
+483,5eaabf0113401e01e554cd32,1560.14,1565.96,"You'd be making enough money though to have like a home wherever you need it to be like wherever, like close enough, you know?",0.290000000000191,5.819999999999936,1,True,False,25
+484,5bf336d965825d00017cf3c2,1565.64,1566.47,"Yeah, I think that's",-0.31999999999993634,0.8299999999999272,0,False,True,5
+485,5eaabf0113401e01e554cd32,1566.34,1566.66,Yeah.,-0.13000000000010914,0.3200000000001637,0,False,True,1
+486,5bf336d965825d00017cf3c2,1566.47,1574.36,true. I think they have well a lot of them so the ones at the top definitely make a ton of money. Someone is more near the bottom of the journeyman. I don't think mary,-0.19000000000005457,7.889999999999873,0,False,True,36
+487,5eaabf0113401e01e554cd32,1574.64,1574.84,"Yeah,",0.2800000000002001,0.1999999999998181,0,False,False,1
+488,5bf336d965825d00017cf3c2,1575.34,1580.25,there's a little good money but they don't make like crazy money and they can only do it for so long. So,0.5,4.910000000000082,0,False,False,24
+489,5eaabf0113401e01e554cd32,1579.94,1580.27,that's,-0.30999999999994543,0.32999999999992724,0,False,True,2
+490,5bf336d965825d00017cf3c2,1580.26,1580.44,my,-0.009999999999990905,0.18000000000006366,0,False,True,1
+491,5eaabf0113401e01e554cd32,1580.27,1580.66,true.,-0.17000000000007276,0.39000000000010004,0,False,True,1
+492,5bf336d965825d00017cf3c2,1580.44,1585.05,brother in law is a I'm a kind of attorney that makes,-0.22000000000002728,4.6099999999999,0,False,True,13
+493,5eaabf0113401e01e554cd32,1585.04,1585.36,Yeah.,-0.009999999999990905,0.31999999999993634,0,False,True,1
+494,5bf336d965825d00017cf3c2,1585.64,1613.79,"that. So with attorneys it's there's really two choices. You make a shit ton of money and really not have a great your house a lot and I have a lot of time with your kids or you can make a medium amount of money and then you have more times. I'm definitely the medium amount of money category. And he's like the high amount of money category. So he would probably really end up making a lot more than some of the players over the course of his career because he can do it for longer. No,",0.2800000000002001,28.149999999999864,0,False,False,102
+495,5eaabf0113401e01e554cd32,1613.74,1614.06,Mhm,-0.049999999999954525,0.31999999999993634,0,False,True,1
+496,5bf336d965825d00017cf3c2,1613.79,1617.49,"he doesn't make as much per year for sure. But you know, if",-0.2699999999999818,3.7000000000000455,0,False,True,14
+497,5eaabf0113401e01e554cd32,1617.34,1617.67,mhm.,-0.15000000000009095,0.3300000000001546,0,False,True,1
+498,5bf336d965825d00017cf3c2,1617.49,1629.47,"you can if you're making a million for eight years, that's not maybe not as good as making half a million for 30. So although",-0.18000000000006366,11.980000000000018,0,False,True,27
+499,5eaabf0113401e01e554cd32,1629.14,1629.46,Mhm.,-0.32999999999992724,0.31999999999993634,0,False,True,1
+500,5bf336d965825d00017cf3c2,1629.47,1635.27,"I do think basketball takes care of them, a lot of those guys end up going on to be coaches and proper such things.",0.009999999999990905,5.7999999999999545,0,False,False,24
+501,5eaabf0113401e01e554cd32,1635.74,1643.59,"I mean it's commendable that you care so much about your work life balance. So I think, I think that's something I would also really care about on",0.4700000000000273,7.849999999999909,0,False,False,30
+502,5bf336d965825d00017cf3c2,1643.34,1643.54,Yeah.,-0.25,0.20000000000004547,0,False,True,1
+503,5eaabf0113401e01e554cd32,1643.59,1644.35,my future.,0.049999999999954525,0.7599999999999909,0,False,False,2
+504,5bf336d965825d00017cf3c2,1644.44,1652.86,"Yeah. Well I think it's something that you definitely want to think about, especially especially if get, especially your young man, um",0.09000000000014552,8.419999999999845,0,False,False,23
+505,5eaabf0113401e01e554cd32,1652.64,1652.96,Mhm.,-0.2199999999997999,0.31999999999993634,0,False,True,1
+506,5bf336d965825d00017cf3c2,1652.87,1675.96,"a lot of people you gotta watch out because it's the first room I was in was terrible and there are people who will just take advantage of you if you can kind of get it, you get a sense of it when people really care about what's wrong with you. Not only be wrong, I have to put my job first because that's how I keep my kid and pay for health insurance. But for the most part it allows me to be the parent I want to be",-0.09000000000014552,23.090000000000146,0,False,True,94
+507,5eaabf0113401e01e554cd32,1676.04,1676.84,Uh huh.,0.07999999999992724,0.7999999999999545,0,False,False,2
+508,5bf336d965825d00017cf3c2,1676.64,1681.17,"in my next life is pretty good about, she works at night when she is working,",-0.1999999999998181,4.529999999999973,0,False,True,16
+509,5eaabf0113401e01e554cd32,1680.74,1681.06,Mhm.,-0.43000000000006366,0.31999999999993634,0,False,True,1
+510,5bf336d965825d00017cf3c2,1681.64,1687.18,"I work during the day, so we just like the reality almost creates are pairing time,",0.5800000000001546,5.539999999999964,0,False,False,16
+511,5eaabf0113401e01e554cd32,1687.14,1687.35,Oh,-0.03999999999996362,0.209999999999809,0,False,True,1
+512,5bf336d965825d00017cf3c2,1687.45,1688.27,so it's fine.,0.10000000000013642,0.8199999999999363,0,False,False,4
+513,5eaabf0113401e01e554cd32,1688.54,1691.27,Oh that's that's very convenient.,0.2699999999999818,2.730000000000018,0,False,False,7
+514,5bf336d965825d00017cf3c2,1691.04,1693.41,Yeah. A lot of folks don't have that advantage. So,-0.2300000000000182,2.3700000000001182,0,False,True,11
+515,5eaabf0113401e01e554cd32,1693.24,1693.66,Mhm.,-0.17000000000007276,0.42000000000007276,0,False,True,1
+516,5bf336d965825d00017cf3c2,1693.42,1694.46,we're lucky in that way.,-0.2400000000000091,1.0399999999999636,0,False,True,6
+517,5eaabf0113401e01e554cd32,1694.74,1698.71,Yeah. Okay. Well I don't want you don't want to cut you off,0.2799999999999727,3.9700000000000273,0,False,False,15
+518,5bf336d965825d00017cf3c2,1698.54,1699.09,I,-0.17000000000007276,0.5499999999999545,0,False,True,1
+519,5eaabf0113401e01e554cd32,1698.72,1699.17,but,-0.36999999999989086,0.4500000000000455,0,False,True,1
+520,5bf336d965825d00017cf3c2,1699.1,1702.41,was just wondering if we were over time because I didn't want to hold you up either. I'm sure you're,-0.07000000000016371,3.310000000000173,0,False,True,23
+521,5eaabf0113401e01e554cd32,1702.34,1702.75,yeah,-0.07000000000016371,0.41000000000008185,0,False,True,1
+522,5bf336d965825d00017cf3c2,1702.41,1703.6,busy. All,-0.33999999999991815,1.1899999999998272,0,False,True,2
+523,5eaabf0113401e01e554cd32,1703.44,1703.86,I,-0.15999999999985448,0.4199999999998454,0,False,True,1
+524,5bf336d965825d00017cf3c2,1703.6,1703.86,right.,-0.2599999999999909,0.2599999999999909,0,False,True,1
+525,5eaabf0113401e01e554cd32,1703.87,1705.26,think I think we're good.,0.009999999999990905,1.3900000000001,0,False,False,6
+526,5bf336d965825d00017cf3c2,1705.94,1707.41,I think we are too. It,0.6800000000000637,1.4700000000000273,0,False,False,6
+527,5eaabf0113401e01e554cd32,1707.24,1707.66,All right.,-0.17000000000007276,0.42000000000007276,0,False,True,2
+528,5bf336d965825d00017cf3c2,1707.41,1717.23,"was going to speak with you. I appreciate it. You seem like I hope wish you the best of luck in your career. I'm sorry. It didn't work out perfect with the covid, but I think a lot of folks are in that boat. So, uh, do",-0.25,9.819999999999936,0,False,True,49
+529,5eaabf0113401e01e554cd32,1716.84,1717.16,Yeah.,-0.39000000000010004,0.3200000000001637,0,False,True,1
+530,5bf336d965825d00017cf3c2,1717.23,1719.86,"your, do your best and everything will work out and",0.06999999999993634,2.6299999999998818,0,False,False,10
+531,5eaabf0113401e01e554cd32,1719.84,1720.26,All.,-0.01999999999998181,0.42000000000007276,0,False,True,1
+532,5bf336d965825d00017cf3c2,1719.87,1725.66,it'll get hopefully that advantage of that opportunity will come back when I'm done. So,-0.39000000000010004,5.790000000000191,0,False,True,17
+533,5eaabf0113401e01e554cd32,1725.24,1726.75,Mhm. Thank you.,-0.42000000000007276,1.509999999999991,0,False,True,3
+534,5bf336d965825d00017cf3c2,1726.74,1727.27,"right,",-0.009999999999990905,0.5299999999999727,0,False,True,1
+535,5eaabf0113401e01e554cd32,1726.76,1727.86,It's great speaking to you.,-0.5099999999999909,1.099999999999909,0,False,True,6
+536,5bf336d965825d00017cf3c2,1728.04,1729.13,you as well. Have a great,0.18000000000006366,1.0900000000001455,0,False,False,6
+537,5eaabf0113401e01e554cd32,1728.94,1729.26,Yeah.,-0.19000000000005457,0.31999999999993634,0,False,True,1
+538,5bf336d965825d00017cf3c2,1729.13,1729.36,day.,-0.12999999999988177,0.22999999999979082,0,False,True,1
+539,5eaabf0113401e01e554cd32,1729.74,1730.27,You too.,0.38000000000010914,0.5299999999999727,0,False,False,2
+540,5bf336d965825d00017cf3c2,1730.54,1730.96,Bye bye.,0.2699999999999818,0.42000000000007276,0,False,False,2

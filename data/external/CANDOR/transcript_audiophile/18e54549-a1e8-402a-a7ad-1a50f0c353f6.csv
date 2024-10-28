@@ -1,0 +1,597 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5cdcfb9de3e7c20016a4082c,19.04,20.06,mm.,,1.0199999999999996,0,False,False,1
+1,5ef3e76be991b816cd499e69,34.64,45.54,"No. Yeah. Thanks. Hello, how's it going? Uh huh.",14.580000000000002,10.899999999999999,1,False,False,10
+2,5cdcfb9de3e7c20016a4082c,45.64,47.29,Oh hello.,0.10000000000000142,1.6499999999999986,0,False,False,2
+3,5ef3e76be991b816cd499e69,47.34,47.66,Mhm.,0.05000000000000426,0.3199999999999932,0,False,False,1
+4,5cdcfb9de3e7c20016a4082c,48.54,49.1,I'm,0.8800000000000026,0.5600000000000023,0,False,False,2
+5,5ef3e76be991b816cd499e69,48.64,49.55,No. Right.,-0.46000000000000085,0.9099999999999966,0,False,True,2
+6,5cdcfb9de3e7c20016a4082c,49.1,49.35,doing.,-0.44999999999999574,0.25,0,False,True,1
+7,5ef3e76be991b816cd499e69,49.56,49.96,"Right,",0.21000000000000085,0.3999999999999986,0,False,False,1
+8,5cdcfb9de3e7c20016a4082c,49.94,50.14,Yeah.,-0.020000000000003126,0.20000000000000284,0,False,True,1
+9,5ef3e76be991b816cd499e69,51.14,54.56,so this is the first time you've done this kind of uh survey before.,1.0,3.4200000000000017,0,False,False,15
+10,5cdcfb9de3e7c20016a4082c,55.04,56.56,Yes sir. Yes sir. What about you?,0.4799999999999969,1.5200000000000031,1,True,False,7
+11,5ef3e76be991b816cd499e69,57.34,59.16,This is my 6th time.,0.7800000000000011,1.8199999999999932,0,False,False,5
+12,5cdcfb9de3e7c20016a4082c,59.84,65.83,"Your sixth time? Okay, that's pretty interesting. Um uh What all kind of stuff",0.6800000000000068,5.989999999999995,1,False,False,15
+13,5ef3e76be991b816cd499e69,65.54,66.26,Oh.,-0.28999999999999204,0.7199999999999989,0,False,True,1
+14,5cdcfb9de3e7c20016a4082c,65.83,69.26,have you have you talked about then? What kind of stuff do you want to talk about?,-0.4300000000000068,3.430000000000007,2,True,True,17
+15,5ef3e76be991b816cd499e69,69.64,77.05,"Oh man, it's all good. Um Do you do any other survey or is it just prolific?",0.37999999999999545,7.409999999999997,1,True,False,18
+16,5cdcfb9de3e7c20016a4082c,77.64,78.42,Just prolific,0.5900000000000034,0.7800000000000011,0,False,False,2
+17,5ef3e76be991b816cd499e69,78.24,78.58,Yeah.,-0.18000000000000682,0.3400000000000034,0,False,True,1
+18,5cdcfb9de3e7c20016a4082c,78.42,86.01,"for me? I I get a lot, like I tried a lot of Yougov and stuff like that, but it got really spammy and",-0.1599999999999966,7.590000000000003,1,False,True,24
+19,5ef3e76be991b816cd499e69,85.64,86.05,Yeah.,-0.37000000000000455,0.4099999999999966,0,False,True,1
+20,5cdcfb9de3e7c20016a4082c,86.01,90.66,it felt I felt like I wasn't being rewarded properly and things like that. So,-0.03999999999999204,4.6499999999999915,0,False,True,16
+21,5ef3e76be991b816cd499e69,91.44,91.64,Did,0.7800000000000011,0.20000000000000284,0,False,False,1
+22,5cdcfb9de3e7c20016a4082c,91.54,91.94,what,-0.09999999999999432,0.3999999999999915,0,False,True,1
+23,5ef3e76be991b816cd499e69,91.64,92.12,you have to try,-0.29999999999999716,0.480000000000004,0,False,True,4
+24,5cdcfb9de3e7c20016a4082c,91.94,92.15,about,-0.18000000000000682,0.21000000000000796,0,False,True,1
+25,5ef3e76be991b816cd499e69,92.12,92.55,like,-0.030000000000001137,0.4299999999999926,0,False,True,1
+26,5cdcfb9de3e7c20016a4082c,92.15,92.35,you?,-0.3999999999999915,0.19999999999998863,1,True,True,1
+27,5ef3e76be991b816cd499e69,93.14,94.85,did you ever try like amazon mturk?,0.7900000000000063,1.7099999999999937,1,True,False,7
+28,5cdcfb9de3e7c20016a4082c,96.24,98.51,"I have not, I'm going to write that down and",1.3900000000000006,2.2700000000000102,0,False,False,11
+29,5ef3e76be991b816cd499e69,99.34,108.76,"Yeah, that one prolific except way less paying and a lot more work. You have to get like scripts and stuff like that like um and to kind of help you along on the site",0.8299999999999983,9.420000000000002,0,False,False,35
+30,5cdcfb9de3e7c20016a4082c,109.44,109.86,Mhm.,0.6799999999999926,0.4200000000000017,0,False,False,1
+31,5ef3e76be991b816cd499e69,109.84,111.36,um What you kind,-0.01999999999999602,1.519999999999996,0,False,True,4
+32,5cdcfb9de3e7c20016a4082c,111.24,111.66,Okay.,-0.12000000000000455,0.4200000000000017,0,False,True,1
+33,5ef3e76be991b816cd499e69,111.36,119.26,"of get the hang of it. Um It can be pretty rewarding. Um But prolific definitely. Uh like the less effort, higher pay.",-0.29999999999999716,7.900000000000006,0,False,True,23
+34,5cdcfb9de3e7c20016a4082c,120.14,120.81,"Yeah,",0.8799999999999955,0.6700000000000017,0,False,False,1
+35,5ef3e76be991b816cd499e69,120.54,123.44,Yeah.,-0.269999999999996,2.8999999999999915,0,False,True,1
+36,5cdcfb9de3e7c20016a4082c,120.82,125.1,I liked a lot because it's also a lot of scientific research. Uh and,-2.6200000000000045,4.280000000000001,0,False,True,15
+37,5ef3e76be991b816cd499e69,124.94,125.15,Big,-0.1599999999999966,0.21000000000000796,0,False,True,1
+38,5cdcfb9de3e7c20016a4082c,125.1,125.2,I'm,-0.05000000000001137,0.10000000000000853,0,False,True,2
+39,5ef3e76be991b816cd499e69,125.15,125.36,"man,",-0.04999999999999716,0.20999999999999375,0,False,True,1
+40,5cdcfb9de3e7c20016a4082c,125.2,126.96,"really into that, so.",-0.1599999999999966,1.759999999999991,0,False,True,4
+41,5ef3e76be991b816cd499e69,126.34,130.45,That's what I'd rather do to 100%. It's just it's just way better for that.,-0.6199999999999903,4.109999999999985,0,False,True,19
+42,5cdcfb9de3e7c20016a4082c,131.14,138.85,Mhm. I like it a lot anyways. What do you what do you do for a living? Do you just do surveys and stuff?,0.6899999999999977,7.710000000000008,2,True,False,24
+43,5ef3e76be991b816cd499e69,139.34,142.72,Oh no no I work for state government uh,0.4900000000000091,3.3799999999999955,0,False,False,9
+44,5cdcfb9de3e7c20016a4082c,142.64,142.96,Ah,-0.0800000000000125,0.3200000000000216,0,False,True,1
+45,5ef3e76be991b816cd499e69,142.73,145.06,"to work, work at the welfare office.",-0.2300000000000182,2.3300000000000125,0,False,True,7
+46,5cdcfb9de3e7c20016a4082c,145.74,146.71,Okay. That's,0.6800000000000068,0.9699999999999989,0,False,False,3
+47,5ef3e76be991b816cd499e69,146.64,147.15,Yes.,-0.0700000000000216,0.5100000000000193,0,False,True,1
+48,5cdcfb9de3e7c20016a4082c,146.71,147.75,cool. That's cool.,-0.4399999999999977,1.039999999999992,0,False,True,4
+49,5ef3e76be991b816cd499e69,147.54,148.27,How about how,-0.21000000000000796,0.7300000000000182,0,False,True,3
+50,5cdcfb9de3e7c20016a4082c,148.14,148.65,Uh,-0.13000000000002387,0.5100000000000193,0,False,True,1
+51,5ef3e76be991b816cd499e69,148.27,148.72,about yourself?,-0.37999999999999545,0.44999999999998863,1,True,True,2
+52,5cdcfb9de3e7c20016a4082c,149.64,158.66,I am a senior so it's like a wine aficionado. Uh It's it's essentially like a really fancy server.,0.9199999999999875,9.02000000000001,0,False,False,22
+53,5ef3e76be991b816cd499e69,158.64,160.15,Cool. Cool. Alright,-0.020000000000010232,1.5100000000000193,0,False,True,3
+54,5cdcfb9de3e7c20016a4082c,159.84,160.5,Yeah.,-0.3100000000000023,0.6599999999999966,0,False,True,1
+55,5ef3e76be991b816cd499e69,160.16,160.55,man.,-0.3400000000000034,0.3900000000000148,0,False,True,1
+56,5cdcfb9de3e7c20016a4082c,160.51,167.46,"Yeah, it's really cool, I really like it. Um What what is your favorite hobby in the free time?",-0.040000000000020464,6.950000000000017,1,True,True,20
+57,5ef3e76be991b816cd499e69,169.64,171.76,Favorite hobby. in my free time.,2.1799999999999784,2.1200000000000045,0,False,False,6
+58,5cdcfb9de3e7c20016a4082c,171.34,176.16,"Yeah. If if if you could do anything that you wanted to do right now, what would it be?",-0.4199999999999875,4.819999999999993,1,True,True,19
+59,5ef3e76be991b816cd499e69,177.34,179.35,I probably played the drums. I'm a drummer.,1.1800000000000068,2.009999999999991,0,False,False,9
+60,5cdcfb9de3e7c20016a4082c,180.14,184.85,"Really? Okay. What kind of, what kind of music do you like to make?",0.789999999999992,4.710000000000008,2,True,False,14
+61,5ef3e76be991b816cd499e69,185.84,193.36,Um I play I play everything. Um But left to just like what I would like the best is like jazz probably.,0.9900000000000091,7.52000000000001,0,False,False,22
+62,5cdcfb9de3e7c20016a4082c,192.84,193.35,Really?,-0.5200000000000102,0.5099999999999909,1,True,True,1
+63,5ef3e76be991b816cd499e69,193.37,195.46,"Yeah,",0.020000000000010232,2.0900000000000034,0,False,False,1
+64,5cdcfb9de3e7c20016a4082c,194.44,196.25,Okay. That's pretty cool.,-1.0200000000000102,1.8100000000000023,0,False,True,5
+65,5ef3e76be991b816cd499e69,195.94,196.63,but for,-0.3100000000000023,0.6899999999999977,0,False,True,2
+66,5cdcfb9de3e7c20016a4082c,196.44,196.84,So,-0.18999999999999773,0.4000000000000057,0,False,True,1
+67,5ef3e76be991b816cd499e69,196.63,197.26,"the drums,",-0.21000000000000796,0.6299999999999955,0,False,True,2
+68,5cdcfb9de3e7c20016a4082c,196.84,197.66,you see like like,-0.4199999999999875,0.8199999999999932,0,False,True,4
+69,5ef3e76be991b816cd499e69,197.64,197.85,okay,-0.020000000000010232,0.21000000000000796,0,False,True,1
+70,5cdcfb9de3e7c20016a4082c,198.24,198.56,got.,0.3900000000000148,0.3199999999999932,0,False,False,1
+71,5ef3e76be991b816cd499e69,199.24,207.46,"for the drums, jazz is very much like you can kind of go off really do your own thing and it's like it's it's the funnest thing to play.",0.6800000000000068,8.219999999999999,0,False,False,32
+72,5cdcfb9de3e7c20016a4082c,208.24,208.66,Mhm.,0.7800000000000011,0.4199999999999875,0,False,False,1
+73,5ef3e76be991b816cd499e69,208.64,209.14,Uh huh.,-0.020000000000010232,0.5,0,False,True,2
+74,5cdcfb9de3e7c20016a4082c,209.14,209.55,I get,0.0,0.410000000000025,0,False,False,2
+75,5ef3e76be991b816cd499e69,209.54,209.62,Uh,-0.010000000000019327,0.0800000000000125,0,False,True,1
+76,5cdcfb9de3e7c20016a4082c,209.55,210.01,that.,-0.06999999999999318,0.45999999999997954,0,False,True,1
+77,5ef3e76be991b816cd499e69,209.62,211.54,huh.,-0.38999999999998636,1.9199999999999875,0,False,True,1
+78,5cdcfb9de3e7c20016a4082c,210.02,216.96,That's really cool. I like a lot of jazz music. So you like a big band jazz? Have you ever listened to scar?,-1.5199999999999818,6.939999999999998,2,True,True,24
+79,5ef3e76be991b816cd499e69,217.54,227.86,"Yeah. Yeah. Yeah. Yeah. Punk and Sky and all that good stuff, definitely. Uh grew up on punk. Um So that's pretty cool reggae. All that. I like everything man, I would really like everything. How about yourself?",0.5799999999999841,10.320000000000022,1,True,False,39
+80,5cdcfb9de3e7c20016a4082c,228.54,235.56,"Uh Same, I typically find myself listening to metal. I don't know if you can tell but",0.6799999999999784,7.02000000000001,0,False,False,18
+81,5ef3e76be991b816cd499e69,233.34,236.55,Yeah. Yeah. The medal I gave,-2.219999999999999,3.210000000000008,0,False,True,6
+82,5cdcfb9de3e7c20016a4082c,236.14,237.65,uh,-0.410000000000025,1.5100000000000193,0,False,True,1
+83,5ef3e76be991b816cd499e69,236.55,237.86,it away right?,-1.0999999999999943,1.3100000000000023,1,True,True,3
+84,5cdcfb9de3e7c20016a4082c,237.66,254.26,"typically find myself listening to metal, but I really also like pretty much everything I would say that the that the only things that I'm not super passionate about, our like gospel music um or like pop country music. I don't really like that very much either.",-0.20000000000001705,16.599999999999994,0,False,True,49
+85,5ef3e76be991b816cd499e69,255.04,259.36,Yeah. I'm not a big pop country guy and gospel. I get it.,0.7800000000000011,4.320000000000022,0,False,False,14
+86,5cdcfb9de3e7c20016a4082c,259.94,262.64,Yeah.,0.5799999999999841,2.6999999999999886,0,False,False,1
+87,5ef3e76be991b816cd499e69,259.94,262.7,Not for me I guess. You know what I mean?,-2.6999999999999886,2.759999999999991,1,True,True,10
+88,5cdcfb9de3e7c20016a4082c,262.65,262.96,Yeah.,-0.05000000000001137,0.3100000000000023,0,False,True,1
+89,5ef3e76be991b816cd499e69,262.71,263.47,If given,-0.25,0.7600000000000477,0,False,True,2
+90,5cdcfb9de3e7c20016a4082c,263.34,263.66,Yeah.,-0.1300000000000523,0.32000000000005,0,False,True,1
+91,5ef3e76be991b816cd499e69,263.47,266.96,"pop country or gospel, I would definitely go the gospel roots, I think.",-0.18999999999999773,3.4899999999999523,0,False,True,13
+92,5cdcfb9de3e7c20016a4082c,267.54,268.19,Uh See I,0.5800000000000409,0.6499999999999773,0,False,False,3
+93,5ef3e76be991b816cd499e69,268.14,268.46,Yeah.,-0.05000000000001137,0.3199999999999932,0,False,True,1
+94,5cdcfb9de3e7c20016a4082c,268.19,270.78,would go pop country instead.,-0.2699999999999818,2.589999999999975,0,False,True,5
+95,5ef3e76be991b816cd499e69,269.64,270.83,"All right, so it's his",-1.1399999999999864,1.1899999999999977,0,False,True,6
+96,5cdcfb9de3e7c20016a4082c,270.79,273.31,Um,-0.03999999999996362,2.519999999999982,0,False,True,1
+97,5ef3e76be991b816cd499e69,270.83,273.15,own ego.,-2.480000000000018,2.319999999999993,0,False,True,2
+98,5cdcfb9de3e7c20016a4082c,273.32,279.49,"um So uh whenever playing the drums, what what is your what",0.17000000000001592,6.170000000000016,0,False,False,12
+99,5ef3e76be991b816cd499e69,278.94,279.15,Mhm.,-0.5500000000000114,0.20999999999997954,0,False,True,1
+100,5cdcfb9de3e7c20016a4082c,279.49,289.36,is your favorite thing or what do you what do you find the most difficult about playing the drums? Is that the initial learning bit or is it like the rhythm keeping or?,0.34000000000003183,9.870000000000005,2,True,False,33
+101,5ef3e76be991b816cd499e69,289.74,304.53,"No, the rhythm you either have or you don't. So I would say the hardest thing is getting more technical and uh you know, maybe you want to be a little flashier, maybe trying harder things, not getting it as quick as you want to get it. But",0.37999999999999545,14.789999999999964,0,False,False,49
+102,5cdcfb9de3e7c20016a4082c,304.44,304.86,Okay.,-0.08999999999997499,0.4200000000000159,0,False,True,1
+103,5ef3e76be991b816cd499e69,304.53,311.22,"at this point I play the drums since I was a kid. So I mean, we're talking 20 years now, so I mean, pretty much kind",-0.3300000000000409,6.690000000000055,0,False,True,27
+104,5cdcfb9de3e7c20016a4082c,311.04,311.36,Okay.,-0.18000000000000682,0.3199999999999932,0,False,True,1
+105,5ef3e76be991b816cd499e69,311.22,312.84,"of music put in front of me, I",-0.13999999999998636,1.6199999999999477,0,False,True,8
+106,5cdcfb9de3e7c20016a4082c,312.84,313.05,I'm,0.0,0.21000000000003638,0,False,False,2
+107,5ef3e76be991b816cd499e69,312.84,313.95,can get down pretty good.,-0.21000000000003638,1.1100000000000136,0,False,True,5
+108,5cdcfb9de3e7c20016a4082c,314.84,315.35,"okay,",0.8899999999999864,0.5100000000000477,0,False,False,1
+109,5ef3e76be991b816cd499e69,315.24,316.46,Yeah.,-0.11000000000001364,1.2199999999999704,0,False,True,1
+110,5cdcfb9de3e7c20016a4082c,315.36,318.92,that makes sense. That makes sense. Um Whenever you say more technical,-1.099999999999966,3.5600000000000023,0,False,True,12
+111,5ef3e76be991b816cd499e69,318.64,318.84,Uh huh.,-0.28000000000002956,0.19999999999998863,0,False,True,2
+112,5cdcfb9de3e7c20016a4082c,318.92,339.24,"stuff, are you talking about like uh technical as in uh what is the one band, three man band greatest drummer in the world? Uh Dude had a full set, like he had to like be lowered into his drums or something like that and he would just play the entire drum set around him, like",0.08000000000004093,20.319999999999993,1,False,False,56
+113,5ef3e76be991b816cd499e69,339.24,339.56,And,0.0,0.3199999999999932,0,False,False,1
+114,5cdcfb9de3e7c20016a4082c,339.25,342.25,I don't remember the name of the banner and give me a second,-0.3100000000000023,3.0,0,False,True,14
+115,5ef3e76be991b816cd499e69,342.54,343.56,is it rough?,0.29000000000002046,1.0199999999999818,1,True,False,3
+116,5cdcfb9de3e7c20016a4082c,344.21,345.85,"rush. That is it,",0.6499999999999773,1.6400000000000432,0,False,False,4
+117,5ef3e76be991b816cd499e69,345.44,345.76,"Okay,",-0.410000000000025,0.3199999999999932,0,False,True,1
+118,5cdcfb9de3e7c20016a4082c,346.44,349.95,"man, I'm so bad with names,",0.6800000000000068,3.509999999999991,0,False,False,7
+119,5ef3e76be991b816cd499e69,349.84,351.23,"well,",-0.11000000000001364,1.3900000000000432,0,False,True,1
+120,5cdcfb9de3e7c20016a4082c,350.54,352.21,but,-0.6899999999999977,1.669999999999959,0,False,True,1
+121,5ef3e76be991b816cd499e69,351.23,352.29,"I mean that's the drummer,",-0.9799999999999613,1.0600000000000023,0,False,True,6
+122,5cdcfb9de3e7c20016a4082c,352.22,352.54,yeah.,-0.06999999999999318,0.3199999999999932,0,False,True,1
+123,5ef3e76be991b816cd499e69,352.29,355.66,"that's the drummer, Everyone's like that's that's the dude. So Yeah,",-0.25,3.3700000000000045,0,False,True,15
+124,5cdcfb9de3e7c20016a4082c,355.54,355.87,Yeah.,-0.12000000000000455,0.3299999999999841,0,False,True,1
+125,5ef3e76be991b816cd499e69,355.67,355.91,"yeah,",-0.19999999999998863,0.2400000000000091,0,False,True,1
+126,5cdcfb9de3e7c20016a4082c,355.87,356.56,He,-0.040000000000020464,0.6899999999999977,0,False,True,1
+127,5ef3e76be991b816cd499e69,355.91,356.65,"I mean, just",-0.6499999999999773,0.7399999999999523,0,False,True,3
+128,5cdcfb9de3e7c20016a4082c,356.57,357.66,really?,-0.07999999999998408,1.0900000000000318,1,True,True,1
+129,5ef3e76be991b816cd499e69,358.14,371.16,"he was there, he like, technically wise, Yeah, that's what we're talking like that level. Um Sometimes, you know hear stuff that's just so complex and it's like really you got to listen to it again again again.",0.47999999999996135,13.020000000000039,0,False,False,42
+130,5cdcfb9de3e7c20016a4082c,370.24,370.66,Mhm.,-0.9200000000000159,0.4200000000000159,0,False,True,1
+131,5ef3e76be991b816cd499e69,371.74,374.59,But,1.079999999999984,2.849999999999966,0,False,False,1
+132,5cdcfb9de3e7c20016a4082c,372.24,373.65,Okay. That's cool.,-2.349999999999966,1.4099999999999682,0,False,True,4
+133,5ef3e76be991b816cd499e69,374.6,383.26,"I would say other than that and probably making money any which way I can. I like stuff like this and stuff like that, like stocks really like investing and shit like that. Yeah",0.9500000000000455,8.659999999999968,0,False,False,34
+134,5cdcfb9de3e7c20016a4082c,383.54,384.44,"Okay,",0.28000000000002956,0.8999999999999773,0,False,False,1
+135,5ef3e76be991b816cd499e69,383.94,384.75,I'll,-0.5,0.8100000000000023,0,False,True,2
+136,5cdcfb9de3e7c20016a4082c,384.48,384.92,that's pretty,-0.2699999999999818,0.4399999999999977,0,False,True,3
+137,5ef3e76be991b816cd499e69,384.75,385.99,say that,-0.17000000000001592,1.240000000000009,0,False,True,2
+138,5cdcfb9de3e7c20016a4082c,384.92,385.76,cool. Uh,-1.0699999999999932,0.839999999999975,0,False,True,2
+139,5ef3e76be991b816cd499e69,386.0,386.55,take over.,0.2400000000000091,0.5500000000000114,0,False,False,2
+140,5cdcfb9de3e7c20016a4082c,387.34,395.26,What what what particular kind of investments are you looking at right now? Are you are you preparing yourself for the,0.7899999999999636,7.920000000000016,1,False,False,21
+141,5ef3e76be991b816cd499e69,395.04,395.25,Mhm.,-0.21999999999997044,0.20999999999997954,0,False,True,1
+142,5cdcfb9de3e7c20016a4082c,395.27,397.13,possibility of an economic crash,0.01999999999998181,1.8600000000000136,0,False,False,5
+143,5ef3e76be991b816cd499e69,396.94,397.26,Uh huh.,-0.18999999999999773,0.3199999999999932,0,False,True,2
+144,5cdcfb9de3e7c20016a4082c,397.13,401.46,here in the United States with the lockdowns coming in again or what?,-0.12999999999999545,4.329999999999984,1,True,True,13
+145,5ef3e76be991b816cd499e69,401.94,411.8,"Only in the sense that I would exploit it and buy more stocks whenever freaks out. I think most of the crash has been dealt with. Uh so I'm not really fearing that,",0.4800000000000182,9.860000000000014,0,False,False,34
+146,5cdcfb9de3e7c20016a4082c,411.74,411.94,Yeah.,-0.060000000000002274,0.19999999999998863,0,False,True,1
+147,5ef3e76be991b816cd499e69,411.8,420.18,I think I'm planning on a rough few quarters ahead of us but I think by Q. three 2021 realistically,-0.13999999999998636,8.379999999999995,0,False,True,21
+148,5cdcfb9de3e7c20016a4082c,419.64,420.06,Mhm.,-0.5400000000000205,0.4200000000000159,0,False,True,1
+149,5ef3e76be991b816cd499e69,420.18,425.06,I think it should be a different picture and that's kind of what I'm banking on so,0.12000000000000455,4.8799999999999955,0,False,False,19
+150,5cdcfb9de3e7c20016a4082c,424.04,424.66,Okay.,-1.0199999999999818,0.6200000000000045,0,False,True,1
+151,5ef3e76be991b816cd499e69,425.07,425.98,but I think,0.40999999999996817,0.910000000000025,0,False,False,3
+152,5cdcfb9de3e7c20016a4082c,425.94,426.45,Um,-0.040000000000020464,0.5099999999999909,0,False,True,1
+153,5ef3e76be991b816cd499e69,425.98,427.56,it's a had,-0.46999999999997044,1.579999999999984,0,False,True,4
+154,5cdcfb9de3e7c20016a4082c,428.44,429.0,I was gonna,0.8799999999999955,0.5600000000000023,0,False,False,4
+155,5ef3e76be991b816cd499e69,428.94,429.66,what?,-0.060000000000002274,0.7200000000000273,1,True,True,1
+156,5cdcfb9de3e7c20016a4082c,429.0,445.27,"ask uh if you don't mind me asking, what what do you typically have is your basic kind of portfolio in your stocks? Like do you go the safe route with like a realtor like our what is it called? Um like housing and and",-0.660000000000025,16.269999999999982,2,False,True,46
+157,5ef3e76be991b816cd499e69,444.84,445.05,Um,-0.4300000000000068,0.21000000000003638,0,False,True,1
+158,5cdcfb9de3e7c20016a4082c,445.28,446.89,"things like that, or are",0.22999999999996135,1.6100000000000136,0,False,False,5
+159,5ef3e76be991b816cd499e69,446.84,447.04,real,-0.05000000000001137,0.20000000000004547,0,False,True,1
+160,5cdcfb9de3e7c20016a4082c,446.89,447.07,you,-0.1500000000000341,0.18000000000000682,0,False,True,1
+161,5ef3e76be991b816cd499e69,447.04,447.46,estate,-0.029999999999972715,0.4199999999999591,0,False,True,1
+162,5cdcfb9de3e7c20016a4082c,447.07,466.16,"going more like Yeah real estate, that's that's what it's like for real estate, Are you uh going more of like a unsafe route with like betting on stocks, things like stock shorting, or investing in like green energy or things like that? Yeah,",-0.38999999999998636,19.090000000000032,1,False,True,47
+163,5ef3e76be991b816cd499e69,466.24,476.17,so green energy. I wouldn't say his gambling that's a pretty safe bet right? Unless you're planning on living in some kind of wasteland pretty soon which,0.07999999999998408,9.930000000000007,1,False,False,30
+164,5cdcfb9de3e7c20016a4082c,475.24,476.76,I love you.,-0.9300000000000068,1.5199999999999818,0,False,True,3
+165,5ef3e76be991b816cd499e69,476.18,480.29,we might understand. I'm not I,-0.5799999999999841,4.110000000000014,0,False,True,7
+166,5cdcfb9de3e7c20016a4082c,479.14,480.06,Yeah.,-1.150000000000034,0.9200000000000159,0,False,True,1
+167,5ef3e76be991b816cd499e69,480.3,503.22,play every sides. I own oil and I own renewable. I own real estate. I own about 30 positions. I own three E. T. S. Out of those 30 positions. Um risk. I don't play with options unless you have like 100 grand or 200 grand. I don't mess with the options. I can't afford to lose negative exponential amounts of money. That's not my game,0.2400000000000091,22.920000000000016,0,False,False,70
+168,5cdcfb9de3e7c20016a4082c,503.14,503.56,Mhm.,-0.08000000000004093,0.4200000000000159,0,False,True,1
+169,5ef3e76be991b816cd499e69,503.22,517.06,"at all. Um But I do get the idea about it. I mean like don't get me wrong if you're smart, you know what you're doing? I'm sure you can make a lot of money on options but I've never once facing options better. Um So yeah I just",-0.339999999999975,13.839999999999918,1,False,True,54
+170,5cdcfb9de3e7c20016a4082c,516.84,517.04,Yeah.,-0.2199999999999136,0.1999999999999318,0,False,True,1
+171,5ef3e76be991b816cd499e69,517.07,521.55,"I invest in like stuff you're gonna need, pharmaceuticals, um",0.030000000000086402,4.4799999999999045,0,False,False,12
+172,5cdcfb9de3e7c20016a4082c,520.74,521.16,"No,",-0.8099999999999454,0.4199999999999591,0,False,True,1
+173,5ef3e76be991b816cd499e69,522.04,524.86,"Internet, basic stuff like that,",0.8799999999999955,2.82000000000005,0,False,False,5
+174,5cdcfb9de3e7c20016a4082c,525.84,526.08,that's,0.9800000000000182,0.2400000000000091,0,False,False,2
+175,5ef3e76be991b816cd499e69,526.04,526.85,wow.,-0.04000000000007731,0.8100000000000591,0,False,True,1
+176,5cdcfb9de3e7c20016a4082c,526.08,527.95,cool. Um,-0.7699999999999818,1.8700000000000045,0,False,True,2
+177,5ef3e76be991b816cd499e69,527.74,528.45,Yeah.,-0.21000000000003638,0.7100000000000364,0,False,True,1
+178,5cdcfb9de3e7c20016a4082c,528.54,529.34,have,0.08999999999991815,0.8000000000000682,0,False,False,1
+179,5ef3e76be991b816cd499e69,528.84,529.04,Uh huh.,-0.5,0.1999999999999318,0,False,True,2
+180,5cdcfb9de3e7c20016a4082c,529.34,532.33,"you, have you bought any fighter stock from",0.3000000000000682,2.990000000000009,0,False,False,8
+181,5ef3e76be991b816cd499e69,532.14,532.72,I did.,-0.19000000000005457,0.5800000000000409,0,False,True,2
+182,5cdcfb9de3e7c20016a4082c,532.33,532.74,what I can,-0.38999999999998636,0.40999999999996817,0,False,True,3
+183,5ef3e76be991b816cd499e69,532.72,532.79,I,-0.01999999999998181,0.06999999999993634,0,False,True,1
+184,5cdcfb9de3e7c20016a4082c,532.74,533.06,tell,-0.049999999999954525,0.31999999999993634,0,False,True,1
+185,5ef3e76be991b816cd499e69,532.8,533.76,I'm,-0.2599999999999909,0.9600000000000364,0,False,True,2
+186,5cdcfb9de3e7c20016a4082c,533.06,537.15,that they're going to be the leaders in the coronavirus vaccine development?,-0.7000000000000455,4.090000000000032,1,True,True,13
+187,5ef3e76be991b816cd499e69,537.04,544.57,"yeah, They're they have kind of been struggling. So I was I was always kind of fearful as I bought them. I bought only the dips so they're around",-0.11000000000001364,7.530000000000086,0,False,True,31
+188,5cdcfb9de3e7c20016a4082c,544.44,544.86,Mhm.,-0.12999999999999545,0.4199999999999591,0,False,True,1
+189,5ef3e76be991b816cd499e69,544.57,556.04,"like what, 35 right now I think I haven't bought a share over $30. Um Yeah, it's one of its as far as like pharmaceuticals, it's like my smallest holding over",-0.2899999999999636,11.469999999999914,0,False,True,35
+190,5cdcfb9de3e7c20016a4082c,555.84,556.26,Mhm.,-0.1999999999999318,0.4199999999999591,0,False,True,1
+191,5ef3e76be991b816cd499e69,556.04,561.8,that. I haven't really had they make the remdesivir which is like less and less effective. And then,-0.22000000000002728,5.759999999999991,0,False,True,19
+192,5cdcfb9de3e7c20016a4082c,561.74,562.06,Mhm.,-0.05999999999994543,0.31999999999993634,0,False,True,1
+193,5ef3e76be991b816cd499e69,561.81,564.36,uh Merck Merck pharmaceuticals,-0.25,2.550000000000068,0,False,True,4
+194,5cdcfb9de3e7c20016a4082c,565.54,566.05,Okay.,1.17999999999995,0.5099999999999909,0,False,False,1
+195,5ef3e76be991b816cd499e69,565.84,566.46,batman,-0.2099999999999227,0.6200000000000045,0,False,True,1
+196,5cdcfb9de3e7c20016a4082c,566.94,567.44,"Okay,",0.4800000000000182,0.5,0,False,False,1
+197,5ef3e76be991b816cd499e69,567.24,567.78,and,-0.20000000000004547,0.5399999999999636,0,False,True,1
+198,5cdcfb9de3e7c20016a4082c,567.49,567.78,that's,-0.2899999999999636,0.2899999999999636,0,False,True,2
+199,5ef3e76be991b816cd499e69,567.78,567.96,then,0.0,0.18000000000006366,0,False,False,1
+200,5cdcfb9de3e7c20016a4082c,567.79,568.3,pretty,-0.17000000000007276,0.5099999999999909,0,False,True,1
+201,5ef3e76be991b816cd499e69,567.96,568.56,fighters.,-0.33999999999991815,0.599999999999909,0,False,True,1
+202,5cdcfb9de3e7c20016a4082c,568.38,568.46,good.,-0.17999999999994998,0.08000000000004093,0,False,True,1
+203,5ef3e76be991b816cd499e69,568.57,569.33,When I when,0.11000000000001364,0.7599999999999909,0,False,False,3
+204,5cdcfb9de3e7c20016a4082c,569.24,569.44,Yeah.,-0.09000000000003183,0.20000000000004547,0,False,True,1
+205,5ef3e76be991b816cd499e69,569.33,577.82,"I I like into a segment, I buy like a lot by like a bunch of them and then just see what happens. I think that's the smartest",-0.11000000000001364,8.490000000000009,0,False,True,29
+206,5cdcfb9de3e7c20016a4082c,577.54,577.96,"Okay,",-0.2800000000000864,0.42000000000007276,0,False,True,1
+207,5ef3e76be991b816cd499e69,577.82,586.14,way. We're not really sure. Like you can kind of see in real time how things are working now and that kind of helps you inform the next decision. Yeah.,-0.13999999999998636,8.319999999999936,0,False,True,31
+208,5cdcfb9de3e7c20016a4082c,587.04,587.41,that makes,0.8999999999999773,0.37000000000000455,0,False,False,2
+209,5ef3e76be991b816cd499e69,587.34,587.61,Yeah.,-0.06999999999993634,0.2699999999999818,0,False,True,1
+210,5cdcfb9de3e7c20016a4082c,587.41,589.26,sense. That makes sense. Um,-0.20000000000004547,1.8500000000000227,0,False,True,5
+211,5ef3e76be991b816cd499e69,589.04,589.76,Right.,-0.22000000000002728,0.7200000000000273,0,False,True,1
+212,5cdcfb9de3e7c20016a4082c,589.27,590.86,"So you buy based upon,",-0.4900000000000091,1.5900000000000318,0,False,True,5
+213,5ef3e76be991b816cd499e69,590.34,590.55,Yes.,-0.5199999999999818,0.2099999999999227,0,False,True,1
+214,5cdcfb9de3e7c20016a4082c,590.87,599.26,do you buy based upon uh trends happening in the market itself? Or do you buy based upon like ethical,0.32000000000005,8.389999999999986,1,False,False,20
+215,5ef3e76be991b816cd499e69,599.14,599.28,All,-0.12000000000000455,0.13999999999998636,0,False,True,1
+216,5cdcfb9de3e7c20016a4082c,599.26,599.73,ventures?,-0.01999999999998181,0.4700000000000273,1,True,True,1
+217,5ef3e76be991b816cd499e69,599.28,599.46,right.,-0.4500000000000455,0.18000000000006366,0,False,True,1
+218,5cdcfb9de3e7c20016a4082c,599.73,606.85,Or do you buy based upon social trends that are happening? So the things like uh given the option,0.2699999999999818,7.1200000000000045,1,False,False,19
+219,5ef3e76be991b816cd499e69,606.84,607.26,Mhm.,-0.009999999999990905,0.4199999999999591,0,False,True,1
+220,5cdcfb9de3e7c20016a4082c,606.85,608.36,"to buy Tiktok, would you buy Tiktok?",-0.40999999999996817,1.509999999999991,1,True,True,7
+221,5ef3e76be991b816cd499e69,609.44,615.34,"Um Well, I mean, I own Microsoft, which was going to get Tiktok now. It sounds like oracle right now. I wouldn't touch",1.080000000000041,5.899999999999977,0,False,False,24
+222,5cdcfb9de3e7c20016a4082c,615.14,615.55,Yeah.,-0.20000000000004547,0.40999999999996817,0,False,True,1
+223,5ef3e76be991b816cd499e69,615.34,618.21,to cock a three ft full uh with a 10,-0.2099999999999227,2.8700000000000045,0,False,True,10
+224,5cdcfb9de3e7c20016a4082c,618.04,618.66,Yeah.,-0.17000000000007276,0.6200000000000045,0,False,True,1
+225,5ef3e76be991b816cd499e69,618.21,621.66,"ft pole given it has to get through the Communist Party. So, I mean everyone's",-0.4499999999999318,3.449999999999932,0,False,True,16
+226,5cdcfb9de3e7c20016a4082c,621.44,621.8,Uh,-0.2199999999999136,0.35999999999989996,0,False,True,1
+227,5ef3e76be991b816cd499e69,621.66,621.91,really,-0.13999999999998636,0.25,0,False,True,1
+228,5cdcfb9de3e7c20016a4082c,621.8,622.45,huh.,-0.11000000000001364,0.650000000000091,0,False,True,1
+229,5ef3e76be991b816cd499e69,621.91,638.5,"quick to jump into china, but I mean at the end of the day, the china Communist Party can come in and say no, that's it, we're going to deal with this or no, that's it and they can do whatever they want. So, I mean, you gotta be smart when you're messing with foreign stocks. I own like",-0.5400000000000773,16.590000000000032,0,False,True,64
+230,5cdcfb9de3e7c20016a4082c,638.24,638.66,Mhm.,-0.2599999999999909,0.4199999999999591,0,False,True,1
+231,5ef3e76be991b816cd499e69,638.51,645.82,"maybe like three or four foreign stocks and they're very, very safe. S. A. P. Is like a german company, you know, a Canadian",-0.14999999999997726,7.310000000000059,0,False,True,25
+232,5cdcfb9de3e7c20016a4082c,645.44,645.76,Mhm.,-0.37999999999999545,0.31999999999993634,0,False,True,1
+233,5ef3e76be991b816cd499e69,645.83,659.36,"oil company, Canadian solar company and I think in Australian mining company. Um but when it comes to overseas stocks, uh I'm a little more shit like conservative.",0.07000000000005002,13.529999999999973,0,False,False,29
+234,5cdcfb9de3e7c20016a4082c,660.14,660.77,Okay.,0.7799999999999727,0.6299999999999955,0,False,False,1
+235,5ef3e76be991b816cd499e69,660.54,663.75,Uh,-0.2300000000000182,3.2100000000000364,0,False,True,1
+236,5cdcfb9de3e7c20016a4082c,660.78,664.86,Makes sense. Um So I think I think you lashed onto,-2.9700000000000273,4.080000000000041,0,False,True,11
+237,5ef3e76be991b816cd499e69,664.54,664.75,Oh,-0.32000000000005,0.21000000000003638,0,False,True,1
+238,5cdcfb9de3e7c20016a4082c,664.86,678.2,"uh and the idea of tick tock keeping the china thing, but you missed the question is like, do you invest like ethically driven or like socially driven or do you do it like markedly driven? Like so",0.11000000000001364,13.340000000000032,1,False,False,38
+239,5ef3e76be991b816cd499e69,678.04,678.36,as,-0.16000000000008185,0.32000000000005,0,False,True,1
+240,5cdcfb9de3e7c20016a4082c,678.21,678.52,you,-0.14999999999997726,0.30999999999994543,0,False,True,1
+241,5ef3e76be991b816cd499e69,678.37,678.98,quality,-0.14999999999997726,0.6100000000000136,0,False,True,1
+242,5cdcfb9de3e7c20016a4082c,678.52,679.24,know you,-0.4600000000000364,0.7200000000000273,0,False,True,2
+243,5ef3e76be991b816cd499e69,678.98,679.86,"above,",-0.2599999999999909,0.8799999999999955,0,False,True,1
+244,5cdcfb9de3e7c20016a4082c,679.24,680.42,said you buy the dips and stuff,-0.6200000000000045,1.17999999999995,0,False,True,7
+245,5ef3e76be991b816cd499e69,680.34,681.16,it's,-0.07999999999992724,0.8199999999999363,0,False,True,2
+246,5cdcfb9de3e7c20016a4082c,680.42,680.96,"like that, so.",-0.7400000000000091,0.5400000000000773,0,False,True,3
+247,5ef3e76be991b816cd499e69,681.16,692.76,"all, it's all of the above, right? I mean I've Boughton stocks just on fundamentals, just like I love this company, they're making money, they're doing the right thing and I pay for too much for them and I've lost money that way.",0.1999999999999318,11.600000000000023,1,False,False,48
+248,5cdcfb9de3e7c20016a4082c,692.44,692.64,Yeah.,-0.31999999999993634,0.1999999999999318,0,False,True,1
+249,5ef3e76be991b816cd499e69,693.44,707.82,"So um I do a bit of both kind of usually charting, I'm looking at the chart and going, okay, where's the month trend is going up, it's going down, you kind of know, I mean everything I have, I'm watching daily, so my",0.8000000000000682,14.379999999999995,0,False,False,48
+250,5cdcfb9de3e7c20016a4082c,706.84,707.26,Okay.,-0.9800000000000182,0.4199999999999591,0,False,True,1
+251,5ef3e76be991b816cd499e69,707.82,715.56,"advisor based on the relationship to each other, I laid everything out in front of me and I just kind of watch what they're doing in relation to each other.",0.5600000000000591,7.739999999999895,0,False,False,31
+252,5cdcfb9de3e7c20016a4082c,716.74,719.36,"Okay, that makes sense now",1.1800000000000637,2.6200000000000045,0,False,False,5
+253,5ef3e76be991b816cd499e69,718.84,719.85,Uh huh,-0.5199999999999818,1.009999999999991,0,False,True,2
+254,5cdcfb9de3e7c20016a4082c,719.94,720.64,uh,0.09000000000003183,0.6999999999999318,0,False,False,1
+255,5ef3e76be991b816cd499e69,720.54,720.75,Oh,-0.10000000000002274,0.21000000000003638,0,False,True,1
+256,5cdcfb9de3e7c20016a4082c,720.65,723.18,still sort of talking about the stock market,-0.10000000000002274,2.5299999999999727,0,False,True,8
+257,5ef3e76be991b816cd499e69,723.04,723.25,what?,-0.13999999999998636,0.21000000000003638,1,True,True,1
+258,5cdcfb9de3e7c20016a4082c,723.18,731.55,"but also not really, how do you feel about some of these larger stockbrokers and the stockbroking companies breaking into Bitcoin?",-0.07000000000005002,8.370000000000005,1,True,True,21
+259,5ef3e76be991b816cd499e69,732.84,737.2,"Uh I think it's exciting, right? I've used Bitcoin",1.2900000000000773,4.360000000000014,1,False,False,11
+260,5cdcfb9de3e7c20016a4082c,736.84,737.04,Uh huh.,-0.36000000000001364,0.1999999999999318,0,False,True,2
+261,5ef3e76be991b816cd499e69,737.21,740.75,"because I've had to, I like playing online poker and so",0.17000000000007276,3.5399999999999636,0,False,False,12
+262,5cdcfb9de3e7c20016a4082c,740.54,741.25,Uh huh.,-0.21000000000003638,0.7100000000000364,0,False,True,2
+263,5ef3e76be991b816cd499e69,740.75,745.34,"that got taken away from me, so the only way to do it was through Bitcoin, get taken",-0.5,4.590000000000032,0,False,True,18
+264,5cdcfb9de3e7c20016a4082c,745.14,745.65,Mhm.,-0.20000000000004547,0.5099999999999909,0,False,True,1
+265,5ef3e76be991b816cd499e69,745.34,751.64,"away, like you still do it now, but oh man, I'm hoping God if we can get that back in this country, make America",-0.30999999999994543,6.2999999999999545,0,False,True,25
+266,5cdcfb9de3e7c20016a4082c,751.24,752.46,Uh huh.,-0.39999999999997726,1.2200000000000273,0,False,True,2
+267,5ef3e76be991b816cd499e69,751.65,753.93,"great again, I would",-0.8100000000000591,2.2799999999999727,0,False,True,4
+268,5cdcfb9de3e7c20016a4082c,753.8,754.75,Yeah.,-0.12999999999999545,0.9500000000000455,0,False,True,1
+269,5ef3e76be991b816cd499e69,753.93,759.24,"be making so much money, you don't even know I would not be doing what I'm doing now. Yeah,",-0.82000000000005,5.310000000000059,0,False,True,21
+270,5cdcfb9de3e7c20016a4082c,758.74,762.96,Yeah. You uh you really get a poker?,-0.5,4.220000000000027,1,True,True,8
+271,5ef3e76be991b816cd499e69,763.84,769.24,"I am so, so I do everything except no limit hold em, so I",0.8799999999999955,5.399999999999977,0,False,False,14
+272,5cdcfb9de3e7c20016a4082c,768.74,769.16,Mhm.,-0.5,0.4199999999999591,0,False,True,1
+273,5ef3e76be991b816cd499e69,769.25,783.04,"will play any kind of poker besides no limit, hold em and I can hold my own. I wouldn't, I mean if I was a professional right, I wouldn't be sitting here right now, I'd probably be in Vegas or something like that. But right now even in Vegas you can't, you can't go",0.09000000000003183,13.789999999999964,0,False,False,59
+274,5cdcfb9de3e7c20016a4082c,782.94,783.14,"Yeah,",-0.09999999999990905,0.1999999999999318,0,False,True,1
+275,5ef3e76be991b816cd499e69,783.05,783.58,so,-0.09000000000003183,0.5300000000000864,0,False,True,1
+276,5cdcfb9de3e7c20016a4082c,783.14,783.71,you can't sit,-0.44000000000005457,0.57000000000005,0,False,True,4
+277,5ef3e76be991b816cd499e69,783.59,784.97,which,-0.12000000000000455,1.3799999999999955,0,False,True,1
+278,5cdcfb9de3e7c20016a4082c,783.71,784.46,at the table here.,-1.259999999999991,0.75,0,False,True,4
+279,5ef3e76be991b816cd499e69,784.97,792.98,"I love and I want to see them all go bankrupt because they've got no problem putting me out of a job. So I, I love it. I love",0.5099999999999909,8.009999999999991,0,False,False,30
+280,5cdcfb9de3e7c20016a4082c,792.74,795.27,I,-0.2400000000000091,2.5299999999999727,0,False,True,1
+281,5ef3e76be991b816cd499e69,792.98,793.15,it.,-2.2899999999999636,0.16999999999995907,0,False,True,1
+282,5cdcfb9de3e7c20016a4082c,795.28,807.39,"agree, I agree, I've been playing poker for a long time. My uh my grandmother taught it to me whenever I was a kid um and you know I've I've been playing hold em and Omaha hi lo and and",2.1299999999999955,12.110000000000014,0,False,False,43
+283,5ef3e76be991b816cd499e69,807.14,807.65,Mm,-0.25,0.5099999999999909,0,False,True,1
+284,5cdcfb9de3e7c20016a4082c,807.39,812.27,"all kinds of stuff basically my entire life, I'm 29 years old. Uh so",-0.2599999999999909,4.8799999999999955,0,False,True,15
+285,5ef3e76be991b816cd499e69,811.86,812.42,uh,-0.40999999999996817,0.5599999999999454,0,False,True,1
+286,5cdcfb9de3e7c20016a4082c,812.28,812.55,for,-0.13999999999998636,0.2699999999999818,0,False,True,1
+287,5ef3e76be991b816cd499e69,812.42,812.74,huh.,-0.12999999999999545,0.32000000000005,0,False,True,1
+288,5cdcfb9de3e7c20016a4082c,812.56,815.96,20 ish years at least. Uh huh.,-0.18000000000006366,3.400000000000091,0,False,True,7
+289,5ef3e76be991b816cd499e69,816.04,820.96,"So 33 years here, Omaha, Hi Lo is definitely a good one for me, stud",0.07999999999992724,4.920000000000073,0,False,False,15
+290,5cdcfb9de3e7c20016a4082c,820.54,820.96,Mhm.,-0.42000000000007276,0.42000000000007276,0,False,True,1
+291,5ef3e76be991b816cd499e69,820.97,825.7,"stud, seven Hailo is like my moneymaker Uh",0.009999999999990905,4.730000000000018,0,False,False,8
+292,5cdcfb9de3e7c20016a4082c,824.94,825.36,Mhm.,-0.7599999999999909,0.4199999999999591,0,False,True,1
+293,5ef3e76be991b816cd499e69,825.71,833.36,"really to seven triple draw, Um five card draw, um, raz",0.35000000000002274,7.649999999999977,0,False,False,11
+294,5cdcfb9de3e7c20016a4082c,834.64,835.15,Okay.,1.2799999999999727,0.5099999999999909,0,False,False,1
+295,5ef3e76be991b816cd499e69,834.64,838.15,"horse, you know, and they kind of switch everything",-0.5099999999999909,3.509999999999991,0,False,True,9
+296,5cdcfb9de3e7c20016a4082c,838.64,839.95,"Yeah,",0.4900000000000091,1.3100000000000591,0,False,False,1
+297,5ef3e76be991b816cd499e69,838.94,840.46,uh right,-1.009999999999991,1.5199999999999818,0,False,True,2
+298,5cdcfb9de3e7c20016a4082c,840.34,846.97,"so I would say that Omaha Hi Lo is is my safe game is the one that I play, if I just want",-0.12000000000000455,6.6299999999999955,0,False,True,23
+299,5ef3e76be991b816cd499e69,846.94,847.26,mhm,-0.029999999999972715,0.31999999999993634,0,False,True,1
+300,5cdcfb9de3e7c20016a4082c,846.97,849.83,"to play that way, I don't lose any money that way",-0.2899999999999636,2.8600000000000136,0,False,True,12
+301,5ef3e76be991b816cd499e69,849.44,849.85,"Yeah,",-0.38999999999998636,0.40999999999996817,0,False,True,1
+302,5cdcfb9de3e7c20016a4082c,849.84,850.31,I have the,-0.009999999999990905,0.4699999999999136,0,False,True,3
+303,5ef3e76be991b816cd499e69,850.24,850.65,"yeah,",-0.06999999999993634,0.40999999999996817,0,False,True,1
+304,5cdcfb9de3e7c20016a4082c,850.31,854.81,"opportunity to win money, but I'm probably not going to lose any money going",-0.34000000000003183,4.5,0,False,True,15
+305,5ef3e76be991b816cd499e69,854.44,854.84,do,-0.36999999999989086,0.39999999999997726,0,False,True,1
+306,5cdcfb9de3e7c20016a4082c,854.81,855.05,into,-0.030000000000086402,0.2400000000000091,0,False,True,1
+307,5ef3e76be991b816cd499e69,854.84,855.16,you do,-0.2099999999999227,0.31999999999993634,0,False,True,2
+308,5cdcfb9de3e7c20016a4082c,855.05,857.35,"it or if I do then it's like 20 bucks, maybe",-0.11000000000001364,2.300000000000068,0,False,True,12
+309,5ef3e76be991b816cd499e69,856.94,858.95,pot limit or no limit or what?,-0.40999999999996817,2.009999999999991,1,True,True,7
+310,5cdcfb9de3e7c20016a4082c,859.54,861.94,I prefer no limit because,0.5899999999999181,2.400000000000091,0,False,False,5
+311,5ef3e76be991b816cd499e69,861.04,862.25,"Oh, uh huh",-0.900000000000091,1.2100000000000364,0,False,True,3
+312,5cdcfb9de3e7c20016a4082c,861.94,863.16,it makes it a little riskier.,-0.30999999999994543,1.2199999999999136,0,False,True,6
+313,5ef3e76be991b816cd499e69,863.54,864.04,"Yeah,",0.37999999999999545,0.5,0,False,False,1
+314,5cdcfb9de3e7c20016a4082c,863.64,865.04,Um and,-0.39999999999997726,1.3999999999999773,0,False,True,2
+315,5ef3e76be991b816cd499e69,864.44,864.94,yeah.,-0.599999999999909,0.5,0,False,True,1
+316,5cdcfb9de3e7c20016a4082c,865.05,869.85,"typically whenever I play online, I just play with the free money instead of playing with my money. So",0.10999999999989996,4.800000000000068,0,False,False,19
+317,5ef3e76be991b816cd499e69,870.64,870.97,Now,0.7899999999999636,0.3300000000000409,0,False,False,1
+318,5cdcfb9de3e7c20016a4082c,870.74,871.36,uh,-0.2300000000000182,0.6200000000000045,0,False,True,1
+319,5ef3e76be991b816cd499e69,870.98,872.76,do you still play online now?,-0.37999999999999545,1.7799999999999727,1,True,True,6
+320,5cdcfb9de3e7c20016a4082c,873.64,877.45,"I haven't played in a few months, but last",0.8799999999999955,3.810000000000059,0,False,False,10
+321,5ef3e76be991b816cd499e69,876.84,877.16,"Yeah,",-0.6100000000000136,0.31999999999993634,0,False,True,1
+322,5cdcfb9de3e7c20016a4082c,877.45,878.65,"time I played was last year, so",0.2900000000000773,1.1999999999999318,0,False,False,7
+323,5ef3e76be991b816cd499e69,879.04,882.76,"I'd say yeah, my last year and like, uh",0.38999999999998636,3.7200000000000273,0,False,False,10
+324,5cdcfb9de3e7c20016a4082c,882.24,882.56,50.,-0.5199999999999818,0.31999999999993634,0,False,True,1
+325,5ef3e76be991b816cd499e69,882.77,883.1,"I don't know,",0.21000000000003638,0.3300000000000409,0,False,False,4
+326,5cdcfb9de3e7c20016a4082c,883.04,883.25,Mhm.,-0.06000000000005912,0.21000000000003638,0,False,True,1
+327,5ef3e76be991b816cd499e69,883.1,887.01,the sites got a little steadily shakier and I like,-0.14999999999997726,3.909999999999968,0,False,True,10
+328,5cdcfb9de3e7c20016a4082c,886.94,887.45,Mhm.,-0.06999999999993634,0.5099999999999909,0,False,True,1
+329,5ef3e76be991b816cd499e69,887.01,893.55,"started seeing box and I'm like, yeah, right. That explains a few weird tournaments on the tournament, dude. So I mean,",-0.44000000000005457,6.539999999999964,0,False,True,22
+330,5cdcfb9de3e7c20016a4082c,893.54,893.96,Mhm.,-0.009999999999990905,0.42000000000007276,0,False,True,1
+331,5ef3e76be991b816cd499e69,894.74,897.56,"um I don't know, everything's just so degraded.",0.7799999999999727,2.8199999999999363,0,False,False,10
+332,5cdcfb9de3e7c20016a4082c,897.44,897.65,Okay.,-0.11999999999989086,0.2099999999999227,0,False,True,1
+333,5ef3e76be991b816cd499e69,897.57,905.66,"What your opinions are, we gonna get this with our whatever president we get, they're gonna it's gonna change I think or now.",-0.07999999999992724,8.089999999999918,0,False,True,28
+334,5cdcfb9de3e7c20016a4082c,906.34,907.13,Uh,0.6800000000000637,0.7899999999999636,0,False,False,1
+335,5ef3e76be991b816cd499e69,906.84,907.59,Uh,-0.2899999999999636,0.75,0,False,True,1
+336,5cdcfb9de3e7c20016a4082c,907.14,908.44,talking about,-0.4500000000000455,1.3000000000000682,0,False,True,2
+337,5ef3e76be991b816cd499e69,907.59,908.82,huh. Online.,-0.8500000000000227,1.2300000000000182,0,False,True,2
+338,5cdcfb9de3e7c20016a4082c,908.45,911.25,what online poker probably not,-0.37000000000000455,2.7999999999999545,0,False,True,5
+339,5ef3e76be991b816cd499e69,911.44,912.66,Uh huh.,0.19000000000005457,1.2199999999999136,0,False,False,2
+340,5cdcfb9de3e7c20016a4082c,911.84,929.66,"realistically, I think uh neither of them, whoever it's going to be are going to view that as any kind of an issue at all and so more than likely anybody who would be appointed to any kind of position that would be able to make that kind of decision is not going to give a flying fuck",-0.8199999999999363,17.819999999999936,0,False,True,59
+341,5ef3e76be991b816cd499e69,930.04,930.55,Yeah.,0.37999999999999545,0.5099999999999909,0,False,False,1
+342,5cdcfb9de3e7c20016a4082c,930.34,930.85,part,-0.2099999999999227,0.5099999999999909,0,False,True,1
+343,5ef3e76be991b816cd499e69,930.56,930.88,Are you,-0.2900000000000773,0.32000000000005,0,False,True,2
+344,5cdcfb9de3e7c20016a4082c,930.85,930.91,of,-0.029999999999972715,0.05999999999994543,0,False,True,1
+345,5ef3e76be991b816cd499e69,930.88,931.15,it,-0.029999999999972715,0.2699999999999818,0,False,True,1
+346,5cdcfb9de3e7c20016a4082c,930.91,932.86,the partner language but,-0.2400000000000091,1.9500000000000455,0,False,True,4
+347,5ef3e76be991b816cd499e69,932.14,936.18,"you're in a state where you can go play like because you know, there's like New Jersey and Nevada.",-0.7200000000000273,4.039999999999964,0,False,True,21
+348,5cdcfb9de3e7c20016a4082c,936.04,936.76,mm,-0.13999999999998636,0.7200000000000273,0,False,True,1
+349,5ef3e76be991b816cd499e69,936.19,936.55,I mean,-0.5699999999999363,0.35999999999989996,0,False,True,2
+350,5cdcfb9de3e7c20016a4082c,937.14,937.46,I'm,0.5900000000000318,0.32000000000005,0,False,False,2
+351,5ef3e76be991b816cd499e69,937.14,937.54,are you an,-0.32000000000005,0.39999999999997726,0,False,True,3
+352,5cdcfb9de3e7c20016a4082c,937.46,937.55,in,-0.07999999999992724,0.08999999999991815,0,False,True,1
+353,5ef3e76be991b816cd499e69,937.54,937.97,online,-0.009999999999990905,0.43000000000006366,0,False,True,1
+354,5cdcfb9de3e7c20016a4082c,937.55,937.95,"texas,",-0.42000000000007276,0.40000000000009095,0,False,True,1
+355,5ef3e76be991b816cd499e69,937.97,938.66,privacy?,0.01999999999998181,0.6899999999999409,1,True,False,1
+356,5cdcfb9de3e7c20016a4082c,939.44,941.66,no I'm in texas,0.7800000000000864,2.2199999999999136,0,False,False,5
+357,5ef3e76be991b816cd499e69,940.84,942.66,Okay. Yeah. Yeah.,-0.8199999999999363,1.8199999999999363,0,False,True,3
+358,5cdcfb9de3e7c20016a4082c,942.34,954.96,"uh texas is just a strict no gambling state whatsoever, so if we if we want to go we had to go to like Oklahoma or or Albuquerque, new Mexico, that that kind of thing",-0.31999999999993634,12.620000000000005,0,False,True,35
+359,5ef3e76be991b816cd499e69,955.34,958.25,You make the drive? When are you? Mostly online?,0.37999999999999545,2.909999999999968,3,True,False,9
+360,5cdcfb9de3e7c20016a4082c,957.94,969.48,mm um I have played in person a couple of times uh one particular time I went and I made like 7 $800 and,-0.30999999999994543,11.539999999999964,0,False,True,25
+361,5ef3e76be991b816cd499e69,969.34,969.54,Yeah.,-0.13999999999998636,0.1999999999999318,0,False,True,1
+362,5cdcfb9de3e7c20016a4082c,969.48,977.06,that was cool. Um I was just taking money from other players. Uh,-0.05999999999994543,7.579999999999927,0,False,True,13
+363,5ef3e76be991b816cd499e69,974.54,977.27,Yeah. Cash. Cash.,-2.519999999999982,2.730000000000018,0,False,True,3
+364,5cdcfb9de3e7c20016a4082c,978.24,979.28,"Yeah, yeah, I sat down",0.9700000000000273,1.0399999999999636,0,False,False,5
+365,5ef3e76be991b816cd499e69,979.24,979.56,That's,-0.03999999999996362,0.31999999999993634,0,False,True,2
+366,5cdcfb9de3e7c20016a4082c,979.28,981.64,at a cash table,-0.2799999999999727,2.3600000000000136,0,False,True,4
+367,5ef3e76be991b816cd499e69,980.74,981.76,thanks. There,-0.8999999999999773,1.0199999999999818,0,False,True,2
+368,5cdcfb9de3e7c20016a4082c,981.65,982.38,and,-0.11000000000001364,0.7300000000000182,0,False,True,1
+369,5ef3e76be991b816cd499e69,981.76,982.15,you go.,-0.6200000000000045,0.38999999999998636,0,False,True,2
+370,5cdcfb9de3e7c20016a4082c,982.38,988.95,"nobody expects, expects us like 20 something year old to have been playing poker for a long time. So",0.2300000000000182,6.57000000000005,0,False,False,19
+371,5ef3e76be991b816cd499e69,988.84,989.16,"Yeah,",-0.11000000000001364,0.31999999999993634,0,False,True,1
+372,5cdcfb9de3e7c20016a4082c,989.44,989.83,It,0.2800000000000864,0.38999999999998636,0,False,False,1
+373,5ef3e76be991b816cd499e69,989.54,990.05,the cash,-0.2900000000000773,0.5099999999999909,0,False,True,2
+374,5cdcfb9de3e7c20016a4082c,989.83,990.1,was,-0.2199999999999136,0.2699999999999818,0,False,True,1
+375,5ef3e76be991b816cd499e69,990.05,990.3,team,-0.05000000000006821,0.25,0,False,True,1
+376,5cdcfb9de3e7c20016a4082c,990.11,990.5,it was like,-0.18999999999994088,0.38999999999998636,0,False,True,3
+377,5ef3e76be991b816cd499e69,990.3,990.52,is,-0.20000000000004547,0.22000000000002728,0,False,True,1
+378,5cdcfb9de3e7c20016a4082c,990.5,990.64,four,-0.01999999999998181,0.13999999999998636,0,False,True,1
+379,5ef3e76be991b816cd499e69,990.53,990.96,super,-0.11000000000001364,0.43000000000006366,0,False,True,1
+380,5cdcfb9de3e7c20016a4082c,990.64,991.12,or 5 years,-0.32000000000005,0.4800000000000182,0,False,True,3
+381,5ef3e76be991b816cd499e69,990.96,991.25,hard,-0.15999999999996817,0.2899999999999636,0,False,True,1
+382,5cdcfb9de3e7c20016a4082c,991.12,992.66,back anyways. Yeah.,-0.12999999999999545,1.5399999999999636,0,False,True,3
+383,5ef3e76be991b816cd499e69,992.44,993.76,eight. There you go.,-0.2199999999999136,1.3199999999999363,0,False,True,4
+384,5cdcfb9de3e7c20016a4082c,993.94,1000.47,Yeah. Um I was actually in Albuquerque for a magic tournament which magically gathering is a card game,0.18000000000006366,6.529999999999973,0,False,False,18
+385,5ef3e76be991b816cd499e69,1000.74,1001.57,Mhm.,0.2699999999999818,0.8300000000000409,0,False,False,1
+386,5cdcfb9de3e7c20016a4082c,1001.14,1009.82,"and I was there to play the tournament and uh I got knocked out really early and so I was like man I just go play poker, it's",-0.43000000000006366,8.680000000000064,0,False,True,29
+387,5ef3e76be991b816cd499e69,1009.54,1010.07,Yeah.,-0.2800000000000864,0.5300000000000864,0,False,True,1
+388,5cdcfb9de3e7c20016a4082c,1009.83,1014.66,"basically the same thing, I can win me some money, it's all good.",-0.2400000000000091,4.829999999999927,0,False,True,14
+389,5ef3e76be991b816cd499e69,1014.04,1014.36,Yeah.,-0.6200000000000045,0.32000000000005,0,False,True,1
+390,5cdcfb9de3e7c20016a4082c,1015.24,1016.25,Yeah.,0.8799999999999955,1.009999999999991,0,False,False,1
+391,5ef3e76be991b816cd499e69,1015.34,1016.26,"It's you know,",-0.9099999999999682,0.9199999999999591,0,False,True,4
+392,5cdcfb9de3e7c20016a4082c,1017.64,1018.26,Mhm.,1.3799999999999955,0.6200000000000045,0,False,False,1
+393,5ef3e76be991b816cd499e69,1017.74,1018.57,"but you know,",-0.5199999999999818,0.8300000000000409,0,False,True,3
+394,5cdcfb9de3e7c20016a4082c,1018.27,1018.86,Really?,-0.3000000000000682,0.5900000000000318,1,True,True,1
+395,5ef3e76be991b816cd499e69,1019.94,1022.85,did you do you play a lot back in the online days?,1.080000000000041,2.909999999999968,1,True,False,12
+396,5cdcfb9de3e7c20016a4082c,1023.64,1026.11,"Yeah, I used to play a lot um",0.7899999999999636,2.4699999999999136,0,False,False,8
+397,5ef3e76be991b816cd499e69,1025.74,1026.25,"Yeah,",-0.36999999999989086,0.5099999999999909,0,False,True,1
+398,5cdcfb9de3e7c20016a4082c,1026.12,1028.06,way,-0.13000000000010914,1.9400000000000546,0,False,True,1
+399,5ef3e76be991b816cd499e69,1026.26,1027.06,"I know that was,",-1.7999999999999545,0.7999999999999545,0,False,True,4
+400,5cdcfb9de3e7c20016a4082c,1028.06,1034.69,"back when in my in my barely legal teens like like I was like 18, I played",1.0,6.630000000000109,0,False,False,17
+401,5ef3e76be991b816cd499e69,1034.64,1034.96,yeah.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+402,5cdcfb9de3e7c20016a4082c,1034.69,1036.21,a lot A lot,-0.2699999999999818,1.5199999999999818,0,False,True,4
+403,5ef3e76be991b816cd499e69,1035.94,1036.17,Yeah.,-0.2699999999999818,0.2300000000000182,0,False,True,1
+404,5cdcfb9de3e7c20016a4082c,1036.22,1045.11,"and I was I was pretty successful as I said, I only barely ventured into the real money because I was you know an 18 or 19 year old",0.049999999999954525,8.889999999999873,0,False,False,29
+405,5ef3e76be991b816cd499e69,1044.94,1045.86,Mhm.,-0.16999999999984539,0.9199999999998454,0,False,True,1
+406,5cdcfb9de3e7c20016a4082c,1045.12,1050.37,and so I didn't really have a whole lot of to spend or dispensable income At,-0.7400000000000091,5.25,0,False,True,17
+407,5ef3e76be991b816cd499e69,1050.24,1050.66,"Mhm,",-0.12999999999988177,0.42000000000007276,0,False,True,1
+408,5cdcfb9de3e7c20016a4082c,1050.37,1058.85,the time. But you know I made a couple $100. Not bad. Just just enough to be like Oh hey I made something not like crazy amounts.,-0.290000000000191,8.480000000000018,0,False,True,28
+409,5ef3e76be991b816cd499e69,1059.34,1065.26,"mm. It's a it's a whole other landscape now, I mean I can still win, I have to",0.4900000000000091,5.920000000000073,0,False,False,20
+410,5cdcfb9de3e7c20016a4082c,1065.14,1065.49,Yeah.,-0.11999999999989086,0.34999999999990905,0,False,True,1
+411,5ef3e76be991b816cd499e69,1065.26,1067.17,work so much harder than it's like,-0.2300000000000182,1.9100000000000819,0,False,True,8
+412,5cdcfb9de3e7c20016a4082c,1068.04,1069.77,Uh huh.,0.8699999999998909,1.7300000000000182,0,False,False,2
+413,5ef3e76be991b816cd499e69,1068.84,1070.94,"yeah, you know, at the end, at",-0.9300000000000637,2.1000000000001364,0,False,True,7
+414,5cdcfb9de3e7c20016a4082c,1070.84,1071.04,Yeah.,-0.10000000000013642,0.20000000000004547,0,False,True,1
+415,5ef3e76be991b816cd499e69,1070.94,1073.94,"the end of the day, if it feels like work, it's not fun, it's kind",-0.09999999999990905,3.0,0,False,True,17
+416,5cdcfb9de3e7c20016a4082c,1073.84,1074.16,Yeah.,-0.10000000000013642,0.3200000000001637,0,False,True,1
+417,5ef3e76be991b816cd499e69,1073.94,1082.09,"of my it's kind of my rules. I like tournaments because I like the competitive thing, I like being number one, our life number one to, you know,",-0.22000000000002728,8.149999999999864,0,False,True,29
+418,5cdcfb9de3e7c20016a4082c,1081.94,1082.36,Mhm.,-0.14999999999986358,0.4199999999998454,0,False,True,1
+419,5ef3e76be991b816cd499e69,1082.09,1085.85,you know when you see your progression and then uh,-0.2699999999999818,3.759999999999991,0,False,True,10
+420,5cdcfb9de3e7c20016a4082c,1084.64,1087.46,Yeah. As long as you're in the money at school. Right.,-1.209999999999809,2.8199999999999363,0,False,True,12
+421,5ef3e76be991b816cd499e69,1087.24,1096.85,"and I like I like being a nerd and seeing like looking up your stats online and you can be you can see like the, you know, the win rate and the grass and shelling, you know, at the end of the day I want",-0.22000000000002728,9.6099999999999,0,False,True,45
+422,5cdcfb9de3e7c20016a4082c,1096.54,1096.96,Mhm.,-0.30999999999994543,0.42000000000007276,0,False,True,1
+423,5ef3e76be991b816cd499e69,1096.86,1099.81,accolades and fucking things by my name and you,-0.10000000000013642,2.9500000000000455,0,False,True,9
+424,5cdcfb9de3e7c20016a4082c,1099.64,1101.29,Yeah.,-0.16999999999984539,1.6499999999998636,0,False,True,1
+425,5ef3e76be991b816cd499e69,1099.81,1101.54,"know, I mean that's almost",-1.4800000000000182,1.7300000000000182,0,False,True,6
+426,5cdcfb9de3e7c20016a4082c,1101.3,1101.85,Yeah.,-0.2400000000000091,0.5499999999999545,0,False,True,1
+427,5ef3e76be991b816cd499e69,1101.55,1103.36,"just as important as the money, it's like",-0.2999999999999545,1.8099999999999454,0,False,True,9
+428,5cdcfb9de3e7c20016a4082c,1103.54,1105.08,Being,0.18000000000006366,1.5399999999999636,0,False,False,1
+429,5ef3e76be991b816cd499e69,1104.04,1104.66,"yeah,",-1.0399999999999636,0.6200000000001182,0,False,True,1
+430,5cdcfb9de3e7c20016a4082c,1105.08,1109.1,recognized for for for good performance is just as good as the money. Yeah,0.4199999999998454,4.019999999999982,0,False,False,14
+431,5ef3e76be991b816cd499e69,1109.04,1109.6,especially,-0.05999999999994543,0.5599999999999454,0,False,True,1
+432,5cdcfb9de3e7c20016a4082c,1109.1,1109.66,I agree.,-0.5,0.5600000000001728,0,False,True,2
+433,5ef3e76be991b816cd499e69,1109.6,1117.96,"like, like you said, being a little bit younger and you've got the old parts of the table, you know like I'm going to school this kid and you're like yeah fucking all right. You know what",-0.060000000000172804,8.360000000000127,0,False,True,40
+434,5cdcfb9de3e7c20016a4082c,1117.94,1118.86,Yeah.,-0.01999999999998181,0.9199999999998454,0,False,True,1
+435,5ef3e76be991b816cd499e69,1117.96,1118.96,I mean?,-0.8999999999998636,1.0,1,True,True,2
+436,5cdcfb9de3e7c20016a4082c,1119.64,1121.96,Yeah I agree.,0.6800000000000637,2.3199999999999363,0,False,False,3
+437,5ef3e76be991b816cd499e69,1121.64,1121.96,Mhm.,-0.31999999999993634,0.31999999999993634,0,False,True,1
+438,5cdcfb9de3e7c20016a4082c,1121.96,1132.77,I agree. I play I play video games for the same reason like I play a game called Dota And it's a massive online battle arena and it's based off of like a mod for,0.0,10.809999999999945,0,False,False,37
+439,5ef3e76be991b816cd499e69,1132.64,1132.84,Yeah,-0.12999999999988177,0.1999999999998181,0,False,True,1
+440,5cdcfb9de3e7c20016a4082c,1132.77,1135.74,an old warcraft three game and,-0.06999999999993634,2.9700000000000273,0,False,True,6
+441,5ef3e76be991b816cd499e69,1135.14,1135.35,mm.,-0.599999999999909,0.209999999999809,0,False,True,1
+442,5cdcfb9de3e7c20016a4082c,1135.75,1148.95,uh like that's a competitive game and I enjoy playing that too. It's really fun whenever you get like the M. V. P. Screen at the end and it's you and like you see all the accolades that you had during the game. It's really good.,0.40000000000009095,13.200000000000045,0,False,False,50
+443,5ef3e76be991b816cd499e69,1148.44,1149.36,Oh yeah. I mean that's like,-0.5099999999999909,0.9199999999998454,0,False,True,7
+444,5cdcfb9de3e7c20016a4082c,1149.34,1149.55,Right?,-0.01999999999998181,0.21000000000003638,1,True,True,1
+445,5ef3e76be991b816cd499e69,1149.36,1153.86,"all video games, right? The high score at the end. You want you want your initials to be at the top.",-0.19000000000005457,4.5,1,False,True,21
+446,5cdcfb9de3e7c20016a4082c,1152.94,1155.28,Yeah. Yeah,-0.9199999999998454,2.339999999999918,0,False,True,2
+447,5ef3e76be991b816cd499e69,1154.74,1155.36,You know?,-0.5399999999999636,0.6199999999998909,1,True,True,2
+448,5cdcfb9de3e7c20016a4082c,1155.28,1157.67,that's true that's true.,-0.07999999999992724,2.3900000000001,0,False,True,6
+449,5ef3e76be991b816cd499e69,1157.74,1158.58,That's it. That's,0.06999999999993634,0.8399999999999181,0,False,False,5
+450,5cdcfb9de3e7c20016a4082c,1158.34,1158.85,Oh,-0.2400000000000091,0.5099999999999909,0,False,True,1
+451,5ef3e76be991b816cd499e69,1158.59,1165.35,"that's part of the uh you know, I like being competitive. I don't know if that's such a good thing but is what is",-0.2599999999999909,6.759999999999991,0,False,True,27
+452,5cdcfb9de3e7c20016a4082c,1166.24,1174.19,uh I also enjoy a competitive environment as long as it's not like a toxic competitive environment because once,0.8900000000001,7.9500000000000455,0,False,False,20
+453,5ef3e76be991b816cd499e69,1174.04,1174.45,"Yeah,",-0.15000000000009095,0.41000000000008185,0,False,True,1
+454,5cdcfb9de3e7c20016a4082c,1174.19,1182.42,the toxicity starts to leak in and then it no longer becomes fun because then it becomes more work than straighter than fun it is and I,-0.2599999999999909,8.230000000000018,0,False,True,27
+455,5ef3e76be991b816cd499e69,1182.34,1182.43,I,-0.08000000000015461,0.09000000000014552,0,False,True,1
+456,5cdcfb9de3e7c20016a4082c,1182.43,1182.58,kind,0.0,0.14999999999986358,0,False,False,1
+457,5ef3e76be991b816cd499e69,1182.43,1182.76,thought,-0.14999999999986358,0.32999999999992724,0,False,True,1
+458,5cdcfb9de3e7c20016a4082c,1182.58,1184.17,of stuff you get a lot of stress from it.,-0.18000000000006366,1.5900000000001455,0,False,True,10
+459,5ef3e76be991b816cd499e69,1184.64,1186.86,hard to keep it hard to keep in check,0.4700000000000273,2.2199999999998,0,False,False,9
+460,5cdcfb9de3e7c20016a4082c,1187.24,1187.66,Mhm.,0.38000000000010914,0.42000000000007276,0,False,False,1
+461,5ef3e76be991b816cd499e69,1188.04,1188.55,for sure.,0.37999999999988177,0.5099999999999909,0,False,False,2
+462,5cdcfb9de3e7c20016a4082c,1188.34,1195.04,Mhm. Um What is the the largest amount that you've ever won from a tournament? Yeah.,-0.21000000000003638,6.7000000000000455,1,False,True,17
+463,5ef3e76be991b816cd499e69,1196.14,1198.17,1800 bucks.,1.1000000000001364,2.0299999999999727,0,False,False,2
+464,5cdcfb9de3e7c20016a4082c,1199.14,1201.76,Damn. Um It's pretty,0.9700000000000273,2.619999999999891,0,False,False,5
+465,5ef3e76be991b816cd499e69,1201.54,1202.16,"Yeah,",-0.22000000000002728,0.6200000000001182,0,False,True,1
+466,5cdcfb9de3e7c20016a4082c,1201.76,1203.36,good man.,-0.40000000000009095,1.599999999999909,0,False,True,2
+467,5ef3e76be991b816cd499e69,1202.84,1225.43,"it was the first place in a stud high low um last year I think two years ago or last year. And yeah, they have more and more of those. But I'm holding out I'm kind of like, you know, I'm kind of like boycotting for like not another dollar until it's until it's like something a little bit more legit or or",-0.5199999999999818,22.590000000000146,0,False,True,68
+468,5cdcfb9de3e7c20016a4082c,1225.14,1225.56,Mhm.,-0.2899999999999636,0.4199999999998454,0,False,True,1
+469,5ef3e76be991b816cd499e69,1225.44,1236.63,"I'm at the point now move somewhere, you know I mean it's going to be illegal here. Well then whatever. I'm a young man, I got some money",-0.11999999999989086,11.190000000000055,0,False,True,31
+470,5cdcfb9de3e7c20016a4082c,1236.54,1236.86,Yeah.,-0.09000000000014552,0.31999999999993634,0,False,True,1
+471,5ef3e76be991b816cd499e69,1236.63,1238.06,saved up. Will do what I want to do,-0.22999999999979082,1.4299999999998363,0,False,True,9
+472,5cdcfb9de3e7c20016a4082c,1238.74,1241.97,Yeah I understand that. I personally,0.6800000000000637,3.230000000000018,0,False,False,6
+473,5ef3e76be991b816cd499e69,1241.64,1242.17,what,-0.32999999999992724,0.5299999999999727,0,False,True,1
+474,5cdcfb9de3e7c20016a4082c,1241.97,1250.0,and for the decriminalization of a lot of different things like for instance I don't know if you saw but Oregon decriminalized all drugs which,-0.20000000000004547,8.029999999999973,0,False,True,26
+475,5ef3e76be991b816cd499e69,1249.64,1250.26,I heard,-0.35999999999989996,0.6199999999998909,0,False,True,2
+476,5cdcfb9de3e7c20016a4082c,1250.0,1250.33,I think is,-0.2599999999999909,0.32999999999992724,0,False,True,3
+477,5ef3e76be991b816cd499e69,1250.27,1250.34,I,-0.05999999999994543,0.06999999999993634,0,False,True,1
+478,5cdcfb9de3e7c20016a4082c,1250.33,1250.67,great.,-0.009999999999990905,0.3400000000001455,0,False,True,1
+479,5ef3e76be991b816cd499e69,1250.34,1254.05,"heard mushrooms, I was like oh jesus, all right.",-0.3300000000001546,3.7100000000000364,0,False,True,9
+480,5cdcfb9de3e7c20016a4082c,1252.94,1255.12,Uh Not just mushrooms but like,-1.1099999999999,2.1799999999998363,0,False,True,6
+481,5ef3e76be991b816cd499e69,1254.84,1255.55,"Oh yeah,",-0.2799999999999727,0.7100000000000364,0,False,True,2
+482,5cdcfb9de3e7c20016a4082c,1255.13,1257.46,literally all drugs.,-0.4199999999998454,2.3299999999999272,0,False,True,3
+483,5ef3e76be991b816cd499e69,1256.64,1258.43,I heard I was just,-0.8199999999999363,1.7899999999999636,0,False,True,5
+484,5cdcfb9de3e7c20016a4082c,1258.34,1258.75,"Yeah,",-0.09000000000014552,0.41000000000008185,0,False,True,1
+485,5ef3e76be991b816cd499e69,1258.43,1259.69,"in it for the mushrooms but alright,",-0.31999999999993634,1.259999999999991,0,False,True,7
+486,5cdcfb9de3e7c20016a4082c,1259.64,1263.12,But,-0.049999999999954525,3.479999999999791,0,False,True,1
+487,5ef3e76be991b816cd499e69,1259.69,1262.55,good for everybody else. It's a good idea.,-3.4299999999998363,2.8599999999999,0,False,True,9
+488,5cdcfb9de3e7c20016a4082c,1263.13,1267.88,"but I think that, you know, that kind of a thing is just absolutely incredible. I think that it's",0.5800000000001546,4.75,0,False,False,20
+489,5ef3e76be991b816cd499e69,1267.84,1268.25,"Yeah,",-0.040000000000190994,0.41000000000008185,0,False,True,1
+490,5cdcfb9de3e7c20016a4082c,1267.89,1279.43,"very progressive in the theory because once you're past the whole criminalization of of this kind of aspect, then you can go on to like the rehabilitation and and casual usage",-0.35999999999989996,11.539999999999964,0,False,True,32
+491,5ef3e76be991b816cd499e69,1279.04,1280.06,but,-0.39000000000010004,1.0199999999999818,0,False,True,1
+492,5cdcfb9de3e7c20016a4082c,1279.44,1281.16,"of things like drugs now,",-0.6199999999998909,1.7200000000000273,0,False,True,5
+493,5ef3e76be991b816cd499e69,1280.94,1281.32,as soon,-0.22000000000002728,0.37999999999988177,0,False,True,2
+494,5cdcfb9de3e7c20016a4082c,1281.31,1281.87,applying,-0.009999999999990905,0.5599999999999454,0,False,True,1
+495,5ef3e76be991b816cd499e69,1281.32,1282.06,as you our country,-0.5499999999999545,0.7400000000000091,0,False,True,4
+496,5cdcfb9de3e7c20016a4082c,1281.87,1282.12,that,-0.19000000000005457,0.25,0,False,True,1
+497,5ef3e76be991b816cd499e69,1282.06,1282.36,"again,",-0.05999999999994543,0.2999999999999545,0,False,True,1
+498,5cdcfb9de3e7c20016a4082c,1282.12,1282.56,to.,-0.2400000000000091,0.44000000000005457,0,False,True,1
+499,5ef3e76be991b816cd499e69,1282.94,1286.78,people don't want that. People rather catch you and put,0.38000000000010914,3.839999999999918,0,False,False,11
+500,5cdcfb9de3e7c20016a4082c,1286.64,1286.84,Yeah.,-0.13999999999987267,0.1999999999998181,0,False,True,1
+501,5ef3e76be991b816cd499e69,1286.78,1289.45,you in a cage and make money off that. And my in,-0.05999999999994543,2.6700000000000728,0,False,True,12
+502,5cdcfb9de3e7c20016a4082c,1289.44,1289.67,Mm.,-0.009999999999990905,0.2300000000000182,0,False,True,1
+503,5ef3e76be991b816cd499e69,1289.45,1301.04,my state a couple of years ago it was a 10 year mandatory minimum sentence for growing weed. Now everyone and their mother grows weed because they can make a little money off of it. But I'll never,-0.22000000000002728,11.589999999999918,0,False,True,39
+504,5cdcfb9de3e7c20016a4082c,1300.94,1301.36,Mhm.,-0.09999999999990905,0.4199999999998454,0,False,True,1
+505,5ef3e76be991b816cd499e69,1301.04,1305.28,forget that a couple of years ago you were going to throw me in the cave And there was,-0.31999999999993634,4.240000000000009,0,False,True,19
+506,5cdcfb9de3e7c20016a4082c,1305.24,1305.77,Yeah.,-0.03999999999996362,0.5299999999999727,0,False,True,1
+507,5ef3e76be991b816cd499e69,1305.28,1308.56,no questions asked 10 years. That's that's a society,-0.4900000000000091,3.2799999999999727,0,False,True,11
+508,5cdcfb9de3e7c20016a4082c,1308.24,1308.56,Yeah.,-0.31999999999993634,0.31999999999993634,0,False,True,1
+509,5ef3e76be991b816cd499e69,1308.56,1309.27,man.,0.0,0.7100000000000364,0,False,False,1
+510,5cdcfb9de3e7c20016a4082c,1309.84,1311.51,Yeah.,0.5699999999999363,1.6700000000000728,0,False,False,1
+511,5ef3e76be991b816cd499e69,1310.44,1311.67,Yeah. Right?,-1.0699999999999363,1.2300000000000182,1,True,True,2
+512,5cdcfb9de3e7c20016a4082c,1311.52,1328.26,"So as soon as as soon as money becomes a factor in whether or not someone can abuse the situation to to generate a lot of revenue, as soon as it becomes more profitable to legalize the drugs than it is to have people in cages. That's whenever you'll see a radical change in the policy.",-0.15000000000009095,16.74000000000001,0,False,True,58
+513,5ef3e76be991b816cd499e69,1328.54,1346.35,"But there's not it's not work. It's not really a lot of money being made, there's a lot of money being spent. But like show me the company that's really making a lot of money right now because I don't see one. There's a few one office maybe in the pot industry, but they're not making a lot of money.",0.2799999999999727,17.809999999999945,0,False,False,68
+514,5cdcfb9de3e7c20016a4082c,1347.34,1348.28,"Yeah,",0.9900000000000091,0.9400000000000546,0,False,False,1
+515,5ef3e76be991b816cd499e69,1347.64,1351.56,"Yeah,",-0.6399999999998727,3.9199999999998454,0,False,True,1
+516,5cdcfb9de3e7c20016a4082c,1348.29,1378.24,"I think, I think the reason why we don't see a lot of revenue being generated right now by the industry is because a lot of it is going into reinvestment into the company's. So like being able to upgrade process is being able to upgrade machinery, being able to hire more workers, expand the industry, that kind of thing. And so because the industry is you know two years old then we haven't really seen a solidification into these actual like monarchs of the industry yet we have we don't have any brand name pot growers",-3.269999999999982,29.950000000000045,0,False,True,101
+517,5ef3e76be991b816cd499e69,1378.04,1378.43,but,-0.20000000000004547,0.39000000000010004,0,False,True,1
+518,5cdcfb9de3e7c20016a4082c,1378.24,1378.95,or.,-0.19000000000005457,0.7100000000000364,0,False,True,1
+519,5ef3e76be991b816cd499e69,1378.44,1385.29,"pots pots a hard thing to monetize. Uh It's like, it's not like coca cola, right? Like you",-0.5099999999999909,6.849999999999909,1,False,True,20
+520,5cdcfb9de3e7c20016a4082c,1385.14,1385.76,Uh huh.,-0.14999999999986358,0.6199999999998909,0,False,True,2
+521,5ef3e76be991b816cd499e69,1385.29,1407.0,"can't you can't grow coca cola in your own basement. So when everyone can grow it, I mean like like in Canada, it's just the price just goes lower and lower. And the producers are realizing like they're like their money isn't in producing and selling it in all the weird offering drinks and and all the off stuff. You know the derivative stuff you can make and sell from but I mean",-0.4700000000000273,21.710000000000036,0,False,True,78
+522,5cdcfb9de3e7c20016a4082c,1406.44,1406.86,Mhm.,-0.5599999999999454,0.4199999999998454,0,False,True,1
+523,5ef3e76be991b816cd499e69,1407.01,1410.46,the product is just got cheaper and cheaper and we'll get cheaper.,0.15000000000009095,3.4500000000000455,0,False,False,13
+524,5cdcfb9de3e7c20016a4082c,1411.44,1412.14,"I agree,",0.9800000000000182,0.7000000000000455,0,False,False,2
+525,5ef3e76be991b816cd499e69,1411.84,1414.86,Uh huh.,-0.3000000000001819,3.019999999999982,0,False,True,2
+526,5cdcfb9de3e7c20016a4082c,1412.15,1422.02,I agree. But as of right now being able to be on the on the cutting edge or on the cusp of the breaking of that industry really,-2.709999999999809,9.86999999999989,0,False,True,28
+527,5ef3e76be991b816cd499e69,1421.44,1421.77,Mm,-0.5799999999999272,0.32999999999992724,0,False,True,1
+528,5cdcfb9de3e7c20016a4082c,1422.02,1445.25,"allowed uh these individuals to kind of set the tone for the way that the industry is going to grow. And at that point that's whenever you see like G. E. Or or General Motors or something like that, that is whenever they have lots of competitors and you will eventually see the those kinds of industries or those kinds of captains of the industry",0.25,23.230000000000018,0,False,False,66
+529,5ef3e76be991b816cd499e69,1444.64,1445.4,"You have, you",-0.6099999999999,0.7599999999999909,0,False,True,3
+530,5cdcfb9de3e7c20016a4082c,1445.26,1446.02,evolved,-0.14000000000010004,0.7599999999999909,0,False,True,1
+531,5ef3e76be991b816cd499e69,1445.4,1446.17,have it now,-0.6199999999998909,0.7699999999999818,0,False,True,3
+532,5cdcfb9de3e7c20016a4082c,1446.03,1447.94,as well. Yeah.,-0.14000000000010004,1.9100000000000819,0,False,True,3
+533,5ef3e76be991b816cd499e69,1447.04,1453.73,you have you have constellation brands and then uh Altria and Kronos. So you get the cigarette brands owns Kronos,-0.900000000000091,6.690000000000055,0,False,True,20
+534,5cdcfb9de3e7c20016a4082c,1453.54,1453.86,Mhm.,-0.19000000000005457,0.31999999999993634,0,False,True,1
+535,5ef3e76be991b816cd499e69,1453.73,1458.52,and then you've got the alcohol owning constellation brands which makes sense. You know those,-0.12999999999988177,4.789999999999964,0,False,True,16
+536,5cdcfb9de3e7c20016a4082c,1458.34,1458.76,Mhm.,-0.18000000000006366,0.42000000000007276,0,False,True,1
+537,5ef3e76be991b816cd499e69,1458.52,1461.55,kinds of tin stocks. Um But,-0.2400000000000091,3.0299999999999727,0,False,True,6
+538,5cdcfb9de3e7c20016a4082c,1461.24,1461.66,Mhm.,-0.30999999999994543,0.42000000000007276,0,False,True,1
+539,5ef3e76be991b816cd499e69,1462.34,1491.66,"Ultra hasn't really done much with it. They put in a I think like a billion and then just sat there and then constellation brands done two billion and for years and it hasn't really gone anywhere. So they dumped in another billion to canopy growth corporation, which is a pretty good stock. I mean both of them are pretty good stock, Kronos and CGC. Um, I don't know, maybe next year. I mean it seems like every couple of years everyone gets excited and then the stock plummets after this,",0.6799999999998363,29.320000000000164,0,False,False,94
+540,5cdcfb9de3e7c20016a4082c,1491.84,1497.55,"Yeah, I think, I think that one of the things that we're going to have to have before",0.1799999999998363,5.710000000000036,0,False,False,19
+541,5ef3e76be991b816cd499e69,1496.84,1497.05,wow.,-0.7100000000000364,0.21000000000003638,0,False,True,1
+542,5cdcfb9de3e7c20016a4082c,1497.55,1509.27,"the stocks or before the market solidifies on the hemp industry are on the, on the pot industry is the legalization and widespread acceptance of hemp as a material",0.5,11.720000000000027,0,False,False,29
+543,5ef3e76be991b816cd499e69,1510.44,1510.86,Mm,1.1700000000000728,0.4199999999998454,0,False,False,1
+544,5cdcfb9de3e7c20016a4082c,1510.54,1519.67,"because uh Many, many years ago I think in the 1920s they outlawed hemp to be used as like rope manufacturers",-0.31999999999993634,9.13000000000011,0,False,True,21
+545,5ef3e76be991b816cd499e69,1519.14,1519.46,Right.,-0.5299999999999727,0.31999999999993634,0,False,True,1
+546,5cdcfb9de3e7c20016a4082c,1519.67,1520.32,have lobbied,0.21000000000003638,0.6499999999998636,0,False,False,2
+547,5ef3e76be991b816cd499e69,1520.24,1520.56,Yeah.,-0.07999999999992724,0.31999999999993634,0,False,True,1
+548,5cdcfb9de3e7c20016a4082c,1520.32,1529.77,the government and whatever. And so we need to see the repealing of those kinds of laws in order for the manufacturing part or manufacturing side of the business to really flower,-0.2400000000000091,9.450000000000045,0,False,True,32
+549,5ef3e76be991b816cd499e69,1529.84,1530.36,Well,0.06999999999993634,0.5199999999999818,0,False,False,1
+550,5cdcfb9de3e7c20016a4082c,1530.14,1530.71,before,-0.2199999999997999,0.5699999999999363,0,False,True,1
+551,5ef3e76be991b816cd499e69,1530.37,1530.84,it,-0.3400000000001455,0.4700000000000273,0,False,True,1
+552,5cdcfb9de3e7c20016a4082c,1530.71,1530.85,we,-0.12999999999988177,0.13999999999987267,0,False,True,1
+553,5ef3e76be991b816cd499e69,1530.84,1531.31,"is,",-0.009999999999990905,0.4700000000000273,0,False,True,1
+554,5cdcfb9de3e7c20016a4082c,1530.85,1531.46,can see.,-0.4600000000000364,0.6100000000001273,0,False,True,2
+555,5ef3e76be991b816cd499e69,1531.32,1536.67,"uh, federally, federally, it's 100% okay. In the U. S. And is,",-0.14000000000010004,5.350000000000136,0,False,True,13
+556,5cdcfb9de3e7c20016a4082c,1536.24,1536.77,Really?,-0.43000000000006366,0.5299999999999727,1,True,True,1
+557,5ef3e76be991b816cd499e69,1536.68,1540.95,yeah. Yeah. That that passed under trump actually. Yeah.,-0.08999999999991815,4.269999999999982,0,False,True,9
+558,5cdcfb9de3e7c20016a4082c,1541.24,1541.74,"I didn't,",0.2899999999999636,0.5,0,False,False,3
+559,5ef3e76be991b816cd499e69,1541.74,1541.95,Or,0.0,0.21000000000003638,0,False,False,1
+560,5cdcfb9de3e7c20016a4082c,1541.75,1542.77,I didn't know that.,-0.20000000000004547,1.0199999999999818,0,False,True,5
+561,5ef3e76be991b816cd499e69,1542.74,1543.63,"yeah, the stock,",-0.029999999999972715,0.8900000000001,0,False,True,3
+562,5cdcfb9de3e7c20016a4082c,1543.24,1543.56,Yeah.,-0.39000000000010004,0.31999999999993634,0,False,True,1
+563,5ef3e76be991b816cd499e69,1543.63,1555.55,"you can buy hemp this ticker, H. E. M. P. Um pretty weird. Stock splits all the time and kind of sketchy. Um, but yeah, I think last either last year, the year before.",0.07000000000016371,11.919999999999845,0,False,False,34
+564,5cdcfb9de3e7c20016a4082c,1557.24,1557.92,"Okay,",1.6900000000000546,0.6800000000000637,0,False,False,1
+565,5ef3e76be991b816cd499e69,1557.54,1559.76,"Yeah,",-0.38000000000010914,2.2200000000000273,0,False,True,1
+566,5cdcfb9de3e7c20016a4082c,1557.94,1559.95,"I'll have to look that up. Yes,",-1.8199999999999363,2.009999999999991,0,False,True,8
+567,5ef3e76be991b816cd499e69,1559.77,1560.37,you could get,-0.18000000000006366,0.599999999999909,0,False,True,3
+568,5cdcfb9de3e7c20016a4082c,1560.34,1560.37,I,-0.029999999999972715,0.029999999999972715,0,False,True,1
+569,5ef3e76be991b816cd499e69,1560.37,1560.49,like,0.0,0.12000000000011823,0,False,False,1
+570,5cdcfb9de3e7c20016a4082c,1560.38,1560.7,should,-0.10999999999989996,0.31999999999993634,0,False,True,1
+571,5ef3e76be991b816cd499e69,1560.49,1560.9,a permit,-0.21000000000003638,0.41000000000008185,0,False,True,2
+572,5cdcfb9de3e7c20016a4082c,1560.71,1561.06,say.,-0.19000000000005457,0.34999999999990905,0,False,True,1
+573,5ef3e76be991b816cd499e69,1560.9,1567.12,"if you really wanted to. I mean I would probably have to go state by state, but that's exactly",-0.15999999999985448,6.2199999999998,0,False,True,20
+574,5cdcfb9de3e7c20016a4082c,1567.04,1567.55,Okay.,-0.07999999999992724,0.5099999999999909,0,False,True,1
+575,5ef3e76be991b816cd499e69,1567.12,1568.06,the thing.,-0.43000000000006366,0.9400000000000546,0,False,True,2
+576,5cdcfb9de3e7c20016a4082c,1568.64,1575.81,"Yeah, man, that's cool. Thanks for that. I didn't actually know that. I thought, I thought it was still federally illegal to",0.5800000000001546,7.169999999999845,0,False,False,24
+577,5ef3e76be991b816cd499e69,1575.64,1576.05,Yeah.,-0.16999999999984539,0.4099999999998545,0,False,True,1
+578,5cdcfb9de3e7c20016a4082c,1575.82,1581.66,"manufacture hemp, but we could import it with whatever reason, so.",-0.2300000000000182,5.8400000000001455,0,False,True,11
+579,5ef3e76be991b816cd499e69,1582.04,1592.27,"I mean, at least from my understanding now, it's officially okay for like banks to touch him money and like federally, it was like okay thing. Um, but just him.",0.37999999999988177,10.230000000000018,0,False,False,31
+580,5cdcfb9de3e7c20016a4082c,1593.34,1593.85,Okay.,1.0699999999999363,0.5099999999999909,0,False,False,1
+581,5ef3e76be991b816cd499e69,1593.74,1594.27,Okay.,-0.10999999999989996,0.5299999999999727,0,False,True,1
+582,5cdcfb9de3e7c20016a4082c,1594.24,1613.67,"Okay. That's very interesting anyways. So I think that uh if that is the case, then we should see a lot of great financial gains, at least in the health sector as it becomes more widespread, like especially because hemp is cheaper to produce than than uh like rope and things like that are.",-0.029999999999972715,19.430000000000064,0,False,True,55
+583,5ef3e76be991b816cd499e69,1614.64,1617.36,We will see. But I'm not betting too much on it.,0.9700000000000273,2.7199999999998,0,False,False,12
+584,5cdcfb9de3e7c20016a4082c,1617.74,1628.04,"Yeah, I agree. I agree. Uh the the idealist within me wants it to happen that way. That way we can see, you know, cheaper manufacturing of goods, We can see",0.38000000000010914,10.299999999999955,0,False,False,31
+585,5ef3e76be991b816cd499e69,1627.94,1628.36,Mm,-0.09999999999990905,0.4199999999998454,0,False,True,1
+586,5cdcfb9de3e7c20016a4082c,1628.04,1638.67,more locally manufactured goods and things like that because hemp grows very well here in the United States versus versus a lot of other things that are forced to grow in this area.,-0.31999999999993634,10.63000000000011,0,False,True,33
+587,5ef3e76be991b816cd499e69,1639.14,1640.13,definitely.,0.4700000000000273,0.9900000000000091,0,False,False,1
+588,5cdcfb9de3e7c20016a4082c,1640.14,1640.34,Yeah.,0.009999999999990905,0.1999999999998181,0,False,False,1
+589,5ef3e76be991b816cd499e69,1640.14,1645.04,"I mean, you definitely best off investing in something compassionate about no matter",-0.1999999999998181,4.899999999999864,0,False,True,13
+590,5cdcfb9de3e7c20016a4082c,1644.84,1645.67,Mhm.,-0.20000000000004547,0.8300000000001546,0,False,True,1
+591,5ef3e76be991b816cd499e69,1645.04,1645.67,what.,-0.6300000000001091,0.6300000000001091,0,False,True,1
+592,5cdcfb9de3e7c20016a4082c,1646.44,1648.96,"Yes sir. Yes, sir. All right, well thank you. It was",0.7699999999999818,2.519999999999982,0,False,False,11
+593,5ef3e76be991b816cd499e69,1648.84,1649.19,Alright.,-0.12000000000011823,0.3500000000001364,0,False,True,1
+594,5cdcfb9de3e7c20016a4082c,1648.97,1649.45,just fun.,-0.22000000000002728,0.4800000000000182,0,False,True,2
+595,5ef3e76be991b816cd499e69,1649.2,1650.76,A Good one.,-0.25,1.5599999999999454,0,False,True,3

@@ -1,0 +1,455 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5f31961c57eb9507db148757,2.94,3.26,Mhm.,,0.31999999999999984,0,False,False,1
+1,5f484cef1d9c4630fdf85265,6.24,7.65,Hello.,2.9800000000000004,1.4100000000000001,0,False,False,1
+2,5f31961c57eb9507db148757,8.34,8.57,"Hi,",0.6899999999999995,0.23000000000000043,0,False,False,1
+3,5f484cef1d9c4630fdf85265,12.34,13.75,How's it going?,3.7699999999999996,1.4100000000000001,1,True,False,4
+4,5f31961c57eb9507db148757,13.74,14.17,"I'm good,",-0.009999999999999787,0.4299999999999997,0,False,True,3
+5,5f484cef1d9c4630fdf85265,14.14,14.35,Oh,-0.02999999999999936,0.20999999999999908,0,False,True,1
+6,5f31961c57eb9507db148757,14.17,14.85,how are you?,-0.17999999999999972,0.6799999999999997,1,True,True,3
+7,5f484cef1d9c4630fdf85265,14.84,25.86,"yeah, pretty good. Yeah. Just went for a walk and did some stretching and now just doing this conversation.",-0.009999999999999787,11.02,0,False,True,19
+8,5f31961c57eb9507db148757,24.74,28.0,Yeah. Thanks. What's,-1.120000000000001,3.2600000000000016,0,False,True,4
+9,5f484cef1d9c4630fdf85265,27.74,28.85,What?,-0.26000000000000156,1.110000000000003,1,True,True,1
+10,5f31961c57eb9507db148757,28.0,28.56,your name?,-0.8500000000000014,0.5599999999999987,1,True,True,2
+11,5f484cef1d9c4630fdf85265,29.34,31.29,I'm kat my full name,0.7800000000000011,1.9499999999999993,0,False,False,6
+12,5f31961c57eb9507db148757,31.14,31.46,Uh huh.,-0.14999999999999858,0.3200000000000003,0,False,True,2
+13,5f484cef1d9c4630fdf85265,31.29,33.45,"is Katherine, but I go by cat.",-0.1700000000000017,2.1600000000000037,0,False,True,7
+14,5f31961c57eb9507db148757,33.44,34.06,Thanks.,-0.010000000000005116,0.6200000000000045,0,False,True,1
+15,5f484cef1d9c4630fdf85265,34.34,34.49,Yeah.,0.28000000000000114,0.14999999999999858,0,False,False,1
+16,5f31961c57eb9507db148757,34.44,34.76,Thanks.,-0.05000000000000426,0.3200000000000003,0,False,True,1
+17,5f484cef1d9c4630fdf85265,34.49,38.36,"What's your name? Yeah, I'm sorry. I didn't hear that. What's up",-0.269999999999996,3.8699999999999974,1,False,True,16
+18,5f31961c57eb9507db148757,38.44,39.36,"My name is Tiffany,",0.0799999999999983,0.9200000000000017,0,False,False,4
+19,5f484cef1d9c4630fdf85265,39.74,42.16,Tiffany. Cool. Nice to meet you.,0.38000000000000256,2.4199999999999946,0,False,False,6
+20,5f31961c57eb9507db148757,42.54,44.54,"nice to meet you too. You, have you done this",0.38000000000000256,2.0,0,False,False,10
+21,5f484cef1d9c4630fdf85265,44.44,44.65,Right?,-0.10000000000000142,0.21000000000000085,1,True,True,1
+22,5f31961c57eb9507db148757,44.54,47.96,before? I know that like they've had this open a few times.,-0.10999999999999943,3.4200000000000017,1,False,True,13
+23,5f484cef1d9c4630fdf85265,48.44,60.65,"No, I haven't done it before. I've been on prolific and doing surveys on there for like the past two months probably, but I haven't seen this one pop up yet. So it's my first time doing this. What about you?",0.4799999999999969,12.21,1,True,False,45
+24,5f31961c57eb9507db148757,60.94,72.77,"It's my first time to I've I'm the same where I've been using prolific for about two months, two and I've seen it like pop up every now and then, but like ourselves, like webcam required and I was like, I don't know about that. Um",0.28999999999999915,11.829999999999998,0,False,False,52
+25,5f484cef1d9c4630fdf85265,72.34,73.36,Mm hmm.,-0.4299999999999926,1.019999999999996,0,False,True,2
+26,5f31961c57eb9507db148757,72.78,77.26,and I was like 17 extra dollars. I was like dang. Like that sounds pretty good.,-0.5799999999999983,4.480000000000004,0,False,True,16
+27,5f484cef1d9c4630fdf85265,77.24,83.37,"Yeah, for sure. Well I'm, you seem nice. So I'm glad that we're chat partners. So I was like,",-0.020000000000010232,6.13000000000001,0,False,True,22
+28,5f31961c57eb9507db148757,83.34,83.85,Has,-0.030000000000001137,0.5099999999999909,0,False,True,1
+29,5f484cef1d9c4630fdf85265,83.37,89.06,"who am I going to talk to you? Like what if they're weird, but you seem cool. So",-0.47999999999998977,5.689999999999998,1,False,True,19
+30,5f31961c57eb9507db148757,89.34,95.16,"Yeah. I mean, are you on, what like side of the country are you in? Are you in the U. S. Or?",0.28000000000000114,5.819999999999993,2,True,False,22
+31,5f484cef1d9c4630fdf85265,95.44,107.16,"I'm in the west in Utah. So yeah, I didn't grow up here, but I was born in Utah. But I've also lived in like Idaho and California.",0.28000000000000114,11.719999999999999,0,False,False,31
+32,5f31961c57eb9507db148757,107.74,108.16,Okay.,0.5799999999999983,0.4200000000000017,0,False,False,1
+33,5f484cef1d9c4630fdf85265,107.74,111.96,"And so I've, I've lived a few different places. What about you?",-0.4200000000000017,4.219999999999999,1,True,True,14
+34,5f31961c57eb9507db148757,112.64,117.66,I'm in California and I I think I've only been out of state like once in my life.,0.6800000000000068,5.019999999999996,0,False,False,20
+35,5f484cef1d9c4630fdf85265,118.14,119.24,Oh my gosh!,0.480000000000004,1.0999999999999943,0,False,False,3
+36,5f31961c57eb9507db148757,119.24,132.36,"Yeah. That's cool that you've been to a lot like, and they're like, those states are pretty like far out. Like I'd await I actually remember item of that is Idaho like closer to the east coast or is that like above? Like next to Montana?",0.0,13.120000000000019,2,True,False,50
+37,5f484cef1d9c4630fdf85265,132.74,142.64,"So it's, it's like next to Wyoming and it also borders uh eastern Oregon and eastern Washington in the panhandle of it. So there's",0.37999999999999545,9.899999999999977,0,False,False,27
+38,5f31961c57eb9507db148757,142.54,143.05,Okay.,-0.09999999999999432,0.5100000000000193,0,False,True,1
+39,5f484cef1d9c4630fdf85265,142.64,144.94,like a little pig part that goes up and then it,-0.410000000000025,2.3000000000000114,0,False,True,11
+40,5f31961c57eb9507db148757,144.94,145.37,Yeah.,0.0,0.4300000000000068,0,False,False,1
+41,5f484cef1d9c4630fdf85265,144.94,146.75,touches can.,-0.4300000000000068,1.8100000000000023,0,False,True,2
+42,5f31961c57eb9507db148757,145.38,152.18,"Okay. That's what I thought. For some reason, I don't know why I always think Idaho was like next to like michigan or Missouri. I",-1.3700000000000045,6.800000000000011,0,False,True,27
+43,5f484cef1d9c4630fdf85265,152.04,152.75,Yeah,-0.14000000000001478,0.710000000000008,0,False,True,1
+44,5f31961c57eb9507db148757,152.18,152.66,don't know what,-0.5699999999999932,0.47999999999998977,0,False,True,4
+45,5f484cef1d9c4630fdf85265,153.24,155.64,it's because there's like Ohio and stuff people,0.5800000000000125,2.3999999999999773,0,False,False,10
+46,5f31961c57eb9507db148757,155.44,155.84,I think,-0.19999999999998863,0.4000000000000057,0,False,True,2
+47,5f484cef1d9c4630fdf85265,155.64,156.26,get,-0.20000000000001705,0.6200000000000045,0,False,True,1
+48,5f31961c57eb9507db148757,155.84,156.55,it's happy at.,-0.4199999999999875,0.710000000000008,0,False,True,4
+49,5f484cef1d9c4630fdf85265,156.27,158.96,mixed up with Ohio a lot,-0.28000000000000114,2.6899999999999977,0,False,True,6
+50,5f31961c57eb9507db148757,159.34,159.96,Yeah.,0.37999999999999545,0.6200000000000045,0,False,False,1
+51,5f484cef1d9c4630fdf85265,160.84,161.18,um,0.8799999999999955,0.3400000000000034,0,False,False,1
+52,5f31961c57eb9507db148757,161.04,161.36,Yeah.,-0.14000000000001478,0.3200000000000216,0,False,True,1
+53,5f484cef1d9c4630fdf85265,161.18,164.16,California. Cool. I miss it there. I,-0.18000000000000682,2.9799999999999898,0,False,True,7
+54,5f31961c57eb9507db148757,163.54,163.96,Really?,-0.6200000000000045,0.4200000000000159,1,True,True,1
+55,5f484cef1d9c4630fdf85265,164.84,184.06,I've been back to visit or I visited san Francisco a couple of years ago. Um it's kind of like wild in san Francisco. We were like in Haight Ashbury and like all the different like popular neighborhood. So it was a little bit crazy but California is huge. I mean you really don't ever need to leave. You got,0.8799999999999955,19.22,0,False,False,63
+56,5f31961c57eb9507db148757,183.94,184.35,Yeah.,-0.12000000000000455,0.4099999999999966,0,False,True,1
+57,5f484cef1d9c4630fdf85265,184.06,185.86,everything so,-0.28999999999999204,1.8000000000000114,0,False,True,2
+58,5f31961c57eb9507db148757,185.97,207.74,"Honestly, I personally like California. I don't know, I'm not like a big, like, I think I just prefer the weather here. I feel like I'd be too scared to go to anywhere else. Like where does hurricanes and tornadoes and like things. I don't know. I mean, I know we have like earthquakes and virus, but like personally for me, like I haven't really experienced a lot of those, so I'm kind of chilling and where I'm",0.10999999999998522,21.77000000000001,0,False,False,85
+59,5f484cef1d9c4630fdf85265,207.64,208.06,wow.,-0.10000000000002274,0.4200000000000159,0,False,True,1
+60,5f31961c57eb9507db148757,207.74,207.95,at.,-0.3199999999999932,0.20999999999997954,0,False,True,1
+61,5f484cef1d9c4630fdf85265,208.44,210.82,Yeah I'm glad,0.4900000000000091,2.3799999999999955,0,False,False,4
+62,5f31961c57eb9507db148757,210.64,210.84,Yeah.,-0.18000000000000682,0.20000000000001705,0,False,True,1
+63,5f484cef1d9c4630fdf85265,210.82,215.46,that you're staying safe where you're at because I know the fires have been pretty bad in certain areas.,-0.020000000000010232,4.640000000000015,0,False,True,21
+64,5f31961c57eb9507db148757,215.34,228.49,"Yeah, it's been pretty bad. I mean I haven't really been too affected by it, I've only been like kind of had bad air quality but it's not even like that terrible like I'm like I mean other places have it worse obviously so it's",-0.12000000000000455,13.150000000000006,0,False,True,51
+65,5f484cef1d9c4630fdf85265,228.44,228.58,A,-0.05000000000001137,0.14000000000001478,0,False,True,1
+66,5f31961c57eb9507db148757,228.5,228.79,not,-0.0800000000000125,0.28999999999999204,0,False,True,1
+67,5f484cef1d9c4630fdf85265,228.58,229.25,medium,-0.20999999999997954,0.6699999999999875,0,False,True,1
+68,5f31961c57eb9507db148757,228.79,229.65,been too bad for me.,-0.46000000000000796,0.8600000000000136,0,False,True,5
+69,5f484cef1d9c4630fdf85265,230.34,250.09,"that's good. Yeah, there was like a crazy windstorm here a few weeks ago which is kind of not characteristic for Utah because we're like surrounded by mountains on all sides. So usually stuff like that doesn't happen but for whatever reason it just picked up and like it blew down trees and power lines and was like peeling",0.6899999999999977,19.75,0,False,False,62
+70,5f31961c57eb9507db148757,249.84,250.16,Oh,-0.25,0.3199999999999932,0,False,True,1
+71,5f484cef1d9c4630fdf85265,250.09,254.07,off people's roofs and blowing them away like.,-0.06999999999999318,3.9799999999999898,0,False,True,9
+72,5f31961c57eb9507db148757,253.94,254.2,that's,-0.12999999999999545,0.2599999999999909,0,False,True,2
+73,5f484cef1d9c4630fdf85265,254.08,254.56,Yeah.,-0.11999999999997613,0.47999999999998977,0,False,True,1
+74,5f31961c57eb9507db148757,254.2,254.56,scary,-0.36000000000001364,0.36000000000001364,0,False,True,1
+75,5f484cef1d9c4630fdf85265,255.24,257.59,So many people without power here for quite,0.6800000000000068,2.349999999999966,0,False,False,8
+76,5f31961c57eb9507db148757,257.34,257.66,right?,-0.25,0.32000000000005,1,True,True,1
+77,5f484cef1d9c4630fdf85265,257.59,262.86,"a few days, luckily mine wasn't really affected but crazy stuff.",-0.07000000000005002,5.270000000000039,0,False,True,12
+78,5f31961c57eb9507db148757,262.94,271.35,Yeah. That's crazy. I feel like I don't want to see I don't remember the last time like I've been out of power. I feel like that doesn't happen very often. It's,0.07999999999998408,8.410000000000025,0,False,False,38
+79,5f484cef1d9c4630fdf85265,271.24,271.72,Both.,-0.11000000000001364,0.4800000000000182,0,False,True,1
+80,5f31961c57eb9507db148757,271.35,276.6,like a break that hit something but even then like at least for me like my area doesn't have a lot of mistakes. Are there really,-0.37000000000000455,5.25,0,False,True,27
+81,5f484cef1d9c4630fdf85265,276.54,276.75,Right.,-0.060000000000002274,0.20999999999997954,0,False,True,1
+82,5f31961c57eb9507db148757,276.6,277.15,minor?,-0.14999999999997726,0.5499999999999545,1,True,True,1
+83,5f484cef1d9c4630fdf85265,277.64,288.27,"Mhm. That's good. Yeah, when I lived there I lived there for about nine or 10 years and I never really felt an earthquake. We did earthquake drills in school all the time, like",0.4900000000000091,10.629999999999995,0,False,False,35
+84,5f31961c57eb9507db148757,288.14,288.29,Oh,-0.12999999999999545,0.1500000000000341,0,False,True,1
+85,5f484cef1d9c4630fdf85265,288.27,288.58,hiding,-0.020000000000038654,0.3100000000000023,0,False,True,1
+86,5f31961c57eb9507db148757,288.29,288.64,yeah.,-0.2899999999999636,0.3499999999999659,0,False,True,1
+87,5f484cef1d9c4630fdf85265,288.58,292.35,a risk but never had to actually use it.,-0.060000000000002274,3.7700000000000387,0,False,True,9
+88,5f31961c57eb9507db148757,292.84,297.25,Yeah. Are you are you still in school now? Are you in the workforce,0.48999999999995225,4.410000000000025,1,False,False,14
+89,5f484cef1d9c4630fdf85265,298.14,311.67,"No, I work right now. I work as a caregiver for a woman with disabilities, so I just go to her house, she lives with her family, so I go there on weekdays and just give her parents like some respite time so",0.8899999999999864,13.53000000000003,0,False,False,43
+90,5f31961c57eb9507db148757,311.54,311.74,and,-0.12999999999999545,0.19999999999998863,0,False,True,1
+91,5f484cef1d9c4630fdf85265,311.67,311.8,they,-0.06999999999999318,0.12999999999999545,0,False,True,1
+92,5f31961c57eb9507db148757,311.74,311.96,this?,-0.060000000000002274,0.21999999999997044,1,True,True,1
+93,5f484cef1d9c4630fdf85265,311.8,325.35,"can do other stuff. But my job is great, I love it. I mean the person that I take care of is super sweet and like just fun to be around, it's a little bit challenging sometimes because she doesn't speak or she doesn't",-0.15999999999996817,13.550000000000011,0,False,True,47
+94,5f31961c57eb9507db148757,325.34,325.76,Okay,-0.010000000000047748,0.4200000000000159,0,False,True,1
+95,5f484cef1d9c4630fdf85265,325.35,346.86,"communicate through sign language or anything, just like where she's looking or her facial expression. So I really just have to pay close attention and like now I know her well, I've been working with her for like 3.5 years, so I I know her pretty well. But yeah, it's a great job. What about you? Are you in school or do you work?",-0.40999999999996817,21.50999999999999,2,True,True,67
+96,5f31961c57eb9507db148757,347.04,349.95,yeah I'm in college right now so it's my fourth year actually,0.18000000000000682,2.909999999999968,0,False,False,14
+97,5f484cef1d9c4630fdf85265,350.74,352.15,I'm cool. What are you studying?,0.7900000000000205,1.4099999999999682,1,True,False,7
+98,5f31961c57eb9507db148757,352.34,355.06,I'm studying accounting. I think that sounds really boring,0.18999999999999773,2.7200000000000273,0,False,False,10
+99,5f484cef1d9c4630fdf85265,355.34,365.96,"Well, that's an important job and it's a, it's a good career. I think if you don't, if you can crunch the numbers and not have to deal directly with people or do you have to deal directly with people as an accountant?",0.2799999999999727,10.620000000000005,1,True,False,47
+100,5f31961c57eb9507db148757,366.44,369.28,to be honest. I don't really know I don't have,0.4800000000000182,2.839999999999975,0,False,False,12
+101,5f484cef1d9c4630fdf85265,369.14,369.34,Yeah.,-0.13999999999998636,0.19999999999998863,0,False,True,1
+102,5f31961c57eb9507db148757,369.28,371.96,that much work experience in the field. Um,-0.060000000000002274,2.680000000000007,0,False,True,8
+103,5f484cef1d9c4630fdf85265,371.64,372.26,Mhm.,-0.3199999999999932,0.6200000000000045,0,False,True,1
+104,5f31961c57eb9507db148757,372.54,384.25,I mean I'm sure there's probably times where you get to talk to people and like whether it's through your career like I think it also depends because accounting can like consist of taxes and actual business side of it. I feel like,0.28000000000002956,11.70999999999998,0,False,False,46
+105,5f484cef1d9c4630fdf85265,384.24,384.66,"Mhm,",-0.009999999999990905,0.4200000000000159,0,False,True,1
+106,5f31961c57eb9507db148757,384.25,397.49,"if you're taxing like especially individual taxation that's probably more like with people I think if it's like more so accounting, I feel like you spend more time like figuring out numbers and stuff like that rather than talking with people but I'm not sure. I've never",-0.410000000000025,13.240000000000009,0,False,True,52
+107,5f484cef1d9c4630fdf85265,397.34,397.55,mm,-0.1500000000000341,0.21000000000003638,0,False,True,1
+108,5f31961c57eb9507db148757,397.49,397.71,really,-0.060000000000002274,0.21999999999997044,0,False,True,1
+109,5f484cef1d9c4630fdf85265,397.55,397.85,hmm.,-0.15999999999996817,0.30000000000001137,0,False,True,1
+110,5f31961c57eb9507db148757,397.71,399.15,worked in the field.,-0.1400000000000432,1.4399999999999977,0,False,True,4
+111,5f484cef1d9c4630fdf85265,399.74,401.58,Yeah. Would,0.5900000000000318,1.839999999999975,0,False,False,2
+112,5f31961c57eb9507db148757,401.44,401.64,Yeah.,-0.13999999999998636,0.19999999999998863,0,False,True,1
+113,5f484cef1d9c4630fdf85265,401.58,406.46,you want to work with people directly or do you want to be more in the background?,-0.060000000000002274,4.8799999999999955,1,True,True,17
+114,5f31961c57eb9507db148757,406.34,410.07,"No I'm like I'm not that much of a people person, I'm not sure if you can",-0.12000000000000455,3.730000000000018,0,False,True,20
+115,5f484cef1d9c4630fdf85265,409.94,410.74,Yeah.,-0.12999999999999545,0.8000000000000114,0,False,True,1
+116,5f31961c57eb9507db148757,410.12,414.76,not only known each other for like five minutes. I,-0.6200000000000045,4.639999999999986,0,False,True,10
+117,5f484cef1d9c4630fdf85265,412.74,413.75,Uh huh.,-2.019999999999982,1.009999999999991,0,False,True,2
+118,5f31961c57eb9507db148757,414.77,417.76,like to just kind of sit down and do my work.,1.0199999999999818,2.990000000000009,0,False,False,11
+119,5f484cef1d9c4630fdf85265,418.44,419.55,Mhm.,0.6800000000000068,1.1100000000000136,0,False,False,1
+120,5f31961c57eb9507db148757,418.54,419.96,Yeah I don't mind it.,-1.009999999999991,1.419999999999959,0,False,True,6
+121,5f484cef1d9c4630fdf85265,420.94,428.36,Okay. Yeah. I don't know. I've worked in jobs where you have to deal with like customers like sales or food,0.9800000000000182,7.420000000000016,0,False,False,23
+122,5f31961c57eb9507db148757,428.24,428.71,Yeah,-0.12000000000000455,0.46999999999997044,0,False,True,1
+123,5f484cef1d9c4630fdf85265,428.36,428.72,service,-0.3499999999999659,0.36000000000001364,0,False,True,1
+124,5f31961c57eb9507db148757,428.71,428.88,I'm,-0.010000000000047748,0.17000000000001592,0,False,True,2
+125,5f484cef1d9c4630fdf85265,428.72,429.58,before.,-0.15999999999996817,0.8599999999999568,0,False,True,1
+126,5f31961c57eb9507db148757,428.88,429.86,certain bad.,-0.6999999999999886,0.9800000000000182,0,False,True,2
+127,5f484cef1d9c4630fdf85265,429.59,432.26,Hate it. It's the worst,-0.27000000000003865,2.670000000000016,0,False,True,6
+128,5f31961c57eb9507db148757,431.94,432.36,"Yes,",-0.3199999999999932,0.4200000000000159,0,False,True,1
+129,5f484cef1d9c4630fdf85265,432.26,436.66,just people coming in and you never know what's going to happen and angry customers,-0.10000000000002274,4.400000000000034,0,False,True,16
+130,5f31961c57eb9507db148757,436.44,436.95,I know.,-0.22000000000002728,0.5099999999999909,0,False,True,2
+131,5f484cef1d9c4630fdf85265,436.66,440.89,"like Yeah, well I think I can do it again.",-0.2899999999999636,4.229999999999961,0,False,True,10
+132,5f31961c57eb9507db148757,440.84,441.25,Yeah.,-0.05000000000001137,0.410000000000025,0,False,True,1
+133,5f484cef1d9c4630fdf85265,440.9,450.46,But I worked at Cold stone when I was in high school. That was pretty cool though cause I got free ice cream. So that was definitely a bonus.,-0.35000000000002274,9.560000000000002,0,False,True,29
+134,5f31961c57eb9507db148757,450.24,455.34,"Yeah, I used to work at my university um like in the dining halls. Um",-0.21999999999997044,5.099999999999966,0,False,True,15
+135,5f484cef1d9c4630fdf85265,455.04,455.76,Mhm,-0.2999999999999545,0.7199999999999704,0,False,True,1
+136,5f31961c57eb9507db148757,455.46,458.2,"I don't work there anymore because of Covid. But yeah,",-0.30000000000001137,2.740000000000009,0,False,True,11
+137,5f484cef1d9c4630fdf85265,457.84,458.56,mhm,-0.36000000000001364,0.7200000000000273,0,False,True,1
+138,5f31961c57eb9507db148757,458.21,463.87,"that was like, that was a nice time from like when I worked there, I get to also eat there for free, so I was like, you know, I was like,",-0.35000000000002274,5.660000000000025,0,False,True,31
+139,5f484cef1d9c4630fdf85265,463.64,464.75,19,-0.2300000000000182,1.1100000000000136,0,False,True,1
+140,5f31961c57eb9507db148757,463.88,471.06,"I didn't get to who is always busy with school and doesn't have time to cook, it doesn't have a lot of money and like this is nice.",-0.8700000000000045,7.180000000000007,0,False,True,31
+141,5f484cef1d9c4630fdf85265,471.54,477.45,"Yeah, that's a huge bonus for sure. Especially when you're in school because like finances can be tight.",0.4800000000000182,5.909999999999968,0,False,False,20
+142,5f31961c57eb9507db148757,478.04,478.46,Mhm.,0.5900000000000318,0.4199999999999591,0,False,False,1
+143,5f484cef1d9c4630fdf85265,478.04,484.06,"So, So has your life been super affected by Covid then?",-0.4199999999999591,6.019999999999982,1,True,True,11
+144,5f31961c57eb9507db148757,484.44,487.77,Um I would say Kind,0.37999999999999545,3.329999999999984,0,False,False,5
+145,5f484cef1d9c4630fdf85265,487.24,487.44,Yeah.,-0.5299999999999727,0.19999999999998863,0,False,True,1
+146,5f31961c57eb9507db148757,487.77,492.86,"of, I don't really live too far from my university, I live about 30 minutes away. So",0.3299999999999841,5.090000000000032,0,False,False,18
+147,5f484cef1d9c4630fdf85265,492.64,493.15,Mhm.,-0.22000000000002728,0.5099999999999909,0,False,True,1
+148,5f31961c57eb9507db148757,493.64,499.04,"originally I used to live in apartment nearby, so I just instead of just moved home since everything's online now, mostly",0.4900000000000091,5.400000000000034,0,False,False,22
+149,5f484cef1d9c4630fdf85265,498.64,499.05,Uh huh.,-0.4000000000000341,0.410000000000025,0,False,True,2
+150,5f31961c57eb9507db148757,499.22,501.68,because of my work um like,0.17000000000001592,2.4599999999999795,0,False,False,6
+151,5f484cef1d9c4630fdf85265,501.64,501.85,Mm,-0.040000000000020464,0.21000000000003638,0,False,True,1
+152,5f31961c57eb9507db148757,501.68,511.9,"the quarter before Covid, I I just got promoted to be a supervisor and my um and I worked and",-0.17000000000001592,10.21999999999997,0,False,True,20
+153,5f484cef1d9c4630fdf85265,511.54,512.04,Yeah.,-0.3599999999999568,0.49999999999994316,0,False,True,1
+154,5f31961c57eb9507db148757,511.9,522.77,"we were like we were opening a new location or it was like a the location was like being rebuilt for I think like two years, two or three years. And so it was like",-0.13999999999998636,10.870000000000005,0,False,True,35
+155,5f484cef1d9c4630fdf85265,522.54,522.96,Mhm,-0.2300000000000182,0.42000000000007276,0,False,True,1
+156,5f31961c57eb9507db148757,522.78,532.06,opening and so I was being reassigned there. Um And so like we didn't even get to open it because Covid happened and then we didn't get to,-0.18000000000006366,9.279999999999973,0,False,True,30
+157,5f484cef1d9c4630fdf85265,532.04,532.96,Oh,-0.01999999999998181,0.9200000000000728,0,False,True,1
+158,5f31961c57eb9507db148757,532.06,537.48,"like the opening, we I didn't get to even like work as a supervisor really. I was really sad",-0.900000000000091,5.420000000000073,0,False,True,20
+159,5f484cef1d9c4630fdf85265,537.34,538.15,"there,",-0.13999999999998636,0.8099999999999454,0,False,True,1
+160,5f31961c57eb9507db148757,537.49,548.72,"because I was like, oh like that was kind of like a lot of work my work experience was and like hopefully something I could put on my resume, especially like in a leadership position, I was kind of",-0.6599999999999682,11.230000000000018,0,False,True,39
+161,5f484cef1d9c4630fdf85265,548.64,548.96,yeah.,-0.08000000000004093,0.32000000000005,0,False,True,1
+162,5f31961c57eb9507db148757,548.77,568.73,"that better than that. I mean, Covid hasn't really impacted and much besides things went online, but like I personally am not super, like, like I'm not like really? Um I was troubled by the change from like in person to online. I think I can still do all of my classes, but",-0.19000000000005457,19.960000000000036,1,False,True,55
+163,5f484cef1d9c4630fdf85265,568.04,568.54,Yeah.,-0.6900000000000546,0.5,0,False,True,1
+164,5f31961c57eb9507db148757,568.73,572.46,I'm glad I get to be home with my family more. So that's a nice bonus for me.,0.19000000000005457,3.730000000000018,0,False,False,20
+165,5f484cef1d9c4630fdf85265,573.14,573.51,"Yeah,",0.67999999999995,0.37000000000000455,0,False,False,1
+166,5f31961c57eb9507db148757,573.24,575.16,Okay.,-0.2699999999999818,1.919999999999959,0,False,True,1
+167,5f484cef1d9c4630fdf85265,573.51,579.56,"that would be doing it. So do you live with your siblings or do you, are you married? You have kids and stuff?",-1.6499999999999773,6.0499999999999545,2,True,True,23
+168,5f31961c57eb9507db148757,579.44,582.46,"No, I'm only 21, so that's kind of",-0.11999999999989086,3.019999999999982,0,False,True,10
+169,5f484cef1d9c4630fdf85265,582.24,582.95,Yeah.,-0.22000000000002728,0.7100000000000364,0,False,True,1
+170,5f31961c57eb9507db148757,582.84,584.54,"super far into,",-0.11000000000001364,1.6999999999999318,0,False,True,3
+171,5f484cef1d9c4630fdf85265,584.24,584.86,And,-0.2999999999999545,0.6200000000000045,0,False,True,1
+172,5f31961c57eb9507db148757,584.55,587.36,"right? No. Yeah, I live with my my mom and my brother.",-0.3100000000000591,2.810000000000059,1,False,True,12
+173,5f484cef1d9c4630fdf85265,587.94,608.31,"mm hmm. Fun. I have brothers too. I have three brothers, but where else from that? Like they won lives in Portland ones in Boise ones in L. A. So we're all really spread out. But I'm just laughing to myself because in Utah 21 that's like normal age to get married, because",0.5800000000000409,20.36999999999989,1,False,False,56
+174,5f31961c57eb9507db148757,607.74,608.47,Really? I,-0.5699999999999363,0.7300000000000182,1,False,True,2
+175,5f484cef1d9c4630fdf85265,608.31,609.16,of.,-0.16000000000008185,0.8500000000000227,0,False,True,1
+176,5f31961c57eb9507db148757,608.48,611.85,"don't know. Yeah, that's so weird to me. That's like the complete opposite,",-0.67999999999995,3.3700000000000045,0,False,True,16
+177,5f484cef1d9c4630fdf85265,612.54,620.76,"it's very weird. It's so weird here. Like, I mean there's tons of mormon people, like I was raised mormon, but I'm not at",0.6899999999999409,8.220000000000027,0,False,False,28
+178,5f31961c57eb9507db148757,620.64,621.06,right?,-0.12000000000000455,0.4199999999999591,1,True,True,1
+179,5f484cef1d9c4630fdf85265,620.76,640.55,"all. But definitely, that's the norm, like, Oh, we're 19 years old, were getting married forever and we're going to start having kids right now. I'm like, how can you do that? Like your life just barely starting. I mean I'm 29 years old and I still don't feel that ready to have kids or like I don't know, I'm like five or 10 more",-0.2999999999999545,19.789999999999964,1,False,True,73
+180,5f31961c57eb9507db148757,640.44,640.94,Yeah.,-0.10999999999989996,0.5,0,False,True,1
+181,5f484cef1d9c4630fdf85265,640.55,644.05,"years, then I'll do that. Maybe",-0.39000000000010004,3.5,0,False,True,7
+182,5f31961c57eb9507db148757,643.44,645.36,Are you married though? Are you still single?,-0.6099999999999,1.919999999999959,2,True,True,8
+183,5f484cef1d9c4630fdf85265,646.24,652.96,"no, I'm not married. Yeah, so I'm like an old maid here, basically,",0.8799999999999955,6.720000000000027,0,False,False,15
+184,5f31961c57eb9507db148757,652.44,653.95,"Oh, do you",-0.5199999999999818,1.509999999999991,0,False,True,3
+185,5f484cef1d9c4630fdf85265,653.94,654.27,but,-0.009999999999990905,0.32999999999992724,0,False,True,1
+186,5f31961c57eb9507db148757,653.95,654.47,like,-0.31999999999993634,0.5199999999999818,0,False,True,1
+187,5f484cef1d9c4630fdf85265,654.27,654.52,I'm,-0.20000000000004547,0.25,0,False,True,2
+188,5f31961c57eb9507db148757,654.48,655.06,Earth?,-0.03999999999996362,0.5799999999999272,1,True,True,1
+189,5f484cef1d9c4630fdf85265,654.53,718.66,"like, what? Um Yeah, I live with one of my best friends actually, and she owns the house, so it's pretty cool. Um I can paint or do, just moved in with her in july, but before that I was living with my grandmother, I lived with her for four years and helped take care of her because she's pretty, she's elderly and she's not in great health, so I cared for her for quite a while, but it got to be kind of a lot, especially when quarantine started because before she had another assistant who would come in and kind of give me some time off because I was also working still. But then quarantine happened, so it was just her and I like 24/7 uh basically like from the moment I woke up till the moment I went to bed, just like on call, it was it was a bit stressful, I mean I love her and she's awesome, but I just reached that point",-0.5299999999999727,64.13,1,False,True,173
+190,5f31961c57eb9507db148757,718.74,719.24,Yeah.,0.08000000000004093,0.5,0,False,False,1
+191,5f484cef1d9c4630fdf85265,719.14,731.06,"where I felt that I had to move To move on with my life, I'm like, you know what, I'm almost 30, like other people in the family can step up and like help take care of her.",-0.10000000000002274,11.919999999999959,0,False,True,40
+192,5f31961c57eb9507db148757,731.14,731.35,Mhm.,0.08000000000004093,0.21000000000003638,0,False,False,1
+193,5f484cef1d9c4630fdf85265,732.24,753.95,"So yeah, it's it's been working out well and my my roommate, even though we're best friends, were both pretty introverted so we don't see each other very much, I mean she lives downstairs and I live upstairs um we see each other occasionally, it works out just fine and she just got a new dog, she has a corgi also",0.8899999999999864,21.710000000000036,0,False,False,65
+194,5f31961c57eb9507db148757,753.84,754.05,Mhm.,-0.11000000000001364,0.2099999999999227,0,False,True,1
+195,5f484cef1d9c4630fdf85265,754.44,760.35,"which is great, we go hiking with the corgi. Um Do you have any pets?",0.39000000000010004,5.909999999999968,1,True,False,15
+196,5f31961c57eb9507db148757,760.74,763.88,"No, I don't. I really wish I did. Uh",0.38999999999998636,3.1399999999999864,0,False,False,10
+197,5f484cef1d9c4630fdf85265,763.64,763.84,Uh huh.,-0.2400000000000091,0.20000000000004547,0,False,True,2
+198,5f31961c57eb9507db148757,763.89,767.77,"my mom does not like pets. She's like, she thinks that all 30 so she doesn't",0.049999999999954525,3.8799999999999955,0,False,False,18
+199,5f484cef1d9c4630fdf85265,767.64,768.74,Yeah.,-0.12999999999999545,1.1000000000000227,0,False,True,1
+200,5f31961c57eb9507db148757,767.78,776.36,"care of it. Um But I think, yeah, when I'm, I guess if I remove out, I would love to get a pet and I always watch videos online of like dogs or cats. Sara just animals",-0.9600000000000364,8.580000000000041,0,False,True,38
+201,5f484cef1d9c4630fdf85265,776.34,777.06,Okay.,-0.01999999999998181,0.7199999999999136,0,False,True,1
+202,5f31961c57eb9507db148757,776.36,781.25,"and like man, they look so cute together. I just want to I want like a cuddly friend too.",-0.6999999999999318,4.889999999999986,0,False,True,19
+203,5f484cef1d9c4630fdf85265,781.94,786.26,"Uh there's no cute animals are great, what what kind of animal would you get?",0.6900000000000546,4.319999999999936,1,True,False,16
+204,5f31961c57eb9507db148757,786.64,790.34,"Um I mean I don't know I feel like I'm open to any,",0.37999999999999545,3.7000000000000455,0,False,False,15
+205,5f484cef1d9c4630fdf85265,790.34,790.55,Mhm.,0.0,0.2099999999999227,0,False,False,1
+206,5f31961c57eb9507db148757,790.35,797.23,I feel like I would probably want a dog over a cat. I don't know. I feel like I feel like like,-0.1999999999999318,6.8799999999999955,0,False,True,23
+207,5f484cef1d9c4630fdf85265,797.04,797.25,Mhm.,-0.19000000000005457,0.21000000000003638,0,False,True,1
+208,5f31961c57eb9507db148757,797.24,800.71,for me personally like my love languages physical touch. So,-0.009999999999990905,3.4700000000000273,0,False,True,10
+209,5f484cef1d9c4630fdf85265,800.64,801.15,Um,-0.07000000000005002,0.5099999999999909,0,False,True,1
+210,5f31961c57eb9507db148757,800.72,807.0,"I feel like some cats are just like not like that and some cats would just be like he's out, I'm on my own, you know? Um",-0.42999999999995,6.279999999999973,1,False,True,29
+211,5f484cef1d9c4630fdf85265,806.84,807.99,Yeah,-0.15999999999996817,1.1499999999999773,0,False,True,1
+212,5f31961c57eb9507db148757,807.01,811.15,Yeah I feel good my dog more um Like,-0.9800000000000182,4.139999999999986,0,False,True,9
+213,5f484cef1d9c4630fdf85265,810.94,811.2,for,-0.2099999999999227,0.2599999999999909,0,False,True,1
+214,5f31961c57eb9507db148757,811.15,811.29,as,-0.05000000000006821,0.13999999999998636,0,False,True,1
+215,5f484cef1d9c4630fdf85265,811.2,811.56,me,-0.08999999999991815,0.35999999999989996,0,False,True,1
+216,5f31961c57eb9507db148757,811.29,820.46,"for what type of dog? I don't know. I think I'm open to anything. I definitely always want a golden retriever. I just think there's just so cute and they're like,",-0.2699999999999818,9.170000000000073,1,False,True,35
+217,5f484cef1d9c4630fdf85265,819.14,820.55,"There is one bedroom,",-1.32000000000005,1.4099999999999682,0,False,True,4
+218,5f31961c57eb9507db148757,821.24,821.43,and,0.6900000000000546,0.18999999999994088,0,False,False,1
+219,5f484cef1d9c4630fdf85265,821.24,821.46,they,-0.18999999999994088,0.22000000000002728,0,False,True,1
+220,5f31961c57eb9507db148757,821.43,821.51,it,-0.030000000000086402,0.08000000000004093,0,False,True,1
+221,5f484cef1d9c4630fdf85265,821.46,821.66,look,-0.049999999999954525,0.1999999999999318,0,False,True,1
+222,5f31961c57eb9507db148757,821.51,821.72,would be,-0.14999999999997726,0.21000000000003638,0,False,True,2
+223,5f484cef1d9c4630fdf85265,821.66,821.88,so,-0.06000000000005912,0.22000000000002728,0,False,True,1
+224,5f31961c57eb9507db148757,821.72,822.01,funny,-0.15999999999996817,0.2899999999999636,0,False,True,1
+225,5f484cef1d9c4630fdf85265,821.88,822.95,help.,-0.12999999999999545,1.07000000000005,0,False,True,1
+226,5f31961c57eb9507db148757,822.01,826.46,"too because I'm personally, I'm like really small. Like I'm like very petite person and then, so",-0.9400000000000546,4.4500000000000455,0,False,True,20
+227,5f484cef1d9c4630fdf85265,826.54,827.16,Okay.,0.07999999999992724,0.6200000000000045,0,False,False,1
+228,5f31961c57eb9507db148757,826.84,828.75,I don't think it be fun to have like a big dog.,-0.31999999999993634,1.9099999999999682,0,False,True,13
+229,5f484cef1d9c4630fdf85265,829.44,832.14,"Oh that would be so cute, yeah, retrievers",0.6900000000000546,2.699999999999932,0,False,False,8
+230,5f31961c57eb9507db148757,831.84,832.04,Yeah.,-0.2999999999999545,0.1999999999999318,0,False,True,1
+231,5f484cef1d9c4630fdf85265,832.14,835.05,are great and they're so like sweet and smart,0.10000000000002274,2.909999999999968,0,False,False,10
+232,5f31961c57eb9507db148757,834.74,835.16,Mhm.,-0.30999999999994543,0.4199999999999591,0,False,True,1
+233,5f484cef1d9c4630fdf85265,835.06,854.76,"and they are very cuddly and fun. Uh Yeah I would love to get a dog, I've never had a dog before, I had a cat. Um She was actually a gift to me, which was a little bit crazy that somebody would give me a cat for a gift, but it was my ex boyfriend. So one valentine's day,",-0.10000000000002274,19.700000000000045,0,False,True,62
+234,5f31961c57eb9507db148757,854.64,855.06,"Mhm,",-0.12000000000000455,0.4199999999999591,0,False,True,1
+235,5f484cef1d9c4630fdf85265,855.14,875.46,"you just got home a cat and I was like, all right, I love this cat, I'm not going to get rid of it. But also this is hard because I was still planning on like traveling around and moving different places and it's kind of difficult to bring an animal with you. But I did and uh I found out that she was actually elderly",0.08000000000004093,20.32000000000005,0,False,False,68
+236,5f31961c57eb9507db148757,875.44,875.95,mm.,-0.01999999999998181,0.5099999999999909,0,False,True,1
+237,5f484cef1d9c4630fdf85265,875.84,881.51,only a few years ago and then she ended up passing away earlier this year,-0.11000000000001364,5.669999999999959,0,False,True,15
+238,5f31961c57eb9507db148757,881.34,881.76,Mhm.,-0.16999999999995907,0.4199999999999591,0,False,True,1
+239,5f484cef1d9c4630fdf85265,881.52,896.51,because just from old age related stuff. But it was really sad and at this point I'm just happy with my roommates pets because I can just hang out with them when they want and they're also not my responsibility,-0.2400000000000091,14.990000000000009,0,False,True,42
+240,5f31961c57eb9507db148757,896.34,896.66,"Now,",-0.16999999999995907,0.31999999999993634,0,False,True,1
+241,5f484cef1d9c4630fdf85265,896.51,898.52,and I don't have to hold thousands of dollars,-0.14999999999997726,2.009999999999991,0,False,True,10
+242,5f31961c57eb9507db148757,898.44,898.85,yeah.,-0.07999999999992724,0.40999999999996817,0,False,True,1
+243,5f484cef1d9c4630fdf85265,898.52,900.36,for their vet bills.,-0.3300000000000409,1.8400000000000318,0,False,True,4
+244,5f31961c57eb9507db148757,902.14,913.15,"Yeah, that's nice. And it sounds like a good setup with your roommate. I mean, I feel like that's like my ideal like to have kind of two separate locations but like not so far apart that I'm like completely isolated.",1.7799999999999727,11.009999999999991,0,False,False,44
+245,5f484cef1d9c4630fdf85265,913.84,914.98,Mhm.,0.6900000000000546,1.1399999999999864,0,False,False,1
+246,5f31961c57eb9507db148757,914.54,915.55,Yeah.,-0.44000000000005457,1.009999999999991,0,False,True,1
+247,5f484cef1d9c4630fdf85265,914.99,917.47,That's really weird like and it's,-0.5599999999999454,2.480000000000018,0,False,True,8
+248,5f31961c57eb9507db148757,917.34,917.54,Yeah.,-0.12999999999999545,0.1999999999999318,0,False,True,1
+249,5f484cef1d9c4630fdf85265,917.48,917.95,it's been,-0.05999999999994543,0.4700000000000273,0,False,True,3
+250,5f31961c57eb9507db148757,917.94,918.15,"No,",-0.009999999999990905,0.2099999999999227,0,False,True,1
+251,5f484cef1d9c4630fdf85265,917.95,943.95,"fun you like arranging the house. Um I put up like these bookshelves and arranged all the books and like rainbow color and just putting up art and stuff. I think we're going to redo the kitchen a little bit more and like paint the cabinets white and put on like put up some new wallpaper and yeah, there's just a lot of, a lot of house projects when you're a homeowner, I guess.",-0.1999999999999318,26.0,0,False,True,77
+252,5f31961c57eb9507db148757,943.64,956.15,"really? That that sounds so like, like I feel like for me that's kind of like why I guess I'm scared of growing up. I feel like I am just so like I don't really care what my house looks. I mean I care that's clean, but like when it comes",-0.3100000000000591,12.509999999999991,1,False,True,55
+253,5f484cef1d9c4630fdf85265,956.14,956.76,Mhm.,-0.009999999999990905,0.6200000000000045,0,False,True,1
+254,5f31961c57eb9507db148757,956.15,961.68,"to signing things and like organizing it, I'm like, just put it wherever. But then I",-0.6100000000000136,5.529999999999973,0,False,True,17
+255,5f484cef1d9c4630fdf85265,961.64,962.65,"Yeah,",-0.03999999999996362,1.009999999999991,0,False,True,1
+256,5f31961c57eb9507db148757,961.69,966.16,"feel like people are going to be like took me, why is your house? So like all over the place?",-0.9599999999999227,4.469999999999914,2,True,True,20
+257,5f484cef1d9c4630fdf85265,966.54,981.86,"I'm sure it's fine and I mean whatever works for you, whatever system works for you. I mean that's the best system honestly. So I mean I just because you grow up, it doesn't mean you have it all together really,",0.37999999999999545,15.32000000000005,0,False,False,45
+258,5f31961c57eb9507db148757,981.54,982.35,That's true.,-0.32000000000005,0.8100000000000591,0,False,True,3
+259,5f484cef1d9c4630fdf85265,983.14,1002.35,"but I've actually worked doing like house cleaning and organization for a while. So I've, I learned, I learned a little bit along the line and especially growing up, my mom would always be on me to like clean and organized because because I was raised mormon because that's like the woman's role",0.7899999999999636,19.210000000000036,0,False,False,57
+260,5f31961c57eb9507db148757,1002.34,1002.76,Oh,-0.009999999999990905,0.4199999999999591,0,False,True,1
+261,5f484cef1d9c4630fdf85265,1002.84,1016.66,"and the family is to like clean and cook and raise the family. So I guess I was always taught how to do that. But it's kind of weird when there's like little girls and you're like, okay, like pretend like you're taking care of a baby, organize the house,",0.08000000000004093,13.819999999999936,0,False,False,54
+262,5f31961c57eb9507db148757,1016.44,1016.85,yeah.,-0.2199999999999136,0.40999999999996817,0,False,True,1
+263,5f484cef1d9c4630fdf85265,1016.66,1022.07,"do the laundry. The boys are just like, okay, go play out here like gender roles,",-0.19000000000005457,5.410000000000082,0,False,True,16
+264,5f31961c57eb9507db148757,1022.34,1022.75,Yeah.,0.2699999999999818,0.40999999999996817,0,False,False,1
+265,5f484cef1d9c4630fdf85265,1022.64,1024.05,"not a fan,",-0.11000000000001364,1.4099999999999682,0,False,True,3
+266,5f31961c57eb9507db148757,1025.34,1027.95,"You mentioned that you have three brothers, right? Are you so close with them or?",1.2899999999999636,2.6100000000001273,2,True,False,15
+267,5f484cef1d9c4630fdf85265,1029.14,1059.04,"definitely. Um It sucks because we live so far apart, but we still talk on the phone pretty regularly. My my youngest brother who lives in L. A. Just came to visit a few weeks ago and like with Covid, I've just been really like isolated and not like not hanging out with people. I know some people are like kind of resuming hanging out with close friends. And I did, I did a few times and then I was like, I",1.1900000000000546,29.899999999999864,0,False,False,83
+268,5f31961c57eb9507db148757,1059.04,1059.32,That's,0.0,0.2799999999999727,0,False,False,2
+269,5f484cef1d9c4630fdf85265,1059.05,1059.48,don't know,-0.2699999999999818,0.43000000000006366,0,False,True,3
+270,5f31961c57eb9507db148757,1059.32,1059.46,the,-0.16000000000008185,0.14000000000010004,0,False,True,1
+271,5f484cef1d9c4630fdf85265,1059.48,1059.71,like,0.01999999999998181,0.2300000000000182,0,False,False,1
+272,5f31961c57eb9507db148757,1059.52,1059.96,same.,-0.19000000000005457,0.44000000000005457,0,False,True,1
+273,5f484cef1d9c4630fdf85265,1059.71,1070.73,"is it okay? Especially because because I'm a caregiver for someone who's like medically fragile, so I have to be extra careful because like if I gave it to her, then",-0.25,11.019999999999982,1,False,True,33
+274,5f31961c57eb9507db148757,1070.44,1070.76,Yeah.,-0.2899999999999636,0.31999999999993634,0,False,True,1
+275,5f484cef1d9c4630fdf85265,1070.73,1073.03,"I would feel like, oh my god, like I murdered her or",-0.029999999999972715,2.2999999999999545,0,False,True,12
+276,5f31961c57eb9507db148757,1072.94,1073.56,Yeah.,-0.08999999999991815,0.6199999999998909,0,False,True,1
+277,5f484cef1d9c4630fdf85265,1073.03,1100.06,"something. It wouldn't, it wouldn't really be like that, but I would still feel like that. So um But yeah, my brother came to visit me and it was fun. He was only here for a couple of days. But we went hiking, uh there's like a lot of great nature stuff in Utah like trees and aspen forests and pretty much any hike you go on, you can almost, you can see like deer or like moose",-0.5299999999999727,27.029999999999973,0,False,True,81
+278,5f31961c57eb9507db148757,1100.14,1100.67,Oh.,0.08000000000015461,0.5299999999999727,0,False,False,1
+279,5f484cef1d9c4630fdf85265,1100.64,1103.82,like somebody got trampled by a moose,-0.029999999999972715,3.1799999999998363,0,False,True,7
+280,5f31961c57eb9507db148757,1103.64,1104.27,Oh.,-0.1799999999998363,0.6299999999998818,0,False,True,1
+281,5f484cef1d9c4630fdf85265,1103.83,1106.63,here recently because they approached them,-0.44000000000005457,2.800000000000182,0,False,True,6
+282,5f31961c57eb9507db148757,1106.34,1106.76,And,-0.290000000000191,0.42000000000007276,0,False,True,1
+283,5f484cef1d9c4630fdf85265,1106.64,1112.23,"like aggressive or no, it was an elk actually. Um So there can be a little dangerous,",-0.11999999999989086,5.589999999999918,0,False,True,17
+284,5f31961c57eb9507db148757,1111.74,1112.27,yeah.,-0.4900000000000091,0.5299999999999727,0,False,True,1
+285,5f484cef1d9c4630fdf85265,1112.23,1114.55,but it's cool to see.,-0.03999999999996362,2.3199999999999363,0,False,True,6
+286,5f31961c57eb9507db148757,1115.34,1115.54,Yeah.,0.7899999999999636,0.20000000000004547,0,False,False,1
+287,5f484cef1d9c4630fdf85265,1115.44,1119.06,"Is there any like cool, do you like to do outdoors stuff at all?",-0.09999999999990905,3.619999999999891,1,True,True,14
+288,5f31961c57eb9507db148757,1119.04,1121.35,"No, I'm like a home person. I'm like,",-0.01999999999998181,2.3099999999999454,0,False,True,10
+289,5f484cef1d9c4630fdf85265,1121.44,1122.15,Yeah.,0.09000000000014552,0.7100000000000364,0,False,False,1
+290,5f31961c57eb9507db148757,1121.84,1122.35,I like,-0.3100000000001728,0.5099999999999909,0,False,True,2
+291,5f484cef1d9c4630fdf85265,1122.16,1123.96,What are your hobbies,-0.1899999999998272,1.7999999999999545,0,False,True,4
+292,5f31961c57eb9507db148757,1124.04,1127.46,um I mostly like play games in my free time. Ah,0.07999999999992724,3.4200000000000728,0,False,False,11
+293,5f484cef1d9c4630fdf85265,1127.44,1128.16,and home?,-0.01999999999998181,0.7200000000000273,1,True,True,2
+294,5f31961c57eb9507db148757,1128.04,1131.66,"But yeah, I mean right now I don't have a lot of free time. Um",-0.12000000000011823,3.6200000000001182,0,False,True,16
+295,5f484cef1d9c4630fdf85265,1131.64,1132.27,Mhm.,-0.01999999999998181,0.6299999999998818,0,False,True,1
+296,5f31961c57eb9507db148757,1132.24,1137.06,"Yeah, I like to play games, watch tv. I don't know like this stuff on the internet.",-0.029999999999972715,4.819999999999936,0,False,True,18
+297,5f484cef1d9c4630fdf85265,1138.04,1139.56,What kind of shows do you like?,0.9800000000000182,1.5199999999999818,1,True,False,7
+298,5f31961c57eb9507db148757,1139.84,1143.95,"My like favorite show of all time is booking 99 Like it's to me is like,",0.2799999999999727,4.110000000000127,0,False,False,17
+299,5f484cef1d9c4630fdf85265,1143.84,1145.7,"I know, I know.",-0.11000000000012733,1.8600000000001273,0,False,True,4
+300,5f31961c57eb9507db148757,1145.04,1152.36,"like I I watch it, I'm watching it for the third time. I don't know why I try to watch other shows and I'm like, well it's not funny and then like a Brooklyn Dark,",-0.6600000000000819,7.319999999999936,0,False,True,39
+301,5f484cef1d9c4630fdf85265,1152.24,1153.67,Yeah.,-0.11999999999989086,1.4300000000000637,0,False,True,1
+302,5f31961c57eb9507db148757,1152.94,1154.05,the nice guy laughing.,-0.7300000000000182,1.1099999999999,0,False,True,4
+303,5f484cef1d9c4630fdf85265,1155.14,1161.74,"Yeah, I get what you mean. It's so good. Every watched it a few times myself or like The Office and you know, things like that.",1.0900000000001455,6.599999999999909,0,False,False,27
+304,5f31961c57eb9507db148757,1161.54,1162.25,"Yeah,",-0.20000000000004547,0.7100000000000364,0,False,True,1
+305,5f484cef1d9c4630fdf85265,1161.74,1163.36,Of course we want.,-0.5099999999999909,1.6199999999998909,0,False,True,4
+306,5f31961c57eb9507db148757,1162.64,1166.93,"it's funny. Like I don't get like I don't watch a lot of shows, so I haven't watched, I",-0.7199999999997999,4.289999999999964,0,False,True,23
+307,5f484cef1d9c4630fdf85265,1166.84,1167.17,Mhm.,-0.09000000000014552,0.3300000000001546,0,False,True,1
+308,5f31961c57eb9507db148757,1166.93,1174.13,watched like some episodes of The Office kind of like when I'm with my friends and they're like watching it. So I want to watch like it sporadically um,-0.2400000000000091,7.2000000000000455,0,False,True,31
+309,5f484cef1d9c4630fdf85265,1173.94,1174.56,Yeah.,-0.19000000000005457,0.6199999999998909,0,False,True,1
+310,5f31961c57eb9507db148757,1174.22,1177.46,and I want to watch and then like parks and recs to. Um,-0.33999999999991815,3.240000000000009,0,False,True,13
+311,5f484cef1d9c4630fdf85265,1177.54,1178.17,Mhm.,0.07999999999992724,0.6300000000001091,0,False,False,1
+312,5f31961c57eb9507db148757,1177.84,1178.34,But yeah.,-0.3300000000001546,0.5,0,False,True,2
+313,5f484cef1d9c4630fdf85265,1178.64,1185.99,"Oh, I've been watching so many movies during quarantine. I got this",0.3000000000001819,7.349999999999909,0,False,False,13
+314,5f31961c57eb9507db148757,1185.94,1186.17,Oh.,-0.049999999999954525,0.2300000000000182,0,False,True,1
+315,5f484cef1d9c4630fdf85265,1185.99,1193.63,new movie app where I can keep track of all of them and you can review them too. But I love like really old shitty movies,-0.18000000000006366,7.6400000000001,0,False,True,26
+316,5f31961c57eb9507db148757,1193.44,1193.94,Uh huh.,-0.19000000000005457,0.5,0,False,True,2
+317,5f484cef1d9c4630fdf85265,1193.63,1216.04,for like the 1890s. Like I watched this one recently called Con Air with Nicolas Cage as the main star. So you can imagine how like bad the acting was. But like there's a bunch of prisoners and they're all together on an airplane and then they start a riot on the airplane and then they crash the airplane in the las Vegas strip,-0.30999999999994543,22.409999999999854,0,False,True,66
+318,5f31961c57eb9507db148757,1215.54,1215.86,"Yeah,",-0.5,0.31999999999993634,0,False,True,1
+319,5f484cef1d9c4630fdf85265,1216.05,1219.17,"and like, yeah, it's insane.",0.19000000000005457,3.1200000000001182,0,False,False,6
+320,5f31961c57eb9507db148757,1219.84,1220.5,that's it for,0.6699999999998454,0.6600000000000819,0,False,False,4
+321,5f484cef1d9c4630fdf85265,1220.34,1220.55,Yes.,-0.16000000000008185,0.21000000000003638,0,False,True,1
+322,5f31961c57eb9507db148757,1220.5,1230.09,me. Like I feel like I can't watch it at least it's hard for me to watch shows or like movies on my own because I feel like I want to make fun of it for the no one's around me to make fun of it with,-0.049999999999954525,9.589999999999918,0,False,True,50
+323,5f484cef1d9c4630fdf85265,1229.34,1230.77,Yeah.,-0.75,1.4300000000000637,0,False,True,1
+324,5f31961c57eb9507db148757,1230.09,1232.36,that way. But,-0.6800000000000637,2.269999999999982,0,False,True,3
+325,5f484cef1d9c4630fdf85265,1231.84,1242.92,"Yeah, it's true. There's been a few times or like, I don't know, supposedly there are ways that you can watch hulu or netflix with somebody else over video",-0.5199999999999818,11.080000000000155,0,False,True,32
+326,5f31961c57eb9507db148757,1242.74,1243.06,"yeah,",-0.18000000000006366,0.31999999999993634,0,False,True,1
+327,5f484cef1d9c4630fdf85265,1242.92,1243.46,chat.,-0.13999999999987267,0.5399999999999636,0,False,True,1
+328,5f31961c57eb9507db148757,1243.07,1243.54,that's what I,-0.39000000000010004,0.4700000000000273,0,False,True,4
+329,5f484cef1d9c4630fdf85265,1243.47,1243.65,It,-0.06999999999993634,0.18000000000006366,0,False,True,1
+330,5f31961c57eb9507db148757,1243.55,1244.03,heard.,-0.10000000000013642,0.4800000000000182,0,False,True,1
+331,5f484cef1d9c4630fdf85265,1243.65,1244.06,won't.,-0.37999999999988177,0.4099999999998545,0,False,True,2
+332,5f31961c57eb9507db148757,1244.04,1249.86,"Or like they have like new features, like I guess you can stream it to each other or something like that or like you cannot watch at the same",-0.01999999999998181,5.819999999999936,0,False,True,30
+333,5f484cef1d9c4630fdf85265,1249.67,1250.17,"And then,",-0.1899999999998272,0.5,0,False,True,2
+334,5f31961c57eb9507db148757,1249.86,1252.76,time. I've never tried it there so I know how it works.,-0.3100000000001728,2.900000000000091,0,False,True,13
+335,5f484cef1d9c4630fdf85265,1253.74,1258.43,"yeah, I haven't tried it for quite a while, but I did a few months ago and it did not",0.9800000000000182,4.690000000000055,0,False,False,21
+336,5f31961c57eb9507db148757,1257.84,1258.35,Hello?,-0.5900000000001455,0.5099999999999909,1,True,True,1
+337,5f484cef1d9c4630fdf85265,1258.44,1259.47,"work well,",0.09000000000014552,1.0299999999999727,0,False,False,2
+338,5f31961c57eb9507db148757,1259.04,1259.49,I mean,-0.43000000000006366,0.4500000000000455,0,False,True,2
+339,5f484cef1d9c4630fdf85265,1259.48,1260.36,so,-0.009999999999990905,0.8799999999998818,0,False,True,1
+340,5f31961c57eb9507db148757,1259.49,1260.45,that is pretty Laghi.,-0.8699999999998909,0.9600000000000364,0,False,True,4
+341,5f484cef1d9c4630fdf85265,1260.37,1274.0,"well it was and I don't know even if you can, even if you're on video chat and you can get the video to sync up on your individual players, like you can still hear their audio",-0.08000000000015461,13.63000000000011,0,False,True,39
+342,5f31961c57eb9507db148757,1273.74,1274.08,Oh,-0.2599999999999909,0.33999999999991815,0,False,True,1
+343,5f484cef1d9c4630fdf85265,1274.0,1274.12,and,-0.07999999999992724,0.11999999999989086,0,False,True,1
+344,5f31961c57eb9507db148757,1274.09,1274.55,really?,-0.029999999999972715,0.4600000000000364,1,True,True,1
+345,5f484cef1d9c4630fdf85265,1274.12,1281.66,then video chat is making it lag. And I don't know maybe there's a better way to do it now. But when I tried it a few months ago.,-0.43000000000006366,7.540000000000191,0,False,True,31
+346,5f31961c57eb9507db148757,1280.64,1293.36,"Uh huh. Is there anything else you have to do like besides? I know you mentioned my hiking a lot and and watching I know you mentioned you had a bookshelf or like you with your color arrangement, you like reading",-1.0199999999999818,12.7199999999998,1,False,True,41
+347,5f484cef1d9c4630fdf85265,1293.54,1322.26,"Yeah, I do like reading. And also the bookshelf has all my collage supplies. Like I love to get old books from the thrift store, just like anything like National Geographic or like just old science books and then use it to make collages. Not like not to like sell my work or display it anywhere but just for fun. So I do that sometimes I like to do yoga. I've done yoga teacher training before.",0.18000000000006366,28.720000000000027,0,False,False,77
+348,5f31961c57eb9507db148757,1322.04,1322.46,and,-0.22000000000002728,0.42000000000007276,0,False,True,1
+349,5f484cef1d9c4630fdf85265,1322.64,1334.25,"Uh huh this last year. So that was pretty fun. What else? Let's see. I used to do rock climbing, I was way into rock climbing before",0.18000000000006366,11.6099999999999,1,False,False,28
+350,5f31961c57eb9507db148757,1333.64,1334.27,really?,-0.6099999999999,0.6299999999998818,1,True,True,1
+351,5f484cef1d9c4630fdf85265,1334.26,1347.82,"court like there's there are a couple of great rock climbing gyms where I live, so I had a membership there and I would go like five times a week, but now I don't go anymore because",-0.009999999999990905,13.559999999999945,0,False,True,39
+352,5f31961c57eb9507db148757,1346.64,1347.06,Mhm.,-1.1799999999998363,0.4199999999998454,0,False,True,1
+353,5f484cef1d9c4630fdf85265,1347.83,1348.54,there's not really,0.7699999999999818,0.7100000000000364,0,False,False,4
+354,5f31961c57eb9507db148757,1348.54,1349.25,Yeah.,0.0,0.7100000000000364,0,False,False,1
+355,5f484cef1d9c4630fdf85265,1348.54,1354.66,"a safe place to go, but you can you can climb outside too, it's just a little bit different. I like",-0.7100000000000364,6.120000000000118,0,False,True,22
+356,5f31961c57eb9507db148757,1354.44,1354.67,Yeah.,-0.22000000000002728,0.2300000000000182,0,False,True,1
+357,5f484cef1d9c4630fdf85265,1354.66,1360.05,the gym climbing a little better because it's more controlled like it feels a bit safer.,-0.009999999999990905,5.389999999999873,0,False,True,17
+358,5f31961c57eb9507db148757,1360.34,1360.85,Right.,0.2899999999999636,0.5099999999999909,0,False,False,1
+359,5f484cef1d9c4630fdf85265,1360.94,1365.66,"Um So I missed that a lot, I feel like I've gotten so much weaker",0.09000000000014552,4.720000000000027,0,False,False,16
+360,5f31961c57eb9507db148757,1365.44,1366.75,I,-0.22000000000002728,1.3099999999999454,0,False,True,1
+361,5f484cef1d9c4630fdf85265,1366.14,1366.98,um,-0.6099999999999,0.8399999999999181,0,False,True,1
+362,5f31961c57eb9507db148757,1366.76,1367.36,know,-0.22000000000002728,0.599999999999909,0,False,True,1
+363,5f484cef1d9c4630fdf85265,1367.26,1373.36,"exercise routine, like do you like to do any like exercise kind of stuff?",-0.09999999999990905,6.099999999999909,1,True,True,14
+364,5f31961c57eb9507db148757,1373.64,1376.82,I did get to exercise a little bit over the summer,0.2800000000002001,3.1799999999998363,0,False,False,11
+365,5f484cef1d9c4630fdf85265,1376.24,1376.45,Well.,-0.5799999999999272,0.21000000000003638,0,False,True,1
+366,5f31961c57eb9507db148757,1376.83,1380.45,"but I find it I don't know, I feel good. Doesn't have a lot for your time now, but I",0.37999999999988177,3.6200000000001182,0,False,False,22
+367,5f484cef1d9c4630fdf85265,1380.44,1380.95,Mhm.,-0.009999999999990905,0.5099999999999909,0,False,True,1
+368,5f31961c57eb9507db148757,1380.45,1381.45,told them I know what,-0.5,1.0,0,False,True,5
+369,5f484cef1d9c4630fdf85265,1381.44,1381.67,Okay.,-0.009999999999990905,0.2300000000000182,0,False,True,1
+370,5f31961c57eb9507db148757,1381.45,1394.7,"you mean by like getting weaker. I feel like I like I mean I didn't work out that much before either, but I feel like when I was working like, because I had to do like, I would bring some back and forth, or I'd be on my feet a lot. I would like",-0.22000000000002728,13.25,0,False,True,56
+371,5f484cef1d9c4630fdf85265,1394.64,1395.17,Mhm.,-0.05999999999994543,0.5299999999999727,0,False,True,1
+372,5f31961c57eb9507db148757,1394.71,1402.22,"to have some muscle, but then I realized like two months after I stopped working, I was like, everything is so heavy now and I mean, I'm already",-0.4600000000000364,7.509999999999991,0,False,True,29
+373,5f484cef1d9c4630fdf85265,1402.14,1402.55,Yeah.,-0.07999999999992724,0.4099999999998545,0,False,True,1
+374,5f31961c57eb9507db148757,1402.22,1405.67,"school, so everything is already heavy to begin with. I'm",-0.32999999999992724,3.4500000000000455,0,False,True,11
+375,5f484cef1d9c4630fdf85265,1405.04,1405.66,Uh huh.,-0.6300000000001091,0.6200000000001182,0,False,True,2
+376,5f31961c57eb9507db148757,1405.67,1408.76,"actually really, really weak now. I'm not sure what happened. Uh huh.",0.009999999999990905,3.089999999999918,0,False,False,13
+377,5f484cef1d9c4630fdf85265,1408.74,1410.36,Oh man.,-0.01999999999998181,1.6199999999998909,0,False,True,2
+378,5f31961c57eb9507db148757,1409.54,1417.56,"I mean, over the summer I tried working out. I try to do like, a lot of like push ups and like banks and stuff like that. Uh huh.",-0.8199999999999363,8.019999999999982,0,False,True,29
+379,5f484cef1d9c4630fdf85265,1417.14,1417.77,Mhm.,-0.4199999999998454,0.6299999999998818,0,False,True,1
+380,5f31961c57eb9507db148757,1418.14,1422.16,"But yeah, I haven't really had the time. I'm also a lot more easier now. I feel like,",0.37000000000011823,4.019999999999982,0,False,False,20
+381,5f484cef1d9c4630fdf85265,1423.04,1426.06,Are you just really busy with school? Is that the main thing?,0.8799999999998818,3.019999999999982,2,True,False,12
+382,5f31961c57eb9507db148757,1425.74,1432.51,"yeah, I'm busy with school and then um I also help my mom with her work too. She's",-0.31999999999993634,6.769999999999982,0,False,True,20
+383,5f484cef1d9c4630fdf85265,1431.44,1432.46,Okay.,-1.0699999999999363,1.0199999999999818,0,False,True,1
+384,5f31961c57eb9507db148757,1432.51,1437.38,"like a caregiver, like daycare in a sense. Um",0.049999999999954525,4.870000000000118,0,False,False,9
+385,5f484cef1d9c4630fdf85265,1437.24,1437.96,Oh.,-0.14000000000010004,0.7200000000000273,0,False,True,1
+386,5f31961c57eb9507db148757,1437.39,1445.69,"I'm like about three ish kids that comes every day, but like sometimes it can be a handful and some of the kids they go to school online to. Um",-0.5699999999999363,8.299999999999955,0,False,True,31
+387,5f484cef1d9c4630fdf85265,1445.64,1445.81,Uh,-0.049999999999954525,0.16999999999984539,0,False,True,1
+388,5f31961c57eb9507db148757,1445.7,1446.02,So,-0.10999999999989996,0.31999999999993634,0,False,True,1
+389,5f484cef1d9c4630fdf85265,1445.81,1446.26,huh,-0.21000000000003638,0.4500000000000455,0,False,True,1
+390,5f31961c57eb9507db148757,1446.03,1455.19,"my mom doesn't understand how to use like the technological stuff of it. Um and so I usually help her with that, so it's kind of like challenging",-0.2300000000000182,9.160000000000082,0,False,True,30
+391,5f484cef1d9c4630fdf85265,1454.44,1455.16,Oh,-0.75,0.7200000000000273,0,False,True,1
+392,5f31961c57eb9507db148757,1455.19,1466.89,"to like help someone else with their school work, but then also I have classes too, and I have to do my schoolwork and then this quarter this quarter for me, I have like a logical, a lot of group projects and I'm like dressing out of",0.029999999999972715,11.700000000000045,0,False,False,48
+393,5f484cef1d9c4630fdf85265,1466.84,1467.77,well,-0.0500000000001819,0.9300000000000637,0,False,True,1
+394,5f31961c57eb9507db148757,1466.89,1467.36,it.,-0.8799999999998818,0.4699999999997999,0,False,True,1
+395,5f484cef1d9c4630fdf85265,1468.64,1475.88,"that is a lot going on at once. And also kids too, I mean depending on how old they are, kids can be kind of hard to take a lot of energy like on",1.2800000000002,7.240000000000009,0,False,False,34
+396,5f31961c57eb9507db148757,1475.84,1476.04,"Yeah,",-0.040000000000190994,0.20000000000004547,0,False,True,1
+397,5f484cef1d9c4630fdf85265,1475.88,1476.77,their own.,-0.15999999999985448,0.8899999999998727,0,False,True,2
+398,5f31961c57eb9507db148757,1476.74,1477.48,one of them is like,-0.029999999999972715,0.7400000000000091,0,False,True,5
+399,5f484cef1d9c4630fdf85265,1477.44,1477.48,Uh,-0.03999999999996362,0.03999999999996362,0,False,True,1
+400,5f31961c57eb9507db148757,1477.48,1477.94,about,0.0,0.4600000000000364,0,False,False,1
+401,5f484cef1d9c4630fdf85265,1477.48,1477.67,huh,-0.4600000000000364,0.19000000000005457,0,False,True,1
+402,5f31961c57eb9507db148757,1477.95,1479.51,two years old or I think when,0.2799999999999727,1.5599999999999454,0,False,False,7
+403,5f484cef1d9c4630fdf85265,1479.64,1480.86,Oh yeah.,0.13000000000010914,1.2199999999998,0,False,False,2
+404,5f31961c57eb9507db148757,1480.24,1488.96,"he's kind of young. Yeah. And so he's like, he like loves to mess around here, like pull anything he sees, or like just put everything inside",-0.6199999999998909,8.720000000000027,0,False,True,29
+405,5f484cef1d9c4630fdf85265,1488.94,1489.17,Mhm,-0.01999999999998181,0.2300000000000182,0,False,True,1
+406,5f31961c57eb9507db148757,1488.96,1490.4,his mouth. Just stop,-0.21000000000003638,1.4400000000000546,0,False,True,4
+407,5f484cef1d9c4630fdf85265,1490.54,1492.36,Yeah.,0.13999999999987267,1.8199999999999363,0,False,False,1
+408,5f31961c57eb9507db148757,1490.69,1491.56,my hat.,-1.6699999999998454,0.8699999999998909,0,False,True,2
+409,5f484cef1d9c4630fdf85265,1492.37,1492.96,"Yeah,",0.8099999999999454,0.5900000000001455,0,False,False,1
+410,5f31961c57eb9507db148757,1492.44,1492.76,Yeah.,-0.5199999999999818,0.31999999999993634,0,False,True,1
+411,5f484cef1d9c4630fdf85265,1492.97,1504.36,"kids are funny. I used to do babysitting to before Covid, I haven't since then, but I miss a babysat for the cutest kids. There were like three, there are three and five now I guess",0.21000000000003638,11.389999999999873,0,False,False,37
+412,5f31961c57eb9507db148757,1503.94,1504.94,I feel like those are,-0.4199999999998454,1.0,0,False,True,5
+413,5f484cef1d9c4630fdf85265,1504.74,1505.16,then.,-0.20000000000004547,0.42000000000007276,0,False,True,1
+414,5f31961c57eb9507db148757,1504.95,1507.7,"like that's that's like the best age range because they're like, they're",-0.21000000000003638,2.75,0,False,True,16
+415,5f484cef1d9c4630fdf85265,1507.64,1508.01,Uh,-0.05999999999994543,0.36999999999989086,0,False,True,1
+416,5f31961c57eb9507db148757,1507.7,1508.26,not like,-0.30999999999994543,0.5599999999999454,0,False,True,2
+417,5f484cef1d9c4630fdf85265,1508.01,1508.77,huh,-0.25,0.7599999999999909,0,False,True,1
+418,5f31961c57eb9507db148757,1508.74,1514.26,"I guess I don't wanna say smart if I want to say that they're not like they won't talk back to you as much, but they're like",-0.029999999999972715,5.519999999999982,0,False,True,31
+419,5f484cef1d9c4630fdf85265,1514.04,1514.29,And,-0.22000000000002728,0.25,0,False,True,1
+420,5f31961c57eb9507db148757,1514.27,1514.59,super,-0.01999999999998181,0.31999999999993634,0,False,True,1
+421,5f484cef1d9c4630fdf85265,1514.29,1514.55,then,-0.2999999999999545,0.2599999999999909,0,False,True,1
+422,5f31961c57eb9507db148757,1514.59,1518.27,cute. Kids are learning about do things and like really eager to talk about stuff.,0.03999999999996362,3.6800000000000637,0,False,False,15
+423,5f484cef1d9c4630fdf85265,1519.34,1540.67,"yeah, they can communicate but they still, yeah, they still have like funny ideas. I remember uh one time I was putting one of the little girls to bed the five year old and she was like cat, our spider is real. And I was like, yeah, spiders are real, she's like are monsters real. I was like,",1.0699999999999363,21.330000000000155,0,False,False,59
+424,5f31961c57eb9507db148757,1540.84,1541.04,Yeah.,0.16999999999984539,0.20000000000004547,0,False,False,1
+425,5f484cef1d9c4630fdf85265,1541.04,1546.79,"no, don't worry. Monsters are real, spiders are real, but they're not going to come get you. Like what? Where",0.0,5.75,1,False,False,22
+426,5f31961c57eb9507db148757,1546.64,1546.85,How,-0.14999999999986358,0.209999999999809,0,False,True,1
+427,5f484cef1d9c4630fdf85265,1546.79,1546.9,is,-0.05999999999994543,0.11000000000012733,0,False,True,1
+428,5f31961c57eb9507db148757,1546.85,1546.96,is?,-0.0500000000001819,0.11000000000012733,1,True,True,1
+429,5f484cef1d9c4630fdf85265,1546.9,1548.36,she coming up with this?,-0.05999999999994543,1.459999999999809,1,True,True,5
+430,5f31961c57eb9507db148757,1547.84,1548.04,Yeah.,-0.5199999999999818,0.20000000000004547,0,False,True,1
+431,5f484cef1d9c4630fdf85265,1548.74,1550.27,"Yeah, they're funny.",0.7000000000000455,1.5299999999999727,0,False,False,4
+432,5f31961c57eb9507db148757,1550.14,1560.6,"Yeah. I feel like babysitting kind of like what you mentioned with dogs or earlier, where it's like you got to kind of like have fun with kids. But then at the end you're like, okay, here's a travel back, You can",-0.12999999999988177,10.459999999999809,0,False,True,45
+433,5f484cef1d9c4630fdf85265,1560.6,1560.93,That's,0.0,0.3300000000001546,0,False,False,2
+434,5f31961c57eb9507db148757,1560.61,1561.01,put that,-0.3200000000001637,0.40000000000009095,0,False,True,2
+435,5f484cef1d9c4630fdf85265,1560.94,1561.33,it.,-0.06999999999993634,0.38999999999987267,0,False,True,1
+436,5f31961c57eb9507db148757,1561.01,1561.35,on the end,-0.31999999999993634,0.33999999999991815,0,False,True,3
+437,5f484cef1d9c4630fdf85265,1561.34,1562.46,"Exactly,",-0.009999999999990905,1.1200000000001182,0,False,True,1
+438,5f31961c57eb9507db148757,1561.35,1562.05,of the day.,-1.1100000000001273,0.7000000000000455,0,False,True,3
+439,5f484cef1d9c4630fdf85265,1562.84,1564.76,"yeah, totally.",0.7899999999999636,1.9200000000000728,0,False,False,2
+440,5f31961c57eb9507db148757,1565.44,1565.67,Yeah.,0.6800000000000637,0.2300000000000182,0,False,False,1
+441,5f484cef1d9c4630fdf85265,1565.74,1571.03,Uh well that is 25 minutes. It was super nice talking to you,0.06999999999993634,5.289999999999964,0,False,False,13
+442,5f31961c57eb9507db148757,1570.64,1570.96,Uh huh.,-0.38999999999987267,0.31999999999993634,0,False,True,2
+443,5f484cef1d9c4630fdf85265,1571.04,1574.05,and I hope you have a great rest of your day.,0.07999999999992724,3.009999999999991,0,False,False,11
+444,5f31961c57eb9507db148757,1573.84,1575.27,Thanks you too.,-0.21000000000003638,1.4300000000000637,0,False,True,3
+445,5f484cef1d9c4630fdf85265,1576.24,1578.72,Okay. Well I will see you later then,0.9700000000000273,2.480000000000018,0,False,False,8
+446,5f31961c57eb9507db148757,1578.44,1579.06,Oh,-0.2799999999999727,0.6199999999998909,0,False,True,1
+447,5f484cef1d9c4630fdf85265,1578.73,1582.17,or not seemly. But,-0.32999999999992724,3.4400000000000546,0,False,True,4
+448,5f31961c57eb9507db148757,1580.44,1583.26,maybe if you get paired up again somehow.,-1.7300000000000182,2.8199999999999363,0,False,True,8
+449,5f484cef1d9c4630fdf85265,1583.44,1588.36,that's true if we both do this survey and then possibly.,0.18000000000006366,4.919999999999845,0,False,False,12
+450,5f31961c57eb9507db148757,1587.74,1588.87,Yeah. It was nice meeting you,-0.6199999999998909,1.1299999999998818,0,False,True,6
+451,5f484cef1d9c4630fdf85265,1588.74,1589.46,Okay.,-0.12999999999988177,0.7200000000000273,0,False,True,1
+452,5f31961c57eb9507db148757,1588.88,1589.36,guys.,-0.5799999999999272,0.4799999999997908,0,False,True,1
+453,5f484cef1d9c4630fdf85265,1590.34,1592.46,Yeah. You to Tiffany's Asia.,0.9800000000000182,2.1200000000001182,0,False,False,6

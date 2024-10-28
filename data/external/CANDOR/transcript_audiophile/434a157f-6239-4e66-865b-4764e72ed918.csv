@@ -1,0 +1,661 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5eb9798c0c0c95075ce61dfb,1.24,67.36,"bleeding? Okay. Yeah. Yeah Okay wow. Yeah. Could you, yeah let's see. Mhm. Mhm. Back here yeah Yeah Yeah Yeah. Mr right okay mm. Mhm. Okay. Mhm. Yeah. Mhm mm.",,66.12,1,False,False,31
+1,5f0142aa1eb1e528e7abce50,68.27,69.85,No hi,0.9099999999999966,1.5799999999999983,0,False,False,2
+2,5eb9798c0c0c95075ce61dfb,70.64,70.96,Uh huh.,0.7900000000000063,0.3199999999999932,0,False,False,2
+3,5f0142aa1eb1e528e7abce50,71.69,73.37,hi,0.730000000000004,1.6800000000000068,0,False,False,1
+4,5eb9798c0c0c95075ce61dfb,74.14,75.16,How you doing?,0.769999999999996,1.019999999999996,1,True,False,3
+5,5f0142aa1eb1e528e7abce50,75.02,79.25,I'm good. I'm sleeping. I just woke up from a nap.,-0.14000000000000057,4.230000000000004,0,False,True,13
+6,5eb9798c0c0c95075ce61dfb,79.24,80.3,Yeah I tried taking,-0.010000000000005116,1.0600000000000023,0,False,True,4
+7,5f0142aa1eb1e528e7abce50,80.14,80.95,Mm.,-0.1599999999999966,0.8100000000000023,0,False,True,1
+8,5eb9798c0c0c95075ce61dfb,80.3,81.85,up to it just worked out very well.,-0.6500000000000057,1.5499999999999972,0,False,True,8
+9,5f0142aa1eb1e528e7abce50,81.74,86.45,What? Oh dang. Yeah. No afternoon naps are the best.,-0.10999999999999943,4.710000000000008,1,False,True,10
+10,5eb9798c0c0c95075ce61dfb,86.84,87.45,Yeah,0.39000000000000057,0.6099999999999994,0,False,False,1
+11,5f0142aa1eb1e528e7abce50,87.44,90.46,Yeah,-0.010000000000005116,3.019999999999996,0,False,True,1
+12,5eb9798c0c0c95075ce61dfb,87.46,91.25,I agree. But for me to happen kind of sporadically I don't really,-3.0,3.7900000000000063,0,False,True,14
+13,5f0142aa1eb1e528e7abce50,91.04,91.32,right,-0.20999999999999375,0.2799999999999869,0,False,True,1
+14,5eb9798c0c0c95075ce61dfb,91.26,91.35,I,-0.05999999999998806,0.0899999999999892,0,False,True,1
+15,5f0142aa1eb1e528e7abce50,91.32,91.46,now.,-0.030000000000001137,0.14000000000000057,0,False,True,1
+16,5eb9798c0c0c95075ce61dfb,91.35,91.95,can't really plan,-0.10999999999999943,0.6000000000000085,0,False,True,4
+17,5f0142aa1eb1e528e7abce50,91.94,92.11,Thank,-0.010000000000005116,0.1700000000000017,0,False,True,1
+18,5eb9798c0c0c95075ce61dfb,91.95,92.14,them in,-0.1599999999999966,0.18999999999999773,0,False,True,2
+19,5f0142aa1eb1e528e7abce50,92.11,92.26,you.,-0.030000000000001137,0.15000000000000568,0,False,True,1
+20,5eb9798c0c0c95075ce61dfb,92.14,93.65,advance you know if I'm feeling it I'm feeling,-0.12000000000000455,1.5100000000000051,0,False,True,11
+21,5f0142aa1eb1e528e7abce50,93.54,93.86,Okay.,-0.10999999999999943,0.3199999999999932,0,False,True,1
+22,5eb9798c0c0c95075ce61dfb,93.65,94.55,it otherwise.,-0.20999999999999375,0.8999999999999915,0,False,True,2
+23,5f0142aa1eb1e528e7abce50,94.54,95.47,Yeah,-0.009999999999990905,0.9299999999999926,0,False,True,1
+24,5eb9798c0c0c95075ce61dfb,95.14,95.35,Well,-0.3299999999999983,0.20999999999999375,0,False,True,1
+25,5f0142aa1eb1e528e7abce50,95.48,99.57,no I feel that I wish I had control over my naps. It's like,0.13000000000000966,4.089999999999989,0,False,False,15
+26,5eb9798c0c0c95075ce61dfb,99.44,99.85,yeah.,-0.12999999999999545,0.4099999999999966,0,False,True,1
+27,5f0142aa1eb1e528e7abce50,99.57,103.06,I wanna have a protective day and I just unconscious.,-0.28000000000000114,3.490000000000009,0,False,True,10
+28,5eb9798c0c0c95075ce61dfb,103.44,104.06,Yeah. Actually,0.37999999999999545,0.6200000000000045,0,False,False,2
+29,5f0142aa1eb1e528e7abce50,103.74,106.76,Yeah. Uh,-0.3200000000000074,3.0200000000000102,0,False,True,2
+30,5eb9798c0c0c95075ce61dfb,105.04,108.25,nice. What kind of work do you do? Does it allow you to take naps when you want?,-1.7199999999999989,3.2099999999999937,2,True,True,18
+31,5f0142aa1eb1e528e7abce50,108.64,112.15,uh right now I'm actually in training so I,0.39000000000000057,3.510000000000005,0,False,False,10
+32,5eb9798c0c0c95075ce61dfb,112.14,112.76,Okay,-0.010000000000005116,0.6200000000000045,0,False,True,1
+33,5f0142aa1eb1e528e7abce50,112.15,117.79,slept in like my whole training polo which is gross. But,-0.6099999999999994,5.640000000000001,0,False,True,11
+34,5eb9798c0c0c95075ce61dfb,115.64,117.26,nice. Training for what?,-2.1500000000000057,1.6200000000000045,1,True,True,4
+35,5f0142aa1eb1e528e7abce50,117.8,125.03,I'm working with kids so I'm gonna be going into the public schools once they open. So,0.539999999999992,7.230000000000004,0,False,False,20
+36,5eb9798c0c0c95075ce61dfb,124.44,124.85,Yeah.,-0.5900000000000034,0.4099999999999966,0,False,True,1
+37,5f0142aa1eb1e528e7abce50,125.03,128.56,that's not gonna be for like another like month right now. So,0.18000000000000682,3.530000000000001,0,False,False,14
+38,5eb9798c0c0c95075ce61dfb,128.14,128.55,Yeah.,-0.4200000000000159,0.410000000000025,0,False,True,1
+39,5f0142aa1eb1e528e7abce50,128.56,136.56,we just started training. We we end the day around like two p.m. So it's not a full work day yet so we gave me a lot of time to nap.,0.009999999999990905,8.0,0,False,False,32
+40,5eb9798c0c0c95075ce61dfb,136.74,137.66,Nice. Okay,0.18000000000000682,0.9199999999999875,0,False,False,2
+41,5f0142aa1eb1e528e7abce50,137.54,138.46,Yeah.,-0.12000000000000455,0.9200000000000159,0,False,True,1
+42,5eb9798c0c0c95075ce61dfb,137.66,139.89,and what do you do with kids or,-0.8000000000000114,2.2299999999999898,0,False,True,8
+43,5f0142aa1eb1e528e7abce50,139.74,140.36,Um,-0.14999999999997726,0.6200000000000045,0,False,True,1
+44,5eb9798c0c0c95075ce61dfb,139.89,140.55,what will you be,-0.4700000000000273,0.660000000000025,0,False,True,4
+45,5f0142aa1eb1e528e7abce50,141.14,161.56,"Yeah so how do I, it's like um it's like a support for the teacher so we kind of go into classrooms and focus on the kids that are like most likely to drop out or having the most problem with school and we do um tutoring, emotional support, kind of like mentoring um while also working with the teacher so she has better control of her classroom or things like that,",0.589999999999975,20.420000000000016,0,False,False,74
+46,5eb9798c0c0c95075ce61dfb,162.44,163.06,interesting?,0.8799999999999955,0.6200000000000045,1,True,False,1
+47,5f0142aa1eb1e528e7abce50,162.44,164.13,"so yeah,",-0.6200000000000045,1.6899999999999977,0,False,True,2
+48,5eb9798c0c0c95075ce61dfb,164.04,164.36,Thanks.,-0.09000000000000341,0.3200000000000216,0,False,True,1
+49,5f0142aa1eb1e528e7abce50,164.14,167.55,"it's like a volunteer thing, I don't know if you've heard of America or it's like",-0.22000000000002728,3.410000000000025,0,False,True,20
+50,5eb9798c0c0c95075ce61dfb,167.24,167.64,Yes I,-0.3100000000000023,0.39999999999997726,0,False,True,2
+51,5f0142aa1eb1e528e7abce50,167.56,168.28,peace.,-0.07999999999998408,0.7199999999999989,0,False,True,1
+52,5eb9798c0c0c95075ce61dfb,167.64,168.25,have yeah.,-0.6400000000000148,0.6100000000000136,0,False,True,2
+53,5f0142aa1eb1e528e7abce50,168.84,174.56,"Yeah, so it's I'm doing that, decided to take a gap year after God I look a mess,",0.5900000000000034,5.719999999999999,0,False,False,20
+54,5eb9798c0c0c95075ce61dfb,174.54,174.96,Okay.,-0.020000000000010232,0.4200000000000159,0,False,True,1
+55,5f0142aa1eb1e528e7abce50,174.94,180.06,the things that gap year after school to do that. Yeah.,-0.020000000000010232,5.1200000000000045,0,False,True,11
+56,5eb9798c0c0c95075ce61dfb,180.34,181.03,Yeah. Nice.,0.28000000000000114,0.6899999999999977,0,False,False,2
+57,5f0142aa1eb1e528e7abce50,180.74,184.99,Uh,-0.28999999999999204,4.25,0,False,True,1
+58,5eb9798c0c0c95075ce61dfb,181.03,182.05,What did you study in school?,-3.960000000000008,1.0200000000000102,1,True,True,6
+59,5f0142aa1eb1e528e7abce50,185.0,188.66,"nothing related to this, I did Russian and linguistics",2.9499999999999886,3.6599999999999966,0,False,False,9
+60,5eb9798c0c0c95075ce61dfb,189.04,189.35,That's,0.37999999999999545,0.3100000000000023,0,False,False,2
+61,5f0142aa1eb1e528e7abce50,189.14,190.14,so,-0.21000000000000796,1.0,0,False,True,1
+62,5eb9798c0c0c95075ce61dfb,189.35,190.82,dope That's awesome.,-0.789999999999992,1.4699999999999989,0,False,True,4
+63,5f0142aa1eb1e528e7abce50,190.15,197.35,"yeah, I hope I want to go to a doctor. Sorry? Yeah,",-0.6699999999999875,7.199999999999989,1,False,True,12
+64,5eb9798c0c0c95075ce61dfb,194.44,197.75,Do you like Russia particularly? Yeah,-2.9099999999999966,3.3100000000000023,1,False,True,6
+65,5f0142aa1eb1e528e7abce50,197.84,198.94,I think,0.09000000000000341,1.0999999999999943,0,False,False,2
+66,5eb9798c0c0c95075ce61dfb,198.74,199.25,we,-0.19999999999998863,0.5099999999999909,0,False,True,1
+67,5f0142aa1eb1e528e7abce50,198.94,201.26,I needed to do four years.,-0.3100000000000023,2.319999999999993,0,False,True,6
+68,5eb9798c0c0c95075ce61dfb,201.24,202.02,yeah,-0.01999999999998181,0.7800000000000011,0,False,True,1
+69,5f0142aa1eb1e528e7abce50,201.94,202.15,"Mhm,",-0.0800000000000125,0.21000000000000796,0,False,True,1
+70,5eb9798c0c0c95075ce61dfb,202.02,203.66,I understand. Um,-0.12999999999999545,1.6399999999999864,0,False,True,3
+71,5f0142aa1eb1e528e7abce50,203.63,204.75,mm.,-0.030000000000001137,1.1200000000000045,0,False,True,1
+72,5eb9798c0c0c95075ce61dfb,204.44,205.45,Is there like,-0.3100000000000023,1.009999999999991,0,False,True,3
+73,5f0142aa1eb1e528e7abce50,205.34,205.66,Mhm.,-0.10999999999998522,0.3199999999999932,0,False,True,1
+74,5eb9798c0c0c95075ce61dfb,205.45,206.39,do you particularly,-0.21000000000000796,0.9399999999999977,0,False,True,3
+75,5f0142aa1eb1e528e7abce50,206.04,210.52,"Yeah,",-0.3499999999999943,4.480000000000018,0,False,True,1
+76,5eb9798c0c0c95075ce61dfb,206.39,208.76,like Russian literature at all or not really?,-4.130000000000024,2.3700000000000045,1,True,True,8
+77,5f0142aa1eb1e528e7abce50,210.53,215.66,that was basically what got me today actually and this is gonna sound super sketchy but I actually started doing comp sign,1.7700000000000102,5.1299999999999955,0,False,False,23
+78,5eb9798c0c0c95075ce61dfb,216.24,216.75,Mhm.,0.5800000000000125,0.5099999999999909,0,False,False,1
+79,5f0142aa1eb1e528e7abce50,216.44,218.51,um I really like calm side,-0.3100000000000023,2.069999999999993,0,False,True,6
+80,5eb9798c0c0c95075ce61dfb,218.34,218.55,Oh,-0.1699999999999875,0.21000000000000796,0,False,True,1
+81,5f0142aa1eb1e528e7abce50,218.51,222.11,but then and I have been coding like all through high school and stuff and it was something,-0.040000000000020464,3.6000000000000227,0,False,True,18
+82,5eb9798c0c0c95075ce61dfb,221.94,222.35,yeah.,-0.17000000000001592,0.4099999999999966,0,False,True,1
+83,5f0142aa1eb1e528e7abce50,222.11,226.03,that I enjoyed and once I got to college and I thought about like actually,-0.23999999999998067,3.9199999999999875,0,False,True,15
+84,5eb9798c0c0c95075ce61dfb,225.64,226.56,Yeah.,-0.3900000000000148,0.9200000000000159,0,False,True,1
+85,5f0142aa1eb1e528e7abce50,226.03,227.66,doing a career out of it.,-0.5300000000000011,1.6299999999999955,0,False,True,6
+86,5eb9798c0c0c95075ce61dfb,227.44,228.06,Mhm.,-0.21999999999999886,0.6200000000000045,0,False,True,1
+87,5f0142aa1eb1e528e7abce50,227.67,229.69,"I was like no, so",-0.3900000000000148,2.0200000000000102,0,False,True,5
+88,5eb9798c0c0c95075ce61dfb,229.54,229.96,Okay.,-0.15000000000000568,0.4200000000000159,0,False,True,1
+89,5f0142aa1eb1e528e7abce50,229.69,234.07,I was taking a Russian literature course just for fun because I enjoyed,-0.27000000000001023,4.3799999999999955,0,False,True,13
+90,5eb9798c0c0c95075ce61dfb,233.64,234.06,All right.,-0.4300000000000068,0.4200000000000159,0,False,True,2
+91,5f0142aa1eb1e528e7abce50,234.07,245.46,"it and I then got really close to the department, started taking language courses, started getting into linguistics. I realized that like along the way I could do computational linguistics at like the graduate level",0.009999999999990905,11.390000000000015,0,False,False,35
+92,5eb9798c0c0c95075ce61dfb,245.74,246.06,Yeah.,0.28000000000000114,0.3199999999999932,0,False,False,1
+93,5f0142aa1eb1e528e7abce50,245.84,246.65,and,-0.21999999999999886,0.8100000000000023,0,False,True,1
+94,5eb9798c0c0c95075ce61dfb,247.04,247.54,Yeah.,0.38999999999998636,0.5,0,False,False,1
+95,5f0142aa1eb1e528e7abce50,247.14,248.66,kind of like that rob. Yeah.,-0.4000000000000057,1.5200000000000102,0,False,True,6
+96,5eb9798c0c0c95075ce61dfb,248.64,250.65,Yeah. And you've been keeping up with coding or? Not really?,-0.020000000000010232,2.0100000000000193,2,True,True,12
+97,5f0142aa1eb1e528e7abce50,250.44,254.34,"Mhm. A little not as much as they should, honestly",-0.21000000000000796,3.9000000000000057,0,False,True,10
+98,5eb9798c0c0c95075ce61dfb,254.24,254.75,Mhm.,-0.09999999999999432,0.5099999999999909,0,False,True,1
+99,5f0142aa1eb1e528e7abce50,254.35,263.63,never as much as they should. Um I've been especially during quarantine I tried to hunker down just to like get comfortable with python again. Um,-0.4000000000000057,9.280000000000001,0,False,True,27
+100,5eb9798c0c0c95075ce61dfb,262.94,263.35,Yeah.,-0.6899999999999977,0.410000000000025,0,False,True,1
+101,5f0142aa1eb1e528e7abce50,263.64,269.7,I have not touched C. Plus plus which is something that I did used to code in. And we also coded in java,0.2899999999999636,6.060000000000002,0,False,False,23
+102,5eb9798c0c0c95075ce61dfb,269.24,269.44,Yeah.,-0.45999999999997954,0.19999999999998863,0,False,True,1
+103,5f0142aa1eb1e528e7abce50,269.71,271.11,in my school and I have not touched,0.2699999999999818,1.400000000000034,0,False,False,8
+104,5eb9798c0c0c95075ce61dfb,270.94,271.36,Mhm.,-0.17000000000001592,0.4200000000000159,0,False,True,1
+105,5f0142aa1eb1e528e7abce50,271.11,281.6,"that. So I am rusty. But uh well, see, I don't think I don't even know right now what my future looks like. I don't think anyone does given",-0.25,10.490000000000009,0,False,True,32
+106,5eb9798c0c0c95075ce61dfb,281.04,281.46,Mhm.,-0.5600000000000023,0.4199999999999591,0,False,True,1
+107,5f0142aa1eb1e528e7abce50,281.61,282.96,the world.,0.1500000000000341,1.349999999999966,0,False,False,2
+108,5eb9798c0c0c95075ce61dfb,282.84,283.55,Yeah.,-0.12000000000000455,0.7100000000000364,0,False,True,1
+109,5f0142aa1eb1e528e7abce50,283.34,286.46,But what do you do? What are you up to?,-0.21000000000003638,3.1200000000000045,2,True,True,10
+110,5eb9798c0c0c95075ce61dfb,287.04,291.66,Um I just finished with college. I went to U. T. Austin here in texas.,0.5800000000000409,4.6200000000000045,0,False,False,15
+111,5f0142aa1eb1e528e7abce50,291.34,296.32,Mhm. I have a actually going there for graduate school right now. He just flew,-0.32000000000005,4.980000000000018,0,False,True,15
+112,5eb9798c0c0c95075ce61dfb,296.14,296.34,Yeah.,-0.18000000000000682,0.19999999999998863,0,False,True,1
+113,5f0142aa1eb1e528e7abce50,296.32,297.96,over there like last week.,-0.01999999999998181,1.6399999999999864,0,False,True,5
+114,5eb9798c0c0c95075ce61dfb,297.64,299.23,Oh where are you,-0.3199999999999932,1.5900000000000318,0,False,True,4
+115,5f0142aa1eb1e528e7abce50,299.14,299.35,Cool.,-0.09000000000003183,0.21000000000003638,0,False,True,1
+116,5eb9798c0c0c95075ce61dfb,299.23,300.16,guys from?,-0.12000000000000455,0.9300000000000068,1,True,True,2
+117,5f0142aa1eb1e528e7abce50,300.94,303.35,We're in florida. So,0.7799999999999727,2.410000000000025,0,False,False,5
+118,5eb9798c0c0c95075ce61dfb,302.34,303.06,Oh that's no,-1.0100000000000477,0.7200000000000273,0,False,True,4
+119,5f0142aa1eb1e528e7abce50,303.36,303.54,I,0.30000000000001137,0.18000000000000682,0,False,False,1
+120,5eb9798c0c0c95075ce61dfb,303.54,303.86,thanks.,0.0,0.3199999999999932,0,False,False,1
+121,5f0142aa1eb1e528e7abce50,303.54,306.85,"just back here, but it was going to school in colorado. So",-0.3199999999999932,3.3100000000000023,0,False,True,12
+122,5eb9798c0c0c95075ce61dfb,307.34,307.75,Yeah,0.48999999999995225,0.410000000000025,0,False,False,1
+123,5f0142aa1eb1e528e7abce50,307.64,308.96,"Oh, the world.",-0.11000000000001364,1.3199999999999932,0,False,True,3
+124,5eb9798c0c0c95075ce61dfb,308.84,309.56,I did. Um,-0.12000000000000455,0.7200000000000273,0,False,True,3
+125,5f0142aa1eb1e528e7abce50,309.54,309.7,Mm,-0.01999999999998181,0.15999999999996817,0,False,True,1
+126,5eb9798c0c0c95075ce61dfb,309.56,309.86,I studied,-0.13999999999998636,0.30000000000001137,0,False,True,2
+127,5f0142aa1eb1e528e7abce50,309.7,311.85,hmm.,-0.160000000000025,2.150000000000034,0,False,True,1
+128,5eb9798c0c0c95075ce61dfb,309.86,312.89,biochemistry and then I had a minor in Arabic so I,-1.990000000000009,3.0299999999999727,0,False,True,11
+129,5f0142aa1eb1e528e7abce50,312.84,312.98,Uh,-0.05000000000001137,0.1400000000000432,0,False,True,1
+130,5eb9798c0c0c95075ce61dfb,312.9,313.0,can,-0.08000000000004093,0.10000000000002274,0,False,True,1
+131,5f0142aa1eb1e528e7abce50,312.98,313.52,huh.,-0.01999999999998181,0.5399999999999636,0,False,True,1
+132,5eb9798c0c0c95075ce61dfb,313.0,314.83,definitely share the interest in foreign languages.,-0.5199999999999818,1.829999999999984,0,False,True,7
+133,5f0142aa1eb1e528e7abce50,314.54,314.86,Mhm.,-0.2899999999999636,0.3199999999999932,0,False,True,1
+134,5eb9798c0c0c95075ce61dfb,314.84,315.8,Uh,-0.020000000000038654,0.9600000000000364,0,False,True,1
+135,5f0142aa1eb1e528e7abce50,315.54,316.04,Yeah.,-0.2599999999999909,0.5,0,False,True,1
+136,5eb9798c0c0c95075ce61dfb,315.81,333.21,"Yes with high school have been all right, that's pretty much all my grade school and school life generally have been taking some kind of language. We used to live in Kansas and for whatever reason they taught spanish like from grade school from like elementary school. So I've taken at least seven or eight years of Spanish and then",-0.2300000000000182,17.399999999999977,0,False,True,62
+137,5f0142aa1eb1e528e7abce50,333.21,334.65,"So,",0.0,1.4399999999999977,0,False,False,1
+138,5eb9798c0c0c95075ce61dfb,333.22,343.25,"I took three years of German in high school and then I took a bunch of years of Arabic in college, so I've always really enjoyed learning languages and I've had really, really good experiences general.",-1.42999999999995,10.029999999999973,0,False,True,38
+139,5f0142aa1eb1e528e7abce50,344.04,349.02,"Oh, that's awesome. Do you go through yourself? Like, like where are you proficiency wise and",0.7900000000000205,4.979999999999961,1,False,False,17
+140,5eb9798c0c0c95075ce61dfb,348.94,350.05,Um,-0.07999999999998408,1.1100000000000136,0,False,True,1
+141,5f0142aa1eb1e528e7abce50,349.02,350.06,you're in the languages,-1.0300000000000296,1.0400000000000205,0,False,True,5
+142,5eb9798c0c0c95075ce61dfb,350.44,379.76,"I'd say I'm fairly proficient in, Yeah, I don't know if that's a good answer, I'd say I'm going to say proficient in spanish, german and Arabic um to different degrees and then um yeah, but those are the languages I've learned formally, but at home um you know, we obviously speak english but also Gujarati and hindi in order, which are like somewhat similar sometimes. Well actually they're very similar a lot of the times, but they're not similar once you start talking about more complex things because they they kind of, yes, there there",0.37999999999999545,29.319999999999993,0,False,False,105
+143,5f0142aa1eb1e528e7abce50,379.74,379.95,"well,",-0.01999999999998181,0.20999999999997954,0,False,True,1
+144,5eb9798c0c0c95075ce61dfb,380.14,383.53,"the more complex vocabulary just pulled from different language sources,",0.18999999999999773,3.3899999999999864,0,False,False,10
+145,5f0142aa1eb1e528e7abce50,383.47,383.76,yeah.,-0.05999999999994543,0.2899999999999636,0,False,True,1
+146,5eb9798c0c0c95075ce61dfb,383.54,385.11,you know? So,-0.21999999999997044,1.5699999999999932,1,False,True,3
+147,5f0142aa1eb1e528e7abce50,384.54,385.25,Yeah.,-0.5699999999999932,0.7099999999999795,0,False,True,1
+148,5eb9798c0c0c95075ce61dfb,385.11,386.13,"yeah, there's like a bunch",-0.13999999999998636,1.0199999999999818,0,False,True,6
+149,5f0142aa1eb1e528e7abce50,386.08,386.64,Time.,-0.05000000000001137,0.5600000000000023,0,False,True,1
+150,5eb9798c0c0c95075ce61dfb,386.13,395.36,"of a couple of South asian languages as well that we speak. But yeah, even though I feel more comfortable in those languages because I have kind of like a, I feel for it as like a native speaker",-0.5099999999999909,9.230000000000018,0,False,True,39
+151,5f0142aa1eb1e528e7abce50,395.74,400.96,Mhm.,0.37999999999999545,5.21999999999997,0,False,False,1
+152,5eb9798c0c0c95075ce61dfb,395.84,405.18,"um even though I'm not like extremely fluent, but I'd still say that I'm fairly proficient um I can definitely manage in in any, you know, spanish german and Arabic there, so",-5.1200000000000045,9.340000000000032,0,False,True,35
+153,5f0142aa1eb1e528e7abce50,404.84,410.35,Yeah.,-0.34000000000003183,5.510000000000048,0,False,True,1
+154,5eb9798c0c0c95075ce61dfb,405.18,409.35,I think it's pretty clear to the person talking to me that I'm not a native speaker.,-5.170000000000016,4.170000000000016,0,False,True,19
+155,5f0142aa1eb1e528e7abce50,410.35,416.34,"That's awesome though. I mean I had a friend, so I went to Russia, study abroad as part of my program and",1.0,5.989999999999952,0,False,False,23
+156,5eb9798c0c0c95075ce61dfb,415.94,416.45,Nice.,-0.39999999999997726,0.5099999999999909,0,False,True,1
+157,5f0142aa1eb1e528e7abce50,416.34,427.39,"I had a base who was from Pakistan, so as an international student and we would go, he would go on a whole train like voyages about hindu in order do and everything and I was",-0.11000000000001364,11.050000000000011,0,False,True,36
+158,5eb9798c0c0c95075ce61dfb,427.34,427.96,Yeah.,-0.05000000000001137,0.6200000000000045,0,False,True,1
+159,5f0142aa1eb1e528e7abce50,427.39,432.75,"like oh my god, you know I'm bilingual with spanish just cause it's my native language so",-0.5699999999999932,5.360000000000014,0,False,True,19
+160,5eb9798c0c0c95075ce61dfb,432.54,433.08,Yeah.,-0.20999999999997954,0.5399999999999636,0,False,True,1
+161,5f0142aa1eb1e528e7abce50,432.76,433.6,I actually,-0.3199999999999932,0.8400000000000318,0,False,True,2
+162,5eb9798c0c0c95075ce61dfb,433.09,433.46,Nice.,-0.5100000000000477,0.37000000000000455,0,False,True,1
+163,5f0142aa1eb1e528e7abce50,433.61,438.69,immigrated here um and it's like I could not speak about spanish,0.1500000000000341,5.079999999999984,0,False,False,13
+164,5eb9798c0c0c95075ce61dfb,438.24,438.45,Oh,-0.44999999999998863,0.20999999999997954,0,False,True,1
+165,5f0142aa1eb1e528e7abce50,438.69,440.93,the way that he could speak about all these other languages because,0.2400000000000091,2.240000000000009,0,False,False,12
+166,5eb9798c0c0c95075ce61dfb,440.84,441.17,"wow,",-0.09000000000003183,0.3300000000000409,0,False,True,1
+167,5f0142aa1eb1e528e7abce50,440.93,441.75,it was like,-0.2400000000000091,0.8199999999999932,0,False,True,3
+168,5eb9798c0c0c95075ce61dfb,441.17,441.86,that's awesome.,-0.5799999999999841,0.6899999999999977,0,False,True,3
+169,5f0142aa1eb1e528e7abce50,442.24,446.52,"yeah it was so cool. Yeah, he's really awesome. Um But yeah",0.37999999999999545,4.279999999999973,0,False,False,13
+170,5eb9798c0c0c95075ce61dfb,446.24,446.56,Yeah.,-0.2799999999999727,0.3199999999999932,0,False,True,1
+171,5f0142aa1eb1e528e7abce50,446.52,461.81,"I get it. I also have a lot of confidence in spanish but it's like even though I'm a native speaker, I feel like I read and formally like talk academically or can write better and um I studied Russian and french so french in high school",-0.040000000000020464,15.29000000000002,0,False,True,49
+172,5eb9798c0c0c95075ce61dfb,461.74,461.94,Yeah.,-0.06999999999999318,0.19999999999998863,0,False,True,1
+173,5f0142aa1eb1e528e7abce50,461.81,462.11,and then,-0.12999999999999545,0.30000000000001137,0,False,True,2
+174,5eb9798c0c0c95075ce61dfb,462.04,462.66,Yeah.,-0.06999999999999318,0.6200000000000045,0,False,True,1
+175,5f0142aa1eb1e528e7abce50,462.11,473.51,"Russian in college, I feel like I can read and write better than those languages. Just cook in spanish. It's so informal and like my mom never finished high school and stuff. So even when she writes to me it's not like",-0.5500000000000114,11.399999999999977,0,False,True,44
+176,5eb9798c0c0c95075ce61dfb,473.44,473.94,Yeah.,-0.06999999999999318,0.5,0,False,True,1
+177,5f0142aa1eb1e528e7abce50,473.52,480.66,you know in a very advanced way. So I have like a weird confidence not confidence in that language.,-0.4200000000000159,7.140000000000043,0,False,True,19
+178,5eb9798c0c0c95075ce61dfb,480.44,502.15,"Yeah, I totally feel you, I mean with like Gujarati or hindi or do um I, my ability to read and write is limited but I can speak you know pretty well, but when it comes to other languages um I feel better reading, you know? Um yeah, it's weird that like the language that I've been speaking for 22 years, I just like I'm told I'm like a first grader when I'm reading it, you know?",-0.22000000000002728,21.70999999999998,2,True,True,82
+179,5f0142aa1eb1e528e7abce50,502.84,505.15,Yeah it's true. But like,0.6899999999999977,2.3100000000000023,0,False,False,6
+180,5eb9798c0c0c95075ce61dfb,504.71,505.45,Oh.,-0.4399999999999977,0.7400000000000091,0,False,True,1
+181,5f0142aa1eb1e528e7abce50,505.16,507.77,my boyfriend is trying to learn spanish because he's,-0.2899999999999636,2.609999999999957,0,False,True,10
+182,5eb9798c0c0c95075ce61dfb,507.64,508.06,Mhm.,-0.12999999999999545,0.4200000000000159,0,False,True,1
+183,5f0142aa1eb1e528e7abce50,507.77,511.87,"actually, his mom was an immigrant, so he's half hispanic",-0.29000000000002046,4.100000000000023,0,False,True,11
+184,5eb9798c0c0c95075ce61dfb,511.74,512.16,Mhm.,-0.12999999999999545,0.4199999999999591,0,False,True,1
+185,5f0142aa1eb1e528e7abce50,511.88,514.74,"but he never, he grew up in the U. S. So he never learned spanish which is",-0.2799999999999727,2.8600000000000136,0,False,True,17
+186,5eb9798c0c0c95075ce61dfb,514.64,514.96,Uh huh.,-0.10000000000002274,0.32000000000005,0,False,True,2
+187,5f0142aa1eb1e528e7abce50,514.75,516.08,a tragedy. But,-0.21000000000003638,1.330000000000041,0,False,True,3
+188,5eb9798c0c0c95075ce61dfb,515.74,516.1,Yeah. That,-0.34000000000003183,0.36000000000001364,0,False,True,2
+189,5f0142aa1eb1e528e7abce50,516.09,516.75,uh,-0.009999999999990905,0.6599999999999682,0,False,True,1
+190,5eb9798c0c0c95075ce61dfb,516.1,516.46,sucks,-0.6499999999999773,0.36000000000001364,0,False,True,1
+191,5f0142aa1eb1e528e7abce50,516.76,523.73,"he'll ask me these questions, there will be like oh today I'll do a lingo, they taught me this word and he'll be like, have you heard the freedom? Like never in my life.",0.2999999999999545,6.970000000000027,1,False,False,37
+192,5eb9798c0c0c95075ce61dfb,523.74,524.21,like.,0.009999999999990905,0.4700000000000273,0,False,False,1
+193,5f0142aa1eb1e528e7abce50,523.74,524.95,I have never,-0.4700000000000273,1.2100000000000364,0,False,True,3
+194,5eb9798c0c0c95075ce61dfb,524.22,525.6,Oh my god. Really? That's,-0.7300000000000182,1.3799999999999955,1,False,True,6
+195,5f0142aa1eb1e528e7abce50,525.44,525.65,and,-0.15999999999996817,0.2099999999999227,0,False,True,1
+196,5eb9798c0c0c95075ce61dfb,525.6,526.05,crazy.,-0.049999999999954525,0.4499999999999318,0,False,True,1
+197,5f0142aa1eb1e528e7abce50,525.65,530.96,he's like I can't tell him that it's not a well used words like I'm sure other countries are like when you're speaking like,-0.39999999999997726,5.310000000000059,0,False,True,29
+198,5eb9798c0c0c95075ce61dfb,530.94,531.56,Yeah.,-0.01999999999998181,0.6199999999998909,0,False,True,1
+199,5f0142aa1eb1e528e7abce50,530.97,534.81,"in spain and stuff like I'm sure they use it. So I'm like don't not learn it, I just",-0.5899999999999181,3.839999999999918,0,False,True,22
+200,5eb9798c0c0c95075ce61dfb,534.64,535.05,Yeah.,-0.16999999999995907,0.40999999999996817,0,False,True,1
+201,5f0142aa1eb1e528e7abce50,534.81,535.55,can't use.,-0.2400000000000091,0.7400000000000091,0,False,True,3
+202,5eb9798c0c0c95075ce61dfb,536.04,537.09,Yeah christians.,0.4900000000000091,1.0500000000000682,0,False,False,2
+203,5f0142aa1eb1e528e7abce50,536.64,539.38,Yeah.,-0.4500000000000455,2.740000000000009,0,False,True,1
+204,5eb9798c0c0c95075ce61dfb,537.1,538.56,"Where did you, where did you immigrate from?",-2.2799999999999727,1.4599999999999227,1,True,True,8
+205,5f0142aa1eb1e528e7abce50,539.39,542.96,Um I'm from peru so,0.8300000000000409,3.57000000000005,0,False,False,6
+206,5eb9798c0c0c95075ce61dfb,542.54,542.86,Nice.,-0.42000000000007276,0.32000000000005,0,False,True,1
+207,5f0142aa1eb1e528e7abce50,543.34,544.07,"yeah, so",0.4800000000000182,0.7300000000000182,0,False,False,2
+208,5eb9798c0c0c95075ce61dfb,543.84,544.94,Yeah.,-0.2300000000000182,1.1000000000000227,0,False,True,1
+209,5f0142aa1eb1e528e7abce50,544.07,549.67,my whole family uh,-0.8700000000000045,5.599999999999909,0,False,True,4
+210,5eb9798c0c0c95075ce61dfb,546.54,549.56,I can't say I know anything about Prue unfortunately.,-3.1299999999999955,3.019999999999982,0,False,True,10
+211,5f0142aa1eb1e528e7abce50,549.68,555.94,"nothing what you need to know is like we have cool, it's like the place where everyone believes ancient aliens come from because",0.12000000000000455,6.260000000000105,0,False,False,24
+212,5eb9798c0c0c95075ce61dfb,555.94,556.19,Oh,0.0,0.25,0,False,False,1
+213,5f0142aa1eb1e528e7abce50,555.94,556.2,we have,-0.25,0.2599999999999909,0,False,True,2
+214,5eb9798c0c0c95075ce61dfb,556.19,556.56,shit.,-0.009999999999990905,0.36999999999989086,0,False,True,1
+215,5f0142aa1eb1e528e7abce50,556.2,562.96,"like all the periods like the big murals and stuff like that that they're like, oh my god, you know the native people could have never done that.",-0.35999999999989996,6.759999999999991,0,False,True,29
+216,5eb9798c0c0c95075ce61dfb,563.24,563.74,Yeah.,0.2799999999999727,0.5,0,False,False,1
+217,5f0142aa1eb1e528e7abce50,563.44,572.48,But um and what really good food. So I definitely recommend if you ever see a well rated Peruvian food place you should go because our food slaps.,-0.2999999999999545,9.039999999999964,0,False,True,28
+218,5eb9798c0c0c95075ce61dfb,571.74,572.06,Okay.,-0.7400000000000091,0.31999999999993634,0,False,True,1
+219,5f0142aa1eb1e528e7abce50,572.49,573.26,Um,0.43000000000006366,0.7699999999999818,0,False,False,1
+220,5eb9798c0c0c95075ce61dfb,572.54,573.76,Yeah.,-0.7200000000000273,1.2200000000000273,0,False,True,1
+221,5f0142aa1eb1e528e7abce50,573.27,582.36,Not something actually a base and I always connected because he loved Peruvian food and I mean his food was so good. Like every time we would cook for us I'd be like this is dope. Um,-0.4900000000000091,9.090000000000032,0,False,True,38
+222,5eb9798c0c0c95075ce61dfb,581.74,582.16,Right.,-0.6200000000000045,0.4199999999999591,0,False,True,1
+223,5f0142aa1eb1e528e7abce50,582.37,587.25,Yeah. But I came here when I was like 4.5. And also,0.21000000000003638,4.8799999999999955,0,False,False,12
+224,5eb9798c0c0c95075ce61dfb,587.24,587.56,Mhm,-0.009999999999990905,0.31999999999993634,0,False,True,1
+225,5f0142aa1eb1e528e7abce50,587.26,590.28,and then I didn't get to go back until it was like 18 so,-0.2999999999999545,3.019999999999982,0,False,True,15
+226,5eb9798c0c0c95075ce61dfb,590.14,590.76,wow.,-0.13999999999998636,0.6200000000000045,0,False,True,1
+227,5f0142aa1eb1e528e7abce50,590.28,592.64,"I'm not asking you to it as yeah, it was a",-0.4800000000000182,2.3600000000000136,0,False,True,12
+228,5eb9798c0c0c95075ce61dfb,592.64,592.84,That's,0.0,0.20000000000004547,0,False,False,2
+229,5f0142aa1eb1e528e7abce50,592.64,592.94,long,-0.20000000000004547,0.3000000000000682,0,False,True,1
+230,5eb9798c0c0c95075ce61dfb,592.84,593.45,crazy.,-0.10000000000002274,0.6100000000000136,0,False,True,1
+231,5f0142aa1eb1e528e7abce50,592.94,594.56,"process, you know? Yeah.",-0.5099999999999909,1.6199999999998909,1,False,True,4
+232,5eb9798c0c0c95075ce61dfb,594.04,595.14,Yeah.,-0.5199999999999818,1.1000000000000227,0,False,True,1
+233,5f0142aa1eb1e528e7abce50,594.57,600.28,But I mean my mom was even crazier. She came here to the U. S. When she was 18.,-0.5699999999999363,5.709999999999923,0,False,True,19
+234,5eb9798c0c0c95075ce61dfb,600.24,600.86,Mhm.,-0.03999999999996362,0.6200000000000045,0,False,True,1
+235,5f0142aa1eb1e528e7abce50,600.29,602.16,So she had me super young. Then two,-0.57000000000005,1.8700000000000045,0,False,True,8
+236,5eb9798c0c0c95075ce61dfb,601.94,602.44,"Yeah,",-0.2199999999999136,0.5,0,False,True,1
+237,5f0142aa1eb1e528e7abce50,602.16,604.6,years later came to the U. S. At 18. And,-0.2800000000000864,2.4400000000000546,0,False,True,10
+238,5eb9798c0c0c95075ce61dfb,604.34,604.96,horrible,-0.2599999999999909,0.6200000000000045,0,False,True,1
+239,5f0142aa1eb1e528e7abce50,604.6,608.77,she didn't get to go back until she was like I think 30 and,-0.36000000000001364,4.169999999999959,0,False,True,15
+240,5eb9798c0c0c95075ce61dfb,608.64,608.96,wow.,-0.12999999999999545,0.32000000000005,0,False,True,1
+241,5f0142aa1eb1e528e7abce50,608.77,611.56,like a whole families back there. It's insane. Yeah. And,-0.19000000000005457,2.7899999999999636,0,False,True,11
+242,5eb9798c0c0c95075ce61dfb,611.44,611.85,Yeah.,-0.11999999999989086,0.40999999999996817,0,False,True,1
+243,5f0142aa1eb1e528e7abce50,611.56,614.86,"then I even hear complaining like quarantine, you know? And I can't see my friends.",-0.2900000000000773,3.300000000000068,1,False,True,16
+244,5eb9798c0c0c95075ce61dfb,615.04,622.12,Yeah. That's why. Yeah. I mean I had the opportunity to,0.17999999999994998,7.080000000000041,0,False,False,12
+245,5f0142aa1eb1e528e7abce50,621.64,622.36,Mhm.,-0.4800000000000182,0.7200000000000273,0,False,True,1
+246,5eb9798c0c0c95075ce61dfb,622.13,623.3,visit back where my parents,-0.2300000000000182,1.169999999999959,0,False,True,5
+247,5f0142aa1eb1e528e7abce50,623.14,623.85,Yeah.,-0.15999999999996817,0.7100000000000364,0,False,True,1
+248,5eb9798c0c0c95075ce61dfb,623.3,624.67,"are from fairly often,",-0.5500000000000682,1.3700000000000045,0,False,True,4
+249,5f0142aa1eb1e528e7abce50,624.44,624.64,Yeah.,-0.2299999999999045,0.1999999999999318,0,False,True,1
+250,5eb9798c0c0c95075ce61dfb,624.67,625.29,so my mom's,0.029999999999972715,0.6200000000000045,0,False,False,4
+251,5f0142aa1eb1e528e7abce50,625.04,626.26,Mhm.,-0.25,1.2200000000000273,0,False,True,1
+252,5eb9798c0c0c95075ce61dfb,625.29,642.84,"from indiana dad from Pakistan and you know fortunately we'd go back every summer every other summer so we have really good connections with people at home. But I also have friends that don't go back as often or like you said they mean I grew up here too but their kids that grew up here and don't speak the language that they, you know that their parents speak",-0.9700000000000273,17.550000000000068,0,False,True,72
+253,5f0142aa1eb1e528e7abce50,642.64,643.65,Yeah.,-0.20000000000004547,1.009999999999991,0,False,True,1
+254,5eb9798c0c0c95075ce61dfb,642.84,646.15,"that well um and that's like like you said it's a tragedy,",-0.8099999999999454,3.3099999999999454,0,False,True,14
+255,5f0142aa1eb1e528e7abce50,646.94,647.54,Yeah.,0.7900000000000773,0.599999999999909,0,False,False,1
+256,5eb9798c0c0c95075ce61dfb,647.04,647.63,it's not,-0.5,0.5900000000000318,0,False,True,3
+257,5f0142aa1eb1e528e7abce50,647.55,648.46,It's,-0.08000000000004093,0.9100000000000819,0,False,True,2
+258,5eb9798c0c0c95075ce61dfb,647.63,648.97,even at least for us,-0.8300000000000409,1.3400000000000318,0,False,True,5
+259,5f0142aa1eb1e528e7abce50,648.84,649.01,mm,-0.12999999999999545,0.16999999999995907,0,False,True,1
+260,5eb9798c0c0c95075ce61dfb,648.97,649.12,it's,-0.03999999999996362,0.14999999999997726,0,False,True,2
+261,5f0142aa1eb1e528e7abce50,649.01,649.26,hmm.,-0.11000000000001364,0.25,0,False,True,1
+262,5eb9798c0c0c95075ce61dfb,649.12,649.71,like,-0.13999999999998636,0.5900000000000318,0,False,True,1
+263,5f0142aa1eb1e528e7abce50,649.64,657.01,Yeah.,-0.07000000000005002,7.3700000000000045,0,False,True,1
+264,5eb9798c0c0c95075ce61dfb,649.72,657.15,I don't even have to put in extra work. It just happened by virtue of me being next to my parents just happened so I feel really bad for people who can't you know communicate.,-7.289999999999964,7.42999999999995,0,False,True,37
+265,5f0142aa1eb1e528e7abce50,657.02,664.87,"Yeah. No, I feel that so strong because it's like, you know, my mom never in her mind was like I have to make sure Valeria speak spanish. She just like,",-0.12999999999999545,7.850000000000023,0,False,True,32
+266,5eb9798c0c0c95075ce61dfb,664.84,665.16,Yeah.,-0.029999999999972715,0.31999999999993634,0,False,True,1
+267,5f0142aa1eb1e528e7abce50,664.87,668.15,I mean that was the language book and feel more comfortable with it what I learned.,-0.2899999999999636,3.2799999999999727,0,False,True,16
+268,5eb9798c0c0c95075ce61dfb,668.34,668.75,Yeah.,0.19000000000005457,0.40999999999996817,0,False,False,1
+269,5f0142aa1eb1e528e7abce50,668.44,669.32,But then it's like,-0.30999999999994543,0.8799999999999955,0,False,True,5
+270,5eb9798c0c0c95075ce61dfb,669.14,669.56,Right.,-0.18000000000006366,0.4199999999999591,0,False,True,1
+271,5f0142aa1eb1e528e7abce50,669.33,676.43,"I know the friends who are hispanic but don't speak spanish, it would be kind of like a genuine effort from their parents to",-0.2299999999999045,7.099999999999909,0,False,True,25
+272,5eb9798c0c0c95075ce61dfb,676.14,676.76,Mhm,-0.2899999999999636,0.6200000000000045,0,False,True,1
+273,5f0142aa1eb1e528e7abce50,676.43,678.36,"like not have them speak spanish,",-0.3300000000000409,1.9300000000000637,0,False,True,6
+274,5eb9798c0c0c95075ce61dfb,678.34,678.82,wow.,-0.01999999999998181,0.4800000000000182,0,False,True,1
+275,5f0142aa1eb1e528e7abce50,678.36,678.82,"you know, I don't",-0.4600000000000364,0.4600000000000364,0,False,True,5
+276,5eb9798c0c0c95075ce61dfb,678.82,679.07,Yeah.,0.0,0.25,0,False,False,1
+277,5f0142aa1eb1e528e7abce50,678.82,679.26,know that.,-0.25,0.4399999999999409,0,False,True,2
+278,5eb9798c0c0c95075ce61dfb,679.07,679.44,Yeah.,-0.18999999999994088,0.37000000000000455,0,False,True,1
+279,5f0142aa1eb1e528e7abce50,679.74,691.77,"But it was so like it's really sad to hear that. And then you know, you have these like adult Children who are trying to communicate with their grandparents or like their parents and stuff and it just it's like a missing connection that they don't",0.2999999999999545,12.029999999999973,0,False,False,49
+280,5eb9798c0c0c95075ce61dfb,691.74,692.15,Yeah.,-0.029999999999972715,0.40999999999996817,0,False,True,1
+281,5f0142aa1eb1e528e7abce50,691.77,706.51,"have. Which is just, it's hard to see that in this country when like in other, you know in europe and south America you have so many kids that grew up bilingual or Multilingual just naturally like they don't see you learning another language as impeding on learning",-0.37999999999999545,14.740000000000009,0,False,True,50
+282,5eb9798c0c0c95075ce61dfb,706.34,707.26,Yeah.,-0.16999999999995907,0.9199999999999591,0,False,True,1
+283,5f0142aa1eb1e528e7abce50,706.52,708.56,like there.,-0.7400000000000091,2.0399999999999636,0,False,True,2
+284,5eb9798c0c0c95075ce61dfb,708.84,715.26,"I've heard that sentiment, I think also from from friends of mine who hispanic or talking about their parents that they just didn't want to teach them",0.2800000000000864,6.419999999999959,0,False,False,29
+285,5f0142aa1eb1e528e7abce50,715.54,716.25,Yeah.,0.2799999999999727,0.7100000000000364,0,False,False,1
+286,5eb9798c0c0c95075ce61dfb,715.64,729.69,"spanish so that it wouldn't get in their way of learning english or something which is really sad for me to hear. But um to be honest and like the community that I come from, I don't think that that really ever encountered that people want their kids to speak whatever you're doing there kind",-0.6100000000000136,14.050000000000068,0,False,True,58
+287,5f0142aa1eb1e528e7abce50,729.64,733.26,Yeah.,-0.05000000000006821,3.6200000000000045,0,False,True,1
+288,5eb9798c0c0c95075ce61dfb,729.69,734.19,of sometimes not pissed off and maybe a little bit salty that our kids maybe you don't speak as well as they,-3.5699999999999363,4.5,0,False,True,23
+289,5f0142aa1eb1e528e7abce50,733.94,739.84,Yeah.,-0.25,5.899999999999977,0,False,True,1
+290,5eb9798c0c0c95075ce61dfb,734.2,739.95,as well as they would like them to. Um Yeah. How can I ask you about Russia? What was that like,-5.639999999999986,5.75,1,False,True,21
+291,5f0142aa1eb1e528e7abce50,740.54,755.5,"Yeah. I mean I love talking about Russia, it was such an experience. I actually said I went to Russia before I had decided to be a major or anything like that. I just was basically, I had like lost a lot of weight for my computer science classes because I hated them. So",0.5899999999999181,14.960000000000036,0,False,False,54
+292,5eb9798c0c0c95075ce61dfb,754.94,755.57,lost a lot,-0.5599999999999454,0.6299999999999955,0,False,True,3
+293,5f0142aa1eb1e528e7abce50,755.5,755.57,I,-0.07000000000005002,0.07000000000005002,0,False,True,1
+294,5eb9798c0c0c95075ce61dfb,755.57,755.68,of,0.0,0.10999999999989996,0,False,False,1
+295,5f0142aa1eb1e528e7abce50,755.57,755.87,was,-0.10999999999989996,0.2999999999999545,0,False,True,1
+296,5eb9798c0c0c95075ce61dfb,755.68,756.16,weight?,-0.19000000000005457,0.4800000000000182,1,True,True,1
+297,5f0142aa1eb1e528e7abce50,755.88,759.46,pretty uh,-0.2799999999999727,3.580000000000041,0,False,True,2
+298,5eb9798c0c0c95075ce61dfb,757.04,760.25,Like a lot of weight? Like physically.,-2.4200000000000728,3.2100000000000364,1,False,True,7
+299,5f0142aa1eb1e528e7abce50,759.64,764.61,wait like physically loved. I,-0.6100000000000136,4.970000000000027,0,False,True,5
+300,5eb9798c0c0c95075ce61dfb,763.44,766.46,That's amazing.,-1.169999999999959,3.019999999999982,0,False,True,3
+301,5f0142aa1eb1e528e7abce50,764.62,774.42,"like I would go, well I was already I've already I've always been like a skinny kid. So it's like I would when that was income side classes, I usually have like a study buddy and stuff and",-1.8400000000000318,9.799999999999955,0,False,True,41
+302,5eb9798c0c0c95075ce61dfb,774.14,774.55,Yeah.,-0.2799999999999727,0.40999999999996817,0,False,True,1
+303,5f0142aa1eb1e528e7abce50,774.42,782.36,"we would just go to like the convenience store, grab snacks and junk food, eat that and then like study through the night. I would never eat properly but",-0.12999999999999545,7.940000000000055,0,False,True,29
+304,5eb9798c0c0c95075ce61dfb,782.54,782.8,Oh,0.17999999999994998,0.2599999999999909,0,False,False,1
+305,5f0142aa1eb1e528e7abce50,782.74,783.13,whatever,-0.05999999999994543,0.38999999999998636,0,False,True,1
+306,5eb9798c0c0c95075ce61dfb,782.8,783.26,I see.,-0.3300000000000409,0.4600000000000364,0,False,True,2
+307,5f0142aa1eb1e528e7abce50,783.13,799.65,"it is like I did well in my campsite classes I never got, I think I got one b in like my six classes that I took, but it wasn't fun to me at that point an epidemic like it was not fun. So I was like I need the biggest break, I need to get out of the school, like I need to go somewhere.",-0.12999999999999545,16.519999999999982,0,False,True,67
+308,5eb9798c0c0c95075ce61dfb,799.24,799.74,Yeah,-0.40999999999996817,0.5,0,False,True,1
+309,5f0142aa1eb1e528e7abce50,799.66,804.61,"And my Russian professor was like, hey you're really good at Russian, why don't you go to Russia? And",-0.08000000000004093,4.9500000000000455,1,False,True,21
+310,5eb9798c0c0c95075ce61dfb,804.24,804.66,wow.,-0.37000000000000455,0.4199999999999591,0,False,True,1
+311,5f0142aa1eb1e528e7abce50,804.61,811.12,then I think they did all the paperwork and everything within like 34 months and then I went to rush. Um,-0.049999999999954525,6.509999999999991,0,False,True,21
+312,5eb9798c0c0c95075ce61dfb,810.04,810.96,That's Malcolm,-1.080000000000041,0.9200000000000728,0,False,True,3
+313,5f0142aa1eb1e528e7abce50,811.13,850.83,"Yeah and it was good because my program, we were there for half a semester, so we spent one month in like ST Petersburg in one month in Moscow. And then every weekend we would do little trips to like villages and rural areas um like you know historic places like that. But then like most of the time we would stay throughout the week in our home like home city and I loved it. I thought you know it's like there's so many misconceptions about Russian culture uh and I think it was actually a vase. Me and um to international students are from china. Um and she who",0.16999999999995907,39.700000000000045,0,False,False,112
+314,5eb9798c0c0c95075ce61dfb,850.24,850.86,Christine.,-0.5900000000000318,0.6200000000000045,0,False,True,1
+315,5f0142aa1eb1e528e7abce50,850.84,855.63,got the closest during that trip because we were all very like the kids are really white and like,-0.01999999999998181,4.789999999999964,0,False,True,19
+316,5eb9798c0c0c95075ce61dfb,855.54,855.75,Oh.,-0.09000000000003183,0.21000000000003638,0,False,True,1
+317,5f0142aa1eb1e528e7abce50,855.63,857.56,very very american. Um,-0.12000000000000455,1.92999999999995,0,False,True,4
+318,5eb9798c0c0c95075ce61dfb,857.54,857.75,Oh,-0.01999999999998181,0.21000000000003638,0,False,True,1
+319,5f0142aa1eb1e528e7abce50,857.56,905.45,"So they had a lot of culture shock from Russia, but all of us came from cultures that were a lot more, you know, just naturally friendly, naturally more intimate than american culture. I would think like Russians are huge on sharing food together, giving gifts, being really welcoming. Like if you go to someone's house, you're expected to bring like flowers every time. Uh if you go to some of how they immediately sit you down and like offer you food and tea and you know, open their home to you. And it's like, like a lot of the americans felt that they were like, oh no, don't worry about it or like, oh I can't afford this stuff like that. Well I think a lot of us who came from more international backgrounds, I felt more comfortable and you know, like being like this is a way to like share and become closer to people without kind of having like a very, you know, tit for tat exchange kind of thing.",-0.19000000000005457,47.8900000000001,0,False,True,178
+320,5eb9798c0c0c95075ce61dfb,905.34,905.96,yeah.,-0.11000000000001364,0.6200000000000045,0,False,True,1
+321,5f0142aa1eb1e528e7abce50,905.46,918.63,"Um yeah, there was a lot of culture shock, there's still a lot of sexism in Russia. So like, you know, I actually went there when I had like super short hair and like looked very alternative. So",-0.5,13.169999999999959,0,False,True,39
+322,5eb9798c0c0c95075ce61dfb,918.14,919.15,Yeah.,-0.4900000000000091,1.009999999999991,0,False,True,1
+323,5f0142aa1eb1e528e7abce50,918.64,924.86,"that was a little bit of a shaky thing where people were like, oh but women have long hair, what are you doing, you know?",-0.5099999999999909,6.220000000000027,1,True,True,25
+324,5eb9798c0c0c95075ce61dfb,924.74,925.36,Yeah.,-0.12000000000000455,0.6200000000000045,0,False,True,1
+325,5f0142aa1eb1e528e7abce50,924.87,931.14,"Um But almost everyone we talked to like let us say, you know, we could say like really",-0.4900000000000091,6.269999999999982,0,False,True,18
+326,5eb9798c0c0c95075ce61dfb,930.74,931.22,Yeah.,-0.39999999999997726,0.4800000000000182,0,False,True,1
+327,5f0142aa1eb1e528e7abce50,931.14,954.46,"liberal views are really non traditional views and they would be like, okay, interesting, like that's not how we see it in Russia, but maybe that will change and stuff, which I didn't expect. I expected things to be a lot more closed off. Um And then yeah, like a lot of my friends did their final projects on like politics because of course given what was happening and I did my final project on bread. So",-0.08000000000004093,23.32000000000005,0,False,True,79
+328,5eb9798c0c0c95075ce61dfb,953.44,954.85,Nice. Very,-1.0199999999999818,1.4099999999999682,0,False,True,2
+329,5f0142aa1eb1e528e7abce50,954.84,956.06,yeah.,-0.009999999999990905,1.2199999999999136,0,False,True,1
+330,5eb9798c0c0c95075ce61dfb,954.85,955.45,political.,-1.2099999999999227,0.6000000000000227,0,False,True,1
+331,5f0142aa1eb1e528e7abce50,956.54,957.82,Um But,1.0899999999999181,1.2800000000000864,0,False,False,2
+332,5eb9798c0c0c95075ce61dfb,957.44,957.76,Oh.,-0.37999999999999545,0.31999999999993634,0,False,True,1
+333,5f0142aa1eb1e528e7abce50,957.82,965.53,"yeah, I basically I got to interview a um a woman who lived through World War Two and",0.06000000000005912,7.709999999999923,0,False,False,18
+334,5eb9798c0c0c95075ce61dfb,964.84,965.76,Oh wow.,-0.6899999999999409,0.9199999999999591,0,False,True,2
+335,5f0142aa1eb1e528e7abce50,965.53,968.3,the uh the,-0.2300000000000182,2.769999999999982,0,False,True,3
+336,5eb9798c0c0c95075ce61dfb,967.54,967.74,Yeah,-0.7599999999999909,0.20000000000004547,0,False,True,1
+337,5f0142aa1eb1e528e7abce50,968.31,977.65,siege on Leningrad. So she actually was a little kid when the nazis surrounded Leningrad and basically starved out the city and we talked to,0.5699999999999363,9.340000000000032,0,False,False,25
+338,5eb9798c0c0c95075ce61dfb,977.64,978.15,"wow,",-0.009999999999990905,0.5099999999999909,0,False,True,1
+339,5f0142aa1eb1e528e7abce50,977.65,978.88,her about like what it was like going,-0.5,1.2300000000000182,0,False,True,8
+340,5eb9798c0c0c95075ce61dfb,978.74,979.16,creating.,-0.13999999999998636,0.4199999999999591,0,False,True,1
+341,5f0142aa1eb1e528e7abce50,978.88,989.91,"up there, what it was like to escape. It was like it was one of probably the most life changing moments in my life. Um And it was still really hard because she was an old Russian lady who spoke",-0.2799999999999727,11.029999999999973,0,False,True,40
+342,5eb9798c0c0c95075ce61dfb,989.64,990.14,Yeah.,-0.2699999999999818,0.5,0,False,True,1
+343,5f0142aa1eb1e528e7abce50,989.91,990.66,no England.,-0.2300000000000182,0.75,0,False,True,2
+344,5eb9798c0c0c95075ce61dfb,990.84,991.34,Yeah.,0.18000000000006366,0.5,0,False,False,1
+345,5f0142aa1eb1e528e7abce50,991.04,1001.41,So we we recorded the interview and then had to have the help of my teacher to to really get all the details. But the experience itself was awesome.,-0.3000000000000682,10.370000000000005,0,False,True,29
+346,5eb9798c0c0c95075ce61dfb,1001.04,1001.45,Yeah.,-0.37000000000000455,0.41000000000008185,0,False,True,1
+347,5f0142aa1eb1e528e7abce50,1001.41,1001.86,"Yeah,",-0.04000000000007731,0.4500000000000455,0,False,True,1
+348,5eb9798c0c0c95075ce61dfb,1002.04,1004.55,Did you like put it up online or,0.17999999999994998,2.509999999999991,0,False,False,8
+349,5f0142aa1eb1e528e7abce50,1004.54,1005.76,so,-0.009999999999990905,1.2200000000000273,0,False,True,1
+350,5eb9798c0c0c95075ce61dfb,1004.55,1004.85,not?,-1.2100000000000364,0.3000000000000682,1,True,True,1
+351,5f0142aa1eb1e528e7abce50,1005.76,1013.97,"it's like the recordings, we still have them, but the paper ultimately was just like it was just a class paper, so it wasn't like a thesis or any or any big",0.9099999999999682,8.210000000000036,0,False,False,34
+352,5eb9798c0c0c95075ce61dfb,1013.74,1014.07,Mark?,-0.2300000000000182,0.3300000000000409,1,True,True,1
+353,5f0142aa1eb1e528e7abce50,1013.98,1014.65,thing.,-0.09000000000003183,0.6699999999999591,0,False,True,1
+354,5eb9798c0c0c95075ce61dfb,1014.07,1015.15,"I got you, wow.",-0.5799999999999272,1.0799999999999272,0,False,True,4
+355,5f0142aa1eb1e528e7abce50,1015.14,1015.85,Yeah.,-0.009999999999990905,0.7100000000000364,0,False,True,1
+356,5eb9798c0c0c95075ce61dfb,1015.94,1016.28,What,0.09000000000003183,0.33999999999991815,0,False,False,1
+357,5f0142aa1eb1e528e7abce50,1016.24,1017.07,But.,-0.03999999999996362,0.8300000000000409,0,False,True,1
+358,5eb9798c0c0c95075ce61dfb,1016.29,1017.61,what does she say about,-0.7800000000000864,1.32000000000005,0,False,True,5
+359,5f0142aa1eb1e528e7abce50,1017.54,1017.77,Mhm.,-0.07000000000005002,0.2300000000000182,0,False,True,1
+360,5eb9798c0c0c95075ce61dfb,1017.61,1019.27,the siege and living through it,-0.15999999999996817,1.6599999999999682,0,False,True,6
+361,5f0142aa1eb1e528e7abce50,1019.84,1029.27,"Yeah, it's Crazy. So like it's so when I told people that I say I wrote a whole like 14 page paper on bread, people are like what is there to talk about? Right.",0.57000000000005,9.42999999999995,1,False,False,36
+362,5eb9798c0c0c95075ce61dfb,1029.24,1029.96,attacks?,-0.029999999999972715,0.7200000000000273,1,True,True,1
+363,5f0142aa1eb1e528e7abce50,1029.27,1033.78,But like I think interview really showed it because bread became,-0.6900000000000546,4.509999999999991,0,False,True,11
+364,5eb9798c0c0c95075ce61dfb,1033.54,1033.77,Mhm.,-0.2400000000000091,0.2300000000000182,0,False,True,1
+365,5f0142aa1eb1e528e7abce50,1033.78,1055.89,"like this very strong political and also cultural symbol during the war of Russian perseverance. So during the siege, she talks so much about bread without without us even like bringing it up because basically the nazis whole strategy was to start off the city and kids were still going to school, people were still having theater plays and stuff like that to keep the community",0.009999999999990905,22.110000000000127,0,False,False,66
+366,5eb9798c0c0c95075ce61dfb,1055.64,1055.84,Yeah.,-0.25,0.1999999999998181,0,False,True,1
+367,5f0142aa1eb1e528e7abce50,1055.89,1073.8,"going, but they were slowly starving. So what the city would do is they would give out these bread rations and that was all they had. And the bread rations especially towards the end ended up being made of like half saw dust, like half just like wood material and things like that just to give people something to eat. But",0.0500000000001819,17.909999999999854,0,False,False,61
+368,5eb9798c0c0c95075ce61dfb,1073.54,1074.05,Sure.,-0.2599999999999909,0.5099999999999909,0,False,True,1
+369,5f0142aa1eb1e528e7abce50,1073.8,1095.03,she said she remembers when they would hand out that that bread it was like the whole world was in that bread slice you know and it had like it had a bigger history because the soviet union also just in general used bread and wheat as like very strong imagery for the people and the revolution. So,-0.25,21.230000000000018,0,False,True,58
+370,5eb9798c0c0c95075ce61dfb,1094.64,1095.06,I didn't.,-0.38999999999987267,0.4199999999998454,0,False,True,3
+371,5f0142aa1eb1e528e7abce50,1095.04,1136.22,"um I don't think it's like unrelated that this became such a strong memory to her after like such a traumatic time. Um She very casually talked about you know like the bombs dropping sometimes and like they would always hear like around her she was never that close to an explosion or anything. Um But it was really the famine that got her and then she ended up escaping the city um Like a you know a couple of months before they were finally liberated because they were doing an extensive um constant mission to get as many kids out of they could and she said it was so crazy because she just remembers what like you know suffering, suffering, suffering then one",-0.01999999999998181,41.180000000000064,0,False,True,126
+372,5eb9798c0c0c95075ce61dfb,1135.84,1136.05,Oh,-0.38000000000010914,0.21000000000003638,0,False,True,1
+373,5f0142aa1eb1e528e7abce50,1136.22,1221.43,"day they're just snuck out like in the middle of the night her and a bunch of kids and then they get outside the city, there's like a military convoy and then an aunt just comes up, picks her up, takes her in the car and take her home to another like rural um a family home that they had out like in a rural area. And she said it's like it's still crazy to her because they went from like living kind of like in this hell bubble where you don't know when that's going to end. No one was telling her anything cause she was a kid. No one was saying tomorrow that they were going to escape her. Is there anything? And then from one day to another basically they spend a night of like trekking for who knows how long and then an off picks her up and just take her home um to family. But it will, her parents didn't go with her and it was fascinating to see her talk. We never, we didn't video recorded because we like just hadn't thought of that in the moment. It was all audio but like she was very just normal looking old woman. We were like in a little cafe. So we all had little coffee. She had bottom flow pastries in like the middle of a mall too. So you know there's such a social cognitive dissonance of being like in this small area with this woman having basically Starbucks coffee just sitting there and she's just saying this so matter of fact that she's like yeah, then I just got picked up and just went home and you know, I don't know, it's like I always wish that I had been more proficient in Russian at that point to be able to really dig",0.17000000000007276,85.21000000000004,1,False,False,324
+374,5eb9798c0c0c95075ce61dfb,1221.14,1221.67,yeah.,-0.2899999999999636,0.5299999999999727,0,False,True,1
+375,5f0142aa1eb1e528e7abce50,1221.43,1229.43,"in deeper. But I mean what we got was just incredible and yeah, thank you for letting me talk about that. I mean it's so",-0.2400000000000091,8.0,0,False,True,26
+376,5eb9798c0c0c95075ce61dfb,1229.34,1229.55,Right.,-0.09000000000014552,0.21000000000003638,0,False,True,1
+377,5f0142aa1eb1e528e7abce50,1229.43,1230.16,fascinating,-0.11999999999989086,0.7300000000000182,0,False,True,1
+378,5eb9798c0c0c95075ce61dfb,1230.04,1230.27,Right.,-0.12000000000011823,0.2300000000000182,0,False,True,1
+379,5f0142aa1eb1e528e7abce50,1230.16,1245.9,"and she was an incredible woman who really like she loved, she loved to talk to us but she mostly wanted to hear about it, she was like tell us about your life, tell us about like what's going on? How are your friends? Like like she was just so classic, like you know your abuelita just talking to you",-0.10999999999989996,15.740000000000009,2,False,True,61
+380,5eb9798c0c0c95075ce61dfb,1245.84,1246.25,Yeah.,-0.060000000000172804,0.41000000000008185,0,False,True,1
+381,5f0142aa1eb1e528e7abce50,1245.9,1254.33,"about things um and then you ask the right question and suddenly you know, it's like oh my God, the things that you have lived through to",-0.34999999999990905,8.429999999999836,0,False,True,28
+382,5eb9798c0c0c95075ce61dfb,1253.74,1254.06,Yeah.,-0.5899999999999181,0.31999999999993634,0,False,True,1
+383,5f0142aa1eb1e528e7abce50,1254.34,1256.27,"get here, it's incredible.",0.2799999999999727,1.9300000000000637,0,False,False,5
+384,5eb9798c0c0c95075ce61dfb,1255.44,1256.83,Quick. Were the nazis,-0.8299999999999272,1.3899999999998727,0,False,True,4
+385,5f0142aa1eb1e528e7abce50,1256.74,1260.66,It,-0.08999999999991815,3.9200000000000728,0,False,True,1
+386,5eb9798c0c0c95075ce61dfb,1256.83,1259.86,allowing the Children to be taken away or? That done likes whatever?,-3.8300000000001546,3.0299999999999727,2,True,True,12
+387,5f0142aa1eb1e528e7abce50,1260.66,1269.6,"was it was a very secret mission. So um at that point the Finland which is right next to where the city was,",0.8000000000001819,8.939999999999827,0,False,False,23
+388,5eb9798c0c0c95075ce61dfb,1269.54,1269.96,Okay.,-0.05999999999994543,0.42000000000007276,0,False,True,1
+389,5f0142aa1eb1e528e7abce50,1269.61,1273.09,they were on the side of the fascist. So they,-0.3500000000001364,3.480000000000018,0,False,True,10
+390,5eb9798c0c0c95075ce61dfb,1272.94,1273.17,So,-0.14999999999986358,0.2300000000000182,0,False,True,1
+391,5f0142aa1eb1e528e7abce50,1273.09,1273.25,were,-0.08000000000015461,0.16000000000008185,0,False,True,1
+392,5eb9798c0c0c95075ce61dfb,1273.17,1273.45,what?,-0.07999999999992724,0.2799999999999727,1,True,True,1
+393,5f0142aa1eb1e528e7abce50,1273.25,1274.71,"the ones that yeah,",-0.20000000000004547,1.4600000000000364,0,False,True,4
+394,5eb9798c0c0c95075ce61dfb,1273.84,1274.67,"Yeah, I didn't know that.",-0.8700000000001182,0.8300000000001546,0,False,True,6
+395,5f0142aa1eb1e528e7abce50,1274.72,1286.96,no one thinks of this because Finland is saying that it's like nice myself and know Finland was like super fascist then um they were the ones that really went after Russia because if their side would have won they would have gotten a lot of land from Russia.,0.049999999999954525,12.240000000000009,0,False,False,50
+396,5eb9798c0c0c95075ce61dfb,1286.84,1287.46,Oh shit,-0.12000000000011823,0.6200000000001182,0,False,True,2
+397,5f0142aa1eb1e528e7abce50,1287.34,1306.78,"So um they were really eyeing up that coast, the western coast of Russia and they were actually the ones that were doing most of the military operations to um get rid of Leningrad. Um So it was a lot of mostly like finish military soldiers there and",-0.12000000000011823,19.440000000000055,0,False,True,48
+398,5eb9798c0c0c95075ce61dfb,1306.24,1306.66,wow.,-0.5399999999999636,0.42000000000007276,0,False,True,1
+399,5f0142aa1eb1e528e7abce50,1306.79,1334.69,while it was very secret to like get as many people out as they could. Um There wasn't also a lot of like military kind of presence inside of the city like it was very much like a blockade around it and they didn't do you know they weren't going in there to terrorize decisions every five seconds like they know what they did like long distance bombing and stuff like that every once in a while. Um And they were also diverting a lot of effort to you know go to the other fronts. Um at,0.12999999999988177,27.90000000000009,0,False,False,100
+400,5eb9798c0c0c95075ce61dfb,1334.64,1334.96,Yeah.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+401,5f0142aa1eb1e528e7abce50,1334.69,1339.85,the time. So it's like the Russian government was able to soviet government that time was able to um,-0.2699999999999818,5.1599999999998545,0,False,True,20
+402,5eb9798c0c0c95075ce61dfb,1340.14,1340.86,Yes.,0.290000000000191,0.7199999999997999,0,False,False,1
+403,5f0142aa1eb1e528e7abce50,1340.64,1341.83,really go in and like,-0.2199999999997999,1.1899999999998272,0,False,True,5
+404,5eb9798c0c0c95075ce61dfb,1341.7,1342.16,Everyone,-0.12999999999988177,0.4600000000000364,0,False,True,1
+405,5f0142aa1eb1e528e7abce50,1341.84,1360.43,"if they had intel when less troops would be around the blockade area, that's when they would coordinate with their spies on the inside to be able to pull people out. But there's a really great museum about it actually in ST Petersburg um just fully dedicated to like World War Two and like the Russian thing and they have a whole section",-0.3200000000001637,18.590000000000146,0,False,True,65
+406,5eb9798c0c0c95075ce61dfb,1360.04,1360.27,okay.,-0.39000000000010004,0.2300000000000182,0,False,True,1
+407,5f0142aa1eb1e528e7abce50,1360.44,1378.08,"on the the blockade and it was just yeah it was really it was really jarring because you don't, especially in America we don't get taught a lot about how what role Russia played in the world or two and how deeply they suffered because it doesn't really fit our narrative of how we see Russia. But",0.17000000000007276,17.639999999999873,0,False,False,60
+408,5eb9798c0c0c95075ce61dfb,1378.04,1378.36,Yeah.,-0.03999999999996362,0.31999999999993634,0,False,True,1
+409,5f0142aa1eb1e528e7abce50,1378.09,1397.81,"I remember in high school we learned that you know Russia had the most casualties of the war. Like they're not casualty they lost the most troops and military in the war, but they always follow that up by saying oh but Russia is a huge country, they just have a huge population without you know, acknowledging the fact that like just the amount of lives lost and how they were lost. Like I never learned about the siege of Leningrad, I never learned",-0.2699999999999818,19.720000000000027,0,False,True,85
+410,5eb9798c0c0c95075ce61dfb,1397.74,1397.95,Okay.,-0.06999999999993634,0.21000000000003638,0,False,True,1
+411,5f0142aa1eb1e528e7abce50,1397.81,1406.06,about you know how many kids and women were just who weren't part of the fighting were lost to um,-0.14000000000010004,8.25,0,False,True,21
+412,5eb9798c0c0c95075ce61dfb,1404.74,1405.06,Yeah.,-1.3199999999999363,0.31999999999993634,0,False,True,1
+413,5f0142aa1eb1e528e7abce50,1406.94,1410.17,So I hope you like something is how are you preventing it? Just,1.8800000000001091,3.230000000000018,1,False,False,13
+414,5eb9798c0c0c95075ce61dfb,1409.84,1410.97,No that was awesome. Can,-0.3300000000001546,1.1300000000001091,0,False,True,5
+415,5f0142aa1eb1e528e7abce50,1410.84,1411.85,Yeah.,-0.13000000000010914,1.009999999999991,0,False,True,1
+416,5eb9798c0c0c95075ce61dfb,1410.97,1412.66,I ask another question um,-0.8799999999998818,1.6900000000000546,0,False,True,5
+417,5f0142aa1eb1e528e7abce50,1412.24,1422.16,Yeah.,-0.42000000000007276,9.920000000000073,0,False,True,1
+418,5eb9798c0c0c95075ce61dfb,1413.84,1422.06,Did you talk a lot to Russians about what they thought about life under like the soviet regime and what they thought about that?,-8.320000000000164,8.220000000000027,1,True,True,24
+419,5f0142aa1eb1e528e7abce50,1422.17,1436.97,"Yeah, so that's the topic also really close to my heart because uh I have one professor who is very close to me, she was like very much a mentor figure to me who did like she grew up like her formative years under the soviet",0.11000000000012733,14.799999999999955,0,False,False,47
+420,5eb9798c0c0c95075ce61dfb,1436.84,1437.07,Oh,-0.13000000000010914,0.2300000000000182,0,False,True,1
+421,5f0142aa1eb1e528e7abce50,1436.97,1437.33,regime.,-0.09999999999990905,0.35999999999989996,0,False,True,1
+422,5eb9798c0c0c95075ce61dfb,1437.08,1437.47,wow.,-0.25,0.39000000000010004,0,False,True,1
+423,5f0142aa1eb1e528e7abce50,1437.34,1479.19,"I mean some people now you know it's it's not a distant memory um And then my main mentor grew up in, he was born in Ukraine while under soviet regime. He was part of the whole little like you know baby communist parties were like the kids would like show up and on stuff and then his family moved to the US to escape it. Um But he grew up his whole life in the U. S. Like knowing that. And it's interesting because the most jarring thing I think that you wouldn't know unless you went to Russia. So like the thing that really hit me in the face with that So many people have nostalgia for Soviet aesthetics the same way that like Americans have nostalgia for like the 60s and the 70s. So",-0.13000000000010914,41.850000000000136,0,False,True,141
+424,5eb9798c0c0c95075ce61dfb,1479.14,1479.56,Okay.,-0.049999999999954525,0.4199999999998454,0,False,True,1
+425,5f0142aa1eb1e528e7abce50,1479.19,1644.94,"like you know the way that you would go to a mall and you would see like one restaurant that seemed like a diner right? Like a rock and roll diner In Russia and any like big place where you have like a lot of restaurants are a lot of shopping areas. There's always one Soviet era themed restaurant and like it's all like there it's very kind of tacky like they make it look like a little um a communal apartment and to have like clothes, like fake clothes lines hanging and like the old radio and old soviet newspapers and like people will go there like nostalgic for like that aesthetic and that time. And it's like, I would have never seen that coming if I didn't think of that. And you know when I asked, when I asked, especially like older people who lived through it um the way that they think is like yes, maybe things weren't good under the soviet regime, like there were so many, you know, I could go into the full history and the ups and downs within the soviet regime from idealism to cynicism and all that stuff, but um, it was a time that at least they had something both like Russian pride and also just like the base living that they needed. Like, yeah, maybe they had like a communal apartment and no, like personal space and the grocery shelves, you know, never had anything that they actually wanted, but at least they could go there and have that. And a lot of people liking it too, you know, a sense of security oddly enough, and all of these same people would also say like, no, I wouldn't want to go back to that time, but there's also a longing for like how they felt then, and that was, and I think you can really see it in like the consumerism, you have like restaurants, you have little like, just like areas where again, the aesthetics, the look of places will all be themed to the old soviet times. Um Even the movies, like Russians in general, Even young people that were my age really liked old soviet films and I love old soviet films so I kind of get it like they're just really bombing and they're really funny. They tend to be musicals like all that stuff. But you know it's it's so different from the U. S. Where like you would never really expect so many people as a culture to be really into, you know an old american film or like something. I don't know, it's it was interesting. I didn't expect that. Um But yeah, there's definitely a strong feeling of them. There's it's interesting, you know, being an american and just walking into a room that kind of glorifies like the communist age and like intentionally does so like they just put all of the nice romanticize like homey family fields of the soviet age. Um But then you know it has a thing capitalist prices because you go there and all those restaurants are way overpriced for like gloomy and like all this stuff. So. Yeah it's fascinating to I definitely",-0.36999999999989086,165.75,1,False,True,558
+426,5eb9798c0c0c95075ce61dfb,1644.64,1644.85,Oh,-0.2999999999999545,0.209999999999809,0,False,True,1
+427,5f0142aa1eb1e528e7abce50,1644.94,1663.66,recommend that you can ever travel go to Russia because it's so cheap. Um If you go to the main please you can mostly get around with english you know in like main areas like the museum's main downtown stuff like that. Um So yeah.,0.09000000000014552,18.720000000000027,0,False,False,47
+428,5eb9798c0c0c95075ce61dfb,1664.54,1667.86,"and those, that's awesome. Mhm. Um",0.8799999999998818,3.3199999999999363,0,False,False,7
+429,5f0142aa1eb1e528e7abce50,1668.02,1668.56,Thank you.,0.16000000000008185,0.5399999999999636,0,False,False,2
+430,5eb9798c0c0c95075ce61dfb,1668.44,1669.28,I have a,-0.11999999999989086,0.8399999999999181,0,False,True,3
+431,5f0142aa1eb1e528e7abce50,1668.94,1671.16,Oh,-0.33999999999991815,2.2200000000000273,0,False,True,1
+432,5eb9798c0c0c95075ce61dfb,1669.29,1671.87,really good friend of mine who was over his time,-1.8700000000001182,2.5799999999999272,0,False,True,10
+433,5f0142aa1eb1e528e7abce50,1671.64,1671.91,well,-0.22999999999979082,0.2699999999999818,0,False,True,1
+434,5eb9798c0c0c95075ce61dfb,1671.87,1672.45,and,-0.040000000000190994,0.5800000000001546,0,False,True,1
+435,5f0142aa1eb1e528e7abce50,1671.91,1672.46,last time,-0.5399999999999636,0.5499999999999545,0,False,True,2
+436,5eb9798c0c0c95075ce61dfb,1672.45,1672.91,university,-0.009999999999990905,0.4600000000000364,0,False,True,1
+437,5f0142aa1eb1e528e7abce50,1672.82,1673.6,university,-0.09000000000014552,0.7799999999999727,0,False,True,1
+438,5eb9798c0c0c95075ce61dfb,1672.91,1674.45,have been increasingly radicalized,-0.6899999999998272,1.5399999999999636,0,False,True,4
+439,5f0142aa1eb1e528e7abce50,1673.83,1674.47,increase over,-0.6200000000001182,0.6400000000001,0,False,True,2
+440,5eb9798c0c0c95075ce61dfb,1674.46,1674.63,in,-0.009999999999990905,0.17000000000007276,0,False,True,1
+441,5f0142aa1eb1e528e7abce50,1674.47,1675.04,surprised,-0.16000000000008185,0.5699999999999363,0,False,True,1
+442,5eb9798c0c0c95075ce61dfb,1674.63,1676.17,"the left direction, so",-0.4099999999998545,1.5399999999999636,0,False,True,4
+443,5f0142aa1eb1e528e7abce50,1675.84,1676.53,actions.,-0.3300000000001546,0.6900000000000546,0,False,True,1
+444,5eb9798c0c0c95075ce61dfb,1676.18,1680.36,uh he's been reading a lot of women and I've kind of been pulled into it to um,-0.34999999999990905,4.179999999999836,0,False,True,20
+445,5f0142aa1eb1e528e7abce50,1680.24,1686.06,Okay,-0.11999999999989086,5.819999999999936,0,False,True,1
+446,5eb9798c0c0c95075ce61dfb,1680.37,1688.59,and uh there's this entire sector of Youtube that called the self bread tube and it's just a bunch of left to see Youtubers and um they,-5.690000000000055,8.220000000000027,0,False,True,29
+447,5f0142aa1eb1e528e7abce50,1688.39,1689.17,watch,-0.1999999999998181,0.7799999999999727,0,False,True,1
+448,5eb9798c0c0c95075ce61dfb,1688.59,1720.77,"have they have a lot to say about the USSR and about successes and failures and you know it's it's interesting to think in like an alternate universe when um the USSR didn't have to lose, you know millions, probably tens of millions of people to the to not only its own civil wars, not only invasion from all the other superpowers of the world, not only from and uh from the multiple world wars. You know what USR USSR could have looked like it would have looked like um",-0.5800000000001546,32.180000000000064,0,False,True,93
+449,5f0142aa1eb1e528e7abce50,1720.33,1725.87,I mean you have to start without the U. S. Existing would have been so drastically different.,-0.44000000000005457,5.539999999999964,0,False,True,17
+450,5eb9798c0c0c95075ce61dfb,1725.84,1726.01,All,-0.029999999999972715,0.17000000000007276,0,False,True,1
+451,5f0142aa1eb1e528e7abce50,1725.87,1726.12,Like,-0.14000000000010004,0.25,0,False,True,1
+452,5eb9798c0c0c95075ce61dfb,1726.01,1726.17,right.,-0.10999999999989996,0.16000000000008185,0,False,True,1
+453,5f0142aa1eb1e528e7abce50,1726.12,1729.25,if if any other major world power except the,-0.0500000000001819,3.130000000000109,0,False,True,9
+454,5eb9798c0c0c95075ce61dfb,1729.14,1729.67,Uh huh.,-0.10999999999989996,0.5299999999999727,0,False,True,2
+455,5f0142aa1eb1e528e7abce50,1729.25,1733.12,US. Which was founded with so much with like you know the US,-0.42000000000007276,3.869999999999891,0,False,True,13
+456,5eb9798c0c0c95075ce61dfb,1732.84,1733.05,Okay.,-0.2799999999999727,0.21000000000003638,0,False,True,1
+457,5f0142aa1eb1e528e7abce50,1733.12,1737.98,knows that it's a power I'm going to get political now because now that you've said I'm also a very big leftist so,0.06999999999993634,4.860000000000127,0,False,False,27
+458,5eb9798c0c0c95075ce61dfb,1737.74,1738.19,Great.,-0.2400000000000091,0.4500000000000455,0,False,True,1
+459,5f0142aa1eb1e528e7abce50,1737.99,1739.73,the U. S. Like I think it's founded,-0.20000000000004547,1.740000000000009,0,False,True,9
+460,5eb9798c0c0c95075ce61dfb,1739.34,1739.54,Yeah.,-0.39000000000010004,0.20000000000004547,0,False,True,1
+461,5f0142aa1eb1e528e7abce50,1739.73,1850.03,"knowing that it needs to have domination in order to continue to exist. Like the US cannot exist in its hyper consumerism without consuming other countries, other cultures, other lifestyles. I think in the world where any other major power you would even think like France Germany and the other major power like this, it would have been so different if they were the two like kind of diet pools of major like international affairs where the soviet union and something that wasn't the US. Um Yeah I have I have so many thoughts. Yeah I really like Lenin's work. Um I've read I've read so many political text, I don't know exactly where I fall on the political spirit. Mostly I'm very left, but it's like, especially as someone who studies Russia very critically, but also as you can see, like I can't deny that I'm not a russo file considering how much time of my life I dedicate to like understanding Russia and stuff like that. Um it's hard to find spaces online where you don't get either side of the extreme In any political conversation. But yeah, I took a whole class on the 1917 revolution and my professor was so cool because he very much took it as like, let's analyze this time period from a bunch of different philosophical viewpoint of like, you know, a almost religious exodus viewpoint, a revolutionary viewpoint, a almost like time traveling viewpoint. And I love that because the revolution, when you think about it day by day is so mind blowing, how it happened. It's literally a miracle in human history that a country wide revolution like that was able to happen, how it happened. Um I don't know if you've read china Mevo, he has um he's a big left and he's a little controversial. So like, you know, I'm not advocating for everything he's up for, but her name is china nevoso M I E V I L L E",0.19000000000005457,110.29999999999995,0,False,False,353
+462,5eb9798c0c0c95075ce61dfb,1850.04,1850.41,Am,0.009999999999990905,0.37000000000011823,0,False,False,1
+463,5f0142aa1eb1e528e7abce50,1850.04,1850.62,and,-0.37000000000011823,0.5799999999999272,0,False,True,1
+464,5eb9798c0c0c95075ce61dfb,1850.41,1850.93,I?,-0.209999999999809,0.5199999999999818,1,True,True,1
+465,5f0142aa1eb1e528e7abce50,1850.62,1851.01,he wrote,-0.3100000000001728,0.39000000000010004,0,False,True,2
+466,5eb9798c0c0c95075ce61dfb,1850.94,1851.56,Okay.,-0.06999999999993634,0.6199999999998909,0,False,True,1
+467,5f0142aa1eb1e528e7abce50,1851.01,1885.46,"a Yeah China and he wrote a book. It's huge. It's like this big, I think I have it in my library right now, um called October and it's almost um narrative retelling of every single month of 1917 to how they got up to the revolution and it's a little dense, but if you're interested in it, I think it really it sets up almost, you know, both the personal ties and everything that needed to fall into place and everything that didn't fall into place for the revolution to just happen, you know? And and almost like the mindsets going into it and",-0.5499999999999545,34.450000000000045,1,False,True,111
+468,5eb9798c0c0c95075ce61dfb,1885.64,1886.06,Okay.,0.18000000000006366,0.4199999999998454,0,False,False,1
+469,5f0142aa1eb1e528e7abce50,1886.14,1892.3,"it really helped me with my viewpoint of how how time is so weird, like history",0.08000000000015461,6.1599999999998545,0,False,False,16
+470,5eb9798c0c0c95075ce61dfb,1891.94,1892.56,Yeah.,-0.35999999999989996,0.6199999999998909,0,False,True,1
+471,5f0142aa1eb1e528e7abce50,1892.3,1899.55,"is so odd to have lifted. Um Yeah, so it's a good read. It's big though, it's thick, so",-0.2599999999999909,7.25,0,False,True,22
+472,5eb9798c0c0c95075ce61dfb,1899.64,1899.85,Yes.,0.09000000000014552,0.209999999999809,0,False,False,1
+473,5f0142aa1eb1e528e7abce50,1900.14,1900.65,definitely,0.290000000000191,0.5099999999999909,0,False,False,1
+474,5eb9798c0c0c95075ce61dfb,1900.54,1900.77,Okay.,-0.11000000000012733,0.2300000000000182,0,False,True,1
+475,5f0142aa1eb1e528e7abce50,1900.65,1902.66,not want to finish all at once.,-0.11999999999989086,2.009999999999991,0,False,True,7
+476,5eb9798c0c0c95075ce61dfb,1902.74,1904.0,Yeah. Is it a thing that should,0.07999999999992724,1.259999999999991,0,False,False,7
+477,5f0142aa1eb1e528e7abce50,1903.94,1909.95,Um,-0.05999999999994543,6.009999999999991,0,False,True,1
+478,5eb9798c0c0c95075ce61dfb,1904.0,1909.85,be taken from start to finish or they're like particular chapters? I could read them. They're like in themselves are good experiences.,-5.9500000000000455,5.849999999999909,1,False,True,24
+479,5f0142aa1eb1e528e7abce50,1909.96,1929.89,"yeah, I would say the last like 34 chapters are really good because that's where most of the action happens. I mean that's the real lead up to october and stuff like that. And then before that I would say, you know, read maybe um I would say the first chapter to set everything up because he does go into like the czarist regime and like kind",0.11000000000012733,19.930000000000064,0,False,False,69
+480,5eb9798c0c0c95075ce61dfb,1929.74,1930.27,Okay.,-0.15000000000009095,0.5299999999999727,0,False,True,1
+481,5f0142aa1eb1e528e7abce50,1929.89,1942.64,"of how that would revolutionize, which I think is very important. And then after that read, I think the first page of every chapter and see how you're how you're driving. You know because it actually does go into excruciating detail which some people really like",-0.37999999999988177,12.75,0,False,True,48
+482,5eb9798c0c0c95075ce61dfb,1942.54,1943.34,Yeah.,-0.10000000000013642,0.7999999999999545,0,False,True,1
+483,5f0142aa1eb1e528e7abce50,1942.65,1955.52,"and some people really don't. So like if you're not in the mindset for it you can easily be like okay this is not including any person that I met, all emotionally invested in, I'm going to go forward and just you know go um",-0.6899999999998272,12.86999999999989,0,False,True,48
+484,5eb9798c0c0c95075ce61dfb,1954.94,1955.26,Yeah.,-0.5799999999999272,0.31999999999993634,0,False,True,1
+485,5f0142aa1eb1e528e7abce50,1955.53,1986.83,"yeah I'm also really into a lot of leftist like contemporary Russian writers who are also still very critical of both the soviet union but also capitalist Russia. Um So yeah I've written a lot about that because I love Russian literature especially like fiction and science fiction writers who can both you know criticized the soviet union for what it was but still you know, understand and really dive into what the revolution what the soviet Union face that led to these criticisms,",0.2699999999999818,31.299999999999955,0,False,False,86
+486,5eb9798c0c0c95075ce61dfb,1986.64,1987.05,Yeah.,-0.1899999999998272,0.4099999999998545,0,False,True,1
+487,5f0142aa1eb1e528e7abce50,1986.83,1992.46,you know like how it really happened. Like why did they fail at certain things and why were those failures here,-0.22000000000002728,5.630000000000109,0,False,True,21
+488,5eb9798c0c0c95075ce61dfb,1992.24,1992.93,Yeah.,-0.22000000000002728,0.6900000000000546,0,False,True,1
+489,5f0142aa1eb1e528e7abce50,1992.46,1993.85,and that? So,-0.4700000000000273,1.3899999999998727,1,False,True,3
+490,5eb9798c0c0c95075ce61dfb,1992.94,1993.95,Do you have any recommendations,-0.9099999999998545,1.009999999999991,0,False,True,5
+491,5f0142aa1eb1e528e7abce50,1993.86,1996.53,"okay,",-0.09000000000014552,2.6700000000000728,0,False,True,1
+492,5eb9798c0c0c95075ce61dfb,1993.95,1995.27,on the Science fiction front?,-2.5799999999999272,1.3199999999999363,1,True,True,5
+493,5f0142aa1eb1e528e7abce50,1996.53,2006.77,"so there is one that is not a very left detective, it's a huge christian the soviet union, but it's awesome. Um it's called Oman rob by victor, Believe in.",1.259999999999991,10.240000000000009,0,False,False,33
+494,5eb9798c0c0c95075ce61dfb,2006.94,2007.4,Okay.,0.17000000000007276,0.4600000000000364,0,False,False,1
+495,5f0142aa1eb1e528e7abce50,2007.14,2008.62,So,-0.2599999999999909,1.4799999999997908,0,False,True,1
+496,5eb9798c0c0c95075ce61dfb,2007.4,2008.17,How do I stop that?,-1.2199999999998,0.7699999999999818,1,True,True,5
+497,5f0142aa1eb1e528e7abce50,2008.63,2013.99,bolivian is on P E L E V I N. And,0.4600000000000364,5.3599999999999,0,False,False,11
+498,5eb9798c0c0c95075ce61dfb,2013.64,2014.24,P,-0.34999999999990905,0.599999999999909,0,False,True,1
+499,5f0142aa1eb1e528e7abce50,2013.99,2014.41,the book,-0.25,0.42000000000007276,0,False,True,2
+500,5eb9798c0c0c95075ce61dfb,2014.36,2014.68,one,-0.0500000000001819,0.3200000000001637,0,False,True,1
+501,5f0142aa1eb1e528e7abce50,2014.41,2015.1,is,-0.2699999999999818,0.6899999999998272,0,False,True,1
+502,5eb9798c0c0c95075ce61dfb,2014.68,2015.15,More time?,-0.4199999999998454,0.4700000000000273,1,True,True,2
+503,5f0142aa1eb1e528e7abce50,2015.11,2016.38,P,-0.040000000000190994,1.2700000000002092,0,False,True,1
+504,5eb9798c0c0c95075ce61dfb,2015.16,2015.86,Okay.,-1.2200000000000273,0.6999999999998181,0,False,True,1
+505,5f0142aa1eb1e528e7abce50,2016.38,2018.96,E L E V I N,0.5200000000002092,2.5799999999999272,0,False,False,6
+506,5eb9798c0c0c95075ce61dfb,2018.74,2019.27,Okay.,-0.22000000000002728,0.5299999999999727,0,False,True,1
+507,5f0142aa1eb1e528e7abce50,2020.14,2021.18,victor,0.8700000000001182,1.0399999999999636,0,False,False,1
+508,5eb9798c0c0c95075ce61dfb,2020.64,2020.96,Right.,-0.5399999999999636,0.31999999999993634,0,False,True,1
+509,5f0142aa1eb1e528e7abce50,2021.19,2025.24,and it's called Oman O M O N. Space,0.2300000000000182,4.0499999999999545,0,False,False,10
+510,5eb9798c0c0c95075ce61dfb,2024.84,2025.44,I see it.,-0.40000000000009095,0.6000000000001364,0,False,True,3
+511,5f0142aa1eb1e528e7abce50,2025.24,2025.66,Raw.,-0.20000000000004547,0.42000000000007276,0,False,True,1
+512,5eb9798c0c0c95075ce61dfb,2025.45,2025.76,Yeah.,-0.21000000000003638,0.30999999999994543,0,False,True,1
+513,5f0142aa1eb1e528e7abce50,2026.04,2045.96,"Yeah, it's a science fiction book. It you know, it hit hard as a person that did like you know, does consider myself a pretty staunch Marxist and like does believe lost because it does, I think really head on confront the difference between idealism and what you want and how difficult is to get there and then faking it kind of um",0.2799999999999727,19.920000000000073,0,False,False,64
+514,5eb9798c0c0c95075ce61dfb,2045.74,2046.15,Yeah.,-0.22000000000002728,0.41000000000008185,0,False,True,1
+515,5f0142aa1eb1e528e7abce50,2046.34,2053.55,it's also just a fun book that book you get to the end of it and like your mind will be like so that's,0.1899999999998272,7.210000000000264,0,False,False,26
+516,5eb9798c0c0c95075ce61dfb,2053.34,2053.75,"Yeah,",-0.21000000000003638,0.4099999999998545,0,False,True,1
+517,5f0142aa1eb1e528e7abce50,2053.55,2069.88,"when you could be overnight and like you don't even have to apply politics too, you can just enjoy it because it's good. Um and then I also like this is a woman writer but Tatyana Tolstaya, so like told story but with an a at the end because she's like a great granddaughter of Tolstoy's brother",-0.1999999999998181,16.329999999999927,0,False,True,61
+518,5eb9798c0c0c95075ce61dfb,2069.64,2070.17,wow.,-0.24000000000023647,0.5300000000002001,0,False,True,1
+519,5f0142aa1eb1e528e7abce50,2069.88,2072.36,or something um,-0.2899999999999636,2.480000000000018,0,False,True,3
+520,5eb9798c0c0c95075ce61dfb,2072.46,2073.78,Okay. And,0.09999999999990905,1.3200000000001637,0,False,False,2
+521,5f0142aa1eb1e528e7abce50,2073.74,2074.35,she,-0.04000000000041837,0.6100000000001273,0,False,True,1
+522,5eb9798c0c0c95075ce61dfb,2073.78,2075.56,which book this links or?,-0.569999999999709,1.7799999999997453,1,True,True,5
+523,5f0142aa1eb1e528e7abce50,2076.15,2087.1,"thinks is really good. Yeah, you could get any of those which everyone is in english and sound good, she is just, she was like kind of like soviet union royalty, so like she",0.5900000000001455,10.949999999999818,0,False,False,34
+524,5eb9798c0c0c95075ce61dfb,2086.94,2087.36,Oh shit.,-0.15999999999985448,0.42000000000007276,0,False,True,2
+525,5f0142aa1eb1e528e7abce50,2087.1,2091.84,has really accounts of growing up in the soviet union and you know enjoying,-0.2600000000002183,4.7400000000002365,0,False,True,14
+526,5eb9798c0c0c95075ce61dfb,2091.44,2091.86,Really?,-0.40000000000009095,0.42000000000007276,1,True,True,1
+527,5f0142aa1eb1e528e7abce50,2091.84,2096.2,her time but then also losing it and what capitalist Russia is now for her and,-0.01999999999998181,4.359999999999673,0,False,True,16
+528,5eb9798c0c0c95075ce61dfb,2096.14,2096.55,Yeah.,-0.05999999999994543,0.41000000000030923,0,False,True,1
+529,5f0142aa1eb1e528e7abce50,2096.2,2116.15,"she still a huge popularity like popular icon. Like she has a tv show like talk show, she still writes um so she's awesome to be able to connect that gap between the soviet union as we see it in the past and like the real life people and the legacy that we are you know living now.",-0.3500000000003638,19.950000000000273,0,False,True,59
+530,5eb9798c0c0c95075ce61dfb,2116.04,2116.45,Yeah.,-0.11000000000012733,0.4099999999998545,0,False,True,1
+531,5f0142aa1eb1e528e7abce50,2116.16,2120.47,Um See I wrote up the whole essay about her so like I actually very close to my heart.,-0.2899999999999636,4.309999999999945,0,False,True,19
+532,5eb9798c0c0c95075ce61dfb,2120.34,2121.94,yeah,-0.1299999999996544,1.599999999999909,0,False,True,1
+533,5f0142aa1eb1e528e7abce50,2121.04,2121.76,Mm,-0.900000000000091,0.7200000000002547,0,False,True,1
+534,5eb9798c0c0c95075ce61dfb,2121.95,2122.39,"man, I'm",0.18999999999959982,0.44000000000005457,0,False,False,3
+535,5f0142aa1eb1e528e7abce50,2122.24,2124.45,Yeah.,-0.15000000000009095,2.2100000000000364,0,False,True,1
+536,5eb9798c0c0c95075ce61dfb,2122.39,2124.47,so excited to look into this.,-2.0599999999999454,2.0799999999999272,0,False,True,6
+537,5f0142aa1eb1e528e7abce50,2124.84,2125.6,Yeah. No,0.3700000000003456,0.7599999999997635,0,False,False,2
+538,5eb9798c0c0c95075ce61dfb,2125.54,2126.05,Uh,-0.05999999999994543,0.5100000000002183,0,False,True,1
+539,5f0142aa1eb1e528e7abce50,2125.6,2127.06,that's awesome.,-0.45000000000027285,1.4600000000000364,0,False,True,3
+540,5eb9798c0c0c95075ce61dfb,2127.94,2128.97,but,0.8800000000001091,1.0299999999997453,0,False,False,1
+541,5f0142aa1eb1e528e7abce50,2128.64,2128.84,Yeah.,-0.32999999999992724,0.20000000000027285,0,False,True,1
+542,5eb9798c0c0c95075ce61dfb,2128.98,2130.73,"in general when I'm, when I'm talking to my friend",0.13999999999987267,1.75,0,False,False,12
+543,5f0142aa1eb1e528e7abce50,2130.64,2131.17,Mhm.,-0.09000000000014552,0.5300000000002001,0,False,True,1
+544,5eb9798c0c0c95075ce61dfb,2130.73,2131.9,or watching movies together,-0.44000000000005457,1.1700000000000728,0,False,True,4
+545,5f0142aa1eb1e528e7abce50,2131.54,2131.75,Mhm.,-0.36000000000012733,0.21000000000003638,0,False,True,1
+546,5eb9798c0c0c95075ce61dfb,2131.9,2179.95,"and stuff, we were watching this movie called Che and it's got two parts of the world are watching. The first one is about, it's a biopic about Sugawara. Um and the first one followed him throughout the Cuban revolution and you know, it pays him in what seems to be pretty positive light. But you know when when I'm talking about cuba or I'm talking about Lennon or the USSR style in any of that, it's just hard for me to make any like claims or assertions given that I've never actually been there, I've never lived there. I don't know what it was like. So like if if the USSR was a place where you don't have to worry about where you slept and you knew that you had at least a basic amount of food then I don't know how how to say myself if that's good or bad compared to an America where you could potentially have millions of dollars and own a yacht and have the best life like have a life that you would never have. Um Sorry",0.15000000000009095,48.04999999999973,0,False,False,195
+547,5f0142aa1eb1e528e7abce50,2179.66,2182.16,Yeah.,-0.2899999999999636,2.5,0,False,True,1
+548,5eb9798c0c0c95075ce61dfb,2179.95,2183.02,I don't know how to compare those things fairly you know. You know,-2.2100000000000364,3.0700000000001637,0,False,True,14
+549,5f0142aa1eb1e528e7abce50,2182.83,2183.42,Oh,-0.19000000000005457,0.5900000000001455,0,False,True,1
+550,5eb9798c0c0c95075ce61dfb,2183.02,2188.57,I'd like to say that everybody should have a place to stay and food. If what that means is that you also can't,-0.40000000000009095,5.550000000000182,0,False,True,25
+551,5f0142aa1eb1e528e7abce50,2188.53,2191.55,shit.,-0.03999999999996362,3.019999999999982,0,False,True,1
+552,5eb9798c0c0c95075ce61dfb,2188.57,2192.08,be like a lavish billionaire then. Yeah it's just,-2.980000000000018,3.5099999999997635,0,False,True,10
+553,5f0142aa1eb1e528e7abce50,2192.03,2192.38,Oh,-0.04999999999972715,0.34999999999990905,0,False,True,1
+554,5eb9798c0c0c95075ce61dfb,2192.08,2192.45,like I,-0.3000000000001819,0.36999999999989086,0,False,True,2
+555,5f0142aa1eb1e528e7abce50,2192.38,2192.55,my,-0.06999999999970896,0.17000000000007276,0,False,True,1
+556,5eb9798c0c0c95075ce61dfb,2192.45,2192.68,just,-0.1000000000003638,0.2300000000000182,0,False,True,1
+557,5f0142aa1eb1e528e7abce50,2192.55,2193.25,god,-0.1299999999996544,0.6999999999998181,0,False,True,1
+558,5eb9798c0c0c95075ce61dfb,2192.68,2193.85,can't compare you know.,-0.5700000000001637,1.1700000000000728,0,False,True,5
+559,5f0142aa1eb1e528e7abce50,2193.83,2198.71,I have. I think I had that exact lavish billionaire conversation,-0.01999999999998181,4.880000000000109,0,False,True,11
+560,5eb9798c0c0c95075ce61dfb,2198.23,2198.46,Oh.,-0.4800000000000182,0.2300000000000182,0,False,True,1
+561,5f0142aa1eb1e528e7abce50,2198.71,2200.86,literally a couple hours to give my boyfriend. I was,0.25,2.150000000000091,0,False,False,10
+562,5eb9798c0c0c95075ce61dfb,2200.83,2201.04,Mhm.,-0.03000000000020009,0.21000000000003638,0,False,True,1
+563,5f0142aa1eb1e528e7abce50,2200.86,2209.43,"like billionaires. Like why? Okay. But um yeah I get that so much and I think it's like and tell me if I'm projecting too much, I don't want to project",-0.1799999999998363,8.569999999999709,1,False,True,34
+564,5eb9798c0c0c95075ce61dfb,2209.03,2209.35,Okay.,-0.3999999999996362,0.31999999999970896,0,False,True,1
+565,5f0142aa1eb1e528e7abce50,2209.43,2244.76,"on sharing. I think also as like a person of color, it's I'm much more cognizant of the fact that there are a lot of leftist and like liberals and everyone on the like the left side that doesn't consider as much the fact that like you can read and study as much as you want, but you're not in the foot, like in the footsteps of the people, you're not in the lives of whatever people are in that regime. Um and I think I'm more cognitive that fact because I've had other, especially white people, especially white men, talk about my own experiences or like my own life. You know, I have men who have told me about what peru is, you know, to",0.07999999999992724,35.33000000000038,0,False,False,133
+566,5eb9798c0c0c95075ce61dfb,2244.53,2244.95,Mhm.,-0.2300000000000182,0.419999999999618,0,False,True,1
+567,5f0142aa1eb1e528e7abce50,2244.76,2252.4,me. And so it's like I I feel way more cognizant of that to where it's like I also I mean I'm from Miami florida.,-0.18999999999959982,7.639999999999873,0,False,True,28
+568,5eb9798c0c0c95075ce61dfb,2252.13,2252.34,I would.,-0.2699999999999818,0.21000000000003638,0,False,True,2
+569,5f0142aa1eb1e528e7abce50,2252.41,2254.63,So the Cuban discussion,0.06999999999970896,2.2200000000002547,0,False,False,4
+570,5eb9798c0c0c95075ce61dfb,2254.33,2254.98,Oh,-0.3000000000001819,0.650000000000091,0,False,True,1
+571,5f0142aa1eb1e528e7abce50,2254.64,2255.45,is a whole,-0.3400000000001455,0.8099999999999454,0,False,True,3
+572,5eb9798c0c0c95075ce61dfb,2254.99,2255.55,nice.,-0.4600000000000364,0.5600000000004002,0,False,True,1
+573,5f0142aa1eb1e528e7abce50,2255.46,2264.25,fine because basically the Cuban population in Miami is made up of all of the rich white Hispanics who had to leave CUba.,-0.09000000000014552,8.789999999999964,0,False,True,23
+574,5eb9798c0c0c95075ce61dfb,2264.33,2264.83,Yeah.,0.07999999999992724,0.5,0,False,False,1
+575,5f0142aa1eb1e528e7abce50,2264.83,2280.46,And so it's hard to even say something like well there were black Cubans who were completely disenfranchised in the cuBA that you love before who didn't have any economic opportunities and who were starving and um and the revolution was a big deal for them and their,0.0,15.63000000000011,0,False,False,50
+576,5eb9798c0c0c95075ce61dfb,2280.42,2280.74,Yeah.,-0.03999999999996362,0.31999999999970896,0,False,True,1
+577,5f0142aa1eb1e528e7abce50,2280.46,2296.97,you know for people who were never educated and now like cuBA has like you know one of the best literacy rates. It has an awesome education for like doctors and nurses. And it's hard to bring up those points and also bring up you know how what would cuba be now if it didn't have the U. S. Embargo or,-0.27999999999974534,16.509999999999764,0,False,True,63
+578,5eb9798c0c0c95075ce61dfb,2296.62,2297.03,Yeah.,-0.34999999999990905,0.41000000000030923,0,False,True,1
+579,5f0142aa1eb1e528e7abce50,2296.98,2327.44,I even in high school I was a huge like like would carry around communist manifesto kind of person. So I wrote a whole essay that was a huge controversial thing because I wrote about how um Castro wasn't a communist or Marxist but due to us um pressure and us maneuvers ended up having to go to them for safe safe haven. Um And ended up shifting his politics and ended with the historical big paper for my graduation. So I ended up doing a lot of research and stuff like that. And it's like it was really sad,-0.0500000000001819,30.460000000000036,0,False,True,102
+580,5eb9798c0c0c95075ce61dfb,2327.32,2327.53,Oh,-0.11999999999989086,0.21000000000003638,0,False,True,1
+581,5f0142aa1eb1e528e7abce50,2327.45,2336.95,because I couldn't even have that discussion because you have all the roadblocks to get there which just starts with hey maybe cuba wasn't bad you know,-0.08000000000038199,9.5,0,False,True,29
+582,5eb9798c0c0c95075ce61dfb,2336.72,2337.25,yeah.,-0.2300000000000182,0.5300000000002001,0,False,True,1
+583,5f0142aa1eb1e528e7abce50,2336.95,2341.01,"like you just have to Exactly, you can't even go into a deeper, more nuanced",-0.3000000000001819,4.0600000000004,0,False,True,16
+584,5eb9798c0c0c95075ce61dfb,2340.92,2341.45,Yeah,-0.09000000000014552,0.5299999999997453,0,False,True,1
+585,5f0142aa1eb1e528e7abce50,2341.01,2342.37,look of it. Um,-0.4399999999995998,1.3599999999996726,0,False,True,4
+586,5eb9798c0c0c95075ce61dfb,2342.22,2342.54,maybe,-0.15000000000009095,0.3200000000001637,0,False,True,1
+587,5f0142aa1eb1e528e7abce50,2342.37,2342.74,And again,-0.17000000000007276,0.36999999999989086,0,False,True,2
+588,5eb9798c0c0c95075ce61dfb,2342.54,2342.86,it's not,-0.1999999999998181,0.3200000000001637,0,False,True,3
+589,5f0142aa1eb1e528e7abce50,2342.74,2342.94,I'm,-0.12000000000034561,0.20000000000027285,0,False,True,2
+590,5eb9798c0c0c95075ce61dfb,2342.87,2343.22,even,-0.07000000000016371,0.34999999999990905,0,False,True,1
+591,5f0142aa1eb1e528e7abce50,2342.94,2343.45,not cute.,-0.27999999999974534,0.5099999999997635,0,False,True,2
+592,5eb9798c0c0c95075ce61dfb,2343.22,2344.36,a lot of people to you,-0.2300000000000182,1.1400000000003274,0,False,True,6
+593,5f0142aa1eb1e528e7abce50,2344.02,2345.24,Yeah.,-0.3400000000001455,1.2199999999998,0,False,True,1
+594,5eb9798c0c0c95075ce61dfb,2344.36,2345.75,know live.,-0.8799999999996544,1.3899999999998727,0,False,True,2
+595,5f0142aa1eb1e528e7abce50,2346.02,2353.15,"Yeah and it's like I'm not Cuban. I had a lot of friends who were Cuban, but again, there were Children of like the Cuban diaspora here in Miami.",0.2699999999999818,7.130000000000109,0,False,False,31
+596,5eb9798c0c0c95075ce61dfb,2352.72,2353.13,Yeah.,-0.43000000000029104,0.41000000000030923,0,False,True,1
+597,5f0142aa1eb1e528e7abce50,2353.52,2362.54,"It's like how do I balance that as a person who can't really like doesn't want to lecture but also wants to be like, hey, there are other people to like it.",0.38999999999987267,9.019999999999982,0,False,False,35
+598,5eb9798c0c0c95075ce61dfb,2362.92,2363.54,Yeah.,0.38000000000010914,0.6199999999998909,0,False,False,1
+599,5f0142aa1eb1e528e7abce50,2363.12,2364.74,"Oh, I got it.",-0.42000000000007276,1.6199999999998909,0,False,True,4
+600,5eb9798c0c0c95075ce61dfb,2363.92,2364.33,Yeah,-0.819999999999709,0.4099999999998545,0,False,True,1
+601,5f0142aa1eb1e528e7abce50,2365.42,2373.61,"Yeah. That's awesome. Oh my God. Would it be weird if we like exchange numbers because I would love to hear your thoughts. If you ever do read the books, I don't want to pressure you because",1.0900000000001455,8.190000000000055,0,False,False,39
+602,5eb9798c0c0c95075ce61dfb,2373.42,2373.74,I,-0.19000000000005457,0.31999999999970896,0,False,True,1
+603,5f0142aa1eb1e528e7abce50,2373.61,2373.85,I know,-0.1299999999996544,0.23999999999978172,0,False,True,2
+604,5eb9798c0c0c95075ce61dfb,2373.74,2374.11,I wanted,-0.11000000000012733,0.3700000000003456,0,False,True,2
+605,5f0142aa1eb1e528e7abce50,2373.85,2374.22,I also,-0.2600000000002183,0.36999999999989086,0,False,True,2
+606,5eb9798c0c0c95075ce61dfb,2374.11,2374.49,to ask,-0.10999999999967258,0.3799999999996544,0,False,True,2
+607,5f0142aa1eb1e528e7abce50,2374.23,2379.49,Yeah.,-0.25999999999976353,5.2599999999997635,0,False,True,1
+608,5eb9798c0c0c95075ce61dfb,2374.49,2379.45,you that too. I just yeah I don't want to be out of line. Yeah. Let me let me give you my number.,-5.0,4.960000000000036,0,False,True,24
+609,5f0142aa1eb1e528e7abce50,2379.5,2383.46,"Yeah. Here, do you use WhatsApp?",0.0500000000001819,3.9600000000000364,1,True,False,6
+610,5eb9798c0c0c95075ce61dfb,2382.62,2383.04,Yes,-0.8400000000001455,0.42000000000007276,0,False,True,1
+611,5f0142aa1eb1e528e7abce50,2383.47,2384.19,"Okay,",0.4299999999998363,0.7200000000002547,0,False,False,1
+612,5eb9798c0c0c95075ce61dfb,2383.92,2384.3,bro. How,-0.2699999999999818,0.38000000000010914,0,False,True,2
+613,5f0142aa1eb1e528e7abce50,2384.19,2384.5,awesome.,-0.11000000000012733,0.30999999999994543,0,False,True,1
+614,5eb9798c0c0c95075ce61dfb,2384.3,2384.53,can I,-0.1999999999998181,0.2300000000000182,0,False,True,2
+615,5f0142aa1eb1e528e7abce50,2384.51,2384.62,I,-0.01999999999998181,0.10999999999967258,0,False,True,1
+616,5eb9798c0c0c95075ce61dfb,2384.53,2384.74,"be,",-0.08999999999969077,0.20999999999958163,0,False,True,1
+617,5f0142aa1eb1e528e7abce50,2384.62,2385.15,"just,",-0.11999999999989086,0.5300000000002001,0,False,True,1
+618,5eb9798c0c0c95075ce61dfb,2384.74,2388.03,"how can I be South asian and not use, What's that? Crazy?",-0.41000000000030923,3.2900000000004184,2,True,True,13
+619,5f0142aa1eb1e528e7abce50,2386.92,2391.6,"I don't like about to say like you try, you don't use it.",-1.1100000000001273,4.679999999999836,0,False,True,15
+620,5eb9798c0c0c95075ce61dfb,2391.22,2392.33,Okay.,-0.38000000000010914,1.1100000000001273,0,False,True,1
+621,5f0142aa1eb1e528e7abce50,2391.61,2399.33,Um Yeah. New content. I didn't even get your name.,-0.7199999999997999,7.7199999999998,0,False,True,11
+622,5eb9798c0c0c95075ce61dfb,2398.62,2399.94,My name is Burhanuddin.,-0.7100000000000364,1.3200000000001637,0,False,True,4
+623,5f0142aa1eb1e528e7abce50,2399.82,2401.94,"Okay, can you spell that for me?",-0.11999999999989086,2.119999999999891,1,True,True,7
+624,5eb9798c0c0c95075ce61dfb,2402.01,2405.93,Yes. Bur H. A. N.,0.07000000000016371,3.919999999999618,0,False,False,5
+625,5f0142aa1eb1e528e7abce50,2407.21,2409.64,"Oh,",1.2800000000002,2.4299999999998363,0,False,False,1
+626,5eb9798c0c0c95075ce61dfb,2407.31,2408.53,You D. D. I. M.,-2.3299999999999272,1.2200000000002547,0,False,True,5
+627,5f0142aa1eb1e528e7abce50,2410.41,2410.83,okay.,1.8799999999996544,0.42000000000007276,0,False,False,1
+628,5eb9798c0c0c95075ce61dfb,2411.31,2412.03,Cool.,0.4800000000000182,0.7200000000002547,0,False,False,1
+629,5f0142aa1eb1e528e7abce50,2411.41,2413.24,Uh Number.,-0.6200000000003456,1.8299999999999272,0,False,True,2
+630,5eb9798c0c0c95075ce61dfb,2413.31,2420.44,832 289 UG 1051.,0.07000000000016371,7.130000000000109,0,False,False,4
+631,5f0142aa1eb1e528e7abce50,2423.41,2426.95,"Okay, awesome. Uh Okay.",2.9699999999998,3.5399999999999636,0,False,False,4
+632,5eb9798c0c0c95075ce61dfb,2426.91,2427.14,Okay.,-0.03999999999996362,0.2300000000000182,0,False,True,1
+633,5f0142aa1eb1e528e7abce50,2426.95,2430.13,I'm gonna send you a message with my name.,-0.19000000000005457,3.180000000000291,0,False,True,11
+634,5eb9798c0c0c95075ce61dfb,2430.31,2430.64,Cool.,0.1799999999998363,0.32999999999992724,0,False,False,1
+635,5f0142aa1eb1e528e7abce50,2430.61,2437.03,Hello. It's malaria. That's awkward. Uh My name's malaria.,-0.02999999999974534,6.420000000000073,0,False,True,12
+636,5eb9798c0c0c95075ce61dfb,2437.41,2437.82,Yeah.,0.3799999999996544,0.41000000000030923,0,False,False,1
+637,5f0142aa1eb1e528e7abce50,2437.81,2445.57,"Yeah. Yeah. You made it better now. I mean like Hello,",-0.010000000000218279,7.760000000000218,0,False,True,11
+638,5eb9798c0c0c95075ce61dfb,2445.51,2446.74,Mhm.,-0.05999999999994543,1.2299999999995634,0,False,True,1
+639,5f0142aa1eb1e528e7abce50,2445.58,2448.83,it's me. Billy.,-1.1599999999998545,3.25,0,False,True,4
+640,5eb9798c0c0c95075ce61dfb,2448.01,2448.33,Yeah.,-0.819999999999709,0.31999999999970896,0,False,True,1
+641,5f0142aa1eb1e528e7abce50,2449.21,2453.39,"Okay, awesome. Yeah I do have to go because I need to cook",0.8800000000001091,4.179999999999836,0,False,False,13
+642,5eb9798c0c0c95075ce61dfb,2453.31,2453.55,No,-0.07999999999992724,0.24000000000023647,0,False,True,1
+643,5f0142aa1eb1e528e7abce50,2453.4,2453.62,and,-0.15000000000009095,0.2199999999997999,0,False,True,1
+644,5eb9798c0c0c95075ce61dfb,2453.55,2453.82,way.,-0.06999999999970896,0.2699999999999818,0,False,True,1
+645,5f0142aa1eb1e528e7abce50,2453.62,2458.39,it early dinner time now. But this was awesome. I can't,-0.20000000000027285,4.769999999999982,0,False,True,12
+646,5eb9798c0c0c95075ce61dfb,2458.11,2458.56,This is really,-0.27999999999974534,0.4499999999998181,0,False,True,3
+647,5f0142aa1eb1e528e7abce50,2458.39,2459.13,believe,-0.17000000000007276,0.7400000000002365,0,False,True,1
+648,5eb9798c0c0c95075ce61dfb,2458.56,2459.03,incredible.,-0.5700000000001637,0.47000000000025466,0,False,True,1
+649,5f0142aa1eb1e528e7abce50,2459.71,2463.54,we ended up talking about this. I would have not expected that at all,0.6799999999998363,3.8299999999999272,0,False,False,14
+650,5eb9798c0c0c95075ce61dfb,2463.51,2463.75,I,-0.02999999999974534,0.23999999999978172,0,False,True,1
+651,5f0142aa1eb1e528e7abce50,2463.55,2463.79,in a,-0.1999999999998181,0.23999999999978172,0,False,True,2
+652,5eb9798c0c0c95075ce61dfb,2463.75,2463.98,also,-0.03999999999996362,0.2300000000000182,0,False,True,1
+653,5f0142aa1eb1e528e7abce50,2463.79,2464.74,random.,-0.19000000000005457,0.9499999999998181,0,False,True,1
+654,5eb9798c0c0c95075ce61dfb,2463.98,2465.8,would not have. Yeah.,-0.7599999999997635,1.8200000000001637,0,False,True,4
+655,5f0142aa1eb1e528e7abce50,2465.21,2465.93,Mhm.,-0.5900000000001455,0.7199999999997999,0,False,True,1
+656,5eb9798c0c0c95075ce61dfb,2465.81,2467.2,Well you can touch though. I hope to,-0.11999999999989086,1.3899999999998727,0,False,True,8
+657,5f0142aa1eb1e528e7abce50,2467.11,2467.46,Bye.,-0.08999999999969077,0.34999999999990905,0,False,True,1
+658,5eb9798c0c0c95075ce61dfb,2467.2,2467.83,speak to you soon.,-0.2600000000002183,0.6300000000001091,0,False,True,4
+659,5f0142aa1eb1e528e7abce50,2468.31,2469.93,Yeah. Real bye bye.,0.4800000000000182,1.6199999999998909,0,False,False,4

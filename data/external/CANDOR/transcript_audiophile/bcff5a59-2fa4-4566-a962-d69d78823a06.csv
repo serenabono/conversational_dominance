@@ -1,0 +1,539 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5efb5f77ef19f50a68564191,11.84,54.69,"Okay. Yes. Okay. Yeah, it's pretty. Mhm. Something. Mhm. Yeah. Mhm. Hi there.",,42.849999999999994,0,False,False,14
+1,5d8d821215875e001482ece7,55.44,55.64,How are,0.75,0.20000000000000284,0,False,False,2
+2,5efb5f77ef19f50a68564191,55.59,56.73,Good.,-0.04999999999999716,1.1399999999999935,0,False,True,1
+3,5d8d821215875e001482ece7,55.64,56.25,you?,-1.0899999999999963,0.6099999999999994,1,True,True,1
+4,5efb5f77ef19f50a68564191,56.73,57.65,How are you today?,0.4799999999999969,0.9200000000000017,1,True,False,4
+5,5d8d821215875e001482ece7,58.24,58.92,How much,0.5900000000000034,0.6799999999999997,0,False,False,2
+6,5efb5f77ef19f50a68564191,58.44,58.94,Uh huh.,-0.480000000000004,0.5,0,False,True,2
+7,5d8d821215875e001482ece7,58.92,60.85,is that? Uh,-0.01999999999999602,1.9299999999999997,1,False,True,3
+8,5efb5f77ef19f50a68564191,60.84,62.74,All,-0.00999999999999801,1.8999999999999986,0,False,True,1
+9,5d8d821215875e001482ece7,61.24,62.76,Probably going to be better.,-1.5,1.519999999999996,0,False,True,5
+10,5efb5f77ef19f50a68564191,62.74,64.21,things considered right. We can sort of,-0.01999999999999602,1.4699999999999918,0,False,True,7
+11,5d8d821215875e001482ece7,64.14,64.64,Yeah.,-0.06999999999999318,0.5,0,False,True,1
+12,5efb5f77ef19f50a68564191,64.21,67.56,be better than bad.,-0.4300000000000068,3.3500000000000085,0,False,True,4
+13,5d8d821215875e001482ece7,66.94,70.26,Yeah. I mean it's the best we can do right now anyway.,-0.6200000000000045,3.3200000000000074,0,False,True,13
+14,5efb5f77ef19f50a68564191,70.84,73.95,So have you have you done this study before or,0.5799999999999983,3.1099999999999994,0,False,False,10
+15,5d8d821215875e001482ece7,73.94,74.95,Yeah.,-0.010000000000005116,1.0100000000000051,0,False,True,1
+16,5efb5f77ef19f50a68564191,73.95,74.86,rounds of this study?,-1.0,0.9099999999999966,1,True,True,4
+17,5d8d821215875e001482ece7,75.34,75.82,Yeah.,0.480000000000004,0.47999999999998977,0,False,False,1
+18,5efb5f77ef19f50a68564191,75.54,75.86,Mhm.,-0.2799999999999869,0.3199999999999932,0,False,True,1
+19,5d8d821215875e001482ece7,75.83,79.06,This is my second time I did my first one yesterday.,-0.030000000000001137,3.230000000000004,0,False,True,11
+20,5efb5f77ef19f50a68564191,79.54,89.95,"I did too. Yeah. I wonder if the researchers are thirsty for respondents. There was a really quick turnaround and like, oh you actually talked for 25 minutes, please do it again. It's like okay.",0.480000000000004,10.409999999999997,0,False,False,36
+21,5d8d821215875e001482ece7,88.34,90.54,"Yeah, it was interesting. I",-1.6099999999999994,2.200000000000003,0,False,True,5
+22,5efb5f77ef19f50a68564191,90.54,90.74,Yeah.,0.0,0.19999999999998863,0,False,False,1
+23,5d8d821215875e001482ece7,90.54,96.48,was I was like staying up at night just to make sure like I didn't miss their thing because I put,-0.19999999999998863,5.939999999999998,0,False,True,22
+24,5efb5f77ef19f50a68564191,96.24,96.44,Yeah.,-0.2400000000000091,0.20000000000000284,0,False,True,1
+25,5d8d821215875e001482ece7,96.48,96.87,some of my,0.04000000000000625,0.39000000000000057,0,False,False,3
+26,5efb5f77ef19f50a68564191,96.84,97.04,"Yeah,",-0.030000000000001137,0.20000000000000284,0,False,True,1
+27,5d8d821215875e001482ece7,96.87,101.99,"availabilities in the morning just in case. Oh, we're going to schedule tomorrow morning",-0.1700000000000017,5.11999999999999,0,False,True,15
+28,5efb5f77ef19f50a68564191,101.94,102.22,That's,-0.04999999999999716,0.28000000000000114,0,False,True,2
+29,5d8d821215875e001482ece7,102.0,102.85,surprise.,-0.21999999999999886,0.8499999999999943,0,False,True,1
+30,5efb5f77ef19f50a68564191,102.22,110.25,"right. Yeah. When they asked, you know, are you available at 6:00 AM? I'm like, I don't really know who would be, but I hope you find somebody",-0.6299999999999955,8.030000000000001,1,False,True,30
+31,5d8d821215875e001482ece7,109.74,110.24,Yeah.,-0.5100000000000051,0.5,0,False,True,1
+32,5efb5f77ef19f50a68564191,110.74,112.14,um,0.5,1.4000000000000057,0,False,False,1
+33,5d8d821215875e001482ece7,111.34,111.66,Mhm.,-0.7999999999999972,0.3199999999999932,0,False,True,1
+34,5efb5f77ef19f50a68564191,112.15,120.45,"Actually, so I'm curious what do you think the study is about? And I'm not a researcher. I'm not affiliated with it at all, but I'm kind of curious about it. Mhm.",0.4900000000000091,8.299999999999997,1,False,False,36
+35,5d8d821215875e001482ece7,120.34,121.56,"Yeah, I think",-0.10999999999999943,1.2199999999999989,0,False,True,3
+36,5efb5f77ef19f50a68564191,122.14,122.34,Yeah.,0.5799999999999983,0.20000000000000284,0,False,False,1
+37,5d8d821215875e001482ece7,122.54,133.65,I want to say it's probably some kind of like linguistic study just to see how like people have conversations maybe with people they've never met before.,0.20000000000000284,11.11,0,False,False,29
+38,5efb5f77ef19f50a68564191,134.34,147.75,Yeah. Especially unprompted yesterday when it was with a conversation partner who had done it a few times before I said. So what are we supposed to talk about? Like oh anything. It's like I can see if it's giving people some real anxiety,0.6899999999999977,13.409999999999997,1,False,False,46
+39,5d8d821215875e001482ece7,147.24,157.26,Yeah. I don't know I guess it's just like me being anxious but I always just get like freaked out just having like a web conversation even.,-0.5099999999999909,10.019999999999982,0,False,True,29
+40,5efb5f77ef19f50a68564191,158.04,162.06,like with a little like a teacher or co worker or something.,0.7800000000000011,4.02000000000001,0,False,False,12
+41,5d8d821215875e001482ece7,161.74,162.88,"Yeah, just",-0.3199999999999932,1.1399999999999864,0,False,True,2
+42,5efb5f77ef19f50a68564191,162.84,163.25,Yeah.,-0.03999999999999204,0.4099999999999966,0,False,True,1
+43,5d8d821215875e001482ece7,162.88,166.99,like was anything just because it's over the internet. I don't know why. Uh,-0.37000000000000455,4.110000000000014,0,False,True,16
+44,5efb5f77ef19f50a68564191,166.94,167.3,Yeah.,-0.05000000000001137,0.36000000000001364,0,False,True,1
+45,5d8d821215875e001482ece7,166.99,167.25,huh.,-0.3100000000000023,0.2599999999999909,0,False,True,1
+46,5efb5f77ef19f50a68564191,167.31,195.45,"Well, I'm in my mid thirties and I remember in the internet, early days, it was kind of the Wild West and they had programs like this where like they would randomly assign you a conversation partner and it was generally not good. It was not good quality content. And so I'm always this this medium. I'm sort of like, I don't know like what if people are weird? It's the internet. People love to be weird on the internet, but um hopefully people aren't weird on here. So I guess tell me a little bit about yourself, but what you do or?",0.060000000000002274,28.139999999999986,2,True,False,109
+47,5d8d821215875e001482ece7,193.74,199.75,Yeah. Oh Um well I am 22 right now. I live in Georgia,-1.7099999999999795,6.009999999999991,0,False,True,13
+48,5efb5f77ef19f50a68564191,200.14,200.56,Okay.,0.38999999999998636,0.4200000000000159,0,False,False,1
+49,5d8d821215875e001482ece7,200.24,206.06,"but like a couple miles south of Atlanta, like a couple hours. So in the boring part.",-0.3199999999999932,5.819999999999993,0,False,True,17
+50,5efb5f77ef19f50a68564191,205.94,206.14,Yeah.,-0.12000000000000455,0.19999999999998863,0,False,True,1
+51,5d8d821215875e001482ece7,206.44,208.49,Yeah,0.30000000000001137,2.0500000000000114,0,False,False,1
+52,5efb5f77ef19f50a68564191,206.74,207.47,Suburbs.,-1.75,0.7299999999999898,0,False,True,1
+53,5d8d821215875e001482ece7,208.49,209.26,basically,1.0200000000000102,0.7699999999999818,0,False,False,1
+54,5efb5f77ef19f50a68564191,209.04,209.55,Okay.,-0.21999999999999886,0.5100000000000193,0,False,True,1
+55,5d8d821215875e001482ece7,209.64,211.52,um and,0.08999999999997499,1.8800000000000239,0,False,False,2
+56,5efb5f77ef19f50a68564191,211.04,211.24,Yeah.,-0.4800000000000182,0.20000000000001705,0,False,True,1
+57,5d8d821215875e001482ece7,211.53,216.35,right now I'm trying to get my Associates for library sciences so I can,0.28999999999999204,4.819999999999993,0,False,False,15
+58,5efb5f77ef19f50a68564191,216.24,216.67,Excellent.,-0.10999999999998522,0.4299999999999784,0,False,True,1
+59,5d8d821215875e001482ece7,216.35,217.26,work in a library.,-0.3199999999999932,0.9099999999999966,0,False,True,4
+60,5efb5f77ef19f50a68564191,216.67,217.65,Congratulations.,-0.5900000000000034,0.9800000000000182,0,False,True,1
+61,5d8d821215875e001482ece7,218.14,219.71,Thank you. What about,0.4899999999999807,1.5700000000000216,0,False,False,4
+62,5efb5f77ef19f50a68564191,219.64,220.15,Uh,-0.0700000000000216,0.5100000000000193,0,False,True,1
+63,5d8d821215875e001482ece7,219.71,220.16,you?,-0.4399999999999977,0.44999999999998863,1,True,True,1
+64,5efb5f77ef19f50a68564191,220.64,225.05,is it so so real quick? Is associates different from an M. L. I. S.,0.47999999999998977,4.410000000000025,1,False,False,15
+65,5d8d821215875e001482ece7,225.64,229.29,Oh yeah the M. L. I. S. Is like a master's degree but the,0.589999999999975,3.6500000000000057,0,False,False,15
+66,5efb5f77ef19f50a68564191,229.24,229.66,Okay.,-0.04999999999998295,0.4199999999999875,0,False,True,1
+67,5d8d821215875e001482ece7,229.29,231.94,Associates is just like the the very,-0.37000000000000455,2.6500000000000057,0,False,True,7
+68,5efb5f77ef19f50a68564191,231.74,232.06,Mhm.,-0.19999999999998863,0.3199999999999932,0,False,True,1
+69,5d8d821215875e001482ece7,231.94,235.95,baseline. Like I'm not sure if I want to try and get my bachelors yet,-0.12000000000000455,4.009999999999991,0,False,True,16
+70,5efb5f77ef19f50a68564191,236.34,236.75,Yeah.,0.3900000000000148,0.4099999999999966,0,False,False,1
+71,5d8d821215875e001482ece7,236.64,240.01,"because that would be like a whole other application process, but like",-0.11000000000001364,3.3700000000000045,0,False,True,12
+72,5efb5f77ef19f50a68564191,239.84,240.26,Gotcha.,-0.1699999999999875,0.4199999999999875,0,False,True,1
+73,5d8d821215875e001482ece7,240.01,242.46,after the bachelors you would get your masters.,-0.25,2.450000000000017,0,False,True,8
+74,5efb5f77ef19f50a68564191,242.74,259.67,"I see. Yeah. When I was your age, I worked in a library and the job titles were really weird. But it was like they were the people who shelled the books, I can't remember what I think they were called. It was a really fancy title, but it was clearly their job was to put the books back on the shelf. And then there was",0.28000000000000114,16.930000000000007,0,False,False,67
+75,5d8d821215875e001482ece7,259.64,259.96,Yeah.,-0.03000000000002956,0.3199999999999932,0,False,True,1
+76,5efb5f77ef19f50a68564191,259.67,278.03,"the circulation assistant and that was like if you had a bachelor's degree but it wasn't library focus, you would like to answer questions about the library and host events at the library and teach. Old people had to do excel. And then there was the were the librarian librarians and they'd actually receive their masters. And so they were like these sort of grand dukes and kings and queens",-0.2899999999999636,18.359999999999957,0,False,True,73
+77,5d8d821215875e001482ece7,277.94,278.56,Yeah.,-0.08999999999997499,0.6200000000000045,0,False,True,1
+78,5efb5f77ef19f50a68564191,278.03,286.86,"of the library. Uh And I was like, wow, they're really fancy, how long is that degree? And I was like, oh I did it in a year, I was like, oh maybe I should do that.",-0.5300000000000296,8.830000000000041,1,False,True,38
+79,5d8d821215875e001482ece7,288.24,288.57,Yeah,1.3799999999999955,0.3299999999999841,0,False,False,1
+80,5efb5f77ef19f50a68564191,288.34,288.66,Mhm.,-0.2300000000000182,0.32000000000005,0,False,True,1
+81,5d8d821215875e001482ece7,288.57,293.84,I mean I know you have to get your bachelors first and that would be like my first hurdle but I,-0.09000000000003183,5.269999999999982,0,False,True,21
+82,5efb5f77ef19f50a68564191,293.84,294.16,Okay.,0.0,0.32000000000005,0,False,False,1
+83,5d8d821215875e001482ece7,293.84,301.05,guess usually the masters will take one or two years. I don't know if I want to get up to that level though because that's a lot of time studying.,-0.32000000000005,7.210000000000036,0,False,True,32
+84,5efb5f77ef19f50a68564191,301.04,306.05,"Yeah, but the pay is a lot better too, especially if you're in a fancy library district,",-0.009999999999990905,5.009999999999991,0,False,True,18
+85,5d8d821215875e001482ece7,305.74,307.35,That's true. Yeah.,-0.3100000000000023,1.6100000000000136,0,False,True,4
+86,5efb5f77ef19f50a68564191,307.14,316.35,"Uh suburban districts in particular. I think my manager was being paid because it's public information, I think it was 85,000 or 90,000 a year,",-0.21000000000003638,9.210000000000036,0,False,True,26
+87,5d8d821215875e001482ece7,315.94,316.96,Oh wow.,-0.410000000000025,1.0199999999999818,0,False,True,2
+88,5efb5f77ef19f50a68564191,317.34,327.36,"and she was a branch manager, so she was in charge of the whole library, so everything from programming to if somebody peed in the corner, which happened a lot, right, that was stuff",0.37999999999999545,10.020000000000039,0,False,False,34
+89,5d8d821215875e001482ece7,327.34,327.54,Yeah.,-0.020000000000038654,0.20000000000004547,0,False,True,1
+90,5efb5f77ef19f50a68564191,327.36,347.16,"that she had to know about, so there was a lot of responsibilities, but well it's a public library and I don't know what George is like, but in California there's there's a lot of, uh, there's a new term for it, but there's a lot of homeless who come in and seek refuge there during the day. And so you get a lot of, sometimes you get some strange behaviors and that's something the branch manager has to be aware of unfortunate.",-0.18000000000000682,19.80000000000001,0,False,True,90
+91,5d8d821215875e001482ece7,346.54,350.46,"Are you, are you around California like area?",-0.6200000000000045,3.919999999999959,1,True,True,8
+92,5efb5f77ef19f50a68564191,350.74,354.38,"I was so I, I finished my PhD in San Diego",0.28000000000002956,3.6399999999999864,0,False,False,11
+93,5d8d821215875e001482ece7,354.14,354.35,Mhm.,-0.2400000000000091,0.21000000000003638,0,False,True,1
+94,5efb5f77ef19f50a68564191,354.39,380.12,"and I'm in colorado with my family now for the duration of the pandemic, which hopefully will end sometime soon. Uh, well the numbers don't look good. And uh, so yeah, I was in san Diego really nice, but I was there for eight years and it just kind of felt like I had seen it all, but I traveled to Georgia recently. I took a road trip from san Diego to Connecticut. So I went kind of like all the way down and we passed through savannah. We didn't go through Atlanta on",0.03999999999996362,25.730000000000018,0,False,False,97
+95,5d8d821215875e001482ece7,379.94,380.26,Mhm.,-0.18000000000000682,0.3199999999999932,0,False,True,1
+96,5efb5f77ef19f50a68564191,380.12,384.18,"the way up. I'm not sure where savannah is relative to the rest of Georgia, but it",-0.13999999999998636,4.060000000000002,0,False,True,18
+97,5d8d821215875e001482ece7,384.14,384.45,It's,-0.040000000000020464,0.3100000000000023,0,False,True,2
+98,5efb5f77ef19f50a68564191,384.18,384.48,was very,-0.2699999999999818,0.30000000000001137,0,False,True,2
+99,5d8d821215875e001482ece7,384.46,384.95,uh,-0.020000000000038654,0.4900000000000091,0,False,True,1
+100,5efb5f77ef19f50a68564191,384.48,384.96,lovely.,-0.46999999999997044,0.47999999999996135,0,False,True,1
+101,5d8d821215875e001482ece7,385.54,385.84,it's,0.5800000000000409,0.2999999999999545,0,False,False,2
+102,5efb5f77ef19f50a68564191,385.74,385.95,Yes.,-0.0999999999999659,0.20999999999997954,0,False,True,1
+103,5d8d821215875e001482ece7,385.84,387.96,"at the very east coast, so did you go like",-0.11000000000001364,2.1200000000000045,0,False,True,10
+104,5efb5f77ef19f50a68564191,389.33,389.76,Okay.,1.3700000000000045,0.4300000000000068,0,False,False,1
+105,5d8d821215875e001482ece7,389.44,390.93,just like south? So,-0.3199999999999932,1.490000000000009,1,False,True,4
+106,5efb5f77ef19f50a68564191,390.84,391.94,Yeah.,-0.09000000000003183,1.1000000000000227,0,False,True,1
+107,5d8d821215875e001482ece7,390.93,394.06,instead of through Atlanta you go through like making or something?,-1.009999999999991,3.1299999999999955,1,True,True,11
+108,5efb5f77ef19f50a68564191,394.54,405.46,"Uh maybe you're making. It was like, it's the highway that goes through like texas, new Orleans, uh Georgia and then Pensacola, we like went north or something. It was like this like left",0.4800000000000182,10.919999999999959,0,False,False,36
+109,5d8d821215875e001482ece7,405.14,405.56,Mhm.,-0.3199999999999932,0.4200000000000159,0,False,True,1
+110,5efb5f77ef19f50a68564191,405.47,406.92,"hander. So again,",-0.08999999999997499,1.4499999999999886,0,False,True,3
+111,5d8d821215875e001482ece7,406.64,406.84,Yeah.,-0.28000000000002956,0.19999999999998863,0,False,True,1
+112,5efb5f77ef19f50a68564191,406.92,413.82,"I have like no experience in the southeast. I don't know where any of that stuff is, but it was lovely. I liked it a lot. It was very different and",0.08000000000004093,6.899999999999977,0,False,False,32
+113,5d8d821215875e001482ece7,413.74,414.04,Yeah.,-0.07999999999998408,0.30000000000001137,0,False,True,1
+114,5efb5f77ef19f50a68564191,413.82,414.18,there was a lot,-0.22000000000002728,0.36000000000001364,0,False,True,4
+115,5d8d821215875e001482ece7,414.05,414.45,Yeah.,-0.12999999999999545,0.39999999999997726,0,False,True,1
+116,5efb5f77ef19f50a68564191,414.18,416.05,"of confederate flags, which was weird",-0.2699999999999818,1.8700000000000045,0,False,True,6
+117,5d8d821215875e001482ece7,415.64,415.96,Yeah.,-0.410000000000025,0.3199999999999932,0,False,True,1
+118,5efb5f77ef19f50a68564191,416.05,421.36,"coming out of California, but um people at least were very friendly. Uh",0.09000000000003183,5.310000000000002,0,False,False,13
+119,5d8d821215875e001482ece7,420.54,425.16,"Yeah, I lived in California pretty much my whole life up until um",-0.8199999999999932,4.6200000000000045,0,False,True,13
+120,5efb5f77ef19f50a68564191,426.34,426.76,easy.,1.17999999999995,0.4200000000000159,0,False,False,1
+121,5d8d821215875e001482ece7,426.35,427.95,"like the end of March,",-0.40999999999996817,1.599999999999966,0,False,True,5
+122,5efb5f77ef19f50a68564191,428.44,429.36,Mhm.,0.4900000000000091,0.9200000000000159,0,False,False,1
+123,5d8d821215875e001482ece7,429.24,433.14,"like once the pandemic started, my husband wanted to move out here just because",-0.12000000000000455,3.8999999999999773,0,False,True,14
+124,5efb5f77ef19f50a68564191,433.04,433.66,Yeah.,-0.0999999999999659,0.6200000000000045,0,False,True,1
+125,5d8d821215875e001482ece7,433.14,438.76,it's closer to family. So like it was a big culture shock.,-0.5200000000000387,5.6200000000000045,0,False,True,13
+126,5efb5f77ef19f50a68564191,439.04,439.64,Yeah.,0.28000000000002956,0.5999999999999659,0,False,False,1
+127,5d8d821215875e001482ece7,439.24,439.44,Yeah.,-0.39999999999997726,0.19999999999998863,0,False,True,1
+128,5efb5f77ef19f50a68564191,439.65,441.56,Which part? North or south California?,0.20999999999997954,1.910000000000025,2,True,False,6
+129,5d8d821215875e001482ece7,442.34,452.06,"Um uh my family lives in southern California, but then I went to college for a little bit before I dropped out um in santa cruz.",0.7799999999999727,9.720000000000027,0,False,False,26
+130,5efb5f77ef19f50a68564191,452.44,454.82,Okay. You CSC go,0.37999999999999545,2.3799999999999955,0,False,False,4
+131,5d8d821215875e001482ece7,453.94,454.56,Yes.,-0.8799999999999955,0.6200000000000045,0,False,True,1
+132,5efb5f77ef19f50a68564191,454.82,456.06,a bit to go banana slugs.,0.2599999999999909,1.240000000000009,0,False,False,6
+133,5d8d821215875e001482ece7,456.04,457.36,"Yeah, just like,",-0.01999999999998181,1.3199999999999932,0,False,True,3
+134,5efb5f77ef19f50a68564191,457.54,464.05,Yeah. So one I'm glad it didn't burn down. Did you see how close the fire got to Santa Cruz?,0.18000000000000682,6.509999999999991,1,True,False,22
+135,5d8d821215875e001482ece7,463.54,467.86,"I didn't even know there was a fire that went even close there, was it recent?",-0.5099999999999909,4.319999999999993,1,True,True,17
+136,5efb5f77ef19f50a68564191,467.44,474.93,"Yeah, it was, it was a couple months ago. It was just, it was like a mile and a half away from campus or something. I've",-0.4200000000000159,7.490000000000009,0,False,True,27
+137,5d8d821215875e001482ece7,474.64,474.98,Oh my,-0.29000000000002046,0.34000000000003183,0,False,True,2
+138,5efb5f77ef19f50a68564191,474.93,475.09,only,-0.05000000000001137,0.15999999999996817,0,False,True,1
+139,5d8d821215875e001482ece7,474.98,475.36,God.,-0.1099999999999568,0.37999999999999545,0,False,True,1
+140,5efb5f77ef19f50a68564191,475.09,490.15,"been at the campus a couple times, but like, you know, there's that sort of like big open field that you can like see the sea over, I guess. Maybe it's near the student center. I think um you could see like the fire line from that angle. Just really crazy stuff. I",-0.27000000000003865,15.060000000000002,0,False,True,55
+141,5d8d821215875e001482ece7,489.94,490.65,Yeah.,-0.20999999999997954,0.7099999999999795,0,False,True,1
+142,5efb5f77ef19f50a68564191,490.15,495.75,think people were like lighting their blunts on the fire line and like going back to campus. Mhm.,-0.5,5.600000000000023,0,False,True,18
+143,5d8d821215875e001482ece7,495.74,498.46,"You know I mean, Yeah,",-0.009999999999990905,2.7199999999999704,0,False,True,5
+144,5efb5f77ef19f50a68564191,498.54,499.5,I,0.08000000000004093,0.9599999999999795,0,False,False,1
+145,5d8d821215875e001482ece7,498.94,501.16,"that's what I would expect from santa Cruz,",-0.5600000000000023,2.2200000000000273,0,False,True,9
+146,5efb5f77ef19f50a68564191,501.44,501.86,"Yeah,",0.2799999999999727,0.4200000000000159,0,False,False,1
+147,5d8d821215875e001482ece7,501.84,502.26,definitely.,-0.020000000000038654,0.4200000000000159,0,False,True,1
+148,5efb5f77ef19f50a68564191,501.87,516.46,"that's, I think the number one, number one campus for consumption of marijuana or number two maybe behind Colorado College, but it's because students are forced to like live in the trees or something. I don't know. There's like no housing or something like that. Okay.",-0.38999999999998636,14.590000000000032,0,False,True,50
+149,5d8d821215875e001482ece7,516.14,521.04,"Oh yeah, that was a huge issue when I was back there because, um, let's",-0.32000000000005,4.899999999999977,0,False,True,16
+150,5efb5f77ef19f50a68564191,521.04,521.24,Yeah.,0.0,0.20000000000004547,0,False,False,1
+151,5d8d821215875e001482ece7,521.04,523.8,"see. I think the gear, I was a freshman,",-0.20000000000004547,2.759999999999991,0,False,True,9
+152,5efb5f77ef19f50a68564191,523.64,523.85,Mhm.,-0.15999999999996817,0.21000000000003638,0,False,True,1
+153,5d8d821215875e001482ece7,523.8,526.4,there was like 2016. They started,-0.05000000000006821,2.6000000000000227,0,False,True,6
+154,5efb5f77ef19f50a68564191,526.24,526.44,Yeah.,-0.15999999999996817,0.20000000000004547,0,False,True,1
+155,5d8d821215875e001482ece7,526.4,530.52,converting some of their like huge lounge is just for like,-0.04000000000007731,4.1200000000000045,0,False,True,11
+156,5efb5f77ef19f50a68564191,530.34,530.85,Good.,-0.17999999999994998,0.5099999999999909,0,False,True,1
+157,5d8d821215875e001482ece7,530.52,531.56,"the door, the",-0.3300000000000409,1.0399999999999636,0,False,True,3
+158,5efb5f77ef19f50a68564191,531.54,531.95,Yeah.,-0.01999999999998181,0.41000000000008185,0,False,True,1
+159,5d8d821215875e001482ece7,531.56,537.0,"people in the doors to just hang out. They turned them into, I think it was triplets or quads. And",-0.39000000000010004,5.440000000000055,0,False,True,20
+160,5efb5f77ef19f50a68564191,536.94,537.26,Yeah.,-0.05999999999994543,0.31999999999993634,0,False,True,1
+161,5d8d821215875e001482ece7,537.0,540.36,"then like a couple years after that, they turned them into quince",-0.2599999999999909,3.3600000000000136,0,False,True,12
+162,5efb5f77ef19f50a68564191,540.94,542.25,Yeah.,0.5800000000000409,1.3099999999999454,0,False,False,1
+163,5d8d821215875e001482ece7,542.04,550.26,And like the room I was staying in apparently like back in the 70's because I knew someone that had gone to the same school a while,-0.21000000000003638,8.220000000000027,0,False,True,28
+164,5efb5f77ef19f50a68564191,550.14,550.34,Yeah.,-0.12000000000000455,0.20000000000004547,0,False,True,1
+165,5d8d821215875e001482ece7,550.26,553.15,"ago. They used to just be doubles, but",-0.08000000000004093,2.8899999999999864,0,False,True,8
+166,5efb5f77ef19f50a68564191,553.14,553.39,Oh,-0.009999999999990905,0.25,0,False,True,1
+167,5d8d821215875e001482ece7,553.15,553.47,now they're,-0.2400000000000091,0.32000000000005,0,False,True,3
+168,5efb5f77ef19f50a68564191,553.39,553.54,my,-0.08000000000004093,0.14999999999997726,0,False,True,1
+169,5d8d821215875e001482ece7,553.47,554.24,triples.,-0.06999999999993634,0.7699999999999818,0,False,True,1
+170,5efb5f77ef19f50a68564191,553.54,553.76,"God,",-0.7000000000000455,0.22000000000002728,0,False,True,1
+171,5d8d821215875e001482ece7,554.25,554.65,Yeah.,0.4900000000000091,0.39999999999997726,0,False,False,1
+172,5efb5f77ef19f50a68564191,555.14,596.56,"that's horrible. Yeah. Um I served on the graduate student government at U. C. San Diego and this came up all the time and it was terrible because all these buildings, the other thing is the buildings were designed after the, you see riots in the sixties. So they're all designed like penitentiary is all the hallways do this, so there's no congregation. So if if like the National Guard had to come into the building and clear people out, there's no firing lines. I sort of got this is true. It's the wildest thing I've ever heard. But all these super old buildings, one they look terrible on the interior and now they're over stuffing them with undergraduates who are paying God knows how much money for that. It's really sad. But santa cruz is also like one of the most beautiful plant like places on earth. So it's expensive.",0.4900000000000091,41.41999999999996,0,False,False,160
+173,5d8d821215875e001482ece7,596.24,605.35,"Yeah. Yeah. That was like a huge problem. And like about, you see riots I guess. I don't know if I can like",-0.31999999999993634,9.110000000000014,0,False,True,24
+174,5efb5f77ef19f50a68564191,605.94,606.29,My,0.5900000000000318,0.34999999999990905,0,False,False,1
+175,5d8d821215875e001482ece7,606.64,609.74,"find like information on this officially, but after",0.35000000000002274,3.1000000000000227,0,False,False,8
+176,5efb5f77ef19f50a68564191,609.44,609.76,mm.,-0.2999999999999545,0.31999999999993634,0,False,True,1
+177,5d8d821215875e001482ece7,609.74,613.24,the you see riots that they made it. So like,-0.01999999999998181,3.5,0,False,True,10
+178,5efb5f77ef19f50a68564191,613.14,613.46,Yeah.,-0.10000000000002274,0.32000000000005,0,False,True,1
+179,5d8d821215875e001482ece7,613.24,615.9,there wasn't any like central hub in santa,-0.22000000000002728,2.659999999999968,0,False,True,9
+180,5efb5f77ef19f50a68564191,615.84,616.04,"Yeah,",-0.05999999999994543,0.1999999999999318,0,False,True,1
+181,5d8d821215875e001482ece7,615.9,616.46,cruz,-0.13999999999998636,0.5600000000000591,0,False,True,1
+182,5efb5f77ef19f50a68564191,617.04,617.3,that,0.5799999999999272,0.2599999999999909,0,False,False,1
+183,5d8d821215875e001482ece7,617.24,617.91,specifically,-0.05999999999994543,0.6699999999999591,0,False,True,1
+184,5efb5f77ef19f50a68564191,617.3,618.15,is correct. So,-0.6100000000000136,0.8500000000000227,0,False,True,3
+185,5d8d821215875e001482ece7,617.91,618.76,for that reason.,-0.2400000000000091,0.8500000000000227,0,False,True,3
+186,5efb5f77ef19f50a68564191,619.14,622.7,"yeah, san Diego was built as the riots were happening. So",0.37999999999999545,3.560000000000059,0,False,False,11
+187,5d8d821215875e001482ece7,622.34,622.54,Yeah.,-0.36000000000001364,0.1999999999999318,0,False,True,1
+188,5efb5f77ef19f50a68564191,622.71,642.69,U C. L. A. And U C. B. Have big quads like that. But every single school that came after that doesn't have anything central. So U C. San Diego doesn't certainly U C. Santa cruz doesn't Mercedes Davis riverside. I don't know how old riverside is. Yeah. None of them have like a classic like east coast kind of quad anymore. Like,0.17000000000007276,19.980000000000018,0,False,False,67
+189,5d8d821215875e001482ece7,641.64,642.74,"Yeah,",-1.0500000000000682,1.1000000000000227,0,False,True,1
+190,5efb5f77ef19f50a68564191,642.7,645.95,uh is Emory in Atlanta?,-0.03999999999996362,3.25,1,True,True,5
+191,5d8d821215875e001482ece7,645.54,646.46,I,-0.41000000000008185,0.9200000000000728,0,False,True,1
+192,5efb5f77ef19f50a68564191,647.34,647.48,Yeah.,0.8799999999999955,0.13999999999998636,0,False,False,1
+193,5d8d821215875e001482ece7,647.64,650.22,I think it's in a difference. Okay.,0.15999999999996817,2.580000000000041,0,False,False,8
+194,5efb5f77ef19f50a68564191,650.04,650.46,Okay.,-0.18000000000006366,0.42000000000007276,0,False,True,1
+195,5d8d821215875e001482ece7,650.22,652.06,I'm not sure.,-0.2400000000000091,1.8399999999999181,0,False,True,4
+196,5efb5f77ef19f50a68564191,651.64,658.15,That's just the fanciest university I can think of that comes to mind or G. S. U. Is based in downtown Atlanta. Right.,-0.4199999999999591,6.509999999999991,0,False,True,24
+197,5d8d821215875e001482ece7,657.74,662.54,I believe so. I don't know all like the colleges around here because I go,-0.40999999999996817,4.7999999999999545,0,False,True,16
+198,5efb5f77ef19f50a68564191,662.44,662.65,Mhm.,-0.09999999999990905,0.2099999999999227,0,False,True,1
+199,5d8d821215875e001482ece7,662.54,664.81,to I technically,-0.11000000000001364,2.269999999999982,0,False,True,3
+200,5efb5f77ef19f50a68564191,664.24,664.56,Yeah.,-0.5699999999999363,0.31999999999993634,0,False,True,1
+201,5d8d821215875e001482ece7,664.81,669.95,"go to campus um in southern California, just like community college there,",0.25,5.1400000000001,0,False,False,12
+202,5efb5f77ef19f50a68564191,670.34,670.66,Sure.,0.38999999999998636,0.31999999999993634,0,False,False,1
+203,5d8d821215875e001482ece7,670.44,675.75,"but it's all online so I can just, you know, still go to class without being without",-0.2199999999999136,5.309999999999945,0,False,True,18
+204,5efb5f77ef19f50a68564191,675.64,676.05,Yeah.,-0.11000000000001364,0.40999999999996817,0,False,True,1
+205,5d8d821215875e001482ece7,675.75,677.06,having to actually go.,-0.2999999999999545,1.3099999999999454,0,False,True,4
+206,5efb5f77ef19f50a68564191,677.74,681.85,So is your husband's job in Georgia then?,0.6800000000000637,4.110000000000014,1,True,False,9
+207,5d8d821215875e001482ece7,681.24,686.3,"Yeah, he got a job, just being like a farm worker and he's trying to move up",-0.6100000000000136,5.059999999999945,0,False,True,18
+208,5efb5f77ef19f50a68564191,686.14,686.46,Yes.,-0.15999999999996817,0.32000000000005,0,False,True,1
+209,5d8d821215875e001482ece7,686.3,687.15,to do like,-0.16000000000008185,0.8500000000000227,0,False,True,3
+210,5efb5f77ef19f50a68564191,687.64,687.96,Okay.,0.4900000000000091,0.32000000000005,0,False,False,1
+211,5d8d821215875e001482ece7,687.74,692.06,"tractor work because I know that's what he's been wanting to do for a long time and like,",-0.22000000000002728,4.319999999999936,0,False,True,20
+212,5efb5f77ef19f50a68564191,691.84,692.94,Yeah.,-0.2199999999999136,1.1000000000000227,0,False,True,1
+213,5d8d821215875e001482ece7,692.44,700.56,"you know, trying to do it in California isn't really that feasible. You have like a lot of money and you want to move into like the valley.",-0.5,8.11999999999989,0,False,True,29
+214,5efb5f77ef19f50a68564191,701.04,713.24,Yeah. Yeah. That's actually something I don't really know much about. All you ever hear about is the like really abusive patterns of migrant labor that people bring in and like over abuse and overwork. But,0.4800000000000182,12.200000000000045,0,False,False,38
+215,5d8d821215875e001482ece7,713.04,713.55,Mhm.,-0.20000000000004547,0.5099999999999909,0,False,True,1
+216,5efb5f77ef19f50a68564191,713.24,723.26,"if you want to become like a farmer farmer, like is that required? Do you have to abuse migrant labor or can you like set up an independent farm even if you had a bunch of money?",-0.30999999999994543,10.019999999999982,2,True,True,37
+217,5d8d821215875e001482ece7,722.64,728.66,I don't think so but I mean I'm pretty sure they just like focus on their bottom line just,-0.6200000000000045,6.019999999999982,0,False,True,21
+218,5efb5f77ef19f50a68564191,728.44,729.24,Yeah.,-0.2199999999999136,0.7999999999999545,0,False,True,1
+219,5d8d821215875e001482ece7,728.66,734.66,to make everything as cheap as possible for maximum profit. So they just use the cheapest labor they can find available.,-0.5800000000000409,6.0,0,False,True,21
+220,5efb5f77ef19f50a68564191,735.04,735.54,Yeah.,0.37999999999999545,0.5,0,False,False,1
+221,5d8d821215875e001482ece7,735.24,753.06,"I think he just wants to like have it all like machine handled because I know a lot of the farms here either have um people do just like regular people as far as I know, they don't have any like migrant laborers laborers here so they just get paid minimum wage",-0.2999999999999545,17.819999999999936,0,False,True,53
+222,5efb5f77ef19f50a68564191,753.34,753.75,Yeah.,0.2800000000000864,0.40999999999996817,0,False,False,1
+223,5d8d821215875e001482ece7,753.54,759.75,"or they have like machines and they like the farmers that own the land, just do the entire field by themselves.",-0.21000000000003638,6.210000000000036,0,False,True,21
+224,5efb5f77ef19f50a68564191,760.34,767.45,Yeah. Was he uh what is it future farmer for America like the high school groups that are willing to agriculture?,0.5900000000000318,7.110000000000014,1,True,False,21
+225,5d8d821215875e001482ece7,766.14,768.55,Yeah I don't I don't,-1.3100000000000591,2.409999999999968,0,False,True,7
+226,5efb5f77ef19f50a68564191,768.54,768.74,Yeah.,-0.009999999999990905,0.20000000000004547,0,False,True,1
+227,5d8d821215875e001482ece7,768.55,771.98,think he was into it when he was in high school but like,-0.19000000000005457,3.4300000000000637,0,False,True,13
+228,5efb5f77ef19f50a68564191,771.84,772.35,Okay.,-0.13999999999998636,0.5099999999999909,0,False,True,1
+229,5d8d821215875e001482ece7,771.98,774.96,the years after that's when he started getting an interest in it.,-0.37000000000000455,2.980000000000018,0,False,True,13
+230,5efb5f77ef19f50a68564191,775.54,786.66,"Huh? That's interesting. I've never heard someone be like, so I finished my college degree but I'm like, I'm just really into farm and agriculture right now. It's just might be, it's just my jam.",0.5799999999999272,11.120000000000005,1,False,False,41
+231,5d8d821215875e001482ece7,786.04,791.84,"Oh no. Yeah, he didn't, he didn't go to college. He just went, he just had like high school and then like life",-0.6200000000000045,5.800000000000068,0,False,True,25
+232,5efb5f77ef19f50a68564191,791.84,792.05,Mhm.,0.0,0.2099999999999227,0,False,False,1
+233,5d8d821215875e001482ece7,791.84,792.76,stuff happened.,-0.2099999999999227,0.9199999999999591,0,False,True,2
+234,5efb5f77ef19f50a68564191,793.14,794.11,Yeah. I,0.37999999999999545,0.9700000000000273,0,False,False,2
+235,5d8d821215875e001482ece7,793.94,794.19,This,-0.16999999999995907,0.25,0,False,True,1
+236,5efb5f77ef19f50a68564191,794.12,794.27,don't,-0.07000000000005002,0.14999999999997726,0,False,True,2
+237,5d8d821215875e001482ece7,794.19,794.29,is,-0.07999999999992724,0.09999999999990905,0,False,True,1
+238,5efb5f77ef19f50a68564191,794.27,794.38,know,-0.01999999999998181,0.11000000000001364,0,False,True,1
+239,5d8d821215875e001482ece7,794.29,794.38,my,-0.09000000000003183,0.09000000000003183,0,False,True,1
+240,5efb5f77ef19f50a68564191,794.38,794.5,if,0.0,0.12000000000000455,0,False,False,1
+241,5d8d821215875e001482ece7,794.38,794.66,mom.,-0.12000000000000455,0.2799999999999727,0,False,True,1
+242,5efb5f77ef19f50a68564191,794.5,799.56,I would recommend college anymore. So do you want to work as a librarian then or what comes after the Associates?,-0.15999999999996817,5.059999999999945,1,True,True,21
+243,5d8d821215875e001482ece7,800.14,800.86,Um,0.5800000000000409,0.7200000000000273,0,False,False,1
+244,5efb5f77ef19f50a68564191,800.57,800.74,Yeah.,-0.2899999999999636,0.16999999999995907,0,False,True,1
+245,5d8d821215875e001482ece7,801.84,805.56,Right now my goal is to just work in the library just like,1.1000000000000227,3.7199999999999136,0,False,False,13
+246,5efb5f77ef19f50a68564191,806.34,806.54,Yeah.,0.7800000000000864,0.1999999999999318,0,False,False,1
+247,5d8d821215875e001482ece7,806.64,814.22,based on my experience. Because I've just done like a lot of customer service stuff. I'll end up probably doing like the front desk circulation,0.10000000000002274,7.580000000000041,0,False,False,27
+248,5efb5f77ef19f50a68564191,813.84,814.16,Mhm.,-0.37999999999999545,0.31999999999993634,0,False,True,1
+249,5d8d821215875e001482ece7,814.22,815.54,things. Like checking out the books,0.06000000000005912,1.3199999999999363,0,False,False,6
+250,5efb5f77ef19f50a68564191,815.34,815.55,Yes.,-0.1999999999999318,0.2099999999999227,0,False,True,1
+251,5d8d821215875e001482ece7,815.54,820.89,and stuff. But hopefully I can just move up from there as I get experience and just try,-0.009999999999990905,5.350000000000023,0,False,True,18
+252,5efb5f77ef19f50a68564191,820.74,820.95,Right.,-0.14999999999997726,0.21000000000003638,0,False,True,1
+253,5d8d821215875e001482ece7,820.89,826.85,"and get like more experience that way. And then if I need to, I'll try and go back for my degree.",-0.06000000000005912,5.960000000000036,0,False,True,22
+254,5efb5f77ef19f50a68564191,826.84,828.75,Yeah. Um it,-0.009999999999990905,1.9099999999999682,0,False,True,3
+255,5d8d821215875e001482ece7,828.54,828.75,Mm,-0.21000000000003638,0.21000000000003638,0,False,True,1
+256,5efb5f77ef19f50a68564191,828.75,842.76,"might be worth looking into as well. I don't know if you're like in wealthy suburbs or something, but the fancy library districts, well if you worked for them for more than a year, they'll sponsor your master's degree so you can come back and apply to be a librarian, one of the",0.0,14.009999999999991,0,False,False,57
+257,5d8d821215875e001482ece7,842.73,843.26,hmm.,-0.029999999999972715,0.5299999999999727,0,False,True,1
+258,5efb5f77ef19f50a68564191,842.76,843.45,branches.,-0.5,0.6900000000000546,0,False,True,1
+259,5d8d821215875e001482ece7,844.26,845.76,Well that's interesting. Huh?,0.8099999999999454,1.5,1,True,False,5
+260,5efb5f77ef19f50a68564191,845.84,859.45,"Yeah, It may not be like a top three program in library science, like the University of Chicago or whatever, but you get your master's and you learn how to do like archival research or you know, equity and diversity and library services, these kinds of things.",0.08000000000004093,13.610000000000014,0,False,False,48
+261,5d8d821215875e001482ece7,860.34,863.16,"Yeah. Because I don't know, I've never been more like,",0.8899999999999864,2.8199999999999363,0,False,False,12
+262,5efb5f77ef19f50a68564191,863.74,863.95,"Right,",0.5800000000000409,0.21000000000003638,0,False,False,1
+263,5d8d821215875e001482ece7,863.94,865.86,I guess I don't know worthy person.,-0.009999999999990905,1.919999999999959,0,False,True,8
+264,5efb5f77ef19f50a68564191,866.24,866.56,mm.,0.37999999999999545,0.31999999999993634,0,False,False,1
+265,5d8d821215875e001482ece7,866.24,870.82,Like I didn't really like writing essays. I was a stem major at U. C. S. C. Before,-0.31999999999993634,4.580000000000041,0,False,True,19
+266,5efb5f77ef19f50a68564191,870.64,871.35,Yeah.,-0.18000000000006366,0.7100000000000364,0,False,True,1
+267,5d8d821215875e001482ece7,870.82,873.06,I just like had a,-0.5299999999999727,2.2399999999998954,0,False,True,5
+268,5efb5f77ef19f50a68564191,873.04,873.25,Mhm.,-0.01999999999998181,0.21000000000003638,0,False,True,1
+269,5d8d821215875e001482ece7,873.06,874.41,change of heart and just,-0.19000000000005457,1.3500000000000227,0,False,True,5
+270,5efb5f77ef19f50a68564191,874.24,874.69,Okay.,-0.16999999999995907,0.4500000000000455,0,False,True,1
+271,5d8d821215875e001482ece7,874.42,876.06,sweep everything entirely.,-0.2700000000000955,1.6399999999999864,0,False,True,3
+272,5efb5f77ef19f50a68564191,876.44,877.45,Yeah.,0.38000000000010914,1.009999999999991,0,False,False,1
+273,5d8d821215875e001482ece7,877.84,878.23,But yeah,0.38999999999998636,0.38999999999998636,0,False,False,2
+274,5efb5f77ef19f50a68564191,878.14,878.46,Mhm.,-0.09000000000003183,0.32000000000005,0,False,True,1
+275,5d8d821215875e001482ece7,878.23,888.16,I think something like archival research and like having that like kind of a higher level position is something I might be interested and in the future but,-0.2300000000000182,9.92999999999995,0,False,True,28
+276,5efb5f77ef19f50a68564191,888.74,890.04,Yeah. Yeah.,0.5800000000000409,1.2999999999999545,0,False,False,2
+277,5d8d821215875e001482ece7,889.54,889.75,wow.,-0.5,0.21000000000003638,0,False,True,1
+278,5efb5f77ef19f50a68564191,890.05,915.65,"Or um you know, the problem with community libraries is they're very customer service oriented, so you don't get to do a lot of high level stuff. Like in our whole district we had one person who wrote sort of an academic style paper and went to a library studies conference. It was something that like you know serving middle class America how to increase literacy with youth or something like that. But we're talking a library district of 1000 employees and one person got to do something like that.",0.2999999999999545,25.600000000000023,0,False,False,93
+279,5d8d821215875e001482ece7,915.64,916.56,Mhm.,-0.009999999999990905,0.9199999999999591,0,False,True,1
+280,5efb5f77ef19f50a68564191,916.14,924.19,But a lot of university library jobs as well um at all kinds of levels. And that's where you really get to set that. Like do that kind of cool high level stuff. Like,-0.4199999999999591,8.050000000000068,0,False,True,35
+281,5d8d821215875e001482ece7,924.14,924.56,Mhm.,-0.05000000000006821,0.4199999999999591,0,False,True,1
+282,5efb5f77ef19f50a68564191,924.19,940.36,how do we like bring more students in our like how do we teach them? Like my experience as an instructor? U. C. S. D. S. Nobody in your age bracket knows how to use a book. You're all really good at digital research. Everyone like just look at the table of contents for the research topic. I'm like yes please,-0.36999999999989086,16.16999999999996,2,False,True,63
+283,5d8d821215875e001482ece7,940.54,940.74,Yeah.,0.17999999999994998,0.20000000000004547,0,False,False,1
+284,5efb5f77ef19f50a68564191,940.74,946.91,"or like, you know, check out a study carol and like have it for the whole quarter or semester something like you could do that. So",0.0,6.169999999999959,0,False,False,26
+285,5d8d821215875e001482ece7,946.14,946.76,Yeah.,-0.7699999999999818,0.6200000000000045,0,False,True,1
+286,5efb5f77ef19f50a68564191,946.92,961.13,"university libraries will work on a lot of that kind of stuff, especially with, you know, historians or humanities people who like can't just go to google scholar and like find an article or, or you know, like everything in stem is online, right? It's all like learn.",0.15999999999996817,14.210000000000036,1,False,False,50
+287,5d8d821215875e001482ece7,960.24,960.66,Mhm.,-0.8899999999999864,0.4199999999999591,0,False,True,1
+288,5efb5f77ef19f50a68564191,961.14,968.46,"I'm not sure what stem field you were doing, but you know, pick up matt lab, you don't need an old dusty book to learn matt lab or python or something like that.",0.4800000000000182,7.32000000000005,0,False,False,35
+289,5d8d821215875e001482ece7,969.94,970.29,So,1.4800000000000182,0.34999999999990905,0,False,False,1
+290,5efb5f77ef19f50a68564191,970.14,970.46,Mhm.,-0.14999999999997726,0.32000000000005,0,False,True,1
+291,5d8d821215875e001482ece7,970.29,971.95,you said you were an instructor,-0.17000000000007276,1.6600000000000819,0,False,True,6
+292,5efb5f77ef19f50a68564191,972.64,973.4,"Yeah,",0.6899999999999409,0.7599999999999909,0,False,False,1
+293,5d8d821215875e001482ece7,973.14,973.61,I just,-0.2599999999999909,0.4700000000000273,0,False,True,2
+294,5efb5f77ef19f50a68564191,973.4,973.67,when you,-0.21000000000003638,0.2699999999999818,0,False,True,2
+295,5d8d821215875e001482ece7,973.62,973.94,or,-0.049999999999954525,0.32000000000005,0,False,True,1
+296,5efb5f77ef19f50a68564191,973.67,974.46,"do it,",-0.2700000000000955,0.7900000000000773,0,False,True,2
+297,5d8d821215875e001482ece7,973.94,975.59,like while you were doing,-0.5199999999999818,1.6499999999999773,0,False,True,5
+298,5efb5f77ef19f50a68564191,975.44,975.99,yeah.,-0.14999999999997726,0.5499999999999545,0,False,True,1
+299,5d8d821215875e001482ece7,975.59,975.96,your peak,-0.39999999999997726,0.37000000000000455,0,False,True,2
+300,5efb5f77ef19f50a68564191,976.0,979.16,Like did you ever have a graduate student T. A. Or something like that?,0.03999999999996362,3.159999999999968,1,True,False,14
+301,5d8d821215875e001482ece7,979.34,980.94,"I did, did you ever",0.18000000000006366,1.6000000000000227,0,False,False,5
+302,5efb5f77ef19f50a68564191,980.84,981.01,I,-0.10000000000002274,0.16999999999995907,0,False,True,1
+303,5d8d821215875e001482ece7,980.94,981.09,do,-0.06999999999993634,0.14999999999997726,0,False,True,1
+304,5efb5f77ef19f50a68564191,981.01,981.26,do,-0.08000000000004093,0.25,0,False,True,1
+305,5d8d821215875e001482ece7,981.09,984.2,anything war? It was just like just like,-0.16999999999995907,3.1100000000000136,1,False,True,8
+306,5efb5f77ef19f50a68564191,984.14,985.25,well.,-0.06000000000005912,1.1100000000000136,0,False,True,1
+307,5d8d821215875e001482ece7,984.2,985.36,the th that you had to.,-1.0499999999999545,1.1599999999999682,0,False,True,6
+308,5efb5f77ef19f50a68564191,985.84,991.1,"Yeah, so you have to do a T. A. Ship at the UCS to pay your way. But",0.4800000000000182,5.259999999999991,0,False,False,18
+309,5d8d821215875e001482ece7,990.64,991.15,Mhm.,-0.4600000000000364,0.5099999999999909,0,False,True,1
+310,5efb5f77ef19f50a68564191,991.11,997.75,once you've passed your they call them comprehensive exams it means you're not dumb or not as dumb as you were previously. Then,-0.03999999999996362,6.639999999999986,0,False,True,25
+311,5d8d821215875e001482ece7,997.54,997.95,Yeah.,-0.21000000000003638,0.41000000000008185,0,False,True,1
+312,5efb5f77ef19f50a68564191,997.75,1006.92,you can be the instructor of record which is the fancy word for just being the teacher. Uh And I did that about a half dozen times at UC san Diego. And,-0.20000000000004547,9.169999999999959,0,False,True,32
+313,5d8d821215875e001482ece7,1006.64,1007.07,Oh,-0.2799999999999727,0.43000000000006366,0,False,True,1
+314,5efb5f77ef19f50a68564191,1006.92,1007.4,then,-0.15000000000009095,0.4800000000000182,0,False,True,1
+315,5d8d821215875e001482ece7,1007.08,1007.77,that's interesting.,-0.31999999999993634,0.6899999999999409,0,False,True,3
+316,5efb5f77ef19f50a68564191,1007.41,1015.77,I got a post doc at Yale University which was also very different. New England is a very different vibe from southern California. Uh And then taught there as well.,-0.36000000000001364,8.360000000000014,0,False,True,30
+317,5d8d821215875e001482ece7,1016.54,1018.27,That's really cool wow.,0.7699999999999818,1.7300000000000182,0,False,False,5
+318,5efb5f77ef19f50a68564191,1018.74,1019.27,Yeah.,0.4700000000000273,0.5299999999999727,0,False,False,1
+319,5d8d821215875e001482ece7,1018.94,1021.19,Yeah. I had I have been more,-0.32999999999992724,2.25,0,False,True,7
+320,5efb5f77ef19f50a68564191,1021.04,1021.27,Right.,-0.15000000000009095,0.2300000000000182,0,False,True,1
+321,5d8d821215875e001482ece7,1021.19,1030.17,prepared with what I wanted to do in life that I definitely would have thought maybe like a doctorate degree would be cool to do.,-0.07999999999992724,8.980000000000018,0,False,True,25
+322,5efb5f77ef19f50a68564191,1031.04,1032.51,Maybe,0.8699999999998909,1.4700000000000273,0,False,False,1
+323,5d8d821215875e001482ece7,1031.24,1031.66,Okay.,-1.2699999999999818,0.42000000000007276,0,False,True,1
+324,5efb5f77ef19f50a68564191,1032.52,1033.39,I would never,0.8599999999999,0.8700000000001182,0,False,False,3
+325,5d8d821215875e001482ece7,1033.24,1033.45,But,-0.15000000000009095,0.21000000000003638,0,False,True,1
+326,5efb5f77ef19f50a68564191,1033.39,1033.91,recommend,-0.05999999999994543,0.5199999999999818,0,False,True,1
+327,5d8d821215875e001482ece7,1033.45,1034.13,I mean.,-0.4600000000000364,0.6800000000000637,0,False,True,2
+328,5efb5f77ef19f50a68564191,1033.91,1034.67,it.,-0.22000000000002728,0.7599999999999909,0,False,True,1
+329,5d8d821215875e001482ece7,1034.14,1040.08,"Yeah, I know like from what I've heard like it's not as worth",-0.5299999999999727,5.939999999999827,0,False,True,15
+330,5efb5f77ef19f50a68564191,1039.74,1039.94,Yeah.,-0.33999999999991815,0.20000000000004547,0,False,True,1
+331,5d8d821215875e001482ece7,1040.08,1042.46,"it anymore to even go to college,",0.13999999999987267,2.380000000000109,0,False,False,7
+332,5efb5f77ef19f50a68564191,1042.04,1042.66,Uh huh.,-0.42000000000007276,0.6200000000001182,0,False,True,2
+333,5d8d821215875e001482ece7,1042.84,1044.27,do anything like that.,0.1799999999998363,1.4300000000000637,0,False,False,4
+334,5efb5f77ef19f50a68564191,1045.04,1080.06,"Yeah I think it depends a lot on what you want to do. Like you know if you're somebody like your husband right there like I want to be a farmer should I go to college? Like absolutely not. There's no reason to do. So that's out of the question. I think the U. C. To have a specific problem. I don't I don't I can't speak for U. C. Santa cruz. But like U. C. San Diego. We have a lot of students coming in who are, To be fair, a lot of people like financial aid, but a lot of people are paying $32,000 a year to be there and most of the teaching is done by graduate students and I guarantee you most of the graduate students don't want to be there teaching and they're probably hungover. So you're paying a lot",0.7699999999999818,35.01999999999998,1,False,False,155
+335,5d8d821215875e001482ece7,1080.04,1081.44,Yeah.,-0.01999999999998181,1.400000000000091,0,False,True,1
+336,5efb5f77ef19f50a68564191,1080.06,1096.16,of money for really low quality education and then they're packing people into these old buildings and um you know I think the international students are great students but like the UCS are putting in as many international students as possible um to increase revenue. And so they're not like serving,-1.3800000000001091,16.100000000000136,0,False,True,53
+337,5d8d821215875e001482ece7,1095.84,1096.04,Yeah.,-0.3200000000001637,0.20000000000004547,0,False,True,1
+338,5efb5f77ef19f50a68564191,1096.17,1098.56,"California students, which is, it's in the",0.13000000000010914,2.3899999999998727,0,False,False,8
+339,5d8d821215875e001482ece7,1098.54,1099.05,Mhm.,-0.01999999999998181,0.5099999999999909,0,False,True,1
+340,5efb5f77ef19f50a68564191,1098.56,1117.86,"charter, there's like this charter document, like the constitution and it's like our primary goal in life is to serve the students of California. Like are you doing that? And it's like no, 30% of our students are from China and like we only have 3%, you know, Latin X students. It's like, but California is like 20%, X, like, well whatever.",-0.4900000000000091,19.299999999999955,1,False,True,66
+341,5d8d821215875e001482ece7,1117.34,1117.54,Yeah.,-0.5199999999999818,0.20000000000004547,0,False,True,1
+342,5efb5f77ef19f50a68564191,1118.24,1124.12,"Like, well maybe you should have more of those students. Like, nah, it's okay. They don't, they",0.7000000000000455,5.879999999999882,0,False,False,19
+343,5d8d821215875e001482ece7,1123.94,1124.36,Stop,-0.1799999999998363,0.4199999999998454,0,False,True,1
+344,5efb5f77ef19f50a68564191,1124.13,1137.5,"require scholarship money. We can't make money on them. Just like, so no, in that sense, college is much less valuable than it used to be I think, but stem right. What? So what were you going into uh, with your stem degree?",-0.22999999999979082,13.36999999999989,2,True,True,44
+345,5d8d821215875e001482ece7,1137.84,1140.45,I was thinking of doing computer science.,0.33999999999991815,2.6100000000001273,0,False,False,7
+346,5efb5f77ef19f50a68564191,1140.84,1144.67,Yeah. So in that case college is totally worth it. 100%.,0.38999999999987267,3.8300000000001546,0,False,False,11
+347,5d8d821215875e001482ece7,1144.34,1144.66,Yeah.,-0.3300000000001546,0.3200000000001637,0,False,True,1
+348,5efb5f77ef19f50a68564191,1145.34,1155.77,"Um so I guess it depends, but it's certainly not like your parents generation where like a bachelor's degree would get you a good job and a good salary. That's not true anymore. Mhm",0.6799999999998363,10.430000000000064,0,False,False,37
+349,5d8d821215875e001482ece7,1155.94,1159.77,Yeah. It's definitely a lot different than what it is now.,0.17000000000007276,3.8299999999999272,0,False,False,12
+350,5efb5f77ef19f50a68564191,1160.34,1161.56,"Yeah, unfortunately.",0.5699999999999363,1.2200000000000273,0,False,False,2
+351,5d8d821215875e001482ece7,1160.74,1161.27,Uh huh.,-0.8199999999999363,0.5299999999999727,0,False,True,2
+352,5efb5f77ef19f50a68564191,1162.04,1168.07,"Um so here's, here's another question I'm curious about with, with farming, what does he want to grow? Do you, do you choose,",0.7699999999999818,6.029999999999973,1,False,False,26
+353,5d8d821215875e001482ece7,1167.54,1167.77,Okay.,-0.5299999999999727,0.2300000000000182,0,False,True,1
+354,5efb5f77ef19f50a68564191,1168.07,1169.45,is it like picking a favorite color?,0.2999999999999545,1.3800000000001091,1,True,False,7
+355,5d8d821215875e001482ece7,1170.14,1172.25,Um Well,0.6900000000000546,2.1099999999999,0,False,False,2
+356,5efb5f77ef19f50a68564191,1171.84,1172.05,"Yes,",-0.41000000000008185,0.21000000000003638,0,False,True,1
+357,5d8d821215875e001482ece7,1172.25,1195.16,it depends on the area you know because like certain crops will be more viable to grow in like certain areas like you know like the midwest has like we are corn or whatever but down here um there are a lot of what was it? There's some we I've seen but the farm that he works at um deals with a lot of pecans and some peaches,0.20000000000004547,22.910000000000082,1,False,False,70
+358,5efb5f77ef19f50a68564191,1195.44,1195.77,mm,0.2799999999999727,0.32999999999992724,0,False,False,1
+359,5d8d821215875e001482ece7,1195.54,1198.77,and he's thinking of like maybe expanding,-0.2300000000000182,3.230000000000018,0,False,True,8
+360,5efb5f77ef19f50a68564191,1197.74,1197.94,Yeah.,-1.0299999999999727,0.20000000000004547,0,False,True,1
+361,5d8d821215875e001482ece7,1199.64,1201.46,like and having his own bit of it,1.7000000000000455,1.8199999999999363,0,False,False,8
+362,5efb5f77ef19f50a68564191,1201.94,1202.96,Okay.,0.4800000000000182,1.0199999999999818,0,False,False,1
+363,5d8d821215875e001482ece7,1202.04,1208.05,"and they can work, they can like harvest it from there or something like that. He was trying to tell me stuff about",-0.9200000000000728,6.009999999999991,0,False,True,23
+364,5efb5f77ef19f50a68564191,1207.94,1208.35,"Yeah,",-0.10999999999989996,0.4099999999998545,0,False,True,1
+365,5d8d821215875e001482ece7,1208.05,1209.56,it overland.,-0.2999999999999545,1.509999999999991,0,False,True,2
+366,5efb5f77ef19f50a68564191,1209.74,1216.17,"doesn't, doesn't start to do a lot of rice. I know a lot of the southern states are like wet enough for rice paddies. Yeah.",0.18000000000006366,6.430000000000064,0,False,False,27
+367,5d8d821215875e001482ece7,1216.24,1217.09,"Um,",0.06999999999993634,0.849999999999909,0,False,False,1
+368,5efb5f77ef19f50a68564191,1216.64,1216.84,Yeah.,-0.4499999999998181,0.1999999999998181,0,False,True,1
+369,5d8d821215875e001482ece7,1217.1,1218.35,I haven't,0.2599999999999909,1.25,0,False,False,3
+370,5efb5f77ef19f50a68564191,1218.24,1218.45,Mhm.,-0.10999999999989996,0.21000000000003638,0,False,True,1
+371,5d8d821215875e001482ece7,1218.35,1221.16,"seen any just driving around my area, but",-0.10000000000013642,2.810000000000173,0,False,True,8
+372,5efb5f77ef19f50a68564191,1221.14,1221.67,Okay.,-0.01999999999998181,0.5299999999999727,0,False,True,1
+373,5d8d821215875e001482ece7,1221.16,1225.15,they might in like a different part of the state maybe like more south,-0.5099999999999909,3.990000000000009,0,False,True,14
+374,5efb5f77ef19f50a68564191,1224.84,1225.04,Yeah.,-0.3100000000001728,0.20000000000004547,0,False,True,1
+375,5d8d821215875e001482ece7,1225.15,1225.56,of me.,0.11000000000012733,0.4099999999998545,0,False,False,2
+376,5efb5f77ef19f50a68564191,1226.14,1232.26,Okay. And what was the biggest culture shock moving from central California to Georgia?,0.5800000000001546,6.119999999999891,1,True,False,14
+377,5d8d821215875e001482ece7,1234.44,1236.45,The amount of conservatives here.,2.1800000000000637,2.009999999999991,0,False,False,5
+378,5efb5f77ef19f50a68564191,1236.94,1237.88,"Yeah,",0.4900000000000091,0.9400000000000546,0,False,False,1
+379,5d8d821215875e001482ece7,1237.24,1237.77,Yeah.,-0.6400000000001,0.5299999999999727,0,False,True,1
+380,5efb5f77ef19f50a68564191,1237.88,1241.36,"I mean that, that's fine to say. Um",0.11000000000012733,3.479999999999791,0,False,False,9
+381,5d8d821215875e001482ece7,1240.74,1244.62,Because there are a lot more outwardly,-0.6199999999998909,3.8799999999998818,0,False,True,7
+382,5efb5f77ef19f50a68564191,1243.94,1244.35,"yeah,",-0.6799999999998363,0.4099999999998545,0,False,True,1
+383,5d8d821215875e001482ece7,1244.62,1257.64,"of it. Probably because it's like Just what the majority is here. Like, I don't know if you were watching the election not to bring it up, but my county was like, I think it was like 50,",0.2699999999999818,13.02000000000021,0,False,False,40
+384,5efb5f77ef19f50a68564191,1259.14,1259.67,"yeah,",1.5,0.5299999999999727,0,False,False,1
+385,5d8d821215875e001482ece7,1259.14,1260.67,voted conservative.,-0.5299999999999727,1.5299999999999727,0,False,True,2
+386,5efb5f77ef19f50a68564191,1261.14,1265.67,"yeah, yeah, that's very different from California. Coastal California,",0.4700000000000273,4.529999999999973,0,False,False,10
+387,5d8d821215875e001482ece7,1266.04,1266.75,Yeah.,0.36999999999989086,0.7100000000000364,0,False,False,1
+388,5efb5f77ef19f50a68564191,1266.14,1278.56,interior California was super red and there were always like overcompensating by putting giant trump flags on their trucks and stuff. But coastal California was extremely blue santa cruz I imagine is like you know borderline socialist country.,-0.6099999999999,12.419999999999845,0,False,True,38
+389,5d8d821215875e001482ece7,1278.94,1281.01,Yeah. I,0.38000000000010914,2.0699999999999363,0,False,False,2
+390,5efb5f77ef19f50a68564191,1280.74,1281.27,Uh huh.,-0.2699999999999818,0.5299999999999727,0,False,True,2
+391,5d8d821215875e001482ece7,1281.01,1282.36,did enjoy it there though.,-0.2599999999999909,1.349999999999909,0,False,True,5
+392,5efb5f77ef19f50a68564191,1283.04,1284.96,Oh in santa cruz. Oh yeah for sure.,0.6800000000000637,1.9200000000000728,0,False,False,8
+393,5d8d821215875e001482ece7,1284.64,1285.05,Yeah.,-0.31999999999993634,0.4099999999998545,0,False,True,1
+394,5efb5f77ef19f50a68564191,1285.54,1291.87,Um I was surprised by I haven't lived in Georgia but just the number of churches that you see like in,0.4900000000000091,6.329999999999927,0,False,False,22
+395,5d8d821215875e001482ece7,1291.84,1292.46,Yeah.,-0.029999999999972715,0.6200000000001182,0,False,True,1
+396,5efb5f77ef19f50a68564191,1291.87,1305.52,san Diego there's churches for sure and they're like high quality churches but I've never seen D. C. Was actually the worst for this but I remember seeing five churches on a single block and I'm like how could you possibly have that many people? But,-0.5900000000001455,13.650000000000091,1,False,True,50
+397,5d8d821215875e001482ece7,1305.34,1306.26,Yeah.,-0.18000000000006366,0.9200000000000728,0,False,True,1
+398,5efb5f77ef19f50a68564191,1305.52,1311.85,again coming from California where most people don't go to church it's like oh that's why because out here people do,-0.7400000000000091,6.329999999999927,0,False,True,24
+399,5d8d821215875e001482ece7,1311.24,1313.76,"Yeah. That sounds about right. I felt,",-0.6099999999999,2.519999999999982,0,False,True,7
+400,5efb5f77ef19f50a68564191,1314.24,1314.56,okay,0.4800000000000182,0.31999999999993634,0,False,False,1
+401,5d8d821215875e001482ece7,1314.64,1321.27,"I want to say there's maybe like five churches around me. There's one like right next right next door to my apartment place to,",0.08000000000015461,6.629999999999882,0,False,False,26
+402,5efb5f77ef19f50a68564191,1321.54,1323.06,hopefully they're not too loud.,0.2699999999999818,1.5199999999999818,0,False,False,6
+403,5d8d821215875e001482ece7,1323.44,1323.99,they're,0.38000000000010914,0.5499999999999545,0,False,False,2
+404,5efb5f77ef19f50a68564191,1323.54,1324.04,Yeah.,-0.4500000000000455,0.5,0,False,True,1
+405,5d8d821215875e001482ece7,1323.99,1325.87,"not, I don't, I",-0.049999999999954525,1.8799999999998818,0,False,True,5
+406,5efb5f77ef19f50a68564191,1325.84,1326.05,Mhm.,-0.029999999999972715,0.21000000000003638,0,False,True,1
+407,5d8d821215875e001482ece7,1325.87,1328.92,don't know like if they've stopped,-0.18000000000006366,3.050000000000182,0,False,True,8
+408,5efb5f77ef19f50a68564191,1328.44,1328.67,Yeah.,-0.4800000000000182,0.2300000000000182,0,False,True,1
+409,5d8d821215875e001482ece7,1328.93,1332.07,"in person services because of Covid, but",0.2599999999999909,3.1399999999998727,0,False,False,7
+410,5efb5f77ef19f50a68564191,1332.04,1332.27,Yeah.,-0.029999999999972715,0.2300000000000182,0,False,True,1
+411,5d8d821215875e001482ece7,1332.08,1336.56,"as far as I know, they haven't done any like huge events or anything like that.",-0.19000000000005457,4.480000000000018,0,False,True,17
+412,5efb5f77ef19f50a68564191,1336.24,1349.17,"Well that's the thing I'd be worried about is a lot of these churches are like we don't have to listen to you were you know, we're going to worship God in our own way, which includes congregating without masks so you can't tell us what to do. It's like, yeah, but if I lived in that neighborhood I get",-0.31999999999993634,12.930000000000064,0,False,True,66
+413,5d8d821215875e001482ece7,1349.14,1349.55,Yeah.,-0.029999999999972715,0.4099999999998545,0,False,True,1
+414,5efb5f77ef19f50a68564191,1349.17,1350.97,really nervous that,-0.37999999999988177,1.7999999999999545,0,False,True,3
+415,5d8d821215875e001482ece7,1350.54,1351.76,Yeah.,-0.43000000000006366,1.2200000000000273,0,False,True,1
+416,5efb5f77ef19f50a68564191,1350.97,1356.42,you're all like singing into each other's faces with a respiratory transmitted disease.,-0.7899999999999636,5.4500000000000455,0,False,True,15
+417,5d8d821215875e001482ece7,1356.64,1358.48,Yeah.,0.22000000000002728,1.8399999999999181,0,False,False,1
+418,5efb5f77ef19f50a68564191,1356.74,1357.06,Mhm.,-1.740000000000009,0.31999999999993634,0,False,True,1
+419,5d8d821215875e001482ece7,1358.48,1358.56,I,1.4200000000000728,0.07999999999992724,0,False,False,1
+420,5efb5f77ef19f50a68564191,1358.54,1358.77,"Yeah,",-0.01999999999998181,0.2300000000000182,0,False,True,1
+421,5d8d821215875e001482ece7,1358.56,1367.37,know a lot of my in laws that live in Georgia don't really prescribe to the belief that masks work except,-0.21000000000003638,8.809999999999945,0,False,True,22
+422,5efb5f77ef19f50a68564191,1367.14,1367.56,"it's,",-0.22999999999979082,0.4199999999998454,0,False,True,2
+423,5d8d821215875e001482ece7,1367.37,1371.86,for my husband's grandmother and that's because she's older and,-0.19000000000005457,4.490000000000009,0,False,True,13
+424,5efb5f77ef19f50a68564191,1371.64,1372.86,yeah.,-0.2199999999997999,1.2199999999998,0,False,True,1
+425,5d8d821215875e001482ece7,1372.24,1374.16,"you know, as a weaker immune system.",-0.6199999999998909,1.9200000000000728,0,False,True,7
+426,5efb5f77ef19f50a68564191,1374.64,1379.77,Has she been through a pandemic previously or something like that? Mhm.,0.4800000000000182,5.129999999999882,1,False,False,12
+427,5d8d821215875e001482ece7,1379.94,1384.46,"uh I don't think so. I'm pretty sure she was born in the 50s,",0.17000000000007276,4.519999999999982,0,False,False,16
+428,5efb5f77ef19f50a68564191,1385.04,1385.55,Okay.,0.5799999999999272,0.5099999999999909,0,False,False,1
+429,5d8d821215875e001482ece7,1385.84,1386.52,so definitely,0.2899999999999636,0.6800000000000637,0,False,False,2
+430,5efb5f77ef19f50a68564191,1386.24,1386.56,"Yes,",-0.2799999999999727,0.31999999999993634,0,False,True,1
+431,5d8d821215875e001482ece7,1386.52,1387.27,not like,-0.03999999999996362,0.75,0,False,True,2
+432,5efb5f77ef19f50a68564191,1387.94,1389.24,I,0.6700000000000728,1.2999999999999545,0,False,False,1
+433,5d8d821215875e001482ece7,1388.84,1389.72,"any major,",-0.40000000000009095,0.8800000000001091,0,False,True,2
+434,5efb5f77ef19f50a68564191,1389.25,1390.56,"mean, yeah,",-0.4700000000000273,1.3099999999999454,0,False,True,2
+435,5d8d821215875e001482ece7,1390.07,1390.67,major pins.,-0.4900000000000091,0.6000000000001364,0,False,True,2
+436,5efb5f77ef19f50a68564191,1390.57,1391.14,not like,-0.10000000000013642,0.5700000000001637,0,False,True,2
+437,5d8d821215875e001482ece7,1391.04,1391.27,Yeah.,-0.10000000000013642,0.2300000000000182,0,False,True,1
+438,5efb5f77ef19f50a68564191,1391.15,1393.39,1914 influenza,-0.11999999999989086,2.240000000000009,0,False,True,2
+439,5d8d821215875e001482ece7,1392.64,1393.17,"Yeah,",-0.75,0.5299999999999727,0,False,True,1
+440,5efb5f77ef19f50a68564191,1393.4,1401.17,"like that. Um is it true that Georgians? Well I guess they say it is about southerners, but are they just sort of like more outwardly friendly?",0.2300000000000182,7.769999999999982,2,True,False,27
+441,5d8d821215875e001482ece7,1401.44,1401.86,they,0.2699999999999818,0.4199999999998454,0,False,False,1
+442,5efb5f77ef19f50a68564191,1401.64,1401.97,Yeah.,-0.2199999999997999,0.32999999999992724,0,False,True,1
+443,5d8d821215875e001482ece7,1401.87,1404.26,"are. Yeah. It,",-0.10000000000013642,2.3900000000001,0,False,True,3
+444,5efb5f77ef19f50a68564191,1403.84,1404.26,Okay.,-0.42000000000007276,0.42000000000007276,0,False,True,1
+445,5d8d821215875e001482ece7,1404.27,1409.46,"well, it depends because I live in like a not so good neighborhood.",0.009999999999990905,5.190000000000055,0,False,False,13
+446,5efb5f77ef19f50a68564191,1409.84,1410.35,Okay.,0.37999999999988177,0.5099999999999909,0,False,False,1
+447,5d8d821215875e001482ece7,1410.64,1415.96,"Like I live, I think I live in one of the worst crime rates in the entire state. Like",0.290000000000191,5.319999999999936,0,False,False,19
+448,5efb5f77ef19f50a68564191,1415.84,1416.17,Mm.,-0.12000000000011823,0.3300000000001546,0,False,True,1
+449,5d8d821215875e001482ece7,1415.96,1423.66,"for the most part, if you go up and talk to somebody, they're going to be like, you know, nice about it. They're not just going to like Russia offer be weird,",-0.21000000000003638,7.7000000000000455,0,False,True,34
+450,5efb5f77ef19f50a68564191,1424.14,1424.67,Okay.,0.4800000000000182,0.5299999999999727,0,False,False,1
+451,5d8d821215875e001482ece7,1424.14,1430.56,"which I haven't experienced in California, but maybe that's just because I'm also a California, so",-0.5299999999999727,6.419999999999845,0,False,True,19
+452,5efb5f77ef19f50a68564191,1430.24,1432.06,Yeah. Mm.,-0.31999999999993634,1.8199999999999363,0,False,True,2
+453,5d8d821215875e001482ece7,1431.64,1433.67,"I don't know, I just think differently.",-0.4199999999998454,2.0299999999999727,0,False,True,8
+454,5efb5f77ef19f50a68564191,1434.04,1445.77,Yeah. My my impression was California's were always like distantly friendly until they got really drunk or really high and then they just like over shared all of the like the last trauma for the last three or four years of their life,0.36999999999989086,11.730000000000018,0,False,False,44
+455,5d8d821215875e001482ece7,1445.34,1445.67,Okay.,-0.43000000000006366,0.3300000000001546,0,False,True,1
+456,5efb5f77ef19f50a68564191,1445.78,1466.54,"where southerners are like, they're a little bit more even, they'll tell you some personal stuff in casual conversation like, oh, you know, that's cool. Like I didn't know your husband was an addict or whatever California, no one talks about themselves until they're like a bottle of wine in and then it's like a, it's a therapy session. You're like, wow, this is a lot. I was born and raised in colorado, so I'm not a native Californian that took me some, getting used",0.10999999999989996,20.75999999999999,0,False,False,94
+457,5d8d821215875e001482ece7,1466.44,1466.86,Mhm,-0.09999999999990905,0.4199999999998454,0,False,True,1
+458,5efb5f77ef19f50a68564191,1466.54,1468.36,to for sure.,-0.31999999999993634,1.8199999999999363,0,False,True,3
+459,5d8d821215875e001482ece7,1468.44,1473.82,Is there a huge difference between Californians in colorado's colorado,0.08000000000015461,5.379999999999882,0,False,False,11
+460,5efb5f77ef19f50a68564191,1473.64,1474.17,I think,-0.1799999999998363,0.5299999999999727,0,False,True,2
+461,5d8d821215875e001482ece7,1473.82,1474.36,"people,",-0.3500000000001364,0.5399999999999636,0,False,True,1
+462,5efb5f77ef19f50a68564191,1474.84,1477.21,colorado colorado wins. Um,0.4800000000000182,2.3700000000001182,0,False,False,4
+463,5d8d821215875e001482ece7,1476.84,1477.17,wow.,-0.37000000000011823,0.3300000000001546,0,False,True,1
+464,5efb5f77ef19f50a68564191,1477.22,1503.56,"I think colorado is mostly are just interested in like hiking as much as possible. Dog ownership is practically mandatory and then smoking a ton of weight because we were the first state in the Union to do that. Um I, I guess we're just not as rich and so there's a lot of Californians who are moving to colorado to avoid like property taxes and stuff. That's probably another huge uh cultural shift is like everything is probably gonna be cheaper in Georgia than it was in California.",0.049999999999954525,26.339999999999918,0,False,False,93
+465,5d8d821215875e001482ece7,1504.34,1504.55,Mhm,0.7799999999999727,0.21000000000003638,0,False,False,1
+466,5efb5f77ef19f50a68564191,1504.64,1505.66,Uh,0.09000000000014552,1.0199999999999818,0,False,False,1
+467,5d8d821215875e001482ece7,1505.04,1505.75,Yeah.,-0.6200000000001182,0.7100000000000364,0,False,True,1
+468,5efb5f77ef19f50a68564191,1506.24,1506.57,"Yeah,",0.4900000000000091,0.32999999999992724,0,False,False,1
+469,5d8d821215875e001482ece7,1506.54,1507.17,Watch,-0.029999999999972715,0.6300000000001091,0,False,True,1
+470,5efb5f77ef19f50a68564191,1506.58,1515.61,so we're just pissed off that California's are like moving to colorado and buying up all like the nice mountain chalets and clogging up our highways that nobody can go skiing anymore. So,-0.5900000000001455,9.029999999999973,0,False,True,35
+471,5d8d821215875e001482ece7,1515.44,1515.67,mhm,-0.16999999999984539,0.2300000000000182,0,False,True,1
+472,5efb5f77ef19f50a68564191,1515.61,1518.36,we we hate California's as much as we hate Texans now.,-0.060000000000172804,2.75,0,False,True,12
+473,5d8d821215875e001482ece7,1518.84,1523.13,"Yeah, I totally understand that. I know it's like a huge",0.4800000000000182,4.290000000000191,0,False,False,12
+474,5efb5f77ef19f50a68564191,1522.94,1523.17,Mhm.,-0.19000000000005457,0.2300000000000182,0,False,True,1
+475,5d8d821215875e001482ece7,1523.13,1528.64,"problem for like wealthier Californians just to, you know, buy",-0.03999999999996362,5.509999999999991,0,False,True,10
+476,5efb5f77ef19f50a68564191,1528.54,1528.77,Mhm.,-0.10000000000013642,0.2300000000000182,0,False,True,1
+477,5d8d821215875e001482ece7,1528.64,1529.85,up all the property,-0.12999999999988177,1.209999999999809,0,False,True,4
+478,5efb5f77ef19f50a68564191,1530.34,1530.78,Well that's,0.4900000000000091,0.44000000000005457,0,False,False,3
+479,5d8d821215875e001482ece7,1530.74,1531.01,like,-0.03999999999996362,0.2699999999999818,0,False,True,1
+480,5efb5f77ef19f50a68564191,1530.78,1540.27,"the issue, right? Like, you know, if you wanted to live off campus in Santa Cruz, what would it have cost for a reasonable flat? 2000 3000.",-0.2300000000000182,9.490000000000009,2,False,True,27
+481,5d8d821215875e001482ece7,1540.84,1544.41,"mm Yeah, around that part, like, I think like take",0.5699999999999363,3.5700000000001637,0,False,False,10
+482,5efb5f77ef19f50a68564191,1544.14,1544.46,Mhm.,-0.2699999999999818,0.31999999999993634,0,False,True,1
+483,5d8d821215875e001482ece7,1544.41,1546.83,"my apartment right now, it's like, it's,",-0.049999999999954525,2.4199999999998454,0,False,True,9
+484,5efb5f77ef19f50a68564191,1546.84,1546.93,All,0.009999999999990905,0.09000000000014552,0,False,False,1
+485,5d8d821215875e001482ece7,1546.84,1547.06,I,-0.09000000000014552,0.22000000000002728,0,False,True,1
+486,5efb5f77ef19f50a68564191,1546.93,1547.35,right.,-0.12999999999988177,0.4199999999998454,0,False,True,1
+487,5d8d821215875e001482ece7,1547.06,1551.16,"want to say it's like 700 square feet and it's a one bedroom, one bath,",-0.2899999999999636,4.100000000000136,0,False,True,17
+488,5efb5f77ef19f50a68564191,1551.54,1551.86,Mhm.,0.37999999999988177,0.31999999999993634,0,False,False,1
+489,5d8d821215875e001482ece7,1551.54,1553.84,we pay 5,-0.31999999999993634,2.2999999999999545,0,False,True,3
+490,5efb5f77ef19f50a68564191,1553.34,1553.55,Mhm.,-0.5,0.21000000000003638,0,False,True,1
+491,5d8d821215875e001482ece7,1553.84,1554.76,60,0.2899999999999636,0.9200000000000728,0,False,False,1
+492,5efb5f77ef19f50a68564191,1554.34,1555.6,Oh my God. Oh,-0.42000000000007276,1.259999999999991,0,False,True,4
+493,5d8d821215875e001482ece7,1555.44,1557.13,5,-0.15999999999985448,1.6900000000000546,0,False,True,1
+494,5efb5f77ef19f50a68564191,1555.6,1556.46,"my God,",-1.5300000000002,0.8600000000001273,0,False,True,2
+495,5d8d821215875e001482ece7,1557.13,1557.99,60.,0.6700000000000728,0.8599999999999,0,False,False,1
+496,5efb5f77ef19f50a68564191,1557.84,1558.56,that's,-0.15000000000009095,0.7200000000000273,0,False,True,2
+497,5d8d821215875e001482ece7,1558.0,1558.67,If it's,-0.5599999999999454,0.6700000000000728,0,False,True,3
+498,5efb5f77ef19f50a68564191,1558.56,1559.06,what,-0.11000000000012733,0.5,0,False,True,1
+499,5d8d821215875e001482ece7,1558.67,1564.46,"wasn't santa cruz, this would probably be like, I want to say 2400",-0.38999999999987267,5.789999999999964,0,False,True,14
+500,5efb5f77ef19f50a68564191,1563.64,1565.98,"yeah, that's",-0.8199999999999363,2.339999999999918,0,False,True,3
+501,5d8d821215875e001482ece7,1565.74,1566.31,for just,-0.2400000000000091,0.5699999999999363,0,False,True,2
+502,5efb5f77ef19f50a68564191,1565.98,1566.96,crazy.,-0.32999999999992724,0.9800000000000182,0,False,True,1
+503,5d8d821215875e001482ece7,1566.32,1566.67,like,-0.6400000000001,0.3500000000001364,0,False,True,1
+504,5efb5f77ef19f50a68564191,1567.34,1567.54,"Yeah,",0.6699999999998454,0.20000000000004547,0,False,False,1
+505,5d8d821215875e001482ece7,1567.44,1568.55,regular area.,-0.09999999999990905,1.1099999999999,0,False,True,2
+506,5efb5f77ef19f50a68564191,1569.04,1574.43,"That's insane. Well like I said, you've you've moved to a much more affordable place so congratulations, your dollar",0.4900000000000091,5.3900000000001,0,False,False,22
+507,5d8d821215875e001482ece7,1574.14,1574.46,Mhm,-0.2899999999999636,0.31999999999993634,0,False,True,1
+508,5efb5f77ef19f50a68564191,1574.43,1586.56,can actually go somewhere. Um so it sounds like a timer went off. So I think we are we're done with our 25 minutes. But I hope your husband is able to expand his farm and do what he wants to do with it.,-0.029999999999972715,12.129999999999882,0,False,True,45
+509,5d8d821215875e001482ece7,1586.84,1587.36,Thank,0.2799999999999727,0.5199999999999818,0,False,False,1
+510,5efb5f77ef19f50a68564191,1586.94,1587.36,Mhm.,-0.4199999999998454,0.4199999999998454,0,False,True,1
+511,5d8d821215875e001482ece7,1587.36,1588.55,you. I hope I,0.0,1.1900000000000546,0,False,False,4
+512,5efb5f77ef19f50a68564191,1588.54,1589.04,Yeah.,-0.009999999999990905,0.5,0,False,True,1
+513,5d8d821215875e001482ece7,1588.55,1590.86,"hope you do good and you know,",-0.4900000000000091,2.3099999999999454,0,False,True,7
+514,5efb5f77ef19f50a68564191,1590.84,1592.75,Yeah. Yeah.,-0.01999999999998181,1.9100000000000819,0,False,True,2
+515,5d8d821215875e001482ece7,1592.14,1593.85,"everything, all things considered",-0.6099999999999,1.709999999999809,0,False,True,4
+516,5efb5f77ef19f50a68564191,1594.14,1595.34,Let's all survive till april,0.290000000000191,1.199999999999818,0,False,False,6
+517,5d8d821215875e001482ece7,1595.24,1595.45,Okay.,-0.09999999999990905,0.21000000000003638,0,False,True,1
+518,5efb5f77ef19f50a68564191,1595.34,1597.05,is my is my goal.,-0.11000000000012733,1.7100000000000364,0,False,True,5
+519,5d8d821215875e001482ece7,1596.84,1598.55,"Yeah, that's the hope anyway.",-0.21000000000003638,1.7100000000000364,0,False,True,6
+520,5efb5f77ef19f50a68564191,1598.44,1602.17,That's that's what we're saying why widespread distribution of vaccines in april.,-0.10999999999989996,3.730000000000018,0,False,True,15
+521,5d8d821215875e001482ece7,1602.14,1602.46,Yeah.,-0.029999999999972715,0.31999999999993634,0,False,True,1
+522,5efb5f77ef19f50a68564191,1602.18,1607.67,I would just be concerned in Georgia if people are enthusiastic to take the vaccine. Yeah.,-0.2799999999999727,5.490000000000009,0,False,True,16
+523,5d8d821215875e001482ece7,1608.14,1609.06,Yeah.,0.4700000000000273,0.9199999999998454,0,False,False,1
+524,5efb5f77ef19f50a68564191,1608.54,1609.04,Yeah.,-0.5199999999999818,0.5,0,False,True,1
+525,5d8d821215875e001482ece7,1609.84,1611.8,Does the problem?,0.7999999999999545,1.9600000000000364,1,True,False,3
+526,5efb5f77ef19f50a68564191,1611.44,1611.67,Mhm.,-0.35999999999989996,0.2300000000000182,0,False,True,1
+527,5d8d821215875e001482ece7,1611.8,1614.27,I'll keep wearing my mask when I go up though.,0.12999999999988177,2.4700000000000273,0,False,False,11
+528,5efb5f77ef19f50a68564191,1614.74,1615.08,Yeah.,0.4700000000000273,0.33999999999991815,0,False,False,1
+529,5d8d821215875e001482ece7,1614.74,1615.24,I'd rather,-0.33999999999991815,0.5,0,False,True,3
+530,5efb5f77ef19f50a68564191,1615.08,1615.28,That's,-0.16000000000008185,0.20000000000004547,0,False,True,2
+531,5d8d821215875e001482ece7,1615.24,1615.41,be,-0.03999999999996362,0.17000000000007276,0,False,True,1
+532,5efb5f77ef19f50a68564191,1615.28,1616.15,good.,-0.13000000000010914,0.8700000000001182,0,False,True,1
+533,5d8d821215875e001482ece7,1615.41,1616.66,safe than sorry.,-0.7400000000000091,1.25,0,False,True,3
+534,5efb5f77ef19f50a68564191,1616.16,1620.17,It's a public show of solidarity with like doctors and science.,-0.5,4.009999999999991,0,False,True,12
+535,5d8d821215875e001482ece7,1620.24,1620.44,Yeah.,0.06999999999993634,0.20000000000004547,0,False,False,1
+536,5efb5f77ef19f50a68564191,1620.74,1623.17,Good job. All right we'll have a good rest of your day.,0.2999999999999545,2.4300000000000637,0,False,False,13
+537,5d8d821215875e001482ece7,1623.34,1624.06,You too,0.16999999999984539,0.7200000000000273,0,False,False,2

@@ -1,0 +1,433 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5ec5b367ec26b761ec0fc87d,5.54,76.26,Yeah. What? Yeah. Yeah. Okay. Right.,,70.72,1,False,False,6
+1,5f6b75742bd7e60776191cb4,104.64,108.35,Okay. Oh hello.,28.379999999999995,3.7099999999999937,0,False,False,3
+2,5ec5b367ec26b761ec0fc87d,108.64,109.86,Hey,0.29000000000000625,1.2199999999999989,0,False,False,1
+3,5f6b75742bd7e60776191cb4,109.04,110.56,Yeah. Oh hi.,-0.8199999999999932,1.519999999999996,0,False,True,3
+4,5ec5b367ec26b761ec0fc87d,110.84,111.86,how's it going?,0.28000000000000114,1.019999999999996,1,True,False,4
+5,5f6b75742bd7e60776191cb4,112.14,115.95,I'm doing good. There we go. Because I was waiting for a bit um It took me a bit to connect. Sorry.,0.28000000000000114,3.8100000000000023,0,False,False,23
+6,5ec5b367ec26b761ec0fc87d,116.24,121.28,Oh that's okay. I just nowadays don't expect people to show up because it's happened,0.28999999999999204,5.040000000000006,0,False,False,18
+7,5f6b75742bd7e60776191cb4,121.14,121.46,"Yeah,",-0.14000000000000057,0.3199999999999932,0,False,True,1
+8,5ec5b367ec26b761ec0fc87d,121.28,122.36,a few times but,-0.1799999999999926,1.0799999999999983,0,False,True,4
+9,5f6b75742bd7e60776191cb4,122.34,122.95,it happened,-0.01999999999999602,0.6099999999999994,0,False,True,2
+10,5ec5b367ec26b761ec0fc87d,122.74,123.06,what?,-0.21000000000000796,0.3200000000000074,1,True,True,1
+11,5f6b75742bd7e60776191cb4,122.95,123.85,to me as well happen,-0.10999999999999943,0.8999999999999915,0,False,True,5
+12,5ec5b367ec26b761ec0fc87d,123.74,124.06,Okay.,-0.10999999999999943,0.3200000000000074,0,False,True,1
+13,5f6b75742bd7e60776191cb4,123.86,125.66,three times so far.,-0.20000000000000284,1.7999999999999972,0,False,True,4
+14,5ec5b367ec26b761ec0fc87d,125.94,126.44,Yeah.,0.28000000000000114,0.5,0,False,False,1
+15,5f6b75742bd7e60776191cb4,126.04,126.25,Ah,-0.3999999999999915,0.20999999999999375,0,False,True,1
+16,5ec5b367ec26b761ec0fc87d,126.84,127.76,Okay. It,0.5900000000000034,0.9200000000000017,0,False,False,2
+17,5f6b75742bd7e60776191cb4,127.74,128.36,Yeah.,-0.020000000000010232,0.6200000000000188,0,False,True,1
+18,5ec5b367ec26b761ec0fc87d,127.76,128.26,happened.,-0.6000000000000085,0.4999999999999858,0,False,True,1
+19,5f6b75742bd7e60776191cb4,129.04,131.76,What region are you from or at?,0.7800000000000011,2.719999999999999,1,True,False,7
+20,5ec5b367ec26b761ec0fc87d,132.14,134.66,Um I'm in colorado right now. Where are you from?,0.37999999999999545,2.5200000000000102,1,True,False,11
+21,5f6b75742bd7e60776191cb4,135.04,136.75,I'm all the way in the east coast of Virginia.,0.37999999999999545,1.710000000000008,0,False,False,11
+22,5ec5b367ec26b761ec0fc87d,137.44,139.45,Very nice. How are things over there?,0.6899999999999977,2.009999999999991,1,True,False,7
+23,5f6b75742bd7e60776191cb4,140.44,146.03,"Um College wise, it's a mess. It's like, I think you're in college too, are you in",0.9900000000000091,5.590000000000003,0,False,False,20
+24,5ec5b367ec26b761ec0fc87d,145.94,146.15,Right.,-0.09000000000000341,0.21000000000000796,0,False,True,1
+25,5f6b75742bd7e60776191cb4,146.03,146.96,college? And,-0.12000000000000455,0.9300000000000068,1,False,True,2
+26,5ec5b367ec26b761ec0fc87d,146.54,150.46,No I live in a college town but I'm past college now,-0.4200000000000159,3.920000000000016,0,False,True,13
+27,5f6b75742bd7e60776191cb4,151.04,152.06,so what was your major?,0.5799999999999841,1.0200000000000102,1,True,False,5
+28,5ec5b367ec26b761ec0fc87d,152.44,153.76,computer science.,0.37999999999999545,1.3199999999999932,0,False,False,2
+29,5f6b75742bd7e60776191cb4,154.34,156.95,"Really? Okay. Wait, which concentration?",0.5800000000000125,2.609999999999985,2,True,False,5
+30,5ec5b367ec26b761ec0fc87d,157.64,161.44,"Um We don't pick any concentrations, it was just",0.6899999999999977,3.8000000000000114,0,False,False,10
+31,5f6b75742bd7e60776191cb4,161.14,161.46,Yeah.,-0.30000000000001137,0.3200000000000216,0,False,True,1
+32,5ec5b367ec26b761ec0fc87d,161.44,163.16,general but like software,-0.020000000000010232,1.7199999999999989,0,False,True,4
+33,5f6b75742bd7e60776191cb4,164.34,172.05,Okay. Okay. So that's actually pretty cool. Your CS major? Imagine I. T. Major and a double major I. T. And music performance or pedagogy.,1.1800000000000068,7.710000000000008,1,False,False,26
+34,5ec5b367ec26b761ec0fc87d,171.44,173.94,"Oh very different, very different. Yeah.",-0.6100000000000136,2.5,0,False,True,6
+35,5f6b75742bd7e60776191cb4,173.94,179.25,"Yeah, but still I. T. And CS. Huh? So what Cody languages did you work on? A colorado?",0.0,5.310000000000002,3,True,False,18
+36,5ec5b367ec26b761ec0fc87d,180.04,204.36,"Um So I was in school until junior year and then I had to stop for health problems, so my coding is very rusty. Um I think my sms we did a lot of C. Plus plus um And I just kind of started up again and I'm trying to learn python which so far no compared to C. And C. Plus plus, but have you ever done coding or?",0.789999999999992,24.32000000000002,1,True,False,71
+37,5f6b75742bd7e60776191cb4,205.04,214.68,Yeah. Actually already. So was the last semester. So let's spring semester we worked on html and parts of python. Whereas in the summer,0.6799999999999784,9.640000000000015,0,False,False,25
+38,5ec5b367ec26b761ec0fc87d,214.14,214.55,Uh huh.,-0.5400000000000205,0.410000000000025,0,False,True,2
+39,5f6b75742bd7e60776191cb4,214.69,222.56,there I took a class entirely dedicated to python. So I have python now. But this semester I'm taking java. Which is a pain in my ass. I hate java.,0.13999999999998636,7.8700000000000045,0,False,False,31
+40,5ec5b367ec26b761ec0fc87d,222.74,223.31,Really?,0.18000000000000682,0.5699999999999932,1,True,False,1
+41,5f6b75742bd7e60776191cb4,223.04,223.55,Yes,-0.27000000000001023,0.5100000000000193,0,False,True,1
+42,5ec5b367ec26b761ec0fc87d,223.32,227.26,I liked it but it's also been several years since I've used it.,-0.2300000000000182,3.9399999999999977,0,False,True,15
+43,5f6b75742bd7e60776191cb4,227.94,242.18,I see. Yeah because it's like the reason why I hate it is it because it is difficult. But the reason why is because like since is online and R. G. T. A. So uh at school I go to GM. You. It's a,0.6800000000000068,14.240000000000009,0,False,False,46
+44,5ec5b367ec26b761ec0fc87d,242.04,242.46,Mhm.,-0.14000000000001478,0.4200000000000159,0,False,True,1
+45,5f6b75742bd7e60776191cb4,242.19,254.46,"really well known school. The engineering department divulging it. It's really one of the east coast throughout the country. So that's why it's really difficult to pass. And the G. T. A. S. Are almost everyone, the department's foreign. They're all from china, you know china",-0.27000000000001023,12.27000000000001,0,False,True,51
+46,5ec5b367ec26b761ec0fc87d,253.84,254.94,Yeah. Yeah.,-0.6200000000000045,1.0999999999999943,0,False,True,2
+47,5f6b75742bd7e60776191cb4,254.47,258.54,"Korea or India, the big retek people or the big three",-0.46999999999999886,4.070000000000022,0,False,True,11
+48,5ec5b367ec26b761ec0fc87d,258.44,258.76,Mhm.,-0.10000000000002274,0.3199999999999932,0,False,True,1
+49,5f6b75742bd7e60776191cb4,258.54,267.45,tech countries. So they all know their stuff. But the problem is is because it's the reason I bring that up is because it's covid right now they're all back over there so,-0.21999999999997044,8.909999999999968,0,False,True,36
+50,5ec5b367ec26b761ec0fc87d,267.44,268.45,Uh huh.,-0.009999999999990905,1.009999999999991,0,False,True,2
+51,5f6b75742bd7e60776191cb4,267.94,280.56,they hold office hours at like the strangest times like one or two a.m. Some of them or it's like 11 p.m. Maybe for lucky 10 p.m. But it's like really early for them or really late.,-0.5099999999999909,12.620000000000005,0,False,True,39
+52,5ec5b367ec26b761ec0fc87d,281.54,296.56,Yeah that's unfortunate because I wouldn't want them to be up at odd hours just to hold office hours. But at the same time if they're working for a school in the US it might be a little easier to just go buy us times instead,0.9800000000000182,15.019999999999982,0,False,False,49
+53,5f6b75742bd7e60776191cb4,296.24,297.25,Yeah,-0.3199999999999932,1.009999999999991,0,False,True,1
+54,5ec5b367ec26b761ec0fc87d,296.56,298.66,of having them at one in the morning. Us times.,-0.6899999999999977,2.1000000000000227,0,False,True,10
+55,5f6b75742bd7e60776191cb4,299.34,305.69,but I can't understand because I know for I think the korean G. T. A. We have I forgot her name but I think like what,0.67999999999995,6.350000000000023,0,False,False,27
+56,5ec5b367ec26b761ec0fc87d,305.54,305.95,Yeah,-0.14999999999997726,0.40999999999996817,0,False,True,1
+57,5f6b75742bd7e60776191cb4,305.69,311.6,is it like when it when she because she holds office I was like one a.m. Or two. I am. I think that's,-0.2599999999999909,5.910000000000025,0,False,True,24
+58,5ec5b367ec26b761ec0fc87d,311.54,311.96,mm.,-0.060000000000002274,0.4199999999999591,0,False,True,1
+59,5f6b75742bd7e60776191cb4,311.6,319.76,like 12 or like three p.m. For her. I don't know which one it is but I know that's kind of like daylight hours for her whereas for,-0.3599999999999568,8.159999999999968,0,False,True,30
+60,5ec5b367ec26b761ec0fc87d,319.74,320.15,Yeah,-0.01999999999998181,0.40999999999996817,0,False,True,1
+61,5f6b75742bd7e60776191cb4,319.76,327.96,us it's like dead middle of night and like I understand at the same time it's like we're only going off lectures. Also your camera turned off it kind of died.,-0.38999999999998636,8.199999999999989,0,False,True,34
+62,5ec5b367ec26b761ec0fc87d,328.64,329.56,my camera turned off,0.6800000000000068,0.9200000000000159,0,False,False,4
+63,5f6b75742bd7e60776191cb4,330.34,332.44,Yeah because it's,0.7799999999999727,2.1000000000000227,0,False,False,4
+64,5ec5b367ec26b761ec0fc87d,331.74,333.87,I,-0.6999999999999886,2.1299999999999955,0,False,True,1
+65,5f6b75742bd7e60776191cb4,332.44,333.06,"just like,",-1.4300000000000068,0.6200000000000045,0,False,True,2
+66,5ec5b367ec26b761ec0fc87d,333.88,335.96,don't know it takes six. I see it on mine.,0.8199999999999932,2.079999999999984,0,False,False,11
+67,5f6b75742bd7e60776191cb4,336.84,362.14,"oh that's fine, that's fine. But it's like how to put it. Um it's, I understand why they do it, but like at the same time we really need help because like almost all of us, especially like the best analogy I can bring up to describe how all of us are feeling right now in the CS department is we feel like, you know, I feel like you've ever seen a photo of a dog with its own leash in his mouth and just walking itself.",0.8799999999999955,25.30000000000001,0,False,False,92
+68,5ec5b367ec26b761ec0fc87d,362.14,363.54,Yeah,0.0,1.400000000000034,0,False,False,1
+69,5f6b75742bd7e60776191cb4,362.15,362.86,That's how I feel like,-1.3900000000000432,0.7100000000000364,0,False,True,6
+70,5ec5b367ec26b761ec0fc87d,363.94,364.36,and,1.079999999999984,0.4200000000000159,0,False,False,1
+71,5f6b75742bd7e60776191cb4,364.24,365.25,"yeah,",-0.12000000000000455,1.009999999999991,0,False,True,1
+72,5ec5b367ec26b761ec0fc87d,364.37,366.85,when I was going it was all we were holding,-0.8799999999999955,2.480000000000018,0,False,True,10
+73,5f6b75742bd7e60776191cb4,366.54,366.99,drink.,-0.3100000000000023,0.44999999999998863,0,False,True,1
+74,5ec5b367ec26b761ec0fc87d,366.86,368.65,each other's leash is trying,-0.12999999999999545,1.7899999999999636,0,False,True,6
+75,5f6b75742bd7e60776191cb4,368.24,368.56,Oh,-0.40999999999996817,0.3199999999999932,0,False,True,1
+76,5ec5b367ec26b761ec0fc87d,368.65,371.55,to keep each other up. It was,0.08999999999997499,2.900000000000034,0,False,False,7
+77,5f6b75742bd7e60776191cb4,371.54,372.34,"yeah,",-0.009999999999990905,0.7999999999999545,0,False,True,1
+78,5ec5b367ec26b761ec0fc87d,371.55,372.56,rough stuff.,-0.7899999999999636,1.009999999999991,0,False,True,2
+79,5f6b75742bd7e60776191cb4,373.54,381.59,"I mean during the semester it was easier. Like went before covid, it was like to put it, it was like yeah, much more easier because",0.9800000000000182,8.049999999999955,0,False,False,26
+80,5ec5b367ec26b761ec0fc87d,381.44,381.65,Oh.,-0.14999999999997726,0.20999999999997954,0,False,True,1
+81,5f6b75742bd7e60776191cb4,381.59,390.96,"the difference is like, now we have a ton of questions but he can only answer so much because you know, no one really goes to his office hours because everyone in his classes in America, I'm",-0.060000000000002274,9.370000000000005,0,False,True,38
+82,5ec5b367ec26b761ec0fc87d,390.94,391.45,Mhm.,-0.01999999999998181,0.5099999999999909,0,False,True,1
+83,5f6b75742bd7e60776191cb4,390.96,415.4,"pretty sure. And like that and also like just in general, again, he can't answer most questions. The presentation he had like the recorded ones, they're not really good in a sense because if he was able to release, because I know every siesta in the CS department, they record every lecture at least the big classes like C plus plus, java python. The rest, they record every lecture in person and they",-0.4900000000000091,24.439999999999998,0,False,True,75
+84,5ec5b367ec26b761ec0fc87d,415.34,415.76,Mhm.,-0.060000000000002274,0.4200000000000159,0,False,True,1
+85,5f6b75742bd7e60776191cb4,415.4,434.9,"always have an archive. That's why if he released like multiple archive recordings of, you know, the lectures, people asking questions, whatever, we'd be much better off because it's like just Henry the power point and maybe adding some stuff. You know, like 10% of what we would get if it was in person because all of us asked a ton of questions. And the lab especially like",-0.36000000000001364,19.5,0,False,True,71
+86,5ec5b367ec26b761ec0fc87d,434.84,435.35,Mhm.,-0.060000000000002274,0.5100000000000477,0,False,True,1
+87,5f6b75742bd7e60776191cb4,434.91,441.79,"the lab people, the GTs, they were I miss them so much at first I hated them because I was like oh my God this is a pain in my ass. But",-0.4399999999999977,6.8799999999999955,0,False,True,32
+88,5ec5b367ec26b761ec0fc87d,441.64,443.76,Yeah,-0.1500000000000341,2.1200000000000045,0,False,True,1
+89,5f6b75742bd7e60776191cb4,441.79,444.36,I miss them. Their God. Sounds like a,-1.9699999999999704,2.569999999999993,0,False,True,8
+90,5ec5b367ec26b761ec0fc87d,445.24,452.2,I don't know the to is really I would have failed many projects if it weren't for T. A. S. Because,0.8799999999999955,6.9599999999999795,0,False,False,23
+91,5f6b75742bd7e60776191cb4,452.14,452.85,Yeah.,-0.060000000000002274,0.7100000000000364,0,False,True,1
+92,5ec5b367ec26b761ec0fc87d,452.2,453.94,"I don't, yeah",-0.6500000000000341,1.740000000000009,0,False,True,4
+93,5f6b75742bd7e60776191cb4,453.94,454.15,How's,0.0,0.20999999999997954,0,False,False,2
+94,5ec5b367ec26b761ec0fc87d,453.95,454.36,go ahead,-0.19999999999998863,0.410000000000025,0,False,True,2
+95,5f6b75742bd7e60776191cb4,454.15,455.56,it going? Uh,-0.21000000000003638,1.410000000000025,1,False,True,3
+96,5ec5b367ec26b761ec0fc87d,456.14,456.34,and,0.5799999999999841,0.19999999999998863,0,False,False,1
+97,5f6b75742bd7e60776191cb4,456.14,456.76,Like,-0.19999999999998863,0.6200000000000045,0,False,True,1
+98,5ec5b367ec26b761ec0fc87d,456.34,457.44,that. Yeah,-0.4200000000000159,1.1000000000000227,0,False,True,2
+99,5f6b75742bd7e60776191cb4,457.24,458.55,I don't mean roughly sorry but like the G.,-0.19999999999998863,1.3100000000000023,0,False,True,10
+100,5ec5b367ec26b761ec0fc87d,458.44,458.63,you're,-0.11000000000001364,0.18999999999999773,0,False,True,2
+101,5f6b75742bd7e60776191cb4,458.55,458.76,T.,-0.07999999999998408,0.20999999999997954,0,False,True,1
+102,5ec5b367ec26b761ec0fc87d,458.63,458.86,good.,-0.12999999999999545,0.2300000000000182,0,False,True,1
+103,5f6b75742bd7e60776191cb4,458.76,470.64,A. S. And the T. V. S. Like yeah they were really like I would have failed multiple projects without them because like they were they weren't leaned so some of them aren't leaning. I know some of them are like really stuck up but,-0.10000000000002274,11.879999999999995,0,False,True,47
+104,5ec5b367ec26b761ec0fc87d,470.54,470.96,Mhm,-0.0999999999999659,0.4199999999999591,0,False,True,1
+105,5f6b75742bd7e60776191cb4,470.65,478.86,"even the ones are stuck up, they'll help you. That's you know, they will help you to the point where it's borderline violated the honor code. You I think you have that to the honor code.",-0.3100000000000023,8.210000000000036,0,False,True,39
+106,5ec5b367ec26b761ec0fc87d,478.64,479.36,yep yep.,-0.22000000000002728,0.7200000000000273,0,False,True,2
+107,5f6b75742bd7e60776191cb4,479.74,484.54,Yes. That's why I love. They help you a lot and they don't just help me give you the answer to help you understand it.,0.37999999999999545,4.800000000000011,0,False,False,27
+108,5ec5b367ec26b761ec0fc87d,484.54,485.05,Mhm.,0.0,0.5099999999999909,0,False,False,1
+109,5f6b75742bd7e60776191cb4,484.55,508.97,"And they can give you some example code you read off of that because that's the most important thing. Example code. But like it's example call that led to the assignment. Not in general because we have a ton of example code, but it's like different modules and you think different systems like scanners or whatever or like we're working right now on double parallel and double arrays on java. And you don't have a single example code for that because that's our assignment this week. That's doing sunday. All we",-0.5,24.420000000000016,0,False,True,98
+110,5ec5b367ec26b761ec0fc87d,508.84,509.26,Mhm.,-0.1300000000000523,0.4200000000000159,0,False,True,1
+111,5f6b75742bd7e60776191cb4,508.97,520.63,have is like what is it? It's just single arrays. That's the only example code we have in the textbook to it doesn't really the textbooks meant to be supplemented with lectures and in,-0.2899999999999636,11.659999999999968,1,False,True,37
+112,5ec5b367ec26b761ec0fc87d,520.54,521.04,Yeah.,-0.09000000000003183,0.5,0,False,True,1
+113,5f6b75742bd7e60776191cb4,520.63,522.46,"person, not just the textbook itself.",-0.40999999999996817,1.830000000000041,0,False,True,6
+114,5ec5b367ec26b761ec0fc87d,524.44,528.92,Yeah I've I've had a few professors like that. They,1.9800000000000182,4.4799999999999045,0,False,False,12
+115,5f6b75742bd7e60776191cb4,528.84,529.13,And,-0.07999999999992724,0.2899999999999636,0,False,True,1
+116,5ec5b367ec26b761ec0fc87d,528.92,537.24,don't provide any material for you to learn from. They expect you to just code,-0.21000000000003638,8.32000000000005,0,False,True,16
+117,5f6b75742bd7e60776191cb4,536.04,536.36,"Yeah,",-1.2000000000000455,0.32000000000005,0,False,True,1
+118,5ec5b367ec26b761ec0fc87d,537.27,544.87,and then magically come upon answers or something. But I mean I'm sure you stack overflow a decent bit or,0.9099999999999682,7.600000000000023,0,False,False,21
+119,5f6b75742bd7e60776191cb4,544.74,545.46,so,-0.12999999999999545,0.7200000000000273,0,False,True,1
+120,5ec5b367ec26b761ec0fc87d,544.87,546.56,have you not really used it much?,-0.5900000000000318,1.6899999999999409,1,True,True,7
+121,5f6b75742bd7e60776191cb4,547.04,560.24,"No, because so the honor code at GMU it's scary. It's actually obnoxiously scary. So I use stack overflow and sometimes like other sites that get hub or other form sites just reference. But like",0.4800000000000182,13.200000000000045,0,False,False,37
+122,5ec5b367ec26b761ec0fc87d,559.84,560.35,Mhm.,-0.39999999999997726,0.5099999999999909,0,False,True,1
+123,5f6b75742bd7e60776191cb4,560.25,588.51,"I have to be really careful because so the way our system, so I think it's the same thing for your place but are places like uh it's notorious and the East Coast were being really strict. Um So for each chapter, like let's say, we're like, what is it started out with Java? I think, you know what textbook I'm talking about that the basic one. Um If we're, so let's say we're starting with that one and our assignment or are reading for that week along with the assignment is everything up until chapter six. And like for example,",-0.10000000000002274,28.25999999999999,1,False,True,109
+124,5ec5b367ec26b761ec0fc87d,588.34,588.76,Mhm.,-0.16999999999995907,0.4199999999999591,0,False,True,1
+125,5f6b75742bd7e60776191cb4,588.51,601.86,"chapter six is just a raise. Introduction of a raise if we go beyond that. Like if we even like try to add parallel raised by accident or even if we use another method that's not in the text book at all, we get on our coded we can fill the class,",-0.25,13.350000000000023,0,False,True,53
+126,5ec5b367ec26b761ec0fc87d,602.24,604.85,That makes no sense to me whatsoever.,0.37999999999999545,2.6100000000000136,0,False,False,7
+127,5f6b75742bd7e60776191cb4,605.34,606.73,it's retarded. Honestly,0.4900000000000091,1.3899999999999864,0,False,False,4
+128,5ec5b367ec26b761ec0fc87d,606.34,607.26,We we,-0.38999999999998636,0.9199999999999591,0,False,True,2
+129,5f6b75742bd7e60776191cb4,606.73,608.55,"I don't like using that word, it's just retarded,",-0.5299999999999727,1.8199999999999363,0,False,True,11
+130,5ec5b367ec26b761ec0fc87d,608.14,636.65,"yeah we do not have anything that strict. Um ours is more about um copying from other students which was a big problem honestly. Um And like in one class specifically the teacher wouldn't answer any questions. The tas were they had their mouth sewn shut by this professor. They weren't allowed to do anything. But man, if you aren't even allowed to add anything that's not in the textbook,",-0.40999999999996817,28.50999999999999,0,False,True,74
+131,5f6b75742bd7e60776191cb4,636.64,636.85,right?,-0.009999999999990905,0.21000000000003638,1,True,True,1
+132,5ec5b367ec26b761ec0fc87d,636.66,638.55,how are you expected to learn?,-0.19000000000005457,1.8899999999999864,1,True,True,6
+133,5f6b75742bd7e60776191cb4,639.64,648.17,So it makes sense if it was in person because in person the T. A. S. Or the G. T. A. S. Those you know the gods sense they would help us. The,1.0900000000000318,8.529999999999973,0,False,False,33
+134,5ec5b367ec26b761ec0fc87d,648.14,648.65,Mhm.,-0.029999999999972715,0.5099999999999909,0,False,True,1
+135,5f6b75742bd7e60776191cb4,648.17,663.65,"problem is is now we have a textbook and a really shitty lecture every week that's recorded like I don't even know what it was recorded, that's the problem. So um it's just useless in a sense it doesn't help us at all. That's that's what I really hate. So like",-0.4800000000000182,15.480000000000018,0,False,True,58
+136,5ec5b367ec26b761ec0fc87d,663.04,663.45,Yeah.,-0.6100000000000136,0.41000000000008185,0,False,True,1
+137,5f6b75742bd7e60776191cb4,663.66,681.46,um most of us are on the borderline of honor code violation because we have we have no choice but to google at this point and use other examples because even then um yeah so if we go ahead in the textbook we can pretty much if you don't use a method that's covered in that chapter,0.2099999999999227,17.800000000000068,0,False,False,59
+138,5ec5b367ec26b761ec0fc87d,681.14,681.56,Time.,-0.32000000000005,0.4199999999999591,0,False,True,1
+139,5f6b75742bd7e60776191cb4,681.46,682.72,of the week and previous,-0.09999999999990905,1.259999999999991,0,False,True,5
+140,5ec5b367ec26b761ec0fc87d,682.24,682.56,All right.,-0.4800000000000182,0.31999999999993634,0,False,True,2
+141,5f6b75742bd7e60776191cb4,682.72,689.26,"we get on our coded and if you use more advanced methods to that's covered later on in the book, like if its chapter 11 or whatever",0.16000000000008185,6.539999999999964,0,False,False,28
+142,5ec5b367ec26b761ec0fc87d,689.34,689.66,Mhm.,0.08000000000004093,0.31999999999993634,0,False,False,1
+143,5f6b75742bd7e60776191cb4,689.64,699.07,like using double a raise or whatever. Even modules if you if you haven't covered modules and you use modules you can get a zero on the assignment even though it is perfectly fine because you,-0.01999999999998181,9.430000000000064,0,False,True,37
+144,5ec5b367ec26b761ec0fc87d,699.04,699.46,Mhm.,-0.030000000000086402,0.42000000000007276,0,False,True,1
+145,5f6b75742bd7e60776191cb4,699.07,706.65,have to they want to keep the playing field even which I guess makes sense. But only in person if it's online they should just remove that.,-0.38999999999998636,7.579999999999927,0,False,True,28
+146,5ec5b367ec26b761ec0fc87d,707.04,715.89,Yeah. Well that sounds rough. I'm really happy that I'm not in school right now. I think everybody is having problems with it. It's definitely,0.38999999999998636,8.850000000000023,0,False,False,28
+147,5f6b75742bd7e60776191cb4,715.64,716.06,Isn't,-0.25,0.4199999999999591,0,False,True,2
+148,5ec5b367ec26b761ec0fc87d,715.89,716.66,not ideal.,-0.16999999999995907,0.7699999999999818,0,False,True,2
+149,5f6b75742bd7e60776191cb4,717.44,738.46,"it's a nightmare. Yeah because like I compared to like the last I. T. Class like in the spring, even though it was html wasn't that hard in parts of python. I I spent significantly less time than I am now. Like for example, now I spend like what at the dedicate like friday saturday and sunday just decoding and I can",0.7800000000000864,21.019999999999982,0,False,False,64
+150,5ec5b367ec26b761ec0fc87d,738.44,738.76,Yes.,-0.01999999999998181,0.31999999999993634,0,False,True,1
+151,5f6b75742bd7e60776191cb4,738.46,754.64,"Not practicing for like three are two hours maybe at most for three hours. And we're practicing and try to balance that with coding. And compared to last semester in the spring semester, it was like what? I could spend like two hours, not even an hour spent any time outside the lab because lab was two",-0.2999999999999545,16.17999999999995,1,False,True,58
+152,5ec5b367ec26b761ec0fc87d,754.54,754.96,Oh.,-0.10000000000002274,0.42000000000007276,0,False,True,1
+153,5f6b75742bd7e60776191cb4,754.64,759.23,hours every week and we would get the assignment done right then and there because,-0.32000000000005,4.590000000000032,0,False,True,15
+154,5ec5b367ec26b761ec0fc87d,759.04,759.33,Oh,-0.19000000000005457,0.2900000000000773,0,False,True,1
+155,5f6b75742bd7e60776191cb4,759.23,759.41,they would,-0.10000000000002274,0.17999999999994998,0,False,True,2
+156,5ec5b367ec26b761ec0fc87d,759.33,760.01,man.,-0.07999999999992724,0.67999999999995,0,False,True,1
+157,5f6b75742bd7e60776191cb4,759.41,759.85,help us.,-0.6000000000000227,0.44000000000005457,0,False,True,2
+158,5ec5b367ec26b761ec0fc87d,760.03,762.96,That's amazing. I wish I ever had that. Mhm.,0.17999999999994998,2.9300000000000637,0,False,False,10
+159,5f6b75742bd7e60776191cb4,763.14,771.96,"Yeah, because it's kinda like a double edged sword. It's really like our engineering department really funded. We have a ton of companies like Lockheed martin Micro and the big ones around here,",0.17999999999994998,8.82000000000005,0,False,False,35
+160,5ec5b367ec26b761ec0fc87d,771.94,772.36,Mhm.,-0.01999999999998181,0.4199999999999591,0,False,True,1
+161,5f6b75742bd7e60776191cb4,771.96,774.61,they found us like they just throw money at us and say do,-0.39999999999997726,2.6499999999999773,0,False,True,13
+162,5ec5b367ec26b761ec0fc87d,774.44,774.95,Mhm.,-0.16999999999995907,0.5099999999999909,0,False,True,1
+163,5f6b75742bd7e60776191cb4,774.61,794.37,"whatever you want with it. But when it's online they don't really care because the person they really do. But online that's a problem. Like, you know, all these different, it makes sense because they're not really, they don't live in America. They all live there. All visitors not visited there on these work visas because I know they're all from different countries. Almost everyone",-0.34000000000003183,19.75999999999999,0,False,True,71
+164,5ec5b367ec26b761ec0fc87d,793.94,794.26,Yeah.,-0.42999999999995,0.31999999999993634,0,False,True,1
+165,5f6b75742bd7e60776191cb4,794.37,800.37,is from a different country. They're not I think there's only like three or four white professors that's it. Everyone else,0.11000000000001364,6.0,0,False,False,24
+166,5ec5b367ec26b761ec0fc87d,800.24,800.65,Yeah.,-0.12999999999999545,0.40999999999996817,0,False,True,1
+167,5f6b75742bd7e60776191cb4,800.37,804.75,china India. And it makes sense because they really know their stuff but,-0.2799999999999727,4.3799999999999955,0,False,True,13
+168,5ec5b367ec26b761ec0fc87d,804.54,805.05,Mhm.,-0.21000000000003638,0.5099999999999909,0,False,True,1
+169,5f6b75742bd7e60776191cb4,805.14,809.51,type lecture hours to mess or you know,0.09000000000003183,4.3700000000000045,0,False,False,8
+170,5ec5b367ec26b761ec0fc87d,809.34,811.5,Yeah.,-0.16999999999995907,2.159999999999968,0,False,True,1
+171,5f6b75742bd7e60776191cb4,809.52,810.86,office officers.,-1.9800000000000182,1.3400000000000318,0,False,True,2
+172,5ec5b367ec26b761ec0fc87d,811.51,826.55,"But yeah, I mean if even if there's like a 12 hour difference, I feel like they could find some time. That's not ridiculous for one of the parties. Although I assume all these people have gotten other jobs going back home so maybe they can't. But",0.6499999999999773,15.039999999999964,0,False,False,50
+173,5f6b75742bd7e60776191cb4,827.14,827.46,Right?,0.5900000000000318,0.32000000000005,1,True,False,1
+174,5ec5b367ec26b761ec0fc87d,828.54,829.0,"man,",1.0799999999999272,0.4600000000000364,0,False,False,1
+175,5f6b75742bd7e60776191cb4,828.64,829.26,And,-0.36000000000001364,0.6200000000000045,0,False,True,1
+176,5ec5b367ec26b761ec0fc87d,829.01,830.76,"Yeah, sticky situation.",-0.25,1.75,0,False,True,3
+177,5f6b75742bd7e60776191cb4,831.24,843.95,"yeah, no one really, no one really likes it right now because everyone's suffering, it's really bad. And like mhm. If they were in America would be fine just because the time would line up but since they're not",0.4800000000000182,12.710000000000036,0,False,False,42
+178,5ec5b367ec26b761ec0fc87d,843.64,844.14,Uh huh.,-0.3100000000000591,0.5,0,False,True,2
+179,5f6b75742bd7e60776191cb4,844.44,860.15,almost everyone isn't. So that's where like it's it's a mess I understand getting them from over there specifically because you know those countries are really well known especially the tech industry but online is different but yeah for music it's ok because it's online anyway like,0.3000000000000682,15.709999999999923,0,False,False,53
+180,5ec5b367ec26b761ec0fc87d,859.94,860.56,Yeah.,-0.2099999999999227,0.6199999999998909,0,False,True,1
+181,5f6b75742bd7e60776191cb4,861.44,867.16,it works luckily I'm not in like I feel bad for the dance majors. There's really screwed over. Oh my god,0.8800000000001091,5.719999999999914,0,False,False,23
+182,5ec5b367ec26b761ec0fc87d,867.24,871.56,Oh yeah. Where are they supposed to go? They can't really practice anywhere if they're in an apartment.,0.08000000000004093,4.319999999999936,1,False,False,20
+183,5f6b75742bd7e60776191cb4,872.44,886.48,because like they have to have like a really big space. It's that's how I feel bad for them. Um That's pretty much like music wise it's find a lot of competitions were cancer. A lot of festivals are supposed to attend in the summer were cancelled so that's why I was like whatever but,0.8800000000001091,14.039999999999964,0,False,False,60
+184,5ec5b367ec26b761ec0fc87d,886.44,886.76,Yeah.,-0.03999999999996362,0.31999999999993634,0,False,True,1
+185,5f6b75742bd7e60776191cb4,886.48,894.75,like it's not that bad compared to like I. T. And the dance department. But for you then are you planning you're planning to go back to school or you were in school?,-0.2799999999999727,8.269999999999982,1,True,True,35
+186,5ec5b367ec26b761ec0fc87d,894.44,929.7,"Yeah. No. So I got to my junior year and I had to leave in 2016. I had ankle problems and was using a wheelchair and I started having risk problems and I couldn't use a computer anymore and you can't do computer science in that kind of situation. So I had to quit and I've gotten a lot better like I can use a computer now as you can tell. So I'm trying to teach myself to code again and remember, but I don't want to go back to school until I can do it without a wheelchair because I went my last year in school in a wheelchair",-0.30999999999994543,35.25999999999999,0,False,True,115
+187,5f6b75742bd7e60776191cb4,929.24,929.44,Yeah.,-0.4600000000000364,0.20000000000004547,0,False,True,1
+188,5ec5b367ec26b761ec0fc87d,929.7,931.55,and in colorado when it snows,0.2599999999999909,1.849999999999909,0,False,False,6
+189,5f6b75742bd7e60776191cb4,931.94,932.66,Uh,0.39000000000010004,0.7199999999999136,0,False,False,1
+190,5ec5b367ec26b761ec0fc87d,932.04,939.16,"and you're trying to like scoot across campus, it sucked so much. It was it was awful. So um",-0.6200000000000045,7.1200000000000045,0,False,True,20
+191,5f6b75742bd7e60776191cb4,939.14,939.34,Yeah,-0.01999999999998181,0.20000000000004547,0,False,True,1
+192,5ec5b367ec26b761ec0fc87d,939.54,953.36,"honestly I'm hoping in like the next five years I'll get back. Um Yeah, it's kind of just a crapshoot though. But that is the end goal just to get back and get finished, get a software job that",0.1999999999999318,13.82000000000005,0,False,False,42
+193,5f6b75742bd7e60776191cb4,953.04,956.15,well definitely that's that's a really good goal. That definitely makes sense. But,-0.32000000000005,3.1100000000000136,0,False,True,15
+194,5ec5b367ec26b761ec0fc87d,956.14,956.55,Yeah.,-0.009999999999990905,0.40999999999996817,0,False,True,1
+195,5f6b75742bd7e60776191cb4,956.15,962.16,like yeah I can imagine that when it's not especially those ice and in a wheelchair to that's like the biggest problem you could ever have.,-0.39999999999997726,6.009999999999991,0,False,True,28
+196,5ec5b367ec26b761ec0fc87d,962.24,967.1,"Yeah, I was very few. It's cold. But yeah,",0.08000000000004093,4.860000000000014,0,False,False,10
+197,5f6b75742bd7e60776191cb4,967.04,967.24,Yeah.,-0.06000000000005912,0.20000000000004547,0,False,True,1
+198,5ec5b367ec26b761ec0fc87d,967.11,974.29,not ideal. I don't really want to even try to finish school right now despite,-0.12999999999999545,7.17999999999995,0,False,True,16
+199,5f6b75742bd7e60776191cb4,974.14,974.35,Oh.,-0.14999999999997726,0.21000000000003638,0,False,True,1
+200,5ec5b367ec26b761ec0fc87d,974.3,983.95,"the wheelchair stuff because if I'm doing it all online and then I graduate but I still can't drive to a job, no workplace because I can't drive right now.",-0.05000000000006821,9.650000000000091,0,False,True,33
+201,5f6b75742bd7e60776191cb4,984.44,984.95,Mhm.,0.4900000000000091,0.5099999999999909,0,False,False,1
+202,5ec5b367ec26b761ec0fc87d,984.74,986.4,I'm what's the point,-0.21000000000003638,1.6599999999999682,0,False,True,6
+203,5f6b75742bd7e60776191cb4,986.24,986.45,I think.,-0.15999999999996817,0.21000000000003638,0,False,True,2
+204,5ec5b367ec26b761ec0fc87d,986.4,997.36,of graduating and racking up all that debt if I can't secure a job immediately after. So I'm going to go back as soon as I know I can work at a regular job like eight hours a day,-0.05000000000006821,10.960000000000036,0,False,True,41
+205,5f6b75742bd7e60776191cb4,997.64,998.06,Mhm.,0.2799999999999727,0.4199999999999591,0,False,False,1
+206,5ec5b367ec26b761ec0fc87d,997.74,1001.36,but until then like I'm not going to rack up any fees.,-0.31999999999993634,3.6200000000000045,0,False,True,13
+207,5f6b75742bd7e60776191cb4,1001.84,1017.27,Yeah I can yeah I can definitely see that beginning that becoming a problem. And even though right now it makes sense because a lot of I. T. Companies like I know for example Lockheed martin and Micro and even like the mid and lower to your I. T. Companies they're mostly online workplaces now. So like,0.4800000000000182,15.42999999999995,0,False,False,58
+208,5ec5b367ec26b761ec0fc87d,1017.54,1017.96,Mhm.,0.2699999999999818,0.42000000000007276,0,False,False,1
+209,5f6b75742bd7e60776191cb4,1018.64,1024.29,pretty much like you work from your home they have everything supplied but then I don't know how long they're going to keep that up. They're probably gonna keep,0.67999999999995,5.649999999999977,0,False,False,33
+210,5ec5b367ec26b761ec0fc87d,1024.24,1024.86,Yeah.,-0.049999999999954525,0.6199999999998909,0,False,True,1
+211,5f6b75742bd7e60776191cb4,1024.29,1036.56,"it up for a long time because anyway they actually found it's more efficient because you know, instead of like wasting electricity in their own facility, they can save a lot of costs. But it also depends on what your position is. But",-0.5699999999999363,12.269999999999982,0,False,True,44
+212,5ec5b367ec26b761ec0fc87d,1036.24,1037.17,Mhm.,-0.31999999999993634,0.9300000000000637,0,False,True,1
+213,5f6b75742bd7e60776191cb4,1036.57,1038.64,I don't know that's going to keep up. But like,-0.6000000000001364,2.0700000000001637,0,False,True,12
+214,5ec5b367ec26b761ec0fc87d,1038.54,1038.84,I,-0.10000000000013642,0.2999999999999545,0,False,True,1
+215,5f6b75742bd7e60776191cb4,1038.64,1038.87,"yeah, it's",-0.1999999999998181,0.22999999999979082,0,False,True,3
+216,5ec5b367ec26b761ec0fc87d,1038.85,1039.04,don't,-0.01999999999998181,0.19000000000005457,0,False,True,2
+217,5f6b75742bd7e60776191cb4,1038.87,1039.06,always,-0.17000000000007276,0.19000000000005457,0,False,True,1
+218,5ec5b367ec26b761ec0fc87d,1039.04,1039.16,know,-0.01999999999998181,0.12000000000011823,0,False,True,1
+219,5f6b75742bd7e60776191cb4,1039.06,1039.19,good,-0.10000000000013642,0.13000000000010914,0,False,True,1
+220,5ec5b367ec26b761ec0fc87d,1039.16,1039.67,either.,-0.029999999999972715,0.5099999999999909,0,False,True,1
+221,5f6b75742bd7e60776191cb4,1039.19,1044.27,"to have that. Like it's always good to prepare just in case because anyway, I think you have to go in person with the interview anyway and that's going",-0.4800000000000182,5.079999999999927,0,False,True,31
+222,5ec5b367ec26b761ec0fc87d,1044.24,1044.96,Exactly.,-0.029999999999972715,0.7200000000000273,0,False,True,1
+223,5f6b75742bd7e60776191cb4,1044.27,1045.53,"to be like, they're",-0.6900000000000546,1.259999999999991,0,False,True,5
+224,5ec5b367ec26b761ec0fc87d,1045.34,1045.75,Yeah.,-0.19000000000005457,0.41000000000008185,0,False,True,1
+225,5f6b75742bd7e60776191cb4,1045.53,1047.22,not gonna like that which sucks. And I'm really not,-0.22000000000002728,1.6900000000000546,0,False,True,12
+226,5ec5b367ec26b761ec0fc87d,1047.14,1047.8,No,-0.07999999999992724,0.6599999999998545,0,False,True,1
+227,5f6b75742bd7e60776191cb4,1047.22,1047.76,gonna like,-0.5799999999999272,0.5399999999999636,0,False,True,3
+228,5ec5b367ec26b761ec0fc87d,1047.81,1084.88,"like my last semester I went to a job fair on campus and talked to a few people and one person was really interested. They wanted to schedule me for an interview. They're like can you drive 3.5 hours to the city and then it will be a five hour long interview and then you can go back. I'm like well I don't really know if anyone wants to drive me that far and then hang out for like eight hours of the day just waiting for me to interview. So and I mean everyone I talked to was like that. So even just the interview and you're right. Like I don't know how long remote positions are going to last. Like if they decide you can't be remote any longer, you have to come into the office. Okay. Well no",0.049999999999954525,37.070000000000164,0,False,False,147
+229,5f6b75742bd7e60776191cb4,1084.64,1084.85,great.,-0.2400000000000091,0.209999999999809,0,False,True,1
+230,5ec5b367ec26b761ec0fc87d,1084.88,1085.86,job then. I guess,0.03000000000020009,0.9799999999997908,0,False,False,4
+231,5f6b75742bd7e60776191cb4,1086.64,1087.78,"Yeah,",0.7800000000002001,1.1399999999998727,0,False,False,1
+232,5ec5b367ec26b761ec0fc87d,1087.24,1088.55,"so. Yeah,",-0.5399999999999636,1.3099999999999454,0,False,True,2
+233,5f6b75742bd7e60776191cb4,1088.1,1094.96,"I understand. But like with your ankle thing, So then, was it, was it something related like the tendons of the bone?",-0.4500000000000455,6.860000000000127,1,True,True,22
+234,5ec5b367ec26b761ec0fc87d,1095.04,1096.04,his tendons.,0.07999999999992724,1.0,0,False,False,2
+235,5f6b75742bd7e60776191cb4,1096.34,1097.45,Oh,0.2999999999999545,1.1100000000001273,0,False,False,1
+236,5ec5b367ec26b761ec0fc87d,1096.93,1109.92,So it was tendonitis is what it got diagnosed as. But then it was like all my tendons around one ankle and then it was the other ankle to eventually. And that's really not normal for,-0.5199999999999818,12.990000000000009,0,False,True,37
+237,5f6b75742bd7e60776191cb4,1109.84,1110.07,based,-0.08000000000015461,0.2300000000000182,0,False,True,1
+238,5ec5b367ec26b761ec0fc87d,1109.92,1110.23,just,-0.14999999999986358,0.30999999999994543,0,False,True,1
+239,5f6b75742bd7e60776191cb4,1110.07,1110.16,on,-0.16000000000008185,0.09000000000014552,0,False,True,1
+240,5ec5b367ec26b761ec0fc87d,1110.23,1110.86,tendonitis.,0.06999999999993634,0.6299999999998818,0,False,False,1
+241,5f6b75742bd7e60776191cb4,1110.26,1110.86,United.,-0.599999999999909,0.599999999999909,0,False,True,1
+242,5ec5b367ec26b761ec0fc87d,1111.24,1111.54,Yeah.,0.38000000000010914,0.2999999999999545,0,False,False,1
+243,5f6b75742bd7e60776191cb4,1111.34,1111.64,That's,-0.20000000000004547,0.3000000000001819,0,False,True,2
+244,5ec5b367ec26b761ec0fc87d,1111.55,1111.96,Right.,-0.09000000000014552,0.41000000000008185,0,False,True,1
+245,5f6b75742bd7e60776191cb4,1111.64,1112.48,something else. Yeah.,-0.31999999999993634,0.8399999999999181,0,False,True,3
+246,5ec5b367ec26b761ec0fc87d,1112.44,1112.84,And,-0.03999999999996362,0.3999999999998636,0,False,True,1
+247,5f6b75742bd7e60776191cb4,1112.49,1113.0,Because I'm,-0.34999999999990905,0.5099999999999909,0,False,True,3
+248,5ec5b367ec26b761ec0fc87d,1112.85,1113.54,yeah.,-0.15000000000009095,0.6900000000000546,0,False,True,1
+249,5f6b75742bd7e60776191cb4,1113.0,1114.27,"really yeah, it's gone.",-0.5399999999999636,1.2699999999999818,0,False,True,5
+250,5ec5b367ec26b761ec0fc87d,1114.64,1137.95,"Um man. And it's been like five years since that started and then it spread to both wrists, which is weird also. And then I have like migraines and I pain which I've never really thought about eye pain before. And so I went to like a dozen specialists to try and figure out what it was. And no one ever gave me an answer. Every doctor's like, who knows? Just put ice on it. Take ibuprofen.",0.37000000000011823,23.309999999999945,1,False,False,80
+251,5f6b75742bd7e60776191cb4,1137.94,1138.17,Mhm,-0.009999999999990905,0.2300000000000182,0,False,True,1
+252,5ec5b367ec26b761ec0fc87d,1138.54,1139.14,Like that's,0.36999999999989086,0.6000000000001364,0,False,False,3
+253,5f6b75742bd7e60776191cb4,1138.94,1139.17,Thanks.,-0.20000000000004547,0.2300000000000182,0,False,True,1
+254,5ec5b367ec26b761ec0fc87d,1139.14,1153.17,"going to get me out of the wheelchair for sure. But yeah, we never figured it out. And at this point I think it's just a pain condition and there's nothing structurally wrong with my tendons and it's just like the nerves are sending pain signals because they're confused.",-0.029999999999972715,14.029999999999973,0,False,True,53
+255,5f6b75742bd7e60776191cb4,1154.44,1161.59,"I mean, so I don't exactly know because like, I'm really well experienced with like 10 and nine is physical therapy because like, so",1.2699999999999818,7.149999999999864,0,False,False,26
+256,5ec5b367ec26b761ec0fc87d,1161.04,1161.46,Mhm.,-0.5499999999999545,0.42000000000007276,0,False,True,1
+257,5f6b75742bd7e60776191cb4,1161.6,1167.74,"I have a condition, I think you might have it too, judging by the length of your hands. It's called hyper mobile ethics Danlos syndrome.",0.13999999999987267,6.1400000000001,0,False,False,26
+258,5ec5b367ec26b761ec0fc87d,1167.74,1168.04,Taylor,0.0,0.2999999999999545,0,False,False,1
+259,5f6b75742bd7e60776191cb4,1167.75,1168.07,Yes.,-0.2899999999999636,0.31999999999993634,0,False,True,1
+260,5ec5b367ec26b761ec0fc87d,1168.04,1168.51,Daniels.,-0.029999999999972715,0.4700000000000273,0,False,True,1
+261,5f6b75742bd7e60776191cb4,1168.07,1169.0,You have long fingers.,-0.44000000000005457,0.9300000000000637,0,False,True,4
+262,5ec5b367ec26b761ec0fc87d,1168.51,1168.96,Yeah.,-0.4900000000000091,0.4500000000000455,0,False,True,1
+263,5f6b75742bd7e60776191cb4,1169.01,1170.96,You heard of that? Right? Hyper mobile especially.,0.049999999999954525,1.9500000000000455,2,False,False,8
+264,5ec5b367ec26b761ec0fc87d,1171.14,1172.98,Mm I'm not,0.18000000000006366,1.8399999999999181,0,False,False,4
+265,5f6b75742bd7e60776191cb4,1172.84,1173.26,"Oh,",-0.14000000000010004,0.42000000000007276,0,False,True,1
+266,5ec5b367ec26b761ec0fc87d,1172.98,1176.56,hyper mobile at all. Like if you can tell that's pretty normal.,-0.2799999999999727,3.5799999999999272,0,False,True,13
+267,5f6b75742bd7e60776191cb4,1176.14,1189.1,"okay. Okay. Because one of the, one of the symptoms is like, ma, what is it longer than normal fingers? And especially arms because my arms are like 1.71 point eight and the normal 1.5 or six. So",-0.4199999999998454,12.959999999999809,1,False,True,38
+268,5ec5b367ec26b761ec0fc87d,1188.94,1189.28,"Dude,",-0.15999999999985448,0.33999999999991815,0,False,True,1
+269,5f6b75742bd7e60776191cb4,1189.1,1189.3,that's,-0.18000000000006366,0.20000000000004547,0,False,True,2
+270,5ec5b367ec26b761ec0fc87d,1189.28,1189.37,I,-0.01999999999998181,0.08999999999991815,0,False,True,1
+271,5f6b75742bd7e60776191cb4,1189.3,1189.67,why.,-0.06999999999993634,0.37000000000011823,0,False,True,1
+272,5ec5b367ec26b761ec0fc87d,1189.37,1193.86,"have I have like little t rex arms, I'd show you if I could, but they're they're not longer.",-0.3000000000001819,4.490000000000009,0,False,True,22
+273,5f6b75742bd7e60776191cb4,1193.34,1197.37,"Okay, never mind. But I don't know that probably, I don't know. That's strange because like,",-0.5199999999999818,4.029999999999973,0,False,True,19
+274,5ec5b367ec26b761ec0fc87d,1197.34,1197.76,Mhm.,-0.029999999999972715,0.42000000000007276,0,False,True,1
+275,5f6b75742bd7e60776191cb4,1197.38,1211.16,"I have that hyper mobile ethics standards so every joint can dislocate. I will and I can force it to. So when I was doing music, especially like going up to college, I got injured like four times because I was practicing like seven hours a day and",-0.37999999999988177,13.779999999999973,0,False,True,48
+276,5ec5b367ec26b761ec0fc87d,1210.94,1211.56,Judgment.,-0.22000000000002728,0.6199999999998909,0,False,True,1
+277,5f6b75742bd7e60776191cb4,1211.16,1234.26,"I got injured on my left wrist, my right wrist, my back and I forgot what other place, my my left shoulder right over here. It pretty much was I was a mess and it was inflamed tendons. But like what I had to do to circumvent that was I had to like what is it? I have to work out specifically just like the tendons. That special exercises. Because since I'm so flexible",-0.3999999999998636,23.09999999999991,1,False,True,75
+278,5ec5b367ec26b761ec0fc87d,1234.64,1235.06,Mhm.,0.38000000000010914,0.4199999999998454,0,False,False,1
+279,5f6b75742bd7e60776191cb4,1234.64,1241.12,"exercises don't work for me, they actually detriment most exercises I have to do like specialized, really focused, even stretches. I can't do yoga.",-0.4199999999998454,6.479999999999791,0,False,True,26
+280,5ec5b367ec26b761ec0fc87d,1241.04,1241.37,Yeah.,-0.07999999999992724,0.32999999999992724,0,False,True,1
+281,5f6b75742bd7e60776191cb4,1241.13,1241.44,I have to,-0.23999999999978172,0.30999999999994543,0,False,True,3
+282,5ec5b367ec26b761ec0fc87d,1241.37,1241.46,I,-0.07000000000016371,0.09000000000014552,0,False,True,1
+283,5f6b75742bd7e60776191cb4,1241.44,1241.53,do,-0.01999999999998181,0.08999999999991815,0,False,True,1
+284,5ec5b367ec26b761ec0fc87d,1241.46,1241.66,bet,-0.06999999999993634,0.20000000000004547,0,False,True,1
+285,5f6b75742bd7e60776191cb4,1241.53,1241.67,my,-0.13000000000010914,0.14000000000010004,0,False,True,1
+286,5ec5b367ec26b761ec0fc87d,1241.66,1242.11,stretches,-0.009999999999990905,0.4499999999998181,0,False,True,1
+287,5f6b75742bd7e60776191cb4,1241.67,1242.26,own.,-0.4399999999998272,0.5899999999999181,0,False,True,1
+288,5ec5b367ec26b761ec0fc87d,1242.11,1243.05,would make it worse.,-0.15000000000009095,0.9400000000000546,0,False,True,4
+289,5f6b75742bd7e60776191cb4,1243.54,1255.04,"Yeah. So that's why I like I always have to like, like work at least my wrists once a day and like, more like multiple times now. What is it, like six times a week or five",0.4900000000000091,11.5,0,False,False,38
+290,5ec5b367ec26b761ec0fc87d,1254.84,1255.26,Mhm.,-0.20000000000004547,0.42000000000007276,0,False,True,1
+291,5f6b75742bd7e60776191cb4,1255.04,1267.77,"times. But generally to keep it up. And like, I haven't been able to do anything recent because I've been so busy with school, so already started get injured a bit. But like, maybe that was the case for you as well. Maybe you just have really sensitive tendons because I could be a case",-0.22000000000002728,12.730000000000018,0,False,True,57
+292,5ec5b367ec26b761ec0fc87d,1267.54,1310.96,"I thought about that for a long time. Like I went to specialist, There's a thing called psoriatic arthritis which can affect tendons. And I looked at every disease, but I've also had every blood test and just the fact that like maybe I did have tendonitis in my ankles and then my brain just decided to go into pain mode and create pain other places, so maybe my ankles actually have a structural problem. But everything else I've mostly been able to take care of with like cognitive behavioral therapy, which it's really annoying because it's hard to do. And it's frustrating because you know, you can't just take a pill and make it go away. You have to do mental exercises and so it's",-0.2300000000000182,43.42000000000007,0,False,True,134
+293,5f6b75742bd7e60776191cb4,1310.94,1311.66,phones.,-0.01999999999998181,0.7200000000000273,0,False,True,1
+294,5ec5b367ec26b761ec0fc87d,1310.96,1316.0,a really really stupid thing. But I like there's dan,-0.7000000000000455,5.039999999999964,0,False,True,11
+295,5f6b75742bd7e60776191cb4,1315.84,1316.04,Yeah.,-0.16000000000008185,0.20000000000004547,0,False,True,1
+296,5ec5b367ec26b761ec0fc87d,1316.0,1321.96,"look for sure, I don't think I've got, I'm pretty sure I had the genetic test for it,",-0.03999999999996362,5.960000000000036,0,False,True,21
+297,5f6b75742bd7e60776191cb4,1322.34,1323.17,Uh,0.37999999999988177,0.8300000000001546,0,False,False,1
+298,5ec5b367ec26b761ec0fc87d,1322.44,1324.35,I got the evidence. Yeah.,-0.7300000000000182,1.9099999999998545,0,False,True,5
+299,5f6b75742bd7e60776191cb4,1324.04,1327.36,is that the idea? Was it a blood genetic test? It was a measurement.,-0.30999999999994543,3.3199999999999363,2,False,True,14
+300,5ec5b367ec26b761ec0fc87d,1328.64,1331.76,"Um I guess blood, what do you mean by measurement?",1.2800000000002,3.119999999999891,1,True,False,10
+301,5f6b75742bd7e60776191cb4,1332.04,1342.89,"So actually, for fs Danlos helper mobile, that's the one that's um what is it? So also there is a lot of specialists don't really know what that is. Is because that's only been discovered recently. Because",0.2799999999999727,10.850000000000136,1,False,False,41
+302,5ec5b367ec26b761ec0fc87d,1342.64,1343.17,Yeah.,-0.25,0.5299999999999727,0,False,True,1
+303,5f6b75742bd7e60776191cb4,1342.9,1348.0,"especially the work for people, like why are they quitting so early? You know, getting injured so early. And they",-0.2699999999999818,5.099999999999909,1,False,True,20
+304,5ec5b367ec26b761ec0fc87d,1347.94,1348.36,Mhm.,-0.05999999999994543,0.4199999999998454,0,False,True,1
+305,5f6b75742bd7e60776191cb4,1348.0,1364.52,"figure out, oh, it's hypermobility and they find out some of them like Yes, sir and few of them have hyper mobile phones, Danlos syndrome and even fewer have the highest degree and I have the highest degree possible. So I fit every category. So they didn't do a blood test on me. They had to do measurements as a measure of my arm span compared to my",-0.35999999999989996,16.519999999999982,0,False,True,70
+306,5ec5b367ec26b761ec0fc87d,1364.44,1365.36,Yeah.,-0.07999999999992724,0.9199999999998454,0,False,True,1
+307,5f6b75742bd7e60776191cb4,1364.52,1379.67,"height. They had to measure my finger span, my um the span of my hand, everything else my joints and collapses to take all that to account. And it's like measure how far I can go with my shoulders, all of that. And then they were like, oh you have the highest degree. I'm like, oh crap, that makes sense.",-0.8399999999999181,15.150000000000091,0,False,True,62
+308,5ec5b367ec26b761ec0fc87d,1379.54,1380.34,Yeah.,-0.13000000000010914,0.7999999999999545,0,False,True,1
+309,5f6b75742bd7e60776191cb4,1380.04,1385.29,So I can see that. But it's only been like focused on recently because the,-0.2999999999999545,5.25,0,False,True,16
+310,5ec5b367ec26b761ec0fc87d,1385.24,1385.66,Mhm.,-0.049999999999954525,0.42000000000007276,0,False,True,1
+311,5f6b75742bd7e60776191cb4,1385.29,1392.69,"really new physical therapist, like our generation physical therapists, the our our age group they know about it because now the",-0.37000000000011823,7.400000000000091,0,False,True,21
+312,5ec5b367ec26b761ec0fc87d,1392.44,1393.06,Yeah.,-0.25,0.6199999999998909,0,False,True,1
+313,5f6b75742bd7e60776191cb4,1392.7,1394.96,covering because it's a really big problem.,-0.35999999999989996,2.259999999999991,0,False,True,8
+314,5ec5b367ec26b761ec0fc87d,1396.04,1403.02,"Yeah and um most doctors I talked to, they did test me for like the hypermobility. Um",1.0799999999999272,6.980000000000018,0,False,False,17
+315,5f6b75742bd7e60776191cb4,1402.84,1403.16,Yeah.,-0.18000000000006366,0.3200000000001637,0,False,True,1
+316,5ec5b367ec26b761ec0fc87d,1403.03,1405.05,But they weren't familiar with any of,-0.13000000000010914,2.019999999999982,0,False,True,8
+317,5f6b75742bd7e60776191cb4,1405.04,1405.27,What?,-0.009999999999990905,0.2300000000000182,1,True,True,1
+318,5ec5b367ec26b761ec0fc87d,1405.05,1412.46,the variants that aren't like hyper mobile because I know it is a kind of recent thing where you just um,-0.22000000000002728,7.410000000000082,0,False,True,22
+319,5f6b75742bd7e60776191cb4,1412.14,1412.34,Yeah.,-0.31999999999993634,0.1999999999998181,0,False,True,1
+320,5ec5b367ec26b761ec0fc87d,1413.14,1420.04,gosh it's not collagen or is it collagen? There's like three types of collagen in one type. If it's deformed,0.8000000000001819,6.899999999999864,1,False,False,23
+321,5f6b75742bd7e60776191cb4,1419.34,1419.55,Okay.,-0.7000000000000455,0.21000000000003638,0,False,True,1
+322,5ec5b367ec26b761ec0fc87d,1420.05,1425.35,it makes you hyper mobile. And the other type can just cause brittleness or pain issues.,0.5,5.2999999999999545,0,False,False,16
+323,5f6b75742bd7e60776191cb4,1425.64,1426.25,Oh yeah.,0.290000000000191,0.6099999999999,0,False,False,2
+324,5ec5b367ec26b761ec0fc87d,1425.94,1426.36,Um,-0.30999999999994543,0.4199999999998454,0,False,True,1
+325,5f6b75742bd7e60776191cb4,1426.25,1433.21,"I know you're talking about. I forget what it is. But it's like yeah, it's related to like structural integrity and elasticity.",-0.10999999999989996,6.960000000000036,0,False,True,25
+326,5ec5b367ec26b761ec0fc87d,1433.04,1433.75,Yeah.,-0.17000000000007276,0.7100000000000364,0,False,True,1
+327,5f6b75742bd7e60776191cb4,1433.22,1443.92,That's one of them is the one the one I have them. I don't know what I have a diagnosis somewhere I said which one? But the one that's in control of like keeping the joints in place because it's a mesh don't,-0.5299999999999727,10.700000000000045,1,False,True,48
+328,5ec5b367ec26b761ec0fc87d,1443.84,1444.55,Yeah.,-0.08000000000015461,0.7100000000000364,0,False,True,1
+329,5f6b75742bd7e60776191cb4,1443.92,1448.45,want to control places extremely loose. It's like pretty much like barely there.,-0.6299999999998818,4.529999999999973,0,False,True,14
+330,5ec5b367ec26b761ec0fc87d,1448.94,1454.46,"Yeah, I think it might be talking out of my butt, but I feel like that's type three or something and then there's a type four",0.4900000000000091,5.519999999999982,0,False,False,28
+331,5f6b75742bd7e60776191cb4,1454.44,1454.67,Yeah.,-0.01999999999998181,0.2300000000000182,0,False,True,1
+332,5ec5b367ec26b761ec0fc87d,1454.46,1460.52,where you're not hyper mobile at all but your tendons are still not normal. Um,-0.21000000000003638,6.059999999999945,0,False,True,16
+333,5f6b75742bd7e60776191cb4,1459.94,1460.17,Two.,-0.5799999999999272,0.2300000000000182,0,False,True,1
+334,5ec5b367ec26b761ec0fc87d,1460.53,1461.58,"And doctors,",0.35999999999989996,1.0499999999999545,0,False,False,2
+335,5f6b75742bd7e60776191cb4,1460.84,1461.67,Okay.,-0.7400000000000091,0.8300000000001546,0,False,True,1
+336,5ec5b367ec26b761ec0fc87d,1461.59,1466.86,"doctors that I've talked to, they don't really know anything about that so I kind of dropped it but.",-0.08000000000015461,5.269999999999982,0,False,True,21
+337,5f6b75742bd7e60776191cb4,1467.44,1479.32,Yeah. That's why I like when I when I started to physical therapy I from my wrist specifically I found a young warm. But somehow I found an old one from my body like my shoulders. And just in general because,0.5800000000001546,11.879999999999882,0,False,False,42
+338,5ec5b367ec26b761ec0fc87d,1478.74,1479.27,Mhm.,-0.5799999999999272,0.5299999999999727,0,False,True,1
+339,5f6b75742bd7e60776191cb4,1479.32,1485.21,"she was like she's 50 and she knows a lot about it somehow, and she's old. So that's",0.049999999999954525,5.8900000000001,0,False,False,21
+340,5ec5b367ec26b761ec0fc87d,1485.14,1485.46,Yeah.,-0.06999999999993634,0.31999999999993634,0,False,True,1
+341,5f6b75742bd7e60776191cb4,1485.21,1496.55,"why even she said a lot of like, almost everyone she knows her age. I didn't even know a lick about it. Whereas she she studied a lot of she studied recently, like, not study recently, uh, informs everything. Like, read all these",-0.25,11.339999999999918,0,False,True,44
+342,5ec5b367ec26b761ec0fc87d,1496.24,1496.77,Mhm.,-0.30999999999994543,0.5299999999999727,0,False,True,1
+343,5f6b75742bd7e60776191cb4,1496.56,1508.67,"scientific journals, textbooks and all that. But like, yeah, that was like one of the three collagen and I can kind of see it probably you have one of them, the tendons most likely strange.",-0.21000000000003638,12.110000000000127,0,False,True,35
+344,5ec5b367ec26b761ec0fc87d,1508.24,1515.34,"Yeah, it's hard to tell. I don't know. I'm glad you're able to figure out what's going on because it I know",-0.43000000000006366,7.099999999999909,0,False,True,27
+345,5f6b75742bd7e60776191cb4,1515.14,1515.34,Yeah.,-0.1999999999998181,0.1999999999998181,0,False,True,1
+346,5ec5b367ec26b761ec0fc87d,1515.34,1530.88,"a lot of people who have had problems for a long time, they just can't figure it out. And like I've heard of people with other sand loose and they go to doctors and doctors just don't they aren't aware of it. Which seems kind of weird to me because",0.0,15.540000000000191,0,False,False,54
+347,5f6b75742bd7e60776191cb4,1530.74,1530.94,Yeah.,-0.14000000000010004,0.20000000000004547,0,False,True,1
+348,5ec5b367ec26b761ec0fc87d,1530.89,1533.55,I feel like nowadays it's fairly common knowledge.,-0.049999999999954525,2.6599999999998545,0,False,True,9
+349,5f6b75742bd7e60776191cb4,1534.14,1549.28,"It's kind of like, there's four different tiers of thursday, three different tiers. The one I have is the more unknown tear. The tears that everyone knows are the classical and the cardiovascular, the cardiovascular is responsible people not living past 40 because that",0.5900000000001455,15.139999999999873,0,False,False,46
+350,5ec5b367ec26b761ec0fc87d,1549.24,1549.66,Mhm,-0.03999999999996362,0.42000000000007276,0,False,True,1
+351,5f6b75742bd7e60776191cb4,1549.28,1568.42,"relates to your heart being smaller. And I'm technically on the borderline of being cardiovascular. But luckily I'm not because I have all the symptoms. I have long hands, everything else, but the ones I'm missing is the opposite. My joints supposed to be tight and my aorta or aortic roots and like that's supposed to be smaller and it's not. So",-0.38000000000010914,19.1400000000001,0,False,True,67
+352,5ec5b367ec26b761ec0fc87d,1568.24,1568.56,mm.,-0.18000000000006366,0.31999999999993634,0,False,True,1
+353,5f6b75742bd7e60776191cb4,1568.42,1581.39,"that's why they thought I had it. But luckily I don't. But I think you all these different types of to get like, all these different, like, it was a mess. And even like my professor right now studying with like she has the same exact thing, hyper mobile. And",-0.13999999999987267,12.970000000000027,0,False,True,52
+354,5ec5b367ec26b761ec0fc87d,1581.14,1581.55,Yeah,-0.25,0.4099999999998545,0,False,True,1
+355,5f6b75742bd7e60776191cb4,1581.39,1586.55,"I'm really lucky. But like also, what's the you said mental cognitive behavior.",-0.15999999999985448,5.1599999999998545,0,False,True,15
+356,5ec5b367ec26b761ec0fc87d,1586.64,1587.55,cognitive,0.09000000000014552,0.9099999999998545,0,False,False,1
+357,5f6b75742bd7e60776191cb4,1586.94,1587.44,Yeah.,-0.6099999999999,0.5,0,False,True,1
+358,5ec5b367ec26b761ec0fc87d,1587.55,1589.06,"behavioral therapy,",0.10999999999989996,1.509999999999991,0,False,False,2
+359,5f6b75742bd7e60776191cb4,1588.94,1591.19,Yeah. How does that work for,-0.11999999999989086,2.25,0,False,True,6
+360,5ec5b367ec26b761ec0fc87d,1590.74,1590.94,yeah.,-0.4500000000000455,0.20000000000004547,0,False,True,1
+361,5f6b75742bd7e60776191cb4,1591.2,1591.76,10 months?,0.2599999999999909,0.5599999999999454,1,True,False,2
+362,5ec5b367ec26b761ec0fc87d,1592.14,1606.35,"Um So it's uh like psychology method that was developed for just like psychological purposes, like anxiety and whatever. Where so in my instance, um",0.38000000000010914,14.209999999999809,0,False,False,26
+363,5f6b75742bd7e60776191cb4,1607.04,1607.27,What?,0.6900000000000546,0.2300000000000182,1,True,False,1
+364,5ec5b367ec26b761ec0fc87d,1607.24,1655.16,"I couldn't step on a hard floor, it would be so painful in my heels and the balls of my feet. Like I could not take off my shoes ever. So I just would take off my shoes stand on a hard floor and it would hurt. But I would tell my brain, you know what, these are fake pain signals, there's no structural damage, the neurons are firing, they're just like confused. So just train my brain that and say like this is safe, there's no damage. And after a like weeks and weeks of doing that, the pain would start to go away. So I just had to do that for like everything that hurt like using a keyboard, it would be like a nine out of 10 pain and tears streaming down my face and I'm like, this is fake, is that? And you know, it is, it was rough and it sounds pretty crazy and it's",-0.029999999999972715,47.92000000000007,1,False,True,166
+365,5f6b75742bd7e60776191cb4,1655.14,1655.34,Yeah.,-0.01999999999998181,0.1999999999998181,0,False,True,1
+366,5ec5b367ec26b761ec0fc87d,1655.16,1667.67,"just unfortunate that not many people know about it because there's just millions of people with chronic pain who think there's something physically wrong with him and there's not, it's just the brain is misfiring.",-0.1799999999998363,12.509999999999991,0,False,True,39
+367,5f6b75742bd7e60776191cb4,1668.14,1673.66,"Yeah. And not all that research has been like, not a lot of efforts have been focused on mental health recently. Only recently, they have",0.4700000000000273,5.519999999999982,0,False,False,25
+368,5ec5b367ec26b761ec0fc87d,1673.44,1673.95,Mhm.,-0.22000000000002728,0.5099999999999909,0,False,True,1
+369,5f6b75742bd7e60776191cb4,1673.67,1675.55,"before forget about it. Like,",-0.2799999999999727,1.8799999999998818,0,False,True,5
+370,5ec5b367ec26b761ec0fc87d,1676.04,1676.54,Yeah.,0.4900000000000091,0.5,0,False,False,1
+371,5f6b75742bd7e60776191cb4,1676.24,1681.94,"you know, we all know about those like they don't care about, they don't care about it before and now. Only the new generation cares, but not really the older one. But",-0.2999999999999545,5.7000000000000455,0,False,True,34
+372,5ec5b367ec26b761ec0fc87d,1681.94,1682.27,No.,0.0,0.32999999999992724,0,False,False,1
+373,5f6b75742bd7e60776191cb4,1681.94,1704.44,"like yeah, luckily for me, like what is it? So it can work with it. The only way I was able to like um what is it other than other than physically working at the other way that helped me like circumvent the tenant is coming back again because I'm extremely prone to happening like me practicing all these hours and all these all their repertoire.",-0.32999999999992724,22.5,1,False,True,67
+374,5ec5b367ec26b761ec0fc87d,1704.44,1704.86,Mhm.,0.0,0.4199999999998454,0,False,False,1
+375,5f6b75742bd7e60776191cb4,1704.45,1710.81,I'm really prone to it. So the only way I stay away from that is I have to be really aware of my body is doing. Which,-0.4099999999998545,6.3599999999999,0,False,True,28
+376,5ec5b367ec26b761ec0fc87d,1710.74,1711.15,"Yeah,",-0.06999999999993634,0.41000000000008185,0,False,True,1
+377,5f6b75742bd7e60776191cb4,1710.82,1712.96,"takes a lot of mental energy so that, you know, like",-0.3300000000001546,2.1400000000001,0,False,True,11
+378,5ec5b367ec26b761ec0fc87d,1712.74,1713.36,it does.,-0.22000000000002728,0.6199999999998909,0,False,True,2
+379,5f6b75742bd7e60776191cb4,1713.64,1721.95,"because anything feels comfortable for me, even though right now I'm sitting kind of like in a weird position, it feels comfortable like, I don't know, I don't know how my legs are right now, but it feels comfortable because I can",0.2800000000002001,8.309999999999945,0,False,False,45
+380,5ec5b367ec26b761ec0fc87d,1721.94,1722.36,Mhm.,-0.009999999999990905,0.4199999999998454,0,False,True,1
+381,5f6b75742bd7e60776191cb4,1721.95,1732.66,"say positions are like really flexible woman can even, it looks weird. It works for me so that I have to be aware, like my spine most importantly as a stray, which it is that to be, oh my God, it's a mess. Especially when I'm playing too,",-0.4099999999998545,10.710000000000036,0,False,True,50
+382,5ec5b367ec26b761ec0fc87d,1733.04,1733.46,Mhm.,0.37999999999988177,0.42000000000007276,0,False,False,1
+383,5f6b75742bd7e60776191cb4,1733.04,1739.48,"plane is even worse. You have to be like my shoulder level. Does everything else? Fine, worry about this muscle, my back. It's a",-0.42000000000007276,6.440000000000055,1,False,True,25
+384,5ec5b367ec26b761ec0fc87d,1739.44,1739.94,Yeah.,-0.03999999999996362,0.5,0,False,True,1
+385,5f6b75742bd7e60776191cb4,1739.48,1740.77,real pain to keep connection,-0.4600000000000364,1.2899999999999636,0,False,True,5
+386,5ec5b367ec26b761ec0fc87d,1740.34,1742.26,Um What instrument do you play?,-0.43000000000006366,1.9200000000000728,1,True,True,6
+387,5f6b75742bd7e60776191cb4,1742.74,1743.67,a violin,0.4800000000000182,0.9300000000000637,0,False,False,2
+388,5ec5b367ec26b761ec0fc87d,1743.94,1748.46,"Okay, so that's a little awkward, but it's not too heavy like a saxophone or anything.",0.2699999999999818,4.519999999999982,0,False,False,18
+389,5f6b75742bd7e60776191cb4,1748.34,1754.64,older around it's actually much more difficult. So if I was a pianist would be much more easier because I'm,-0.12000000000011823,6.300000000000182,0,False,True,22
+390,5ec5b367ec26b761ec0fc87d,1754.54,1755.04,Yeah.,-0.10000000000013642,0.5,0,False,True,1
+391,5f6b75742bd7e60776191cb4,1754.64,1756.28,just sitting my ass down on the bench and,-0.3999999999998636,1.6399999999998727,0,False,True,9
+392,5ec5b367ec26b761ec0fc87d,1756.24,1756.66,Right.,-0.03999999999996362,0.42000000000007276,0,False,True,1
+393,5f6b75742bd7e60776191cb4,1756.28,1792.27,"if I was like, uh, a saxophone, all I have is a vest that holds it in my hands, whereas the violin, I'm using my back muscles, my muscles underneath my armpit, I forgot they're called. But they're like the scapula, something I'm using my entire torso and ultimate legs is also have to use the fat in my body to transmit and resonate the sound and use my feet to ground myself and I have to walk at the same time. So I don't lock my knees. It's so much more tedious than what it actually looks like. It's it's really difficult. That's why like, professional wise or college wise, all people drop out because it gets difficult.",-0.38000000000010914,35.99000000000001,0,False,True,128
+394,5ec5b367ec26b761ec0fc87d,1792.74,1796.55,I honestly didn't know you had to walk and play violin at the same time.,0.4700000000000273,3.8099999999999454,0,False,False,16
+395,5f6b75742bd7e60776191cb4,1796.14,1806.47,"Mhm So generally if you're a symphony player doesn't matter, but if you're a performance major, usually going to be like, you're going to be playing a chamber music or duets, solos,",-0.4099999999998545,10.329999999999927,0,False,True,36
+396,5ec5b367ec26b761ec0fc87d,1805.94,1806.27,"Oh,",-0.5299999999999727,0.32999999999992724,0,False,True,1
+397,5f6b75742bd7e60776191cb4,1806.48,1810.74,"like a soloist. Yeah, you have to get used to walk in and play at the same time. So that's why I",0.21000000000003638,4.259999999999991,0,False,False,23
+398,5ec5b367ec26b761ec0fc87d,1810.74,1810.9,all,0.0,0.16000000000008185,0,False,False,1
+399,5f6b75742bd7e60776191cb4,1810.74,1811.17,"like,",-0.16000000000008185,0.43000000000006366,0,False,True,1
+400,5ec5b367ec26b761ec0fc87d,1810.9,1811.16,right.,-0.2699999999999818,0.2599999999999909,0,False,True,1
+401,5f6b75742bd7e60776191cb4,1812.74,1822.77,"we have to be really aware and like the challenges will have to is like during lessons in person even now she'd say, oh, you're playing this piece step on every like second or first be",1.5799999999999272,10.029999999999973,0,False,False,38
+402,5ec5b367ec26b761ec0fc87d,1822.74,1822.95,Oh.,-0.029999999999972715,0.21000000000003638,0,False,True,1
+403,5f6b75742bd7e60776191cb4,1822.77,1833.17,"depending what is it? It's like box or if it's like Mendel's or whatever step on every beat, your like step on every beach, right? And it's really difficult to do that because generally to when you walk the walk with the beat,",-0.18000000000006366,10.400000000000091,2,False,True,47
+404,5ec5b367ec26b761ec0fc87d,1833.74,1834.06,Mhm.,0.5699999999999363,0.31999999999993634,0,False,False,1
+405,5f6b75742bd7e60776191cb4,1833.94,1851.55,"it's really difficult. But um, yeah, and then if he was a pianist to be much razor, that's why like violin, people say five hours a day. No, that's insane. Do like 3 to 4 because if he was a pianist makes sense. You just sit down and at most it's just this motion and everything is in the muscles over here. She's going side to side.",-0.11999999999989086,17.6099999999999,0,False,True,72
+406,5ec5b367ec26b761ec0fc87d,1852.04,1852.45,Yeah.,0.4900000000000091,0.41000000000008185,0,False,False,1
+407,5f6b75742bd7e60776191cb4,1852.04,1869.77,"Whereas, and even saxophone, you have the best you can sit down or you can stand up, it's fine for violin, you have all these different components. And yeah, pretty much like it's really difficult. So that's why it's expected like violent 3 to 4 piano, 5 to 6 or seven today. Yeah,",-0.41000000000008185,17.730000000000018,0,False,True,57
+408,5ec5b367ec26b761ec0fc87d,1869.94,1874.46,Have you tried any braces or anything like back braces or shoulder braces?,0.17000000000007276,4.519999999999982,1,True,False,13
+409,5f6b75742bd7e60776191cb4,1874.84,1875.56,so,0.37999999999988177,0.7200000000000273,0,False,False,1
+410,5ec5b367ec26b761ec0fc87d,1875.54,1875.77,Okay.,-0.01999999999998181,0.2300000000000182,0,False,True,1
+411,5f6b75742bd7e60776191cb4,1876.14,1883.27,"my physical therapist told me no, because the problem is that how to put it, it's",0.37000000000011823,7.129999999999882,0,False,False,17
+412,5ec5b367ec26b761ec0fc87d,1883.05,1883.76,"Oh,",-0.22000000000002728,0.7100000000000364,0,False,True,1
+413,5f6b75742bd7e60776191cb4,1883.28,1901.06,"it's not going to really help me because I'm always used to every position. If my body wasn't naturally set. Like if every position didn't feel natural for me, then I could use it because then that that would eventually get like hardwired to me. But because every position feels natural, I can't do that. I have to be aware all the time on my shoulders.",-0.4800000000000182,17.779999999999973,0,False,True,71
+414,5ec5b367ec26b761ec0fc87d,1900.74,1901.96,mm. Okay.,-0.31999999999993634,1.2200000000000273,0,False,True,2
+415,5f6b75742bd7e60776191cb4,1902.74,1907.77,"So yeah, that's that's like the major difference. That's why I only brace I used was like for my wrist and that's when I was injured.",0.7799999999999727,5.029999999999973,0,False,False,30
+416,5ec5b367ec26b761ec0fc87d,1908.34,1908.84,Yeah.,0.5699999999999363,0.5,0,False,False,1
+417,5f6b75742bd7e60776191cb4,1908.54,1922.27,And also to another symptom of like hyper mobile Kristanna syndrome is like really thin or thinner arms than normal. Like it's insane even when I did shop. But my arms are still kind of thin and my wrists are really thin as well and my,-0.2999999999999545,13.730000000000018,0,False,True,47
+418,5ec5b367ec26b761ec0fc87d,1922.24,1923.17,Mhm.,-0.029999999999972715,0.9300000000000637,0,False,True,1
+419,5f6b75742bd7e60776191cb4,1922.27,1923.87,"fingers are long, skinny. That's",-0.900000000000091,1.599999999999909,0,False,True,6
+420,5ec5b367ec26b761ec0fc87d,1923.84,1924.11,I,-0.029999999999972715,0.2699999999999818,0,False,True,1
+421,5f6b75742bd7e60776191cb4,1923.87,1924.27,weird.,-0.2400000000000091,0.40000000000009095,0,False,True,1
+422,5ec5b367ec26b761ec0fc87d,1924.11,1931.36,"do have really thin forearms, but my upper arms are not that at all. I don't know addressing.",-0.16000000000008185,7.25,0,False,True,19
+423,5f6b75742bd7e60776191cb4,1930.34,1935.27,"Yeah, it's weird. But yeah. But yeah, it was really nice talking with you.",-1.0199999999999818,4.930000000000064,0,False,True,15
+424,5ec5b367ec26b761ec0fc87d,1935.54,1939.19,"Yeah, you as well. Kind of had some weird things in common, learned a",0.2699999999999818,3.650000000000091,0,False,False,14
+425,5f6b75742bd7e60776191cb4,1939.14,1939.46,Yeah.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+426,5ec5b367ec26b761ec0fc87d,1939.19,1941.06,little bit though. But,-0.2699999999999818,1.8699999999998909,0,False,True,4
+427,5f6b75742bd7e60776191cb4,1940.84,1941.95,Mm Yeah. Likewise.,-0.22000000000002728,1.1100000000001273,0,False,True,3
+428,5ec5b367ec26b761ec0fc87d,1942.24,1945.06,"yeah, I hope your schooling goes good. Help us to rico is good.",0.2899999999999636,2.8199999999999363,0,False,False,13
+429,5f6b75742bd7e60776191cb4,1945.64,1946.94,Thanks you too.,0.5800000000001546,1.2999999999999545,0,False,False,3
+430,5ec5b367ec26b761ec0fc87d,1946.84,1947.29,All right.,-0.10000000000013642,0.4500000000000455,0,False,True,2
+431,5f6b75742bd7e60776191cb4,1946.95,1947.46,Bye bye.,-0.33999999999991815,0.5099999999999909,0,False,True,2

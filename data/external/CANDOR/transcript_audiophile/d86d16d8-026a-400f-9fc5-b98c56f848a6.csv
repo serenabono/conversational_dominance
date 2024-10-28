@@ -1,0 +1,534 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5f49553539747213d0e5f1ae,14.84,32.25,Yeah. Mhm,,17.41,0,False,False,2
+1,5b8597308f1e2600019bbf90,100.14,101.55,Hello?,67.89,1.4099999999999966,1,True,False,1
+2,5f49553539747213d0e5f1ae,101.84,102.95,Hi.,0.29000000000000625,1.1099999999999994,0,False,False,1
+3,5b8597308f1e2600019bbf90,102.74,107.26,Can you see me? Good. Hold on. I think I might have to close my blinds. Can you see me? Pretty good.,-0.21000000000000796,4.52000000000001,2,False,True,22
+4,5f49553539747213d0e5f1ae,107.34,108.36,"Yeah, you're good now.",0.0799999999999983,1.019999999999996,0,False,False,5
+5,5b8597308f1e2600019bbf90,108.14,110.36,"Okay, perfect. How are you doing?",-0.21999999999999886,2.219999999999999,1,True,True,6
+6,5f49553539747213d0e5f1ae,110.54,112.25,I'm doing well. How about you?,0.18000000000000682,1.7099999999999937,1,True,False,7
+7,5b8597308f1e2600019bbf90,111.64,115.01,"Good, Not too bad. Sorry.",-0.6099999999999994,3.3700000000000045,0,False,True,5
+8,5f49553539747213d0e5f1ae,114.74,114.95,"Oh,",-0.27000000000001023,0.21000000000000796,0,False,True,1
+9,5b8597308f1e2600019bbf90,115.01,116.36,Came on. So late.,0.060000000000002274,1.3499999999999943,0,False,False,4
+10,5f49553539747213d0e5f1ae,116.54,118.16,that's okay.,0.18000000000000682,1.6199999999999903,0,False,False,3
+11,5b8597308f1e2600019bbf90,117.54,117.95,Yeah.,-0.6199999999999903,0.4099999999999966,0,False,True,1
+12,5f49553539747213d0e5f1ae,118.64,120.56,Just catching up on things,0.6899999999999977,1.9200000000000017,0,False,False,5
+13,5b8597308f1e2600019bbf90,120.54,121.34,Yeah.,-0.01999999999999602,0.7999999999999972,0,False,True,1
+14,5f49553539747213d0e5f1ae,121.34,121.55,what,0.0,0.20999999999999375,0,False,False,1
+15,5b8597308f1e2600019bbf90,122.24,124.96,Good. So have you done this before?,0.6899999999999977,2.719999999999999,1,True,False,7
+16,5f49553539747213d0e5f1ae,124.84,126.06,"I have, Have you?",-0.11999999999999034,1.2199999999999989,1,True,True,4
+17,5b8597308f1e2600019bbf90,126.14,128.96,Yeah. This is probably like my fourth time.,0.0799999999999983,2.8200000000000074,0,False,False,8
+18,5f49553539747213d0e5f1ae,129.14,131.36,"Okay? Yeah, this is only my second one, but",0.1799999999999784,2.2200000000000273,1,False,False,9
+19,5b8597308f1e2600019bbf90,131.34,132.06,Okay.,-0.020000000000010232,0.7199999999999989,0,False,True,1
+20,5f49553539747213d0e5f1ae,131.37,133.25,"first more moral so I was like, okay, well",-0.6899999999999977,1.8799999999999955,0,False,True,9
+21,5b8597308f1e2600019bbf90,132.94,133.72,Yeah.,-0.3100000000000023,0.7800000000000011,0,False,True,1
+22,5f49553539747213d0e5f1ae,133.64,133.82,it,-0.0800000000000125,0.18000000000000682,0,False,True,1
+23,5b8597308f1e2600019bbf90,133.73,133.91,And,-0.09000000000000341,0.18000000000000682,0,False,True,1
+24,5f49553539747213d0e5f1ae,133.82,134.15,won't,-0.09000000000000341,0.3300000000000125,0,False,True,2
+25,5b8597308f1e2600019bbf90,133.91,140.57,"I've been lucky because I've talked to a few people, all of mine so far happened with women. Yeah.",-0.2400000000000091,6.659999999999997,0,False,True,21
+26,5f49553539747213d0e5f1ae,138.94,140.04,"Right. Yeah,",-1.6299999999999955,1.0999999999999943,0,False,True,2
+27,5b8597308f1e2600019bbf90,140.58,150.55,"And then I've talked to certain people who have done it with men, like, you know, different people. So I was like, okay, well, I was excited to see what I was going to get this time.",0.5400000000000205,9.969999999999999,0,False,False,38
+28,5f49553539747213d0e5f1ae,149.74,151.21,"interesting. Yeah. No,",-0.8100000000000023,1.4699999999999989,0,False,True,3
+29,5b8597308f1e2600019bbf90,151.14,152.06,Yeah.,-0.0700000000000216,0.9200000000000159,0,False,True,1
+30,5f49553539747213d0e5f1ae,151.21,161.65,"the person I talked to was also a woman and she had said the same thing. She's like, yeah, it seems like they matched you up at least in her case she had done a couple and she said she was matched up with like women kind of around similar age",-0.8499999999999943,10.439999999999998,0,False,True,52
+31,5b8597308f1e2600019bbf90,161.84,162.92,Yeah.,0.18999999999999773,1.079999999999984,0,False,False,1
+32,5f49553539747213d0e5f1ae,162.14,162.56,or,-0.7800000000000011,0.4200000000000159,0,False,True,1
+33,5b8597308f1e2600019bbf90,162.93,176.05,"Yeah. I think the same thing it's been for me, but I don't know for some reason she said that her the last, the last person I talked to had college age males. So I was like, oh, that must have been an interesting conversation.",0.37000000000000455,13.120000000000005,0,False,False,47
+34,5f49553539747213d0e5f1ae,174.58,176.95,"Yeah, that would be very interesting.",-1.4699999999999989,2.369999999999976,0,False,True,6
+35,5b8597308f1e2600019bbf90,176.64,179.15,Yeah. So,-0.3100000000000023,2.5100000000000193,0,False,True,2
+36,5f49553539747213d0e5f1ae,178.84,179.24,Yeah.,-0.3100000000000023,0.4000000000000057,0,False,True,1
+37,5b8597308f1e2600019bbf90,179.15,179.34,where,-0.09000000000000341,0.18999999999999773,0,False,True,1
+38,5f49553539747213d0e5f1ae,179.25,179.53,"Well,",-0.09000000000000341,0.28000000000000114,0,False,True,1
+39,5b8597308f1e2600019bbf90,179.34,179.66,are you,-0.18999999999999773,0.3199999999999932,0,False,True,2
+40,5f49553539747213d0e5f1ae,179.53,179.81,that was,-0.12999999999999545,0.28000000000000114,0,False,True,2
+41,5b8597308f1e2600019bbf90,179.66,180.45,located?,-0.15000000000000568,0.789999999999992,1,True,True,1
+42,5f49553539747213d0e5f1ae,179.81,182.26,"weird to find more gone like what, who are gonna",-0.6399999999999864,2.4499999999999886,0,False,True,11
+43,5b8597308f1e2600019bbf90,181.94,183.2,"I know, right.",-0.3199999999999932,1.259999999999991,0,False,True,3
+44,5f49553539747213d0e5f1ae,183.14,183.35,looks,-0.060000000000002274,0.21000000000000796,0,False,True,1
+45,5b8597308f1e2600019bbf90,183.21,183.46,And,-0.13999999999998636,0.25,0,False,True,1
+46,5f49553539747213d0e5f1ae,183.35,183.56,"like,",-0.11000000000001364,0.21000000000000796,0,False,True,1
+47,5b8597308f1e2600019bbf90,183.46,184.46,where are you located?,-0.09999999999999432,1.0,1,True,True,4
+48,5f49553539747213d0e5f1ae,184.64,187.06,"right, I'm in the midwest Nebraska.",0.1799999999999784,2.420000000000016,0,False,False,7
+49,5b8597308f1e2600019bbf90,187.24,189.76,"Oh, nice. How is it weather over there?",0.18000000000000682,2.519999999999982,1,True,False,8
+50,5f49553539747213d0e5f1ae,190.04,194.86,"It's really not bad right now. Yesterday was super cold only because the wind was very cold, but",0.28000000000000114,4.820000000000022,0,False,False,19
+51,5b8597308f1e2600019bbf90,194.34,194.96,Okay.,-0.5200000000000102,0.6200000000000045,0,False,True,1
+52,5f49553539747213d0e5f1ae,195.34,197.78,right now stands out and it's just cold. We,0.37999999999999545,2.4399999999999977,0,False,False,10
+53,5b8597308f1e2600019bbf90,197.74,198.46,Mhm.,-0.03999999999999204,0.7199999999999989,0,False,True,1
+54,5f49553539747213d0e5f1ae,197.78,199.15,"don't have no yet though, so",-0.6800000000000068,1.3700000000000045,0,False,True,7
+55,5b8597308f1e2600019bbf90,199.44,202.46,"Yeah, that's good. I'm in Arizona. So",0.28999999999999204,3.0200000000000102,0,False,False,9
+56,5f49553539747213d0e5f1ae,201.94,202.96,"All right, awesome.",-0.5200000000000102,1.0200000000000102,0,False,True,3
+57,5b8597308f1e2600019bbf90,203.04,211.93,"Our weather, I mean it's it's like 70's right now so it's not too bad. Um little colder than we're used to but I love it. I list",0.07999999999998408,8.890000000000015,0,False,False,33
+58,5f49553539747213d0e5f1ae,211.64,212.15,Okay.,-0.29000000000002046,0.5100000000000193,0,False,True,1
+59,5b8597308f1e2600019bbf90,211.93,212.44,like,-0.21999999999999886,0.5099999999999909,0,False,True,1
+60,5f49553539747213d0e5f1ae,212.16,212.75,I,-0.28000000000000114,0.5900000000000034,0,False,True,1
+61,5b8597308f1e2600019bbf90,212.45,217.32,"the change from the three degree, you know weather, three",-0.30000000000001137,4.8700000000000045,0,False,True,10
+62,5f49553539747213d0e5f1ae,217.04,217.66,"yeah,",-0.28000000000000114,0.6200000000000045,0,False,True,1
+63,5b8597308f1e2600019bbf90,217.32,218.96,digit degree weather or other.,-0.3400000000000034,1.6400000000000148,0,False,True,5
+64,5f49553539747213d0e5f1ae,219.24,223.35,"yeah, I was just in phoenix couple weekend or a couple weeks ago actually and",0.28000000000000114,4.109999999999985,0,False,False,15
+65,5b8597308f1e2600019bbf90,223.24,224.26,Okay.,-0.10999999999998522,1.0199999999999818,0,False,True,1
+66,5f49553539747213d0e5f1ae,224.04,227.66,"We're saying that like yeah it's cold,",-0.21999999999999886,3.6200000000000045,0,False,True,9
+67,5b8597308f1e2600019bbf90,226.94,228.04,Yeah.,-0.7199999999999989,1.0999999999999943,0,False,True,1
+68,5f49553539747213d0e5f1ae,227.67,228.96,the,-0.37000000000000455,1.2900000000000205,0,False,True,1
+69,5b8597308f1e2600019bbf90,228.54,228.96,Cook,-0.4200000000000159,0.4200000000000159,0,False,True,1
+70,5f49553539747213d0e5f1ae,228.97,232.26,sun was out but you know it was like 70s or whatever.,0.009999999999990905,3.289999999999992,0,False,False,12
+71,5b8597308f1e2600019bbf90,231.24,234.37,"mm Compared to what we're used to anyway,",-1.0199999999999818,3.1299999999999955,0,False,True,9
+72,5f49553539747213d0e5f1ae,233.74,234.25,Mhm.,-0.6299999999999955,0.5099999999999909,0,False,True,1
+73,5b8597308f1e2600019bbf90,234.37,238.92,you know? Cool. Yeah. So,0.12000000000000455,4.549999999999983,1,False,False,5
+74,5f49553539747213d0e5f1ae,238.54,238.95,Yeah.,-0.37999999999999545,0.4099999999999966,0,False,True,1
+75,5b8597308f1e2600019bbf90,238.92,246.56,"what do, what do you um I guess I could ask um what is your, what is it that you do I guess?",-0.030000000000001137,7.640000000000015,1,True,True,23
+76,5f49553539747213d0e5f1ae,246.14,247.2,Yeah. I'm,-0.4200000000000159,1.0600000000000023,0,False,True,3
+77,5b8597308f1e2600019bbf90,246.94,247.44,Yeah.,-0.2599999999999909,0.5,0,False,True,1
+78,5f49553539747213d0e5f1ae,247.2,251.96,"a student at the University of Nebraska Medical Center right now actually, public health students so",-0.2400000000000091,4.760000000000019,0,False,True,16
+79,5b8597308f1e2600019bbf90,251.74,252.85,Nice.,-0.21999999999999886,1.1099999999999852,0,False,True,1
+80,5f49553539747213d0e5f1ae,252.54,254.78,it's a crazy time to do that. But,-0.3100000000000023,2.240000000000009,0,False,True,9
+81,5b8597308f1e2600019bbf90,254.54,254.92,Oh,-0.2400000000000091,0.37999999999999545,0,False,True,1
+82,5f49553539747213d0e5f1ae,254.79,255.06,I've,-0.12999999999999545,0.27000000000001023,0,False,True,2
+83,5b8597308f1e2600019bbf90,254.92,255.55,yeah.,-0.14000000000001478,0.6300000000000239,0,False,True,1
+84,5f49553539747213d0e5f1ae,255.07,258.58,got one more semester left and then good,-0.4800000000000182,3.509999999999991,0,False,True,8
+85,5b8597308f1e2600019bbf90,257.84,259.08,Yeah.,-0.7400000000000091,1.240000000000009,0,False,True,1
+86,5f49553539747213d0e5f1ae,258.59,258.95,for,-0.4900000000000091,0.36000000000001364,0,False,True,1
+87,5b8597308f1e2600019bbf90,259.09,264.76,And so you're currently on campus or you like how does it work for you right now?,0.13999999999998636,5.670000000000016,1,True,False,18
+88,5f49553539747213d0e5f1ae,264.74,270.76,"yeah, so I am on campus um and I was last year but we're fully remote right now so",-0.01999999999998181,6.019999999999982,0,False,True,20
+89,5b8597308f1e2600019bbf90,270.64,271.66,Mhm.,-0.12000000000000455,1.0200000000000387,0,False,True,1
+90,5f49553539747213d0e5f1ae,271.84,277.06,"I pop on a campus here and there for random things but I think it's only been like three or four times this year,",0.17999999999994998,5.220000000000027,0,False,False,25
+91,5b8597308f1e2600019bbf90,276.94,277.66,Yeah.,-0.12000000000000455,0.7200000000000273,0,False,True,1
+92,5f49553539747213d0e5f1ae,277.54,277.96,"wow,",-0.12000000000000455,0.4199999999999591,0,False,True,1
+93,5b8597308f1e2600019bbf90,277.67,281.16,So that's pretty cool. So what do you ultimately want to use your degree for?,-0.2899999999999636,3.490000000000009,1,True,True,16
+94,5f49553539747213d0e5f1ae,281.14,288.35,"it's yeah, I am thinking you probably bought going into just the local or state health department um",-0.020000000000038654,7.210000000000036,0,False,True,19
+95,5b8597308f1e2600019bbf90,288.14,288.76,Mm,-0.21000000000003638,0.6200000000000045,0,False,True,1
+96,5f49553539747213d0e5f1ae,289.04,296.96,otherwise kind of going a research route. Like there's a few kind of companies around Omaha that do specific research on like food insecurity or,0.28000000000002956,7.919999999999959,0,False,False,26
+97,5b8597308f1e2600019bbf90,296.74,297.76,wow.,-0.21999999999997044,1.0199999999999818,0,False,True,1
+98,5f49553539747213d0e5f1ae,297.34,299.85,Mhm. Other topics. Photo,-0.4200000000000159,2.5100000000000477,0,False,True,4
+99,5b8597308f1e2600019bbf90,299.64,300.72,Yeah.,-0.21000000000003638,1.080000000000041,0,False,True,1
+100,5f49553539747213d0e5f1ae,300.24,300.56,Yeah.,-0.4800000000000182,0.3199999999999932,0,False,True,1
+101,5b8597308f1e2600019bbf90,300.73,301.16,And that's,0.17000000000001592,0.4300000000000068,0,False,False,3
+102,5f49553539747213d0e5f1ae,301.04,301.36,Mhm.,-0.12000000000000455,0.3199999999999932,0,False,True,1
+103,5b8597308f1e2600019bbf90,301.16,339.66,"kind of like you said, especially with everything going on just in uncertain times and changes that we're experiencing right now. I'm sure when you kind of got into it, you probably had one idea. And then now that everything's happened, it's like, okay, what? There's the pros and the concert that I guess it's kind of like the pros are opportunities are endless for what I can be able to do in this type of career. But the cons could just be like the uncertainty of it all. Like you don't really have an opportunity to kind of predict what that's gonna look like for you because everything is so unpredictable, you know?",-0.19999999999998863,38.5,2,True,True,123
+104,5f49553539747213d0e5f1ae,339.34,353.63,"Right. And it's, my emphasis is actually a health promotion. But you know, we do have a lot of epidemiology and I'm kind of like, well, gosh, you know, everybody is going to be wanting epidemiology after this pandemic. But I mean public health and all aspects will be needed.",-0.32000000000005,14.29000000000002,0,False,True,52
+105,5b8597308f1e2600019bbf90,353.14,353.34,Yeah.,-0.4900000000000091,0.19999999999998863,0,False,True,1
+106,5f49553539747213d0e5f1ae,353.64,354.01,"But yeah,",0.30000000000001137,0.37000000000000455,0,False,False,2
+107,5b8597308f1e2600019bbf90,353.94,354.56,"Yeah,",-0.06999999999999318,0.6200000000000045,0,False,True,1
+108,5f49553539747213d0e5f1ae,354.02,358.25,"it's not crazy. I'm like, I did not expect this when I started school,",-0.5400000000000205,4.230000000000018,0,False,True,16
+109,5b8597308f1e2600019bbf90,358.24,358.9,I,-0.009999999999990905,0.6599999999999682,0,False,True,1
+110,5f49553539747213d0e5f1ae,358.25,358.85,but,-0.6499999999999773,0.6000000000000227,0,False,True,1
+111,5b8597308f1e2600019bbf90,358.91,359.74,know.,0.060000000000002274,0.8299999999999841,0,False,False,1
+112,5f49553539747213d0e5f1ae,359.64,361.16,yeah.,-0.10000000000002274,1.5200000000000387,0,False,True,1
+113,5b8597308f1e2600019bbf90,359.74,387.75,"I know. Well that's exciting. I never really think of, you don't really think of like the medical, I guess when you think of the medical industry, it's usually like the frontline workers, you know, um the doctors, the nurses, you know, the clinical physicians, things like that. But when you think of your position, it's kind of like that, like on the health aspect of it, like, you know, the aftermath. That's pretty interesting to understand how needed that is. Especially like you said for now.",-1.420000000000016,28.00999999999999,0,False,True,92
+114,5f49553539747213d0e5f1ae,388.14,388.56,Mhm.,0.38999999999998636,0.4200000000000159,0,False,False,1
+115,5b8597308f1e2600019bbf90,388.24,390.06,"Well, everything that we're going through.",-0.3199999999999932,1.8199999999999932,0,False,True,7
+116,5f49553539747213d0e5f1ae,390.54,391.46,"Yeah. Yeah,",0.4800000000000182,0.9199999999999591,0,False,False,2
+117,5b8597308f1e2600019bbf90,391.14,391.56,Mhm.,-0.3199999999999932,0.4200000000000159,0,False,True,1
+118,5f49553539747213d0e5f1ae,391.46,394.05,I'm excited about it. How about you? What do you do?,-0.10000000000002274,2.590000000000032,2,True,True,12
+119,5b8597308f1e2600019bbf90,394.34,423.0,"So I freelance, I do content writing a lot of freelance work. So doing these my spare time. That's kind of how I came up on it. Just kind of, you know, in the in between part of it. Um I did go to a S. U. For screen, film and media. So I'm a writer essentially. That's that's what my passion is, what I really like to do. It's funny because I came from just a background of doing sales and",0.2899999999999636,28.660000000000025,0,False,False,87
+120,5f49553539747213d0e5f1ae,422.84,423.16,Right.,-0.160000000000025,0.32000000000005,0,False,True,1
+121,5b8597308f1e2600019bbf90,423.01,426.13,it was in denial for years. I'm a horrible salesperson. I'm,-0.1500000000000341,3.1200000000000045,0,False,True,13
+122,5f49553539747213d0e5f1ae,426.04,426.25,Right.,-0.08999999999997499,0.20999999999997954,0,False,True,1
+123,5b8597308f1e2600019bbf90,426.13,447.76,"just too to creative and my mind wanders too far off. And it's just really hard because I'm an emotional person for me to sell things to people that I know they don't need. So I had to take a shift in that because that can kind of, you know, hinder you emotionally sometimes and bring stress. So you have to really do what you're what you're passionate about.",-0.12000000000000455,21.629999999999995,0,False,True,74
+124,5f49553539747213d0e5f1ae,448.34,448.85,Right.,0.5799999999999841,0.5100000000000477,0,False,False,1
+125,5b8597308f1e2600019bbf90,448.54,464.66,So I decided just to really go back to school and that's when I went to A. S. U. And studied film and I was able to do that online. So that was pretty exciting and I'm just a happier person I guess.,-0.3100000000000023,16.120000000000005,0,False,True,45
+126,5f49553539747213d0e5f1ae,464.24,465.99,Yeah. That's awesome.,-0.4200000000000159,1.75,0,False,True,4
+127,5b8597308f1e2600019bbf90,465.64,466.74,Yeah.,-0.35000000000002274,1.1000000000000227,0,False,True,1
+128,5f49553539747213d0e5f1ae,466.0,470.26,Is that kind of the writing that you stick to is doing like screenwriting or?,-0.7400000000000091,4.259999999999991,1,True,True,15
+129,5b8597308f1e2600019bbf90,470.04,472.7,Screenwriting I well it's a range,-0.21999999999997044,2.659999999999968,0,False,True,7
+130,5f49553539747213d0e5f1ae,472.54,472.74,Yeah.,-0.15999999999996817,0.19999999999998863,0,False,True,1
+131,5b8597308f1e2600019bbf90,472.71,492.36,"um novel writing has been something that I've always had interest in and kind of dabbled in and um when I saw the opportunity to get a writing degree with a c I saw screenwriting and I was like, oh, this is really exciting, and I think the niche that I really fell in love with was documentary,",-0.03000000000002956,19.650000000000034,0,False,True,59
+132,5f49553539747213d0e5f1ae,492.64,493.36,Okay.,0.2799999999999727,0.7200000000000273,0,False,False,1
+133,5b8597308f1e2600019bbf90,493.04,508.06,"so I love not just viewing documentaries, but whenever I watch a documentary, I always find myself thinking of the creative concepts of them and you know, how they tell the story, and so that's kind of where my passion is right now.",-0.3199999999999932,15.019999999999982,0,False,True,44
+134,5f49553539747213d0e5f1ae,508.43,509.24,I'm,0.37000000000000455,0.8100000000000023,0,False,False,2
+135,5b8597308f1e2600019bbf90,509.14,509.64,Yeah.,-0.10000000000002274,0.5,0,False,True,1
+136,5f49553539747213d0e5f1ae,509.24,513.05,right. I've been hitting the documentary is hard during covid,-0.39999999999997726,3.8099999999999454,0,False,True,11
+137,5b8597308f1e2600019bbf90,512.74,513.99,"Oh yeah, because",-0.30999999999994543,1.25,0,False,True,3
+138,5f49553539747213d0e5f1ae,513.74,514.12,all that,-0.25,0.37999999999999545,0,False,True,2
+139,5b8597308f1e2600019bbf90,513.99,514.24,they're,-0.12999999999999545,0.25,0,False,True,2
+140,5f49553539747213d0e5f1ae,514.13,514.76,often.,-0.11000000000001364,0.6299999999999955,0,False,True,1
+141,5b8597308f1e2600019bbf90,514.24,536.06,insightful. It's good sometimes to get away from the news outlets and to just kind of look at personal experience um whether it be far from your understanding or something that you're aligned with or what you believe in. It's kind of interesting to see those different experiences,-0.5199999999999818,21.819999999999936,0,False,True,51
+142,5f49553539747213d0e5f1ae,536.14,536.65,Mhm.,0.08000000000004093,0.5099999999999909,0,False,False,1
+143,5b8597308f1e2600019bbf90,536.44,557.05,"to to then, you know, and I'm pretty sure in your field of work you you encounter so many different things, whether it be what you see as reality, but then you're also dealing with other people who may be a little bit like I don't know are skeptical about what's going on in the world. So it helps in it helps give you insight I would say.",-0.2099999999999227,20.6099999999999,0,False,True,72
+144,5f49553539747213d0e5f1ae,557.34,557.85,Mhm.,0.2900000000000773,0.5099999999999909,0,False,False,1
+145,5b8597308f1e2600019bbf90,558.64,559.35,Yeah,0.7899999999999636,0.7100000000000364,0,False,False,1
+146,5f49553539747213d0e5f1ae,559.84,562.1,"Yeah, I've been hitting some good ones to hit the classic",0.4900000000000091,2.259999999999991,0,False,False,12
+147,5b8597308f1e2600019bbf90,561.64,562.15,wow,-0.4600000000000364,0.5099999999999909,0,False,True,1
+148,5f49553539747213d0e5f1ae,562.1,565.96,ones. Like um was a Tiger King and,-0.049999999999954525,3.8600000000000136,0,False,True,8
+149,5b8597308f1e2600019bbf90,565.44,566.68,mm,-0.5199999999999818,1.2399999999998954,0,False,True,1
+150,5f49553539747213d0e5f1ae,566.54,567.35,Hello?,-0.13999999999998636,0.8100000000000591,1,True,True,1
+151,5b8597308f1e2600019bbf90,566.69,568.55,that was like right,-0.6599999999999682,1.8599999999999,0,False,True,4
+152,5f49553539747213d0e5f1ae,568.44,568.64,Yeah.,-0.10999999999989996,0.1999999999999318,0,False,True,1
+153,5b8597308f1e2600019bbf90,568.56,573.56,"after, I think everybody needed that in their life.",-0.08000000000004093,5.0,0,False,True,9
+154,5f49553539747213d0e5f1ae,571.94,574.07,"Oh yeah, yeah, absolutely",-1.6199999999998909,2.1299999999999955,0,False,True,4
+155,5b8597308f1e2600019bbf90,573.94,574.14,Yeah.,-0.12999999999999545,0.1999999999999318,0,False,True,1
+156,5f49553539747213d0e5f1ae,574.07,575.15,whinge that one,-0.06999999999993634,1.0799999999999272,0,False,True,3
+157,5b8597308f1e2600019bbf90,575.34,576.05,Uh huh.,0.19000000000005457,0.7099999999999227,0,False,False,2
+158,5f49553539747213d0e5f1ae,575.64,577.93,now. I've been on kind of a true crime kick like,-0.40999999999996817,2.2899999999999636,0,False,True,12
+159,5b8597308f1e2600019bbf90,577.94,579.16,"Oh,",0.010000000000104592,1.2199999999999136,0,False,False,1
+160,5f49553539747213d0e5f1ae,578.26,580.46,this breathing good,-0.8999999999999773,2.2000000000000455,0,False,True,3
+161,5b8597308f1e2600019bbf90,580.14,594.5,"oh my gosh, okay, so we're about the same when it comes to are the types of documentaries we like I love and then also I've been listening to a lot of true crime podcast. That's another thing that I love too. I used",-0.32000000000005,14.360000000000014,0,False,True,47
+162,5f49553539747213d0e5f1ae,594.34,594.85,maybe.,-0.15999999999996817,0.5099999999999909,0,False,True,1
+163,5b8597308f1e2600019bbf90,594.5,607.16,"to have a podcast and then so it's it's funny because all the things that I like to do, I am a fan of those things so that just makes it easier to kind of you know enjoy what I do.",-0.35000000000002274,12.659999999999968,0,False,True,43
+164,5f49553539747213d0e5f1ae,607.24,607.75,Mhm,0.08000000000004093,0.5099999999999909,0,False,False,1
+165,5b8597308f1e2600019bbf90,607.54,612.55,"But yeah, unsolved mysteries is a classic and they've done a really good job revamping it",-0.21000000000003638,5.009999999999991,0,False,True,17
+166,5f49553539747213d0e5f1ae,612.94,613.34,"Yeah,",0.39000000000010004,0.39999999999997726,0,False,False,1
+167,5b8597308f1e2600019bbf90,612.94,613.42,on,-0.39999999999997726,0.4799999999999045,0,False,True,1
+168,5f49553539747213d0e5f1ae,613.34,613.45,I,-0.07999999999992724,0.11000000000001364,0,False,True,1
+169,5b8597308f1e2600019bbf90,613.43,613.59,the,-0.020000000000095497,0.16000000000008185,0,False,True,1
+170,5f49553539747213d0e5f1ae,613.45,613.91,have,-0.13999999999998636,0.4599999999999227,0,False,True,1
+171,5b8597308f1e2600019bbf90,613.59,614.26,netflix.,-0.31999999999993634,0.6699999999999591,0,False,True,1
+172,5f49553539747213d0e5f1ae,613.92,615.95,watched the old ones just this new,-0.34000000000003183,2.0300000000000864,0,False,True,7
+173,5b8597308f1e2600019bbf90,615.34,616.06,Oh,-0.6100000000000136,0.7199999999999136,0,False,True,1
+174,5f49553539747213d0e5f1ae,615.96,617.65,"and I'm like, this is good.",-0.09999999999990905,1.6899999999999409,0,False,True,7
+175,5b8597308f1e2600019bbf90,617.44,650.43,the old ones are pretty good. I mean every time you kind of go back and look at you know graphics and feel like the way they developed the stories it's a little bit different then because I think the way they do unsolved mysteries is a little bit more documentary style in um back in the day it was kind of like I don't know I can compare it to like I don't know it's it's so hard to kind of come up with but if you ever get a chance to look at the old ones on you can look at them on like um,-0.2099999999999227,32.989999999999895,0,False,True,112
+176,5f49553539747213d0e5f1ae,650.14,650.46,Mm.,-0.2899999999999636,0.32000000000005,0,False,True,1
+177,5b8597308f1e2600019bbf90,650.44,656.19,"Youtube to just kind of look and compare but they were all interesting, everything",-0.01999999999998181,5.75,0,False,True,14
+178,5f49553539747213d0e5f1ae,656.04,656.36,Mm,-0.15000000000009095,0.32000000000005,0,False,True,1
+179,5b8597308f1e2600019bbf90,656.19,658.74,was interesting so yeah.,-0.16999999999995907,2.5499999999999545,0,False,True,4
+180,5f49553539747213d0e5f1ae,658.94,659.88,Yeah. And,0.20000000000004547,0.9399999999999409,0,False,False,2
+181,5b8597308f1e2600019bbf90,659.74,660.25,Mhm.,-0.13999999999998636,0.5099999999999909,0,False,True,1
+182,5f49553539747213d0e5f1ae,659.88,664.46,"I listened to my favorite murder to, I don't know if you've been listening to that one, but",-0.37000000000000455,4.580000000000041,0,False,True,20
+183,5b8597308f1e2600019bbf90,664.04,665.06,No.,-0.42000000000007276,1.0199999999999818,0,False,True,1
+184,5f49553539747213d0e5f1ae,665.14,672.66,"I had something like a full circle yesterday. I was watching um it's called trial for on netflix, The document.",0.08000000000004093,7.519999999999982,0,False,False,21
+185,5b8597308f1e2600019bbf90,672.44,673.84,Mhm. Oh,-0.2199999999999136,1.3999999999999773,0,False,True,2
+186,5f49553539747213d0e5f1ae,673.44,673.86,"I'm not,",-0.39999999999997726,0.4199999999999591,0,False,True,3
+187,5b8597308f1e2600019bbf90,673.84,677.84,yeah I saw that I'm actually gonna have that on my list of things to watch.,-0.01999999999998181,4.0,0,False,True,18
+188,5f49553539747213d0e5f1ae,677.44,677.9,"yeah,",-0.39999999999997726,0.4599999999999227,0,False,True,1
+189,5b8597308f1e2600019bbf90,677.85,678.05,It,-0.049999999999954525,0.1999999999999318,0,False,True,1
+190,5f49553539747213d0e5f1ae,677.91,678.08,it's,-0.13999999999998636,0.17000000000007276,0,False,True,2
+191,5b8597308f1e2600019bbf90,678.05,678.37,just,-0.030000000000086402,0.32000000000005,0,False,True,1
+192,5f49553539747213d0e5f1ae,678.08,678.46,not you,-0.2899999999999636,0.37999999999999545,0,False,True,2
+193,5b8597308f1e2600019bbf90,678.37,678.62,came,-0.09000000000003183,0.25,0,False,True,1
+194,5f49553539747213d0e5f1ae,678.46,678.96,guys.,-0.15999999999996817,0.5,0,False,True,1
+195,5b8597308f1e2600019bbf90,678.62,679.24,out. Yeah.,-0.34000000000003183,0.6200000000000045,0,False,True,2
+196,5f49553539747213d0e5f1ae,679.34,695.66,"Yeah, like during that one, they mentioned this other like kind of similar murder that happened that they had talked about my favorite murder. And I was like, where do I know this smart? And I was like, oh my gosh, like I've never connected like my years of listening to murder before and I was like, okay.",0.10000000000002274,16.319999999999936,1,False,False,59
+197,5b8597308f1e2600019bbf90,694.54,734.06,"Mhm And I do find that watching the shows and like that you kind of sometimes overlap where you may have heard of them on one show and then you get like I said you might get a different view or a different side of the story on another show. So that's that's what I love is to just kind of hear both sides of the story, both from the victim and by the you know the actual person who committed the crime just to kind of see what like to try to put things together and try to get a whole understanding of what may have transpired because I always say what may have transpired because no one really knows everything,",-1.1200000000000045,39.51999999999998,0,False,True,124
+198,5f49553539747213d0e5f1ae,734.14,734.85,Uh huh,0.08000000000004093,0.7100000000000364,0,False,False,2
+199,5b8597308f1e2600019bbf90,734.44,747.21,"you know what I mean? Like um what was the one that came out with? There was a, there was a netflix documentary on it with the guy, I think they were from colorado. The family",-0.40999999999996817,12.769999999999982,2,False,True,36
+200,5f49553539747213d0e5f1ae,747.04,747.66,"Yes,",-0.17000000000007276,0.6200000000000045,0,False,True,1
+201,5b8597308f1e2600019bbf90,747.22,748.62,guy with,-0.4399999999999409,1.3999999999999773,0,False,True,2
+202,5f49553539747213d0e5f1ae,748.44,749.46,american,-0.17999999999994998,1.0199999999999818,0,False,True,1
+203,5b8597308f1e2600019bbf90,748.62,761.65,"the two daughters. Yes. American murder. Oh my gosh, I've heard about that story and followed it For years. But the way they were able to bring it to life just by the actual 911 calls in the video.",-0.8400000000000318,13.029999999999973,0,False,True,40
+204,5f49553539747213d0e5f1ae,761.94,762.56,Yeah.,0.2900000000000773,0.6199999999998909,0,False,False,1
+205,5b8597308f1e2600019bbf90,762.24,764.36,"Oh it was, it gave me goose bumps.",-0.31999999999993634,2.1200000000000045,0,False,True,8
+206,5f49553539747213d0e5f1ae,764.44,764.8,Yeah. That,0.08000000000004093,0.35999999999989996,0,False,False,2
+207,5b8597308f1e2600019bbf90,764.74,765.09,What?,-0.05999999999994543,0.35000000000002274,1,True,True,1
+208,5f49553539747213d0e5f1ae,764.8,771.06,"wasn't saying, I've never seen one that has like body cam footage and all the social media footage. It was",-0.2900000000000773,6.259999999999991,0,False,True,22
+209,5b8597308f1e2600019bbf90,770.84,782.61,"Yeah. And the calls and hearing the voices and that changes the game because then you can actually hear the emotion. Like when I was looking at this, did you watch that documentary by the way? On netflix?",-0.2199999999999136,11.769999999999982,2,True,True,38
+210,5f49553539747213d0e5f1ae,781.94,782.74,yeah.,-0.6699999999999591,0.7999999999999545,0,False,True,1
+211,5b8597308f1e2600019bbf90,782.62,802.45,"Okay. When I was looking at the scenes where her friend was in the house with the police officers and with her husband and like you could see certain things that she did. Like she was nervous. like she was just like, oh my gosh, like that was what, Right? I did it for me because I was like, okay, this is real. You know what I",-0.12000000000000455,19.83000000000004,1,False,True,67
+212,5f49553539747213d0e5f1ae,802.44,802.76,Mhm,-0.009999999999990905,0.31999999999993634,0,False,True,1
+213,5b8597308f1e2600019bbf90,802.45,815.38,"mean? And not to say that other situations aren't real, but when you see it from that perspective, it makes you think of this is what people are seeing in the courtrooms when they're looking at footage, like the jurors and stuff like that. Like I felt",-0.30999999999994543,12.92999999999995,1,False,True,49
+214,5f49553539747213d0e5f1ae,815.34,815.54,Yeah.,-0.03999999999996362,0.1999999999999318,0,False,True,1
+215,5b8597308f1e2600019bbf90,815.38,817.56,like I was on the jurors seat of it all,-0.15999999999996817,2.17999999999995,0,False,True,10
+216,5f49553539747213d0e5f1ae,817.64,818.06,Mhm,0.08000000000004093,0.4199999999999591,0,False,False,1
+217,5b8597308f1e2600019bbf90,817.84,826.86,"to kind of gauge what I believe was the truth, which we all know what the truth is now, but you know, just kind of looking at it from that perspective.",-0.2199999999999136,9.019999999999982,0,False,True,31
+218,5f49553539747213d0e5f1ae,827.14,830.84,Yeah. Well you're so used to getting like the reenactments or,0.2799999999999727,3.7000000000000455,0,False,False,12
+219,5b8597308f1e2600019bbf90,830.74,831.46,Mhm.,-0.10000000000002274,0.7200000000000273,0,False,True,1
+220,5f49553539747213d0e5f1ae,830.85,838.65,"you know the end of it. So they have all of that was absolutely crazy. I was, I kept saying like shout out to that friend she",-0.6100000000000136,7.7999999999999545,0,False,True,27
+221,5b8597308f1e2600019bbf90,838.14,839.46,"Right,",-0.5099999999999909,1.32000000000005,0,False,True,1
+222,5f49553539747213d0e5f1ae,839.04,844.86,"is for me, if I had a friend who wasn't responding to me for a day, I honestly would just be like, okay, like they're busy",-0.42000000000007276,5.82000000000005,0,False,True,28
+223,5b8597308f1e2600019bbf90,844.54,845.45,she's fine,-0.32000000000005,0.9100000000000819,0,False,True,3
+224,5f49553539747213d0e5f1ae,845.34,846.4,non,-0.11000000000001364,1.0599999999999454,0,False,True,1
+225,5b8597308f1e2600019bbf90,845.46,846.16,or your,-0.9399999999999409,0.6999999999999318,0,False,True,2
+226,5f49553539747213d0e5f1ae,846.4,847.86,them in one day.,0.2400000000000091,1.4600000000000364,0,False,False,4
+227,5b8597308f1e2600019bbf90,847.54,872.86,"I get that, I get that, it's kind of like and I I see what you're saying because as adults and then, you know, she has a family, she has a husband, she has kids. So for me, I would think like, you like, you know, I'm not I mean why would anything be wrong? You know, she has she probably has things that she needs to do. But I look at it as not only was she it's kind of like it's good to have a nosy friend",-0.32000000000005,25.32000000000005,1,False,True,94
+228,5f49553539747213d0e5f1ae,872.84,874.15,Uh huh,-0.01999999999998181,1.3099999999999454,0,False,True,2
+229,5b8597308f1e2600019bbf90,873.34,877.58,"if your life is in danger, right?",-0.8099999999999454,4.240000000000009,1,True,True,7
+230,5f49553539747213d0e5f1ae,876.34,877.56,I know.,-1.240000000000009,1.2199999999999136,0,False,True,2
+231,5b8597308f1e2600019bbf90,877.58,905.96,"But at the other end of it, not only was she a little in a way intrusive. For good reason, she was also you could tell that she probably has shared some things with her too because they were on those business trips together and then, you know after business you might go to a restaurant or to whatever and talk. And it seemed like she was that friend that she may be. It's revealed a few things that were going on",0.020000000000095497,28.379999999999995,0,False,False,83
+232,5f49553539747213d0e5f1ae,906.14,906.86,Mhm,0.17999999999994998,0.7200000000000273,0,False,False,1
+233,5b8597308f1e2600019bbf90,906.54,913.35,at home for her to feel like okay something might not be right because she was going through a lot in that time.,-0.32000000000005,6.810000000000059,0,False,True,23
+234,5f49553539747213d0e5f1ae,913.54,913.95,Yeah.,0.18999999999994088,0.41000000000008185,0,False,False,1
+235,5b8597308f1e2600019bbf90,914.14,932.56,Yeah I mean just based on everything else. But yeah I I am with you 100%. I was like she was a real m. v. p. For that case because had she didn't like you said and she not had that intuition to check on that that could have gone a totally different direction.,0.18999999999994088,18.41999999999996,0,False,False,55
+236,5f49553539747213d0e5f1ae,932.64,932.99,Yeah.,0.08000000000004093,0.35000000000002274,0,False,False,1
+237,5b8597308f1e2600019bbf90,932.94,933.74,Yeah.,-0.049999999999954525,0.7999999999999545,0,False,True,1
+238,5f49553539747213d0e5f1ae,933.0,936.15,Well my husband and sure thought he had way more time. Like,-0.7400000000000091,3.1499999999999773,0,False,True,12
+239,5b8597308f1e2600019bbf90,935.84,936.55,Oh yeah.,-0.30999999999994543,0.7099999999999227,0,False,True,2
+240,5f49553539747213d0e5f1ae,936.64,939.84,"I have to think like murderer, but like I would",0.09000000000003183,3.2000000000000455,0,False,False,10
+241,5b8597308f1e2600019bbf90,938.84,939.88,Yeah because he,-1.0,1.0399999999999636,0,False,True,3
+242,5f49553539747213d0e5f1ae,939.85,940.01,come,-0.029999999999972715,0.15999999999996817,0,False,True,1
+243,5b8597308f1e2600019bbf90,939.88,940.35,she,-0.12999999999999545,0.4700000000000273,0,False,True,1
+244,5f49553539747213d0e5f1ae,940.01,940.42,home,-0.34000000000003183,0.40999999999996817,0,False,True,1
+245,5b8597308f1e2600019bbf90,940.35,941.54,cut off,-0.06999999999993634,1.1899999999999409,0,False,True,2
+246,5f49553539747213d0e5f1ae,940.9,942.06,there.,-0.6399999999999864,1.1599999999999682,0,False,True,1
+247,5b8597308f1e2600019bbf90,941.55,948.17,she she cut off the time for him to go back home and set things up a little bit differently.,-0.5099999999999909,6.6200000000000045,0,False,True,20
+248,5f49553539747213d0e5f1ae,948.04,948.25,Mhm,-0.12999999999999545,0.21000000000003638,0,False,True,1
+249,5b8597308f1e2600019bbf90,948.17,960.35,Like having the the medications still there like he probably would have had more time to dispose of certain things to make it seem as though you know she really did go off somewhere,-0.08000000000004093,12.180000000000064,0,False,True,34
+250,5f49553539747213d0e5f1ae,960.74,961.25,mhm,0.38999999999998636,0.5099999999999909,0,False,False,1
+251,5b8597308f1e2600019bbf90,960.94,967.15,"and then the neighbors and whoever whatever security cameras they used, that was another",-0.30999999999994543,6.209999999999923,0,False,True,14
+252,5f49553539747213d0e5f1ae,966.64,966.84,Yeah.,-0.5099999999999909,0.20000000000004547,0,False,True,1
+253,5b8597308f1e2600019bbf90,967.64,989.36,"pivotal part for that too. Because for them to be able to actually see him leaving the home and not seeing her leave the home changed it. So it just kind of was one of those things where everything worked out in her favor without her realizing what was in her favor, unfortunately.",0.7999999999999545,21.720000000000027,0,False,False,53
+254,5f49553539747213d0e5f1ae,987.54,996.49,Oh yeah. Yeah. I know. Kind of a case for like truly actually opening up to folks. I mean our society doesn't always encourages to share some of those intimate details that,-1.82000000000005,8.950000000000045,0,False,True,33
+255,5b8597308f1e2600019bbf90,996.44,997.06,Mhm.,-0.049999999999954525,0.6199999999998909,0,False,True,1
+256,5f49553539747213d0e5f1ae,996.49,1002.57,"shoot, I don't know. No, I'm like, okay, maybe I do need to have that one person who I",-0.5699999999999363,6.080000000000041,0,False,True,21
+257,5b8597308f1e2600019bbf90,1003.04,1003.75,Yeah.,0.4699999999999136,0.7100000000000364,0,False,False,1
+258,5f49553539747213d0e5f1ae,1003.14,1004.62,"sure. Well, I don't",-0.6100000000000136,1.4800000000000182,0,False,True,5
+259,5b8597308f1e2600019bbf90,1004.54,1005.34,Yeah.,-0.08000000000004093,0.8000000000000682,0,False,True,1
+260,5f49553539747213d0e5f1ae,1004.62,1004.85,know.,-0.7200000000000273,0.2300000000000182,0,False,True,1
+261,5b8597308f1e2600019bbf90,1005.84,1008.47,"But you don't, I mean you don't think of it that way, right? Because",0.9900000000000091,2.6299999999999955,1,False,False,16
+262,5f49553539747213d0e5f1ae,1008.44,1008.97,Right.,-0.029999999999972715,0.5299999999999727,0,False,True,1
+263,5b8597308f1e2600019bbf90,1008.47,1011.08,"it's like, oh, just in case I die",-0.5,2.6100000000000136,0,False,True,9
+264,5f49553539747213d0e5f1ae,1010.94,1011.56,Yeah.,-0.13999999999998636,0.6199999999998909,0,False,True,1
+265,5b8597308f1e2600019bbf90,1011.09,1055.55,"or just in case someone wants to kill me or something happens. And it's like I said, it was just one of those things that I think it opened up the change of abnormal situations being the salvation for her. Because like I said, when you think of just history, how many cases probably could have unfolded with those additional things, You know what I mean? But like you said society wise we're not really prone to wanting to tell everybody everything or having extra security cameras around. It's just it was I think it was just a coincidence an abnormal coincidence that led",-0.4699999999999136,44.45999999999992,1,False,True,107
+266,5f49553539747213d0e5f1ae,1054.84,1055.05,Mm.,-0.7100000000000364,0.21000000000003638,0,False,True,1
+267,5b8597308f1e2600019bbf90,1056.34,1061.46,you know everyone to find out what happened to her because I'm sure he thought he was good.,1.2899999999999636,5.120000000000118,0,False,False,19
+268,5f49553539747213d0e5f1ae,1062.34,1062.75,Yeah.,0.8799999999998818,0.41000000000008185,0,False,False,1
+269,5b8597308f1e2600019bbf90,1062.94,1063.62,Yeah. Which,0.19000000000005457,0.6799999999998363,0,False,False,2
+270,5f49553539747213d0e5f1ae,1063.54,1063.89,Oh,-0.07999999999992724,0.3500000000001364,0,False,True,1
+271,5b8597308f1e2600019bbf90,1063.62,1064.36,is crazy,-0.2700000000002092,0.7400000000000091,0,False,True,2
+272,5f49553539747213d0e5f1ae,1063.9,1064.26,"no,",-0.459999999999809,0.35999999999989996,0,False,True,1
+273,5b8597308f1e2600019bbf90,1064.36,1065.06,to me.,0.09999999999990905,0.7000000000000455,0,False,False,2
+274,5f49553539747213d0e5f1ae,1065.44,1085.72,"one of the most interesting components to me was how they had that one little segment where they were talking about how her social media presence had a lot of people saying like, oh well she drove him to do it. And that was super interesting to me, the little chat about victim blaming. But also it did show that there was a benefit to her being on social media. Like it gave",0.38000000000010914,20.279999999999973,0,False,False,73
+275,5b8597308f1e2600019bbf90,1085.54,1086.16,Yeah.,-0.18000000000006366,0.6200000000001182,0,False,True,1
+276,5f49553539747213d0e5f1ae,1085.72,1092.85,"some clues and you know, I'm kind of wanted to thumb my nose a little bit of people who are social media heavy. So,",-0.44000000000005457,7.129999999999882,0,False,True,25
+277,5b8597308f1e2600019bbf90,1092.64,1093.77,Yeah.,-0.209999999999809,1.1299999999998818,0,False,True,1
+278,5f49553539747213d0e5f1ae,1093.24,1096.45,"well I, yeah, I see",-0.5299999999999727,3.2100000000000364,0,False,True,5
+279,5b8597308f1e2600019bbf90,1096.14,1108.77,Yeah everything and then um that did I don't know if they mentioned it. I can't remember because I watched something else on it too and I don't know if I'm blending the two but I know that his mom wrote a book about it,-0.30999999999994543,12.629999999999882,0,False,True,49
+280,5f49553539747213d0e5f1ae,1109.44,1109.66,at,0.6700000000000728,0.22000000000002728,0,False,False,1
+281,5b8597308f1e2600019bbf90,1109.64,1110.17,where,-0.01999999999998181,0.5299999999999727,0,False,True,1
+282,5f49553539747213d0e5f1ae,1109.66,1110.06,all.,-0.5099999999999909,0.3999999999998636,0,False,True,1
+283,5b8597308f1e2600019bbf90,1110.17,1141.17,yeah there's a book that she wrote that basically does the victim blaming part of it. Like she is telling like who she really was. You know I just thought that was so crazy you know because it's I mean his fate is sealed at this point like what is going to come out of that like is it that you you know your son is in prison for the rest of his life but is it that you just want the public to have compassion towards him because it's not going to change,0.11000000000012733,31.0,0,False,False,97
+284,5f49553539747213d0e5f1ae,1141.04,1141.27,Oh,-0.13000000000010914,0.2300000000000182,0,False,True,1
+285,5b8597308f1e2600019bbf90,1141.17,1148.56,anything. So I was kind of a little confused as to why she chose to write the book,-0.09999999999990905,7.389999999999873,0,False,True,18
+286,5f49553539747213d0e5f1ae,1149.04,1149.45,yeah.,0.4800000000000182,0.41000000000008185,0,False,False,1
+287,5b8597308f1e2600019bbf90,1149.14,1154.16,"about that like it's it's bad enough that she's gone, her daughters are gone you know",-0.30999999999994543,5.019999999999982,0,False,True,19
+288,5f49553539747213d0e5f1ae,1154.94,1155.56,Yeah.,0.7799999999999727,0.6199999999998909,0,False,False,1
+289,5b8597308f1e2600019bbf90,1155.24,1164.03,let things go but from her the mother's perspective I think she I think she probably just did it for closure to just because,-0.31999999999993634,8.789999999999964,0,False,True,25
+290,5f49553539747213d0e5f1ae,1163.64,1163.96,Well,-0.38999999999987267,0.31999999999993634,0,False,True,1
+291,5b8597308f1e2600019bbf90,1164.03,1188.85,she probably was like I know the real story behind all of this and I just thought that was like why would I read the book? Probably not you know I don't know if I would ever read the book but I just thought that was pretty interesting like you know with the whole victim blaming thing that it wasn't just the mother that there were other people that picked up on different things But at the end of the day No one deserves that you know so,0.06999999999993634,24.819999999999936,1,False,False,90
+292,5f49553539747213d0e5f1ae,1189.24,1189.72,"yeah,",0.39000000000010004,0.4800000000000182,0,False,False,1
+293,5b8597308f1e2600019bbf90,1189.54,1189.76,I,-0.18000000000006366,0.22000000000002728,0,False,True,1
+294,5f49553539747213d0e5f1ae,1189.73,1190.82,well,-0.029999999999972715,1.0899999999999181,0,False,True,1
+295,5b8597308f1e2600019bbf90,1189.76,1191.06,just thought that was crazy.,-1.0599999999999454,1.2999999999999545,0,False,True,5
+296,5f49553539747213d0e5f1ae,1190.83,1195.04,Shannon had her faults and there are faults in their marriage. But as they,-0.2300000000000182,4.210000000000036,0,False,True,14
+297,5b8597308f1e2600019bbf90,1194.84,1195.35,Mhm.,-0.20000000000004547,0.5099999999999909,0,False,True,1
+298,5f49553539747213d0e5f1ae,1195.04,1200.43,"so nicely pointed out at the end of that documentary, there's a thing called divorce, you know, didn't",-0.30999999999994543,5.3900000000001,0,False,True,20
+299,5b8597308f1e2600019bbf90,1200.34,1201.3,Exactly.,-0.09000000000014552,0.9600000000000364,0,False,True,1
+300,5f49553539747213d0e5f1ae,1200.43,1201.74,have really?,-0.8699999999998909,1.3099999999999454,1,True,True,2
+301,5b8597308f1e2600019bbf90,1201.63,1251.94,"I never understood that like why wouldn't he have I mean I think he kind of made it seem like it was something that she didn't want because of the persona of you know wanting to seem as though life was perfect. I think that's what the mom was saying in the book that divorce was discussed and it was presented but it was more her fighting it because it was like she did not want to because remember she was on the social media like posing this this beautiful home and you know, all the things that they're doing is family and the pictures and everything and I think it was from what she posed it as was Shannon was the one who did not want the divorce. She wanted to fight for her marriage and she wanted to fight",-0.10999999999989996,50.309999999999945,0,False,True,145
+302,5f49553539747213d0e5f1ae,1251.74,1251.95,Mm,-0.20000000000004547,0.21000000000003638,0,False,True,1
+303,5b8597308f1e2600019bbf90,1251.95,1263.77,"for the glue to be the glue to keep everything together. And he probably was just at that point of okay, is it? I don't know, it",0.0,11.819999999999936,1,False,False,28
+304,5f49553539747213d0e5f1ae,1263.14,1263.67,Oh,-0.6299999999998818,0.5299999999999727,0,False,True,1
+305,5b8597308f1e2600019bbf90,1263.77,1288.56,"just opens up so many different things that you try to think of, like what was his mindset, you know, did he want to do the divorce? And then it was kind of like, well we'll work on it, we'll work on it, we'll work on it. And then he's living this double life where, you know, he has the mistress and he has the family and he's trying to figure out what's best for me because for some reason the mistress didn't seem like she was too much okay up here either,",0.09999999999990905,24.789999999999964,1,False,False,100
+306,5f49553539747213d0e5f1ae,1288.54,1289.48,"yeah,",-0.01999999999998181,0.9400000000000546,0,False,True,1
+307,5b8597308f1e2600019bbf90,1288.94,1289.57,you know?,-0.5399999999999636,0.6299999999998818,1,True,True,2
+308,5f49553539747213d0e5f1ae,1289.49,1289.69,that,-0.07999999999992724,0.20000000000004547,0,False,True,1
+309,5b8597308f1e2600019bbf90,1289.58,1290.35,So,-0.11000000000012733,0.7699999999999818,0,False,True,1
+310,5f49553539747213d0e5f1ae,1289.69,1291.05,"was super strange. Yeah,",-0.6599999999998545,1.3599999999999,0,False,True,4
+311,5b8597308f1e2600019bbf90,1291.44,1293.38,yeah and it was,0.39000000000010004,1.9400000000000546,0,False,False,4
+312,5f49553539747213d0e5f1ae,1293.14,1293.45,I had to,-0.2400000000000091,0.30999999999994543,0,False,True,3
+313,5b8597308f1e2600019bbf90,1293.39,1293.77,just,-0.05999999999994543,0.37999999999988177,0,False,True,1
+314,5f49553539747213d0e5f1ae,1293.45,1296.27,"look up. I kind of wondered, I was like where is she now? And",-0.31999999999993634,2.8199999999999363,1,False,True,14
+315,5b8597308f1e2600019bbf90,1296.24,1297.05,"right,",-0.029999999999972715,0.8099999999999454,0,False,True,1
+316,5f49553539747213d0e5f1ae,1296.28,1301.56,"yeah, she went off the grid, which I'm like, yeah, like I would do because I don't think",-0.7699999999999818,5.279999999999973,0,False,True,20
+317,5b8597308f1e2600019bbf90,1301.44,1302.06,it's,-0.11999999999989086,0.6199999999998909,0,False,True,2
+318,5f49553539747213d0e5f1ae,1301.57,1305.55,"she's entirely, she was not entirely in the dark about everything and so.",-0.4900000000000091,3.980000000000018,0,False,True,14
+319,5b8597308f1e2600019bbf90,1305.14,1332.89,"Oh no, no, I don't I don't think she was either. Um I don't think she knew. I think after everything transpired she was probably like, whoa, like do I really want to be with someone like this, you know? Or or imagine if I would be thinking, imagine if we actually he did get the divorce and we ended up together like this could be me, you know, like I",-0.4099999999998545,27.75,1,False,True,74
+320,5f49553539747213d0e5f1ae,1332.64,1332.85,Mhm.,-0.25,0.209999999999809,0,False,True,1
+321,5b8597308f1e2600019bbf90,1332.89,1333.88,"I don't know, it's",0.040000000000190994,0.9900000000000091,0,False,False,6
+322,5f49553539747213d0e5f1ae,1333.84,1334.04,Yeah.,-0.040000000000190994,0.20000000000004547,0,False,True,1
+323,5b8597308f1e2600019bbf90,1333.88,1340.86,"just so many different, you can have this conversation about this case on so many different levels and",-0.15999999999985448,6.979999999999791,0,False,True,18
+324,5f49553539747213d0e5f1ae,1340.74,1340.94,Yeah.,-0.11999999999989086,0.20000000000004547,0,False,True,1
+325,5b8597308f1e2600019bbf90,1340.86,1343.05,I think that's what's intriguing about it.,-0.08000000000015461,2.1900000000000546,0,False,True,9
+326,5f49553539747213d0e5f1ae,1344.24,1344.66,No.,1.1900000000000546,0.42000000000007276,0,False,False,1
+327,5b8597308f1e2600019bbf90,1344.54,1345.25,Yeah.,-0.12000000000011823,0.7100000000000364,0,False,True,1
+328,5f49553539747213d0e5f1ae,1345.64,1346.61,"Yeah,",0.39000000000010004,0.9699999999997999,0,False,False,1
+329,5b8597308f1e2600019bbf90,1345.64,1347.46,So that's fun.,-0.9699999999997999,1.8199999999999363,0,False,True,4
+330,5f49553539747213d0e5f1ae,1346.61,1353.54,"I remember only that one when it was just in the news and like I still remember the headlines where they still thought like, oh yeah, she's just missing.",-0.8500000000001364,6.930000000000064,0,False,True,30
+331,5b8597308f1e2600019bbf90,1353.14,1353.34,Yeah.,-0.3999999999998636,0.1999999999998181,0,False,True,1
+332,5f49553539747213d0e5f1ae,1353.54,1354.28,And so,0.20000000000004547,0.7400000000000091,0,False,False,2
+333,5b8597308f1e2600019bbf90,1353.94,1354.86,Yeah.,-0.33999999999991815,0.9199999999998454,0,False,True,1
+334,5f49553539747213d0e5f1ae,1354.29,1361.17,this documentary like fairly recently was pretty cool. I kind of hope we can get this with more cases,-0.5699999999999363,6.880000000000109,0,False,True,19
+335,5b8597308f1e2600019bbf90,1360.94,1361.66,Mhm.,-0.2300000000000182,0.7200000000000273,0,False,True,1
+336,5f49553539747213d0e5f1ae,1361.84,1362.13,create,0.1799999999998363,0.290000000000191,0,False,False,1
+337,5b8597308f1e2600019bbf90,1362.04,1362.67,"Yeah,",-0.09000000000014552,0.6300000000001091,0,False,True,1
+338,5f49553539747213d0e5f1ae,1362.13,1362.95,that myself.,-0.5399999999999636,0.8199999999999363,0,False,True,2
+339,5b8597308f1e2600019bbf90,1362.68,1380.46,"I like I did definitely like the style of it and how it, you know, it showed that like I said that emotion, there were some really interesting ones to um the one that happened out here with, what was this girl's name, The one who murdered her boyfriend.",-0.2699999999999818,17.779999999999973,0,False,True,50
+340,5f49553539747213d0e5f1ae,1381.64,1382.36,"Uh,",1.1800000000000637,0.7199999999997999,0,False,False,1
+341,5b8597308f1e2600019bbf90,1381.84,1385.56,It was like um jodi arias.,-0.5199999999999818,3.7200000000000273,0,False,True,6
+342,5f49553539747213d0e5f1ae,1386.44,1392.06,"was that, Is this the, was that the assistant murder 1? Like he wanted to commit suicide? She helped him",0.8800000000001091,5.619999999999891,2,False,False,20
+343,5b8597308f1e2600019bbf90,1391.94,1393.03,No,-0.11999999999989086,1.0899999999999181,0,False,True,1
+344,5f49553539747213d0e5f1ae,1392.06,1392.56,or no?,-0.9700000000000273,0.5,1,True,True,2
+345,5b8597308f1e2600019bbf90,1393.03,1393.28,that,0.4700000000000273,0.25,0,False,False,1
+346,5f49553539747213d0e5f1ae,1393.14,1393.35,"Oh,",-0.13999999999987267,0.209999999999809,0,False,True,1
+347,5b8597308f1e2600019bbf90,1393.28,1397.27,"was the one this actually happened here in Mesa Arizona, it was",-0.06999999999993634,3.990000000000009,0,False,True,12
+348,5f49553539747213d0e5f1ae,1397.24,1397.45,"mm,",-0.029999999999972715,0.21000000000003638,0,False,True,1
+349,5b8597308f1e2600019bbf90,1397.27,1424.96,"this girl, she had brown hair. He was like he came from like a mormon family and um she just became super super obsessed with him. It was like an obsession type thing and it ended up where everything seemed like it was fine and she just out of the blue just stabbed him in the shower and she claimed self defense, she claimed that he was threatening her and he was abusive. If you ever get a chance to look at that one. That one was crazy too",-0.18000000000006366,27.690000000000055,0,False,True,89
+350,5f49553539747213d0e5f1ae,1425.04,1425.81,mm,0.07999999999992724,0.7699999999999818,0,False,False,1
+351,5b8597308f1e2600019bbf90,1425.34,1425.95,because,-0.4700000000000273,0.6100000000001273,0,False,True,1
+352,5f49553539747213d0e5f1ae,1425.82,1426.05,that's,-0.13000000000010914,0.2300000000000182,0,False,True,2
+353,5b8597308f1e2600019bbf90,1425.96,1426.34,it,-0.08999999999991815,0.37999999999988177,0,False,True,1
+354,5f49553539747213d0e5f1ae,1426.05,1426.58,not,-0.2899999999999636,0.5299999999999727,0,False,True,1
+355,5b8597308f1e2600019bbf90,1426.34,1426.66,"was,",-0.2400000000000091,0.3200000000001637,0,False,True,1
+356,5f49553539747213d0e5f1ae,1426.59,1427.56,there yet. It's just,-0.07000000000016371,0.9700000000000273,0,False,True,5
+357,5b8597308f1e2600019bbf90,1427.54,1427.73,it,-0.01999999999998181,0.19000000000005457,0,False,True,1
+358,5f49553539747213d0e5f1ae,1427.56,1427.77,a,-0.17000000000007276,0.21000000000003638,0,False,True,1
+359,5b8597308f1e2600019bbf90,1427.73,1428.51,"is, it's",-0.03999999999996362,0.7799999999999727,0,False,True,3
+360,5f49553539747213d0e5f1ae,1428.24,1428.57,Oh,-0.2699999999999818,0.32999999999992724,0,False,True,1
+361,5b8597308f1e2600019bbf90,1428.51,1432.94,"actually on, if you look on either netflix or hulu you can find it. And that's",-0.05999999999994543,4.430000000000064,0,False,True,17
+362,5f49553539747213d0e5f1ae,1432.94,1433.17,yeah.,0.0,0.2300000000000182,0,False,False,1
+363,5b8597308f1e2600019bbf90,1432.94,1454.05,"the jodi arias that was probably one of the baker unsolved. Like it wasn't necessarily unsolved, but it was like one of those crime type things that happened because the case there was just, I don't know, you have to look at it, but that was a big one that drew crowds from everywhere out here in Arizona for a while.",-0.2300000000000182,21.1099999999999,0,False,True,63
+364,5f49553539747213d0e5f1ae,1454.14,1454.56,Mm,0.09000000000014552,0.4199999999998454,0,False,False,1
+365,5b8597308f1e2600019bbf90,1454.44,1465.35,"And then the other one with Shannon was huge because she actually would come to Arizona a lot for her thrive, marketing stuff like for conventions.",-0.11999999999989086,10.909999999999854,0,False,True,26
+366,5f49553539747213d0e5f1ae,1465.14,1465.77,Hello.,-0.209999999999809,0.6299999999998818,0,False,True,1
+367,5b8597308f1e2600019bbf90,1466.04,1469.16,So there was a lot of people who knew her out here.,0.2699999999999818,3.1200000000001182,0,False,False,12
+368,5f49553539747213d0e5f1ae,1469.14,1469.46,Mm,-0.01999999999998181,0.31999999999993634,0,False,True,1
+369,5b8597308f1e2600019bbf90,1469.17,1473.86,So it was just kind of interesting to see it from a local perspective.,-0.2899999999999636,4.689999999999827,0,False,True,14
+370,5f49553539747213d0e5f1ae,1473.94,1474.44,Yeah.,0.08000000000015461,0.5,0,False,False,1
+371,5b8597308f1e2600019bbf90,1474.74,1475.7,Yeah.,0.2999999999999545,0.9600000000000364,0,False,False,1
+372,5f49553539747213d0e5f1ae,1475.54,1475.86,All,-0.16000000000008185,0.31999999999993634,0,False,True,1
+373,5b8597308f1e2600019bbf90,1475.71,1475.96,But,-0.14999999999986358,0.25,0,False,True,1
+374,5f49553539747213d0e5f1ae,1475.86,1476.05,right.,-0.10000000000013642,0.19000000000005457,0,False,True,1
+375,5b8597308f1e2600019bbf90,1475.96,1481.7,"yeah, that one was crazy too. I know so many like because I watched them all the time,",-0.08999999999991815,5.740000000000009,0,False,True,18
+376,5f49553539747213d0e5f1ae,1481.44,1481.94,"Yeah,",-0.2599999999999909,0.5,0,False,True,1
+377,5b8597308f1e2600019bbf90,1481.7,1495.94,"you kind of you know, go but there's the ones that are still um there's still some pending right now that I've been following. Some really interesting ones. Unfortunately, it's not the best thing that I like to do. It can become a little depressing, but it's",-0.2400000000000091,14.240000000000009,0,False,True,52
+378,5f49553539747213d0e5f1ae,1495.74,1495.94,yeah.,-0.20000000000004547,0.20000000000004547,0,False,True,1
+379,5b8597308f1e2600019bbf90,1495.94,1497.56,intriguing I should say.,0.0,1.6199999999998909,0,False,False,4
+380,5f49553539747213d0e5f1ae,1497.64,1500.36,"Yeah. Well, to an extent like it's almost more rare to",0.08000000000015461,2.7199999999998,0,False,False,12
+381,5b8597308f1e2600019bbf90,1500.34,1500.38,Uh,-0.01999999999998181,0.040000000000190994,0,False,True,1
+382,5f49553539747213d0e5f1ae,1500.36,1500.62,find,-0.020000000000209184,0.2599999999999909,0,False,True,1
+383,5b8597308f1e2600019bbf90,1500.38,1500.54,huh.,-0.23999999999978172,0.15999999999985448,0,False,True,1
+384,5f49553539747213d0e5f1ae,1500.62,1506.16,someone who's not into that stuff. I don't know what it is about true crime that's truly fascinating to us all. But I mean,0.07999999999992724,5.540000000000191,0,False,False,27
+385,5b8597308f1e2600019bbf90,1505.94,1506.66,Mhm.,-0.22000000000002728,0.7200000000000273,0,False,True,1
+386,5f49553539747213d0e5f1ae,1506.74,1507.76,it is,0.07999999999992724,1.0199999999999818,0,False,False,2
+387,5b8597308f1e2600019bbf90,1507.64,1534.67,"Yeah, I think it's just trying to figure out the mental capacity like what are people thinking? I think that's I tend to hear that the most like when you ask the person, why do you listen to that? Or is there some people who don't understand why people watch it? And it's always trying to figure out like what causes a person to be that way. And I think we all are subconsciously looking for clues to protect ourselves. Mhm.",-0.11999999999989086,27.029999999999973,3,False,True,85
+388,5f49553539747213d0e5f1ae,1534.84,1536.46,really true.,0.16999999999984539,1.6200000000001182,0,False,False,2
+389,5b8597308f1e2600019bbf90,1536.74,1547.45,"It's like, ok let's look at the common denominators or what these people have in common so that when I, you know, interact with a stranger, I'm like okay, I gotta keep my eye on that one,",0.2799999999999727,10.710000000000036,0,False,False,41
+390,5f49553539747213d0e5f1ae,1547.44,1548.15,"Yeah,",-0.009999999999990905,0.7100000000000364,0,False,True,1
+391,5b8597308f1e2600019bbf90,1547.45,1551.95,"or let me get away from that one, you know? So that might be a part of it. Who knows?",-0.7000000000000455,4.5,2,True,True,20
+392,5f49553539747213d0e5f1ae,1551.54,1553.06,"yeah, true.",-0.41000000000008185,1.5199999999999818,0,False,True,2
+393,5b8597308f1e2600019bbf90,1553.04,1554.9,Yeah. What?,-0.01999999999998181,1.8600000000001273,1,True,True,2
+394,5f49553539747213d0e5f1ae,1555.94,1559.67,Yeah. So have you been in Arizona most of your life or?,1.0399999999999636,3.730000000000018,1,True,False,12
+395,5b8597308f1e2600019bbf90,1559.44,1575.66,"No. Well, I've been here for about 20 years now, I came out here in 2001 Um but I grew up in California, born and raised till I was about 15. And then um after that, my both of my parents are from Belize",-0.2300000000000182,16.220000000000027,0,False,True,45
+396,5f49553539747213d0e5f1ae,1575.94,1576.36,Okay.,0.2799999999999727,0.4199999999998454,0,False,False,1
+397,5b8597308f1e2600019bbf90,1576.14,1585.05,"and um they moved, me and my brothers and my siblings, they decided they wanted to move back to believe and we were like this is going to be a change,",-0.2199999999997999,8.909999999999854,0,False,True,31
+398,5f49553539747213d0e5f1ae,1585.04,1585.27,Mhm.,-0.009999999999990905,0.2300000000000182,0,False,True,1
+399,5b8597308f1e2600019bbf90,1585.06,1604.63,"but it was an awesome change because it did allow us to see, you know, our culture where we were from and learn a different way of life, just not only culturally, but education wise too, because their education is done with the british system, so education become a little bit more stricter for us. So",-0.21000000000003638,19.570000000000164,0,False,True,56
+400,5f49553539747213d0e5f1ae,1604.44,1604.77,"Well,",-0.19000000000005457,0.32999999999992724,0,False,True,1
+401,5b8597308f1e2600019bbf90,1604.63,1612.46,"academically it was an advantage because we were kind of behind in the Los Angeles Unified School District,",-0.13999999999987267,7.829999999999927,0,False,True,18
+402,5f49553539747213d0e5f1ae,1611.64,1612.66,"mhm,",-0.8199999999999363,1.0199999999999818,0,False,True,1
+403,5b8597308f1e2600019bbf90,1612.47,1631.16,"so it wasn't the best school district to, you know, go to school and so that actually became an advantage. And then I lived in Belize Until I was like in my 20's and then moved tears on a so I've been in Arizona the longest that I've lived anywhere else. Mhm. Yeah,",-0.19000000000005457,18.690000000000055,0,False,True,57
+404,5f49553539747213d0e5f1ae,1631.24,1631.77,"not so,",0.07999999999992724,0.5299999999999727,0,False,False,2
+405,5b8597308f1e2600019bbf90,1631.54,1632.95,and how about yourself?,-0.2300000000000182,1.4100000000000819,1,True,True,4
+406,5f49553539747213d0e5f1ae,1633.64,1647.71,"um, my, I've just always have been in the midwest, my family moved around quite a bit. My dad was professor and hopped universities and so I was born in indiana because my dad was at Purdue and then we went to Fargo north",0.6900000000000546,14.069999999999936,0,False,False,45
+407,5b8597308f1e2600019bbf90,1647.54,1647.77,"Okay,",-0.17000000000007276,0.2300000000000182,0,False,True,1
+408,5f49553539747213d0e5f1ae,1647.71,1654.21,"Dakota for nds you then brookings, South Dakota for sts you and then finally Lincoln Nebraska and",-0.05999999999994543,6.5,0,False,True,17
+409,5b8597308f1e2600019bbf90,1653.64,1654.66,"wow,",-0.5699999999999363,1.0199999999999818,0,False,True,1
+410,5f49553539747213d0e5f1ae,1654.22,1663.71,actually went back to brookings south Dakota to do my undergrad degree that South state and then I'm in Nebraska doing my graduate degree and I'm,-0.44000000000005457,9.490000000000009,0,False,True,28
+411,5b8597308f1e2600019bbf90,1663.64,1664.17,that's,-0.06999999999993634,0.5299999999999727,0,False,True,2
+412,5f49553539747213d0e5f1ae,1664.84,1665.26,so,0.6699999999998454,0.42000000000007276,0,False,False,1
+413,5b8597308f1e2600019bbf90,1665.14,1672.94,"that's awesome. It's funny because usually hear that same type of like discussion when it comes to like military, like",-0.11999999999989086,7.7999999999999545,0,False,True,22
+414,5f49553539747213d0e5f1ae,1672.74,1673.27,"yeah,",-0.20000000000004547,0.5299999999999727,0,False,True,1
+415,5b8597308f1e2600019bbf90,1672.94,1682.77,"when they like I went here for this and here for that, but to hear it for it on the educational like side of things, because you're saying that he did, he's a lecturer, Is that why?",-0.32999999999992724,9.829999999999927,1,True,True,39
+416,5f49553539747213d0e5f1ae,1682.64,1686.17,"yeah. And that was part of the reason for moving was, you know,",-0.12999999999988177,3.5299999999999727,0,False,True,13
+417,5b8597308f1e2600019bbf90,1685.74,1685.94,Yeah.,-0.43000000000006366,0.20000000000004547,0,False,True,1
+418,5f49553539747213d0e5f1ae,1686.18,1696.77,"funding for education is always changing. And so I remember, you know, specifically like one university, he was having to basically apply for grants all the time to pay his own salary and so",0.2400000000000091,10.589999999999918,0,False,False,34
+419,5b8597308f1e2600019bbf90,1696.44,1697.9,"Right, wow.",-0.32999999999992724,1.4600000000000364,0,False,True,2
+420,5f49553539747213d0e5f1ae,1697.44,1698.16,well what,-0.4600000000000364,0.7200000000000273,0,False,True,2
+421,5b8597308f1e2600019bbf90,1697.9,1734.77,"But how exciting and how necessary to have that that knowledge. Right. Because not many people utilize it. Not many people know how like all the different benefits or different um tools that are out there to help people acquire education. You know a lot of people just think of it as this big debt, but you have so many different resources. So I know for you it could have either been okay, I have all the resources because I have the best person that I could talk to about that. But then also how stressful was it for you to decide on a school? Like",-0.2599999999999909,36.86999999999989,1,False,True,106
+422,5f49553539747213d0e5f1ae,1735.34,1736.44,Yeah.,0.5699999999999363,1.1000000000001364,0,False,False,1
+423,5b8597308f1e2600019bbf90,1735.94,1738.27,did you have a lot of expectation?,-0.5,2.3299999999999272,1,True,True,7
+424,5f49553539747213d0e5f1ae,1739.34,1754.73,"Um yes and no, like, I don't know that I had a strong idea of what I wanted to do undergrad wise, Like I knew I liked the medical field, but I wasn't for sure what, So I actually applied and was in nursing was a nursing student at first and then I realized I didn't like the hands on aspect",1.0699999999999363,15.3900000000001,0,False,False,64
+425,5b8597308f1e2600019bbf90,1754.54,1755.17,Mhm.,-0.19000000000005457,0.6300000000001091,0,False,True,1
+426,5f49553539747213d0e5f1ae,1754.73,1760.86,of it. And then I went to like exercise science and I was all around and then I also ran cross country and track and field and so,-0.44000000000005457,6.129999999999882,0,False,True,28
+427,5b8597308f1e2600019bbf90,1760.84,1762.16,Okay.,-0.01999999999998181,1.3200000000001637,0,False,True,1
+428,5f49553539747213d0e5f1ae,1760.86,1764.77,"like wanted to because I knew I wanted to run in college. So,",-1.300000000000182,3.910000000000082,0,False,True,13
+429,5b8597308f1e2600019bbf90,1764.94,1766.63,Yeah. How,0.17000000000007276,1.6900000000000546,0,False,False,2
+430,5f49553539747213d0e5f1ae,1766.44,1767.06,"oh,",-0.19000000000005457,0.6199999999998909,0,False,True,1
+431,5b8597308f1e2600019bbf90,1766.63,1767.56,fun.,-0.4299999999998363,0.9299999999998363,0,False,True,1
+432,5f49553539747213d0e5f1ae,1767.74,1776.86,"I think my undergrad decision wasn't based on academics necessarily. Like I knew I wanted to run there. And then since I had lived in that town, I liked it. So,",0.18000000000006366,9.11999999999989,0,False,False,32
+433,5b8597308f1e2600019bbf90,1776.44,1777.15,Yeah.,-0.4199999999998454,0.7100000000000364,0,False,True,1
+434,5f49553539747213d0e5f1ae,1777.24,1777.98,and ultimately,0.08999999999991815,0.7400000000000091,0,False,False,2
+435,5b8597308f1e2600019bbf90,1777.54,1778.16,Yeah.,-0.44000000000005457,0.6200000000001182,0,False,True,1
+436,5f49553539747213d0e5f1ae,1777.99,1782.77,"it was okay. I think because um you know, I'm still where I want to be ultimately grid.",-0.17000000000007276,4.779999999999973,0,False,True,19
+437,5b8597308f1e2600019bbf90,1782.84,1783.46,Mhm.,0.06999999999993634,0.6200000000001182,0,False,False,1
+438,5f49553539747213d0e5f1ae,1783.14,1784.06,"Oh, so",-0.31999999999993634,0.9199999999998454,0,False,True,2
+439,5b8597308f1e2600019bbf90,1784.34,1798.82,"Yeah. It's interesting because I have a daughter, she's 16, she's a junior in high school right now. So she's, you know, her mind she for since the fifth grade, she wanted to go to Stanford Medical, she wanted to study medical, still",0.2799999999999727,14.480000000000018,0,False,False,47
+440,5f49553539747213d0e5f1ae,1798.54,1798.86,Oh.,-0.2799999999999727,0.31999999999993634,0,False,True,1
+441,5b8597308f1e2600019bbf90,1798.82,1804.39,"does, but I think it's kind of changed a little bit. She's been straight a students since kindergarten. I don't",-0.03999999999996362,5.570000000000164,0,False,True,23
+442,5f49553539747213d0e5f1ae,1804.34,1804.67,Mhm.,-0.0500000000001819,0.3300000000001546,0,False,True,1
+443,5b8597308f1e2600019bbf90,1804.39,1809.92,"think, I think in her whole education has probably had to bees. So she's smart cookie, but",-0.2799999999999727,5.529999999999973,0,False,True,18
+444,5f49553539747213d0e5f1ae,1809.14,1809.67,One,-0.7799999999999727,0.5299999999999727,0,False,True,1
+445,5b8597308f1e2600019bbf90,1809.93,1818.17,she's also into sports. He plays basketball. And I think the biggest struggle for her right now is the change because of covid sports,0.2599999999999909,8.240000000000009,0,False,False,25
+446,5f49553539747213d0e5f1ae,1817.64,1817.96,Oh,-0.5299999999999727,0.31999999999993634,0,False,True,1
+447,5b8597308f1e2600019bbf90,1818.18,1822.32,is not on the forefront for a lot of schools and for a lot of athletes.,0.22000000000002728,4.139999999999873,0,False,False,16
+448,5f49553539747213d0e5f1ae,1822.54,1822.96,"well,",0.22000000000002728,0.42000000000007276,0,False,False,1
+449,5b8597308f1e2600019bbf90,1822.54,1839.55,"So it's kind of pushed her to think about the academic strengths that she has now in like where she wants to go. And I think it's kind of pushed her to think about what she wants to do because before I think she was just set on it, I want to play basketball, I wanna, you know, I want to get a basketball scholarship",-0.42000000000007276,17.00999999999999,0,False,True,67
+450,5f49553539747213d0e5f1ae,1839.54,1839.96,no.,-0.009999999999990905,0.42000000000007276,0,False,True,1
+451,5b8597308f1e2600019bbf90,1840.14,1845.39,and I'm glad that she actually had the opportunity. She was lining herself up to get both like,0.18000000000006366,5.25,0,False,False,19
+452,5f49553539747213d0e5f1ae,1845.34,1845.54,"Yeah,",-0.0500000000001819,0.20000000000004547,0,False,True,1
+453,5b8597308f1e2600019bbf90,1845.39,1853.05,to be able to qualify for both an academic and athletic scholarship. But now I think she wants to get into dermatology.,-0.14999999999986358,7.6599999999998545,0,False,True,22
+454,5f49553539747213d0e5f1ae,1853.34,1854.4,wow. Very,0.2899999999999636,1.0600000000001728,0,False,False,2
+455,5b8597308f1e2600019bbf90,1854.24,1854.73,"Yeah,",-0.16000000000008185,0.4900000000000091,0,False,True,1
+456,5f49553539747213d0e5f1ae,1854.4,1854.56,good.,-0.32999999999992724,0.15999999999985448,0,False,True,1
+457,5b8597308f1e2600019bbf90,1854.74,1863.03,"and that's kind of changed. Maybe her options. Um she says maybe not stanford mom, she",0.18000000000006366,8.289999999999964,0,False,False,17
+458,5f49553539747213d0e5f1ae,1861.84,1862.76,Yeah.,-1.1900000000000546,0.9200000000000728,0,False,True,1
+459,5b8597308f1e2600019bbf90,1863.03,1897.45,"goes, maybe I can, you know, figure something else out. And I said, well, you know what, this is a this is actually a life lesson that you're experiencing, is that nothing certain and you can't over plan, You can't you can't plan so stringently to where if things change, you feel like you've just been tossed around in this big wave that you didn't expect to just come from out of the blue. So it's a very interesting time for me as a mom seeing my daughter get to that place where she's trying to figure out what she wants to do, you",0.2699999999999818,34.42000000000007,0,False,False,112
+460,5f49553539747213d0e5f1ae,1897.14,1897.67,Yeah.,-0.30999999999994543,0.5299999999999727,0,False,True,1
+461,5b8597308f1e2600019bbf90,1897.45,1907.07,"know, with her education like and where at least she knows where she wants to go and it comes from her own because she experienced a lot of acne um",-0.22000000000002728,9.61999999999989,0,False,True,30
+462,5f49553539747213d0e5f1ae,1906.64,1906.96,Mhm.,-0.4299999999998363,0.31999999999993634,0,False,True,1
+463,5b8597308f1e2600019bbf90,1907.08,1922.46,"you know, so she was just like, I just want to help young girls, you know, maintain self confidence and give them solutions because that's something that I can, like, I like the fact that she already knows that the best teacher or those who have experienced it,",0.11999999999989086,15.38000000000011,0,False,False,49
+464,5f49553539747213d0e5f1ae,1922.74,1923.27,Mhm.,0.2799999999999727,0.5299999999999727,0,False,False,1
+465,5b8597308f1e2600019bbf90,1922.94,1942.16,"you know? So I'm I'm proud of her for that. Um But yeah, I'm we're kind of on that waiting thing to see what's going to happen with academics and you know, how is this gonna pan out in her favor if it is at all? So it's a little trying right now, It's a little uncertain.",-0.32999999999992724,19.220000000000027,2,False,True,65
+466,5f49553539747213d0e5f1ae,1942.34,1950.77,"Yeah, I'm very curious how the future of academics will be, especially because with everything being online, I think there's a lot of things are going to stay that way and",0.1799999999998363,8.430000000000064,0,False,False,33
+467,5b8597308f1e2600019bbf90,1950.54,1951.34,Yeah.,-0.2300000000000182,0.7999999999999545,0,False,True,1
+468,5f49553539747213d0e5f1ae,1951.14,1955.25,pros and cons of it. I mean the primary pro is that you can go to school literally anywhere,-0.1999999999998181,4.1099999999999,0,False,True,19
+469,5b8597308f1e2600019bbf90,1955.24,1956.04,Yeah.,-0.009999999999990905,0.7999999999999545,0,False,True,1
+470,5f49553539747213d0e5f1ae,1955.26,1958.27,"and not have relocating, but",-0.7799999999999727,3.009999999999991,0,False,True,5
+471,5b8597308f1e2600019bbf90,1959.04,1959.36,Yeah.,0.7699999999999818,0.31999999999993634,0,False,False,1
+472,5f49553539747213d0e5f1ae,1959.14,1960.96,certainly times do it too. So,-0.2199999999997999,1.8199999999999363,0,False,True,6
+473,5b8597308f1e2600019bbf90,1960.54,1961.67,Yeah.,-0.42000000000007276,1.1300000000001091,0,False,True,1
+474,5f49553539747213d0e5f1ae,1961.44,1962.91,I I continually,-0.2300000000000182,1.4700000000000273,0,False,True,3
+475,5b8597308f1e2600019bbf90,1962.44,1962.67,Oh.,-0.4700000000000273,0.2300000000000182,0,False,True,1
+476,5f49553539747213d0e5f1ae,1962.91,1971.55,been telling myself that I'm glad to be in the place that I am right now. I would have been very sad if I had been an undergraduate and like my athletics would have been paused and,0.2400000000000091,8.639999999999873,0,False,False,38
+477,5b8597308f1e2600019bbf90,1971.64,1972.67,Oh. Yeah.,0.09000000000014552,1.0299999999999727,0,False,False,2
+478,5f49553539747213d0e5f1ae,1972.44,1972.85,it is,-0.2300000000000182,0.4099999999998545,0,False,True,2
+479,5b8597308f1e2600019bbf90,1972.68,1973.34,Yeah.,-0.16999999999984539,0.6599999999998545,0,False,True,1
+480,5f49553539747213d0e5f1ae,1972.85,1974.36,"a, I was.",-0.4900000000000091,1.509999999999991,0,False,True,3
+481,5b8597308f1e2600019bbf90,1974.14,1983.43,And then i it's funny because I also have younger kids and when that was different for me because I was playing teacher for a while,-0.2199999999997999,9.289999999999964,0,False,True,27
+482,5f49553539747213d0e5f1ae,1983.34,1983.84,"Yeah,",-0.09000000000014552,0.5,0,False,True,1
+483,5b8597308f1e2600019bbf90,1983.44,2008.27,"and they had map testing, which is just their assessments to figure out where all the students are um learning wise so that they can create a more I guess a stronger curriculum to make sure that either we have students who we need to catch up or we have students who are excelling. So let's try to figure out how we need to tweak the curriculum for these particular students, right?",-0.3999999999998636,24.829999999999927,1,True,True,73
+484,5f49553539747213d0e5f1ae,2008.64,2009.06,mm.,0.37000000000011823,0.4199999999998454,0,False,False,1
+485,5b8597308f1e2600019bbf90,2008.74,2015.35,So I was observing the other parents.,-0.31999999999993634,6.6099999999999,0,False,True,7
+486,5f49553539747213d0e5f1ae,2014.84,2015.26,Mhm.,-0.5099999999999909,0.42000000000007276,0,False,True,1
+487,5b8597308f1e2600019bbf90,2015.94,2022.59,"And let me tell you that's one of the cons, I think the biggest con is that a lot of these parents are doing the work for the kids, They're",0.6800000000000637,6.649999999999864,0,False,False,32
+488,5f49553539747213d0e5f1ae,2022.54,2022.77,Well.,-0.049999999999954525,0.2300000000000182,0,False,True,1
+489,5b8597308f1e2600019bbf90,2022.59,2046.97,"doing the work for the students because they have jobs or they have things that they want to get done and they don't have all the time to sit there and teach. So you hear that the parents in the background like that or giving them, giving them the answers and so now that our kids are back in school because where we are, they actually are back in school",-0.18000000000006366,24.38000000000011,0,False,True,71
+490,5f49553539747213d0e5f1ae,2046.84,2047.05,"Oh,",-0.13000000000010914,0.21000000000003638,0,False,True,1
+491,5b8597308f1e2600019bbf90,2046.97,2047.55,learning,-0.07999999999992724,0.5799999999999272,0,False,True,1
+492,5f49553539747213d0e5f1ae,2047.54,2048.05,okay.,-0.009999999999990905,0.5100000000002183,0,False,True,1
+493,5b8597308f1e2600019bbf90,2048.54,2083.75,"a lot of the kids struggled because they spent those first six weeks of those parents showing them what to do so that they can run off to do what they need to do. And so when they got back into the classroom and reality struck and you don't have the help and even some of the teachers mentioned, they could tell that the the kids were a little bit like leaning on them for the answers are for the information and kind of getting accustomed to that. I think that is the only thing I think with online school, I think online school works for older kids",0.4899999999997817,35.210000000000036,0,False,False,109
+494,5f49553539747213d0e5f1ae,2084.44,2084.97,Mhm.,0.6900000000000546,0.5299999999997453,0,False,False,1
+495,5b8597308f1e2600019bbf90,2084.54,2105.36,"who are able to know how to navigate technology and all these other things and remain, you know, responsible for their learning. But then when you have the younger kids, that's where the concern is for me, because I could see a lot of those, you know, I don't know how strong of a foundation that's going to be",-0.4299999999998363,20.820000000000164,0,False,True,62
+496,5f49553539747213d0e5f1ae,2105.44,2106.67,Oh yeah.,0.07999999999992724,1.2300000000000182,0,False,False,2
+497,5b8597308f1e2600019bbf90,2106.34,2116.29,"as a, as a, as a way. So it's like you said, there's the pros and the cons, but I see it more beneficial for high school college, I",-0.32999999999992724,9.949999999999818,0,False,True,31
+498,5f49553539747213d0e5f1ae,2116.14,2116.46,Yeah.,-0.15000000000009095,0.3200000000001637,0,False,True,1
+499,5b8597308f1e2600019bbf90,2116.29,2124.97,"don't really see, and that's just my personal experience. I don't really see it as much as the benefit for elementary students at this point because of that.",-0.17000000000007276,8.679999999999836,0,False,True,31
+500,5f49553539747213d0e5f1ae,2125.24,2130.77,"Yeah. I would entirely green. I mean even just thinking back to myself as an elementary middle school, like",0.2699999999999818,5.5300000000002,0,False,False,19
+501,5b8597308f1e2600019bbf90,2130.64,2131.26,Mhm.,-0.13000000000010914,0.6200000000003456,0,False,True,1
+502,5f49553539747213d0e5f1ae,2130.77,2134.17,it beneficial to socialize with your fellow students. And so,-0.49000000000023647,3.400000000000091,0,False,True,10
+503,5b8597308f1e2600019bbf90,2133.94,2134.74,Oh yeah.,-0.2300000000000182,0.7999999999997272,0,False,True,2
+504,5f49553539747213d0e5f1ae,2134.64,2137.07,that component being gone is really sad to,-0.09999999999990905,2.430000000000291,0,False,True,8
+505,5b8597308f1e2600019bbf90,2137.04,2137.79,Yeah.,-0.03000000000020009,0.75,0,False,True,1
+506,5f49553539747213d0e5f1ae,2137.07,2138.3,me and,-0.7199999999997999,1.2300000000000182,0,False,True,2
+507,5b8597308f1e2600019bbf90,2137.8,2138.35,Yeah.,-0.5,0.5499999999997272,0,False,True,1
+508,5f49553539747213d0e5f1ae,2138.31,2151.2,"I feel so much for parents. I've got some fellow classmates and my master's program who are also parents and they are, they say they are absolutely drowning. I feel for them because they have to be helping their kids like all day. But then they have their own work",-0.03999999999996362,12.889999999999873,0,False,True,52
+509,5b8597308f1e2600019bbf90,2151.14,2151.4,Their,-0.05999999999994543,0.2600000000002183,0,False,True,1
+510,5f49553539747213d0e5f1ae,2151.2,2151.56,and,-0.20000000000027285,0.36000000000012733,0,False,True,1
+511,5b8597308f1e2600019bbf90,2151.4,2151.76,"own,",-0.15999999999985448,0.36000000000012733,0,False,True,1
+512,5f49553539747213d0e5f1ae,2151.94,2152.39,they tried,0.1799999999998363,0.4499999999998181,0,False,False,2
+513,5b8597308f1e2600019bbf90,2152.24,2152.86,yeah.,-0.15000000000009095,0.6200000000003456,0,False,True,1
+514,5f49553539747213d0e5f1ae,2152.39,2158.26,"to to professors like, hey, I can't like Beyonce right now and some of them are understanding. So",-0.47000000000025466,5.870000000000346,0,False,True,19
+515,5b8597308f1e2600019bbf90,2158.04,2159.45,Yeah. Yeah.,-0.22000000000025466,1.4099999999998545,0,False,True,2
+516,5f49553539747213d0e5f1ae,2159.34,2159.67,wow.,-0.10999999999967258,0.32999999999992724,0,False,True,1
+517,5b8597308f1e2600019bbf90,2159.46,2167.47,"Well, well I see the times we've kind of gone over and I want to respect your time. But it was a pleasure speaking with you. I didn't even get your name,",-0.21000000000003638,8.009999999999764,0,False,True,34
+518,5f49553539747213d0e5f1ae,2167.54,2169.36,"Yeah, my name's Emily. What's in it?",0.07000000000016371,1.8200000000001637,1,True,False,9
+519,5b8597308f1e2600019bbf90,2169.24,2170.17,Kimberly.,-0.12000000000034561,0.930000000000291,0,False,True,1
+520,5f49553539747213d0e5f1ae,2170.34,2171.05,Nice to meet. You can,0.17000000000007276,0.7100000000000364,0,False,False,5
+521,5b8597308f1e2600019bbf90,2171.04,2171.74,Nice,-0.010000000000218279,0.6999999999998181,0,False,True,1
+522,5f49553539747213d0e5f1ae,2171.05,2171.4,worry.,-0.6899999999995998,0.34999999999990905,0,False,True,1
+523,5b8597308f1e2600019bbf90,2171.74,2176.35,"to meet you too, but it was a pleasure speaking with you and good luck with everything.",0.33999999999969077,4.610000000000127,0,False,False,17
+524,5f49553539747213d0e5f1ae,2176.24,2177.35,Yes. Thank you. Same,-0.11000000000012733,1.1100000000001273,0,False,True,4
+525,5b8597308f1e2600019bbf90,2177.34,2178.25,Yeah.,-0.009999999999763531,0.9099999999998545,0,False,True,1
+526,5f49553539747213d0e5f1ae,2177.35,2178.16,to you.,-0.900000000000091,0.8099999999999454,0,False,True,2
+527,5b8597308f1e2600019bbf90,2178.26,2180.86,"All right. All right,",0.1000000000003638,2.599999999999909,0,False,False,4
+528,5f49553539747213d0e5f1ae,2181.14,2181.85,Yeah.,0.27999999999974534,0.7100000000000364,0,False,False,1
+529,5b8597308f1e2600019bbf90,2181.64,2183.57,you,-0.21000000000003638,1.930000000000291,0,False,True,1
+530,5f49553539747213d0e5f1ae,2182.44,2183.46,Today,-1.1300000000001091,1.0199999999999818,0,False,True,1
+531,5b8597308f1e2600019bbf90,2183.57,2184.25,too.,0.11000000000012733,0.6799999999998363,0,False,False,1
+532,5f49553539747213d0e5f1ae,2184.24,2184.75,I.,-0.010000000000218279,0.5100000000002183,0,False,True,1

@@ -1,0 +1,676 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5f989fa02b5a611b2df1a305,5.94,251.46,Yeah. Yeah. Yeah. All right yeah Yeah. Mhm. Yeah. Okay. Yeah. Yeah. Yeah mm. Okay mm. Yeah. Okay there yeah. Oh yeah. Mhm. Yeah yeah. Mhm. Yeah. Mhm. Yeah. Uh huh mm. Yeah yeah mm mm. Yeah yeah yeah Yeah. Oh,,245.52,0,False,False,41
+1,5cc020d5159f790017bee28b,253.64,254.36,Hello?,2.1799999999999784,0.7200000000000273,1,True,False,1
+2,5f989fa02b5a611b2df1a305,254.94,255.75,hi,0.5799999999999841,0.8100000000000023,0,False,False,1
+3,5cc020d5159f790017bee28b,256.14,257.25,"All right, can you hear me?",0.38999999999998636,1.1100000000000136,1,True,False,6
+4,5f989fa02b5a611b2df1a305,256.94,258.95,I can can you hear me?,-0.3100000000000023,2.009999999999991,1,True,True,6
+5,5cc020d5159f790017bee28b,259.24,261.16,And here you. This is a miracle.,0.29000000000002046,1.920000000000016,0,False,False,7
+6,5f989fa02b5a611b2df1a305,261.44,264.95,It's not zoom but it's really similar.,0.2799999999999727,3.509999999999991,0,False,False,9
+7,5cc020d5159f790017bee28b,265.44,274.05,Yeah except it does its own weird kind of thing. Sometimes I don't know sometimes it's fine. Sometimes I have lots of trouble with it so I don't know.,0.4900000000000091,8.610000000000014,0,False,False,32
+8,5f989fa02b5a611b2df1a305,274.44,274.88,I haven't,0.38999999999998636,0.4399999999999977,0,False,False,3
+9,5cc020d5159f790017bee28b,274.64,274.84,Yeah.,-0.2400000000000091,0.19999999999998863,0,False,True,1
+10,5f989fa02b5a611b2df1a305,274.88,276.36,done this before. This,0.040000000000020464,1.4800000000000182,0,False,False,4
+11,5cc020d5159f790017bee28b,276.04,277.79,Oh congratulations,-0.3199999999999932,1.75,0,False,True,2
+12,5f989fa02b5a611b2df1a305,277.04,278.26,this kind of perfect.,-0.75,1.2199999999999704,0,False,True,4
+13,5cc020d5159f790017bee28b,277.79,290.63,then. Is this your is this the first time that you have? Is this the first time you've tried to match with anyone Or is this the first time? Really? And and I showed up on your first match.,-0.46999999999997044,12.839999999999975,3,False,True,40
+14,5f989fa02b5a611b2df1a305,290.64,291.26,Mhm.,0.009999999999990905,0.6200000000000045,0,False,False,1
+15,5cc020d5159f790017bee28b,290.64,292.76,That's amazing. That's amazing.,-0.6200000000000045,2.1200000000000045,0,False,True,6
+16,5f989fa02b5a611b2df1a305,292.24,294.66,Okay. How many times have you done it,-0.5199999999999818,2.420000000000016,0,False,True,8
+17,5cc020d5159f790017bee28b,294.84,299.65,So this is will be the seventh actual conversation I've had. But,0.17999999999994998,4.810000000000002,0,False,False,13
+18,5f989fa02b5a611b2df1a305,299.34,299.66,wow.,-0.3100000000000023,0.32000000000005,0,False,True,1
+19,5cc020d5159f790017bee28b,299.66,302.66,the first three times I matched nobody showed up.,0.0,3.0,0,False,False,9
+20,5f989fa02b5a611b2df1a305,303.04,304.45,Oh yeah that sucks.,0.37999999999999545,1.4099999999999682,0,False,False,4
+21,5cc020d5159f790017bee28b,304.74,305.34,Oh yeah.,0.29000000000002046,0.5999999999999659,0,False,False,2
+22,5f989fa02b5a611b2df1a305,305.34,305.66,Mhm.,0.0,0.32000000000005,0,False,False,1
+23,5cc020d5159f790017bee28b,305.35,308.46,Yes that happens anyway. So where are you?,-0.3100000000000023,3.109999999999957,1,True,True,8
+24,5f989fa02b5a611b2df1a305,308.84,314.46,Okay so my name is Taryn and I'm in alexandria Virginia right next to D. C.,0.37999999999999545,5.6200000000000045,0,False,False,17
+25,5cc020d5159f790017bee28b,314.54,317.66,Excellent. Nothing going on in that area at the moment.,0.08000000000004093,3.1200000000000045,0,False,False,10
+26,5f989fa02b5a611b2df1a305,317.24,318.65,No it's pretty chill.,-0.4200000000000159,1.4099999999999682,0,False,True,5
+27,5cc020d5159f790017bee28b,318.84,321.26,"Yeah. Yeah, definitely chill.",0.18999999999999773,2.420000000000016,0,False,False,4
+28,5f989fa02b5a611b2df1a305,320.74,321.36,Okay,-0.5199999999999818,0.6200000000000045,0,False,True,1
+29,5cc020d5159f790017bee28b,321.27,323.68,Well and I am Allen and I am,-0.09000000000003183,2.410000000000025,0,False,True,8
+30,5f989fa02b5a611b2df1a305,323.44,323.74,what,-0.2400000000000091,0.30000000000001137,0,False,True,1
+31,5cc020d5159f790017bee28b,323.68,324.36,in,-0.060000000000002274,0.6800000000000068,0,False,True,1
+32,5f989fa02b5a611b2df1a305,323.74,324.36,about you?,-0.6200000000000045,0.6200000000000045,1,True,True,2
+33,5cc020d5159f790017bee28b,324.84,326.46,I'm alan and I'm in Chicago.,0.47999999999996135,1.6200000000000045,0,False,False,8
+34,5f989fa02b5a611b2df1a305,327.24,329.29,Yeah Chicago?,0.7800000000000296,2.0500000000000114,1,True,False,2
+35,5cc020d5159f790017bee28b,328.64,329.53,I'm in Chicago.,-0.6500000000000341,0.8899999999999864,0,False,True,4
+36,5f989fa02b5a611b2df1a305,329.29,329.64,Okay. Are,-0.23999999999995225,0.3499999999999659,0,False,True,2
+37,5cc020d5159f790017bee28b,329.53,329.95,Yeah,-0.11000000000001364,0.4200000000000159,0,False,True,1
+38,5f989fa02b5a611b2df1a305,329.64,331.25,you freezing in my freezing?,-0.3100000000000023,1.6100000000000136,1,True,True,5
+39,5cc020d5159f790017bee28b,332.14,336.16,you're not freezing but I maybe let me see if I can,0.8899999999999864,4.020000000000039,0,False,False,13
+40,5f989fa02b5a611b2df1a305,335.54,335.74,Yeah,-0.6200000000000045,0.19999999999998863,0,False,True,1
+41,5cc020d5159f790017bee28b,336.54,344.38,get a few things closed up. That might help. So hold on. Oh yeah good and we,0.8000000000000114,7.839999999999975,0,False,False,17
+42,5f989fa02b5a611b2df1a305,344.34,344.48,I,-0.040000000000020464,0.1400000000000432,0,False,True,1
+43,5cc020d5159f790017bee28b,344.38,344.59,can,-0.10000000000002274,0.20999999999997954,0,False,True,1
+44,5f989fa02b5a611b2df1a305,344.48,344.73,guess,-0.1099999999999568,0.25,0,False,True,1
+45,5cc020d5159f790017bee28b,344.59,344.96,quit.,-0.1400000000000432,0.37000000000000455,0,False,True,1
+46,5f989fa02b5a611b2df1a305,344.73,349.55,I should do the same. That's smart. I will close some programs to,-0.22999999999996135,4.819999999999993,0,False,True,14
+47,5cc020d5159f790017bee28b,350.54,358.09,"Yeah. And um it's weird this as I said, sometimes it works just fine,",0.9900000000000091,7.5499999999999545,0,False,False,15
+48,5f989fa02b5a611b2df1a305,357.84,358.05,mm,-0.25,0.21000000000003638,0,False,True,1
+49,5cc020d5159f790017bee28b,358.09,362.66,"sometimes it gets funky but Oh yeah, I have way too many things open.",0.03999999999996362,4.57000000000005,0,False,False,14
+50,5f989fa02b5a611b2df1a305,364.14,366.45,good so I don't feel bad,1.4799999999999613,2.3100000000000023,0,False,False,7
+51,5cc020d5159f790017bee28b,365.94,373.9,"No, no, no. And I you know I like to you know I like to be the one who feels bad. That's kind of my job in life, so I",-0.5099999999999909,7.9599999999999795,0,False,True,31
+52,5f989fa02b5a611b2df1a305,373.84,373.98,to,-0.060000000000002274,0.1400000000000432,0,False,True,1
+53,5cc020d5159f790017bee28b,373.9,374.14,always,-0.08000000000004093,0.2400000000000091,0,False,True,1
+54,5f989fa02b5a611b2df1a305,373.98,374.35,"put,",-0.15999999999996817,0.37000000000000455,0,False,True,1
+55,5cc020d5159f790017bee28b,374.14,376.36,want to blame here. That's uh,-0.21000000000003638,2.2200000000000273,0,False,True,7
+56,5f989fa02b5a611b2df1a305,376.44,377.66,yeah.,0.07999999999998408,1.2200000000000273,0,False,False,1
+57,5cc020d5159f790017bee28b,377.04,381.25,"I have my husband and I fight about that all the time. It's like no,",-0.6200000000000045,4.2099999999999795,0,False,True,16
+58,5f989fa02b5a611b2df1a305,381.14,381.76,Okay.,-0.11000000000001364,0.6200000000000045,0,False,True,1
+59,5cc020d5159f790017bee28b,381.25,383.66,no I want to blame so.,-0.5099999999999909,2.410000000000025,0,False,True,6
+60,5f989fa02b5a611b2df1a305,383.14,388.81,Oh boy. Well I don't think you should be too hard on yourself so,-0.5200000000000387,5.670000000000016,0,False,True,15
+61,5cc020d5159f790017bee28b,388.44,388.86,Well,-0.37000000000000455,0.4200000000000159,0,False,True,1
+62,5f989fa02b5a611b2df1a305,388.82,388.98,so,-0.040000000000020464,0.160000000000025,0,False,True,1
+63,5cc020d5159f790017bee28b,388.86,389.16,thank,-0.12000000000000455,0.30000000000001137,0,False,True,1
+64,5f989fa02b5a611b2df1a305,388.98,389.25,tell,-0.18000000000000682,0.2699999999999818,0,False,True,1
+65,5cc020d5159f790017bee28b,389.16,389.46,you.,-0.08999999999997499,0.2999999999999545,0,False,True,1
+66,5f989fa02b5a611b2df1a305,389.25,398.26,"me what are we doing? So I am new to prolific. I just do it because uh if I'm gonna be on the computer anyway, might as well do some interesting stuff.",-0.20999999999997954,9.009999999999991,1,False,True,34
+67,5cc020d5159f790017bee28b,398.64,404.36,Mhm. So we're just having a conversation and making sure that at last 25 minutes,0.37999999999999545,5.720000000000027,0,False,False,16
+68,5f989fa02b5a611b2df1a305,404.74,405.25,And,0.37999999999999545,0.5099999999999909,0,False,False,1
+69,5cc020d5159f790017bee28b,404.84,405.4,and we can talk,-0.410000000000025,0.5600000000000023,0,False,True,4
+70,5f989fa02b5a611b2df1a305,405.25,405.45,what I,-0.14999999999997726,0.19999999999998863,0,False,True,2
+71,5cc020d5159f790017bee28b,405.4,405.76,about.,-0.05000000000001137,0.36000000000001364,0,False,True,1
+72,5f989fa02b5a611b2df1a305,405.45,409.06,"do testing for, what is the research behind it, do you know?",-0.3100000000000023,3.6100000000000136,1,True,True,12
+73,5cc020d5159f790017bee28b,409.34,417.84,So I don't know I know that they're analyzing it for various things but I have no idea what it's for and I think they're trying not to tell us so that we,0.2799999999999727,8.5,0,False,False,37
+74,5f989fa02b5a611b2df1a305,417.84,418.35,Mhm.,0.0,0.5100000000000477,0,False,False,1
+75,5cc020d5159f790017bee28b,417.84,419.22,can make sure,-0.5100000000000477,1.3800000000000523,0,False,True,3
+76,5f989fa02b5a611b2df1a305,418.94,419.35,Yeah.,-0.28000000000002956,0.410000000000025,0,False,True,1
+77,5cc020d5159f790017bee28b,419.22,421.8,that it's it's all good. But,-0.12999999999999545,2.579999999999984,0,False,True,8
+78,5f989fa02b5a611b2df1a305,421.44,422.84,Uh huh.,-0.36000000000001364,1.3999999999999773,0,False,True,2
+79,5cc020d5159f790017bee28b,421.81,441.26,yeah so um yeah it's been kind of fun. I mean I have to say I've been uh I've had some really interesting conversations with some really interesting people so um so that's been fun. Yeah. Um And then there was one that just could not go go could not end fast enough.,-1.0299999999999727,19.44999999999999,0,False,True,57
+80,5f989fa02b5a611b2df1a305,441.54,442.35,Why?,0.28000000000002956,0.8100000000000023,1,True,False,1
+81,5cc020d5159f790017bee28b,441.64,444.84,Only one only. I don't know. There was just like you know just,-0.7100000000000364,3.1999999999999886,0,False,True,14
+82,5f989fa02b5a611b2df1a305,444.54,444.86,True.,-0.2999999999999545,0.3199999999999932,0,False,True,1
+83,5cc020d5159f790017bee28b,444.84,461.76,sometimes there's just no connection or no interaction or it was just that it was sort of like we have we have a good friend like that he's um he comes over and and it's like he's a really nice guy but it's like he drags the whole room down to this,-0.020000000000038654,16.920000000000016,0,False,True,57
+84,5f989fa02b5a611b2df1a305,461.74,462.36,Um,-0.01999999999998181,0.6200000000000045,0,False,True,1
+85,5cc020d5159f790017bee28b,461.76,467.36,level of like uh low energy and whatever. So I don't know. Um.,-0.6000000000000227,5.600000000000023,0,False,True,14
+86,5f989fa02b5a611b2df1a305,467.14,468.36,"Energy, vampire",-0.22000000000002728,1.2200000000000273,0,False,True,2
+87,5cc020d5159f790017bee28b,468.54,476.85,Oh yes. Actually that's very true. That's very true. So are you from the D. C. Virginia area or are you a transplant?,0.18000000000000682,8.310000000000002,1,True,False,25
+88,5f989fa02b5a611b2df1a305,477.14,480.26,transplant defector originally from New Jersey.,0.2899999999999636,3.1200000000000045,0,False,False,6
+89,5cc020d5159f790017bee28b,480.64,481.45,Okay,0.37999999999999545,0.8100000000000023,0,False,False,1
+90,5f989fa02b5a611b2df1a305,481.04,488.36,"And then and I'd like New Jersey fine, but came down here for college a long time ago and stayed.",-0.40999999999996817,7.319999999999993,0,False,True,21
+91,5cc020d5159f790017bee28b,489.04,489.76,nice.,0.6800000000000068,0.7199999999999704,0,False,False,1
+92,5f989fa02b5a611b2df1a305,490.04,490.96,"Yeah,",0.28000000000002956,0.9199999999999591,0,False,False,1
+93,5cc020d5159f790017bee28b,490.44,491.85,We must like it down there.,-0.5199999999999818,1.410000000000025,0,False,True,6
+94,5f989fa02b5a611b2df1a305,492.14,502.92,"I do. It's beautiful. Um So I'm in the suburbs, but it just takes, You know, 10 minutes with the current level of no traffic to get downtown.",0.2899999999999636,10.78000000000003,0,False,False,30
+95,5cc020d5159f790017bee28b,502.44,502.76,Uh huh.,-0.4800000000000182,0.3199999999999932,0,False,True,2
+96,5f989fa02b5a611b2df1a305,502.92,510.72,"It's amazing. Um but before the pandemic, it could take 40 minutes to drive seven miles. So,",0.160000000000025,7.800000000000011,0,False,False,18
+97,5cc020d5159f790017bee28b,510.54,510.75,Come,-0.18000000000000682,0.20999999999997954,0,False,True,1
+98,5f989fa02b5a611b2df1a305,510.72,517.15,"but that honestly, that's probably not so bad compared to some other parts of the world, so not a",-0.029999999999972715,6.42999999999995,0,False,True,20
+99,5cc020d5159f790017bee28b,517.14,517.65,well,-0.009999999999990905,0.5099999999999909,0,False,True,1
+100,5f989fa02b5a611b2df1a305,517.15,517.75,problem.,-0.5,0.6000000000000227,0,False,True,1
+101,5cc020d5159f790017bee28b,518.54,520.55,well do you like what you commute for?,0.7899999999999636,2.009999999999991,1,True,False,8
+102,5f989fa02b5a611b2df1a305,521.04,522.84,Yes. Yeah.,0.4900000000000091,1.8000000000000682,0,False,False,2
+103,5cc020d5159f790017bee28b,522.34,524.95,Good? See that's the that's the thing that makes it better.,-0.5,2.6100000000000136,1,False,True,13
+104,5f989fa02b5a611b2df1a305,525.34,526.75,What do you do for a living?,0.38999999999998636,1.4099999999999682,1,True,False,7
+105,5cc020d5159f790017bee28b,527.04,527.85,I'm a lawyer.,0.2899999999999636,0.8100000000000591,0,False,False,4
+106,5f989fa02b5a611b2df1a305,528.34,529.86,You're a lawyer. What kind of law?,0.4900000000000091,1.5199999999999818,1,True,False,8
+107,5cc020d5159f790017bee28b,530.34,538.86,Um I mostly work in attended dispute resolution. So I mediate and I work with people trying to keep them out of the court system. Um,0.4800000000000182,8.519999999999982,0,False,False,26
+108,5f989fa02b5a611b2df1a305,538.04,538.66,Okay.,-0.82000000000005,0.6200000000000045,0,False,True,1
+109,5cc020d5159f790017bee28b,539.24,542.26,A lot of times in the mostly in this family law area.,0.5800000000000409,3.019999999999982,0,False,False,12
+110,5f989fa02b5a611b2df1a305,542.74,544.89,Oh boy. That's got to be contentious.,0.4800000000000182,2.1499999999999773,0,False,False,8
+111,5cc020d5159f790017bee28b,544.84,546.06,Yeah.,-0.049999999999954525,1.2199999999999136,0,False,True,1
+112,5f989fa02b5a611b2df1a305,544.9,546.06,It's not an easy time.,-1.1599999999999682,1.1599999999999682,0,False,True,6
+113,5cc020d5159f790017bee28b,546.74,549.55,Which is why I try to keep people out of court because it's just,0.6800000000000637,2.8099999999999454,0,False,False,15
+114,5f989fa02b5a611b2df1a305,549.34,549.84,Yeah.,-0.2099999999999227,0.5,0,False,True,1
+115,5cc020d5159f790017bee28b,549.55,557.36,a terrible way you know having a stranger decide what's best for your family is a terrible way to do it. I think so.,-0.2900000000000773,7.810000000000059,0,False,True,25
+116,5f989fa02b5a611b2df1a305,557.04,558.21,Yeah I,-0.32000000000005,1.1700000000000728,0,False,True,2
+117,5cc020d5159f790017bee28b,558.14,558.55,Yeah.,-0.07000000000005002,0.40999999999996817,0,False,True,1
+118,5f989fa02b5a611b2df1a305,558.21,564.71,would agree. I would agree. Um I'm not divorced and most,-0.33999999999991815,6.5,0,False,True,12
+119,5cc020d5159f790017bee28b,564.64,564.96,Mhm.,-0.07000000000005002,0.32000000000005,0,False,True,1
+120,5f989fa02b5a611b2df1a305,564.71,570.55,"of the couples in my friend group are not, I think I only know one divorced couple. Isn't that crazy?",-0.25,5.839999999999918,1,True,True,21
+121,5cc020d5159f790017bee28b,571.14,572.8,That is really surprising. I would,0.5900000000000318,1.6599999999999682,0,False,False,6
+122,5f989fa02b5a611b2df1a305,572.74,573.36,Nice.,-0.05999999999994543,0.6200000000000045,0,False,True,1
+123,5cc020d5159f790017bee28b,572.8,576.61,think that that would have a lot of divorce because there's so much,-0.5600000000000591,3.810000000000059,0,False,True,14
+124,5f989fa02b5a611b2df1a305,576.34,576.65,I don't,-0.2699999999999818,0.30999999999994543,0,False,True,3
+125,5cc020d5159f790017bee28b,576.61,577.26,pressure.,-0.03999999999996362,0.6499999999999773,0,False,True,1
+126,5f989fa02b5a611b2df1a305,576.65,583.67,know. Yeah. I don't I mean there's certainly there are but in the core group of friends that we went to school,-0.6100000000000136,7.019999999999982,0,False,True,24
+127,5cc020d5159f790017bee28b,583.54,583.74,Uh huh,-0.12999999999999545,0.20000000000004547,0,False,True,2
+128,5f989fa02b5a611b2df1a305,583.67,592.56,"with and who you know, matched up in college, everyone is still married and it's been, You know 18 years or so.",-0.07000000000005002,8.889999999999986,0,False,True,23
+129,5cc020d5159f790017bee28b,592.84,593.56,wow.,0.2800000000000864,0.7199999999999136,0,False,False,1
+130,5f989fa02b5a611b2df1a305,593.84,594.46,Yeah.,0.2800000000000864,0.6200000000000045,0,False,False,1
+131,5cc020d5159f790017bee28b,593.94,598.67,"Well, well well that's the that's the empty nester divorces coming up",-0.5199999999999818,4.7299999999999045,0,False,True,14
+132,5f989fa02b5a611b2df1a305,598.64,599.06,Mhm.,-0.029999999999972715,0.4199999999999591,0,False,True,1
+133,5cc020d5159f790017bee28b,598.67,600.33,"now. No,",-0.38999999999998636,1.6600000000000819,0,False,True,2
+134,5f989fa02b5a611b2df1a305,600.14,601.5,Oh God.,-0.19000000000005457,1.3600000000000136,0,False,True,2
+135,5cc020d5159f790017bee28b,600.34,601.45,"I don't. Right,",-1.1599999999999682,1.1100000000000136,0,False,True,4
+136,5f989fa02b5a611b2df1a305,601.51,604.46,I hope not.,0.05999999999994543,2.9500000000000455,0,False,False,3
+137,5cc020d5159f790017bee28b,603.94,609.3,"no, I'm just I'm so terrible about because I I've been married now for six years and um",-0.5199999999999818,5.3599999999999,0,False,True,21
+138,5f989fa02b5a611b2df1a305,608.34,609.05,Uh huh.,-0.9599999999999227,0.7099999999999227,0,False,True,2
+139,5cc020d5159f790017bee28b,609.31,632.55,"and I you know, I think marriage actually means something and is very it really does change things fundamentally, but um you know, I I'm so terrible to especially friends that I have that are younger or as uh as like my nieces and nephew reached adulthood and all of that and you know, I always I'm always the first one to say, oh don't worry, it's just a starter marriage",0.2599999999999909,23.24000000000001,0,False,False,75
+140,5f989fa02b5a611b2df1a305,632.74,633.75,Yeah.,0.19000000000005457,1.009999999999991,0,False,False,1
+141,5cc020d5159f790017bee28b,633.14,634.46,and,-0.6100000000000136,1.32000000000005,0,False,True,1
+142,5f989fa02b5a611b2df1a305,634.84,635.45,Coming,0.37999999999999545,0.6100000000000136,0,False,False,1
+143,5cc020d5159f790017bee28b,634.84,635.73,and I feel,-0.6100000000000136,0.8899999999999864,0,False,True,3
+144,5f989fa02b5a611b2df1a305,635.46,635.8,through,-0.2699999999999818,0.33999999999991815,0,False,True,1
+145,5cc020d5159f790017bee28b,635.73,636.06,like,-0.06999999999993634,0.32999999999992724,0,False,True,1
+146,5f989fa02b5a611b2df1a305,635.8,636.96,at least something,-0.2599999999999909,1.1600000000000819,0,False,True,3
+147,5cc020d5159f790017bee28b,637.64,638.36,I'm sorry.,0.67999999999995,0.7200000000000273,0,False,False,3
+148,5f989fa02b5a611b2df1a305,638.64,640.65,coming from you that means something because,0.2799999999999727,2.009999999999991,0,False,False,7
+149,5cc020d5159f790017bee28b,640.44,641.25,Well,-0.2099999999999227,0.8099999999999454,0,False,True,1
+150,5f989fa02b5a611b2df1a305,640.65,641.66,you've seen it.,-0.6000000000000227,1.009999999999991,0,False,True,4
+151,5cc020d5159f790017bee28b,642.34,645.9,"well I don't know, I just I just think that the one",0.6800000000000637,3.5599999999999454,0,False,False,13
+152,5f989fa02b5a611b2df1a305,645.84,646.05,Mhm.,-0.05999999999994543,0.2099999999999227,0,False,True,1
+153,5cc020d5159f790017bee28b,645.9,654.62,"thing I've seen that I think can be really unfortunate, as I've seen enough people get so involved in the process of getting married that they forget",-0.14999999999997726,8.720000000000027,0,False,True,29
+154,5f989fa02b5a611b2df1a305,654.14,654.55,Yeah.,-0.4800000000000182,0.40999999999996817,0,False,True,1
+155,5cc020d5159f790017bee28b,654.62,657.71,for two years to be involved in the relationship. So,0.07000000000005002,3.090000000000032,0,False,False,10
+156,5f989fa02b5a611b2df1a305,657.64,658.14,Yeah.,-0.07000000000005002,0.5,0,False,True,1
+157,5cc020d5159f790017bee28b,657.71,667.9,"they, so they get engaged, they do all of this wedding planning and this and that and all of this, and then they sort of get past the wedding and they have like no vision of anything",-0.42999999999995,10.18999999999994,0,False,True,37
+158,5f989fa02b5a611b2df1a305,667.64,667.96,Mhm.,-0.2599999999999909,0.32000000000005,0,False,True,1
+159,5cc020d5159f790017bee28b,667.9,670.61,"past that day and it really hits them hard, especially",-0.06000000000005912,2.7100000000000364,0,False,True,10
+160,5f989fa02b5a611b2df1a305,670.24,670.74,Yeah,-0.37000000000000455,0.5,0,False,True,1
+161,5cc020d5159f790017bee28b,670.61,678.5,"for for young people in first marriages. But you know, I mean my parents stayed married to my dad died and they hated each other. So",-0.12999999999999545,7.889999999999986,0,False,True,26
+162,5f989fa02b5a611b2df1a305,678.44,678.65,"because,",-0.05999999999994543,0.2099999999999227,0,False,True,1
+163,5cc020d5159f790017bee28b,678.51,679.65,it's a really,-0.13999999999998636,1.1399999999999864,0,False,True,4
+164,5f989fa02b5a611b2df1a305,679.04,679.36,mm.,-0.6100000000000136,0.32000000000005,0,False,True,1
+165,5cc020d5159f790017bee28b,680.14,681.66,"yeah. Yeah, so, well,",0.7799999999999727,1.5199999999999818,0,False,False,4
+166,5f989fa02b5a611b2df1a305,681.94,682.26,Yeah,0.2800000000000864,0.31999999999993634,0,False,False,1
+167,5cc020d5159f790017bee28b,682.04,684.76,"you know, so I think it can go both ways.",-0.22000000000002728,2.7200000000000273,0,False,True,10
+168,5f989fa02b5a611b2df1a305,685.93,703.15,"my parents are corny, so they're still married, they got married. Um I think when my mom was maybe 26 and my dad was seven years older and he still calls her my bride. It's just uh nausea. She",1.169999999999959,17.220000000000027,0,False,False,41
+169,5cc020d5159f790017bee28b,702.14,702.34,"Yeah,",-1.009999999999991,0.20000000000004547,0,False,True,1
+170,5f989fa02b5a611b2df1a305,703.64,705.2,but cute. Right? That's,1.2999999999999545,1.5600000000000591,1,False,False,5
+171,5cc020d5159f790017bee28b,705.14,705.41,it,-0.06000000000005912,0.2699999999999818,0,False,True,1
+172,5f989fa02b5a611b2df1a305,705.2,705.95,cute.,-0.2099999999999227,0.75,0,False,True,1
+173,5cc020d5159f790017bee28b,705.41,723.86,"is cute. That was that was about, those were about the age of my parents were when they got married to, you know? Um But they, yeah, they didn't, I don't know, it's not fair to say they really hated each other. My mother hated my dad, my dad didn't hate anyone, he just like kind of lumbered through life like that. So",-0.5400000000000773,18.450000000000045,1,False,True,67
+174,5f989fa02b5a611b2df1a305,723.44,724.06,All right.,-0.4199999999999591,0.6199999999998909,0,False,True,2
+175,5cc020d5159f790017bee28b,724.54,725.75,um,0.4800000000000182,1.2100000000000364,0,False,False,1
+176,5f989fa02b5a611b2df1a305,724.74,725.46,Mhm.,-1.009999999999991,0.7200000000000273,0,False,True,1
+177,5cc020d5159f790017bee28b,725.76,727.45,so what do you do in D. C.,0.2999999999999545,1.6900000000000546,0,False,False,8
+178,5f989fa02b5a611b2df1a305,728.14,736.11,I am a fact checker. I work for National Geographic magazine and we're based in D. C. But,0.6899999999999409,7.970000000000027,0,False,False,19
+179,5cc020d5159f790017bee28b,736.04,736.3,I,-0.07000000000005002,0.2599999999999909,0,False,True,1
+180,5f989fa02b5a611b2df1a305,736.11,736.44,now we're,-0.18999999999994088,0.3300000000000409,0,False,True,3
+181,5cc020d5159f790017bee28b,736.31,736.66,didn't.,-0.13000000000010914,0.35000000000002274,0,False,True,2
+182,5f989fa02b5a611b2df1a305,736.44,739.15,based on couches.,-0.2199999999999136,2.7099999999999227,0,False,True,3
+183,5cc020d5159f790017bee28b,737.94,739.98,Yeah well that's everyone's,-1.2099999999999227,2.0399999999999636,0,False,True,6
+184,5f989fa02b5a611b2df1a305,739.54,739.75,What?,-0.44000000000005457,0.21000000000003638,1,True,True,1
+185,5cc020d5159f790017bee28b,739.98,741.66,pretty much based on couches now.,0.2300000000000182,1.67999999999995,0,False,False,6
+186,5f989fa02b5a611b2df1a305,742.04,744.16,"Yeah. Yeah,",0.37999999999999545,2.1200000000000045,0,False,False,2
+187,5cc020d5159f790017bee28b,743.44,744.36,Um,-0.7199999999999136,0.9199999999999591,0,False,True,1
+188,5f989fa02b5a611b2df1a305,745.04,755.26,I fact checked the story. So before anything goes into print it comes to one of us researchers and we verify every single thing. We're like the goalies.,0.67999999999995,10.220000000000027,0,False,False,29
+189,5cc020d5159f790017bee28b,756.24,764.92,"And with your population of writers, how how much do you find or you know, do you know what I mean? Like I think I would",0.9800000000000182,8.67999999999995,1,False,False,26
+190,5f989fa02b5a611b2df1a305,764.84,765.08,"Oh,",-0.07999999999992724,0.2400000000000091,0,False,True,1
+191,5cc020d5159f790017bee28b,764.92,765.24,imagine,-0.16000000000008185,0.32000000000005,0,False,True,1
+192,5f989fa02b5a611b2df1a305,765.09,765.65,time,-0.14999999999997726,0.5599999999999454,0,False,True,1
+193,5cc020d5159f790017bee28b,765.24,767.16,in different thomas. Okay.,-0.40999999999996817,1.919999999999959,0,False,True,4
+194,5f989fa02b5a611b2df1a305,767.34,793.35,"funds. Um Some writers are better than others. Um But there's there's always teeny tiny things, you know, there could be like just a spelling mistake or or it could be something like seriously wrong. Um But we we have a process, I've been doing it for 15 years and that's one of the reasons that led me to prolific because I like to read studies and this is a way to participate in them.",0.18000000000006366,26.00999999999999,0,False,False,79
+195,5cc020d5159f790017bee28b,793.94,795.46,Mhm.,0.5900000000000318,1.5199999999999818,0,False,False,1
+196,5f989fa02b5a611b2df1a305,795.04,801.36,So that's kind of cool. Um And plus it's like a crash college course in a new subject every month.,-0.42000000000007276,6.32000000000005,0,False,True,22
+197,5cc020d5159f790017bee28b,803.34,804.36,Or every week.,1.9800000000000182,1.0199999999999818,0,False,False,3
+198,5f989fa02b5a611b2df1a305,804.84,809.06,"It's, yeah, but because I work for the print magazine,",0.4800000000000182,4.219999999999914,0,False,False,11
+199,5cc020d5159f790017bee28b,808.34,809.66,Okay.,-0.7199999999999136,1.3199999999999363,0,False,True,1
+200,5f989fa02b5a611b2df1a305,809.44,820.15,"we have a much longer process the print schedule. We have time to delve into things and to talk to experts, get corrections in.",-0.2199999999999136,10.709999999999923,0,False,True,24
+201,5cc020d5159f790017bee28b,821.34,822.22,That's great.,1.1900000000000546,0.8799999999999955,0,False,False,3
+202,5f989fa02b5a611b2df1a305,822.34,822.96,"Yeah,",0.12000000000000455,0.6200000000000045,0,False,False,1
+203,5cc020d5159f790017bee28b,822.37,831.45,"That's great. It's so funny, that's like National Geographic as I hear, you probably have a slut like such a magazine of my childhood,",-0.5900000000000318,9.080000000000041,0,False,True,27
+204,5f989fa02b5a611b2df1a305,831.74,832.25,yep.,0.2899999999999636,0.5099999999999909,0,False,False,1
+205,5cc020d5159f790017bee28b,831.84,834.66,you know? I remember that my parents were teachers and so you,-0.40999999999996817,2.8199999999999363,1,False,True,12
+206,5f989fa02b5a611b2df1a305,834.64,835.36,Who?,-0.01999999999998181,0.7200000000000273,1,True,True,1
+207,5cc020d5159f790017bee28b,834.66,851.27,"know they had years and years and years of National Geographics out there and um you know um how does how does how do you guys uh adjusted to this sort of mixed online print, all of that, or does that not really affect you being",-0.7000000000000455,16.610000000000014,0,False,True,46
+208,5f989fa02b5a611b2df1a305,851.24,851.66,"Oh,",-0.029999999999972715,0.4199999999999591,0,False,True,1
+209,5cc020d5159f790017bee28b,851.27,852.16,on the print side?,-0.38999999999998636,0.8899999999999864,1,True,True,4
+210,5f989fa02b5a611b2df1a305,852.44,868.29,"publishing is having a hard time, but we have been, I think in better shape than other publications. Um, just me having a job in this Little Niche Field, fact checking is a success. We",0.2800000000000864,15.849999999999909,0,False,False,35
+211,5cc020d5159f790017bee28b,868.14,868.65,Mhm.,-0.14999999999997726,0.5099999999999909,0,False,True,1
+212,5f989fa02b5a611b2df1a305,868.29,871.26,used to be a department of 21 people and now we're five.,-0.36000000000001364,2.9700000000000273,0,False,True,13
+213,5cc020d5159f790017bee28b,871.74,872.36,Mhm.,0.4800000000000182,0.6200000000000045,0,False,False,1
+214,5f989fa02b5a611b2df1a305,872.34,875.49,"But with the like war on facts right now, if we",-0.01999999999998181,3.1499999999999773,0,False,True,11
+215,5cc020d5159f790017bee28b,875.44,875.76,Yeah.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+216,5f989fa02b5a611b2df1a305,875.49,878.76,"were to eliminate all fact checkers, that would make the news,",-0.2699999999999818,3.269999999999982,0,False,True,11
+217,5cc020d5159f790017bee28b,879.24,880.16,"Mhm,",0.4800000000000182,0.9199999999999591,0,False,False,1
+218,5f989fa02b5a611b2df1a305,879.74,885.76,"Well that, I think that type of social pressure keeps us because we've been, I've survived 14 layoffs",-0.4199999999999591,6.019999999999982,0,False,True,20
+219,5cc020d5159f790017bee28b,886.14,886.86,"wow,",0.37999999999999545,0.7200000000000273,0,False,False,1
+220,5f989fa02b5a611b2df1a305,886.94,892.76,over the time we were bought by Fox and now we're owned by Disney. So,0.08000000000004093,5.819999999999936,0,False,False,16
+221,5cc020d5159f790017bee28b,892.04,892.96,Okay.,-0.7200000000000273,0.9200000000000728,0,False,True,1
+222,5f989fa02b5a611b2df1a305,893.24,897.86,"every time there's a change, people get the ax.",0.2799999999999727,4.6200000000000045,0,False,False,10
+223,5cc020d5159f790017bee28b,898.24,899.04,Yeah.,0.37999999999999545,0.7999999999999545,0,False,False,1
+224,5f989fa02b5a611b2df1a305,898.54,900.63,So going,-0.5,2.090000000000032,0,False,True,2
+225,5cc020d5159f790017bee28b,900.44,900.76,"Yes,",-0.18999999999994088,0.31999999999993634,0,False,True,1
+226,5f989fa02b5a611b2df1a305,900.63,901.66,strong.,-0.12999999999999545,1.0299999999999727,0,False,True,1
+227,5cc020d5159f790017bee28b,901.94,912.86,"well that's great, I mean, you know, I I I never know, sometimes it's better to survive the layoffs, sometimes it's better to get laid off. I've been in both",0.2800000000000864,10.919999999999959,0,False,False,34
+228,5f989fa02b5a611b2df1a305,912.64,913.74,Yeah.,-0.22000000000002728,1.1000000000000227,0,False,True,1
+229,5cc020d5159f790017bee28b,913.34,929.27,"situations, um I mean it's a terrible thing to be laid off, although I worked in Silicon Valley, and so um if you got laid off off cycle, you know, Silicon Valley's sort of bulimic, like it's it's a binge purge, kind of, like, we're hiring 1000 were firing 1000",-0.39999999999997726,15.92999999999995,0,False,True,55
+230,5f989fa02b5a611b2df1a305,929.24,929.48,Uh,-0.029999999999972715,0.2400000000000091,0,False,True,1
+231,5cc020d5159f790017bee28b,929.27,929.53,hiring,-0.21000000000003638,0.2599999999999909,0,False,True,1
+232,5f989fa02b5a611b2df1a305,929.48,929.86,huh.,-0.049999999999954525,0.37999999999999545,0,False,True,1
+233,5cc020d5159f790017bee28b,929.58,938.93,"1000 fires, and so, but if you got, if you were lucky enough to get laid off in the wrong part of the cycle, you had jobs galore,",-0.2799999999999727,9.349999999999909,0,False,True,28
+234,5f989fa02b5a611b2df1a305,938.94,939.56,Wow.,0.010000000000104592,0.6199999999998909,0,False,False,1
+235,5cc020d5159f790017bee28b,939.1,944.08,"and so you could get incredible severance and then get jobs galore, but if you kid at the bottom, it was,",-0.4599999999999227,4.980000000000018,0,False,True,21
+236,5f989fa02b5a611b2df1a305,944.04,944.25,Yes.,-0.04000000000007731,0.21000000000003638,0,False,True,1
+237,5cc020d5159f790017bee28b,944.09,947.14,it was disaster. So yeah.,-0.15999999999996817,3.0499999999999545,0,False,True,5
+238,5f989fa02b5a611b2df1a305,947.54,947.84,I,0.39999999999997726,0.3000000000000682,0,False,False,1
+239,5cc020d5159f790017bee28b,947.74,948.25,"Um,",-0.10000000000002274,0.5099999999999909,0,False,True,1
+240,5f989fa02b5a611b2df1a305,947.84,951.16,don't know. But were you serving as a lawyer at that time?,-0.40999999999996817,3.3199999999999363,1,True,True,13
+241,5cc020d5159f790017bee28b,951.54,954.52,"No, no, no, no, no, I was, I was a career changer. So I was",0.37999999999999545,2.980000000000018,0,False,False,15
+242,5f989fa02b5a611b2df1a305,954.44,955.06,Okay.,-0.07999999999992724,0.6199999999998909,0,False,True,1
+243,5cc020d5159f790017bee28b,954.52,985.75,"working in the software industry back then. Um, no, no, I I am, in fact, I knew and had very little interest in the law and I never had much interest in combining the law with technology. I mean, I I use technology and I, um, encouraged really use it. But, um, and I find some of the issues fascinating the, you know, the people's using people's facebook posts in their divorce and, you know, the, the text",-0.5399999999999636,31.230000000000018,0,False,True,80
+244,5f989fa02b5a611b2df1a305,985.44,985.76,Mm,-0.30999999999994543,0.31999999999993634,0,False,True,1
+245,5cc020d5159f790017bee28b,985.75,986.08,"message,",-0.009999999999990905,0.3300000000000409,0,False,True,1
+246,5f989fa02b5a611b2df1a305,985.76,986.25,hmm.,-0.32000000000005,0.4900000000000091,0,False,True,1
+247,5cc020d5159f790017bee28b,986.08,987.94,"I mean, all of those technology",-0.16999999999995907,1.8600000000000136,0,False,True,6
+248,5f989fa02b5a611b2df1a305,987.14,987.56,Right.,-0.8000000000000682,0.4199999999999591,0,False,True,1
+249,5cc020d5159f790017bee28b,987.94,999.73,"things, you know, it's like, um, well, you know, here's what you did or, you know, like, or here's what your ex did because he still knew your password and so, you know, like,",0.38000000000010914,11.789999999999964,0,False,False,37
+250,5f989fa02b5a611b2df1a305,999.64,1000.3,Good.,-0.09000000000003183,0.6599999999999682,0,False,True,1
+251,5cc020d5159f790017bee28b,999.74,1007.07,"all sorts of crimes. I mean it's amazing how many ways people can find to try to hurt other people, but",-0.5599999999999454,7.330000000000041,0,False,True,22
+252,5f989fa02b5a611b2df1a305,1007.04,1007.24,Uh,-0.030000000000086402,0.20000000000004547,0,False,True,1
+253,5cc020d5159f790017bee28b,1007.07,1007.48,it really,-0.16999999999995907,0.40999999999996817,0,False,True,2
+254,5f989fa02b5a611b2df1a305,1007.24,1007.57,huh.,-0.2400000000000091,0.3300000000000409,0,False,True,1
+255,5cc020d5159f790017bee28b,1007.48,1011.07,"is, it's um it's horrifying sometimes, but",-0.09000000000003183,3.590000000000032,0,False,True,9
+256,5f989fa02b5a611b2df1a305,1010.84,1011.07,Yeah.,-0.2300000000000182,0.2300000000000182,0,False,True,1
+257,5cc020d5159f790017bee28b,1011.54,1011.95,"yeah,",0.4699999999999136,0.41000000000008185,0,False,False,1
+258,5f989fa02b5a611b2df1a305,1011.84,1014.47,And stuff on social media doesn't go away.,-0.11000000000001364,2.6299999999999955,0,False,True,9
+259,5cc020d5159f790017bee28b,1015.94,1042.06,"no, it doesn't. Um yeah, so I'm so I have been off of most social media for now for A little over four years um because I was just getting so frustrated um back in like the beginning of october of 2016 about everyone's",1.4700000000000273,26.11999999999989,0,False,False,47
+260,5f989fa02b5a611b2df1a305,1041.54,1041.77,Yeah.,-0.5199999999999818,0.2300000000000182,0,False,True,1
+261,5cc020d5159f790017bee28b,1042.07,1043.48,yelling and sniping,0.2999999999999545,1.4100000000000819,0,False,False,3
+262,5f989fa02b5a611b2df1a305,1042.94,1043.35,Yeah.,-0.5399999999999636,0.4099999999998545,0,False,True,1
+263,5cc020d5159f790017bee28b,1043.48,1045.07,and they were all fighting about the stupid,0.13000000000010914,1.5899999999999181,0,False,False,8
+264,5f989fa02b5a611b2df1a305,1044.84,1045.34,Yeah.,-0.2300000000000182,0.5,0,False,True,1
+265,5cc020d5159f790017bee28b,1045.07,1046.67,election and,-0.2699999999999818,1.6000000000001364,0,False,True,2
+266,5f989fa02b5a611b2df1a305,1045.94,1046.44,Yeah.,-0.7300000000000182,0.5,0,False,True,1
+267,5cc020d5159f790017bee28b,1046.68,1060.63,"everyone knew how it was going to go anyway, so there was like, it was like, uh I just, I was just like, I'm going to just take this little break because I can't deal with people fighting and then after the election, everything will be fine and everything will quiet down well, that was wrong",0.2400000000000091,13.950000000000045,0,False,False,58
+268,5f989fa02b5a611b2df1a305,1060.54,1061.16,Yeah.,-0.09000000000014552,0.6200000000001182,0,False,True,1
+269,5cc020d5159f790017bee28b,1060.64,1069.11,"as facts go, that was just wrong. And so like I just never got back because I and I now feel like I have to rethink this again, but it's",-0.5199999999999818,8.4699999999998,0,False,True,31
+270,5f989fa02b5a611b2df1a305,1068.94,1069.56,Mm,-0.16999999999984539,0.6199999999998909,0,False,True,1
+271,5cc020d5159f790017bee28b,1069.11,1071.79,just it's so mean and vicious out there at times,-0.4500000000000455,2.6800000000000637,0,False,True,11
+272,5f989fa02b5a611b2df1a305,1071.44,1071.94,Yeah.,-0.34999999999990905,0.5,0,False,True,1
+273,5cc020d5159f790017bee28b,1071.79,1081.45,and you know um and I just and and that anonymity that the internet that people feel like the internet gives them,-0.15000000000009095,9.660000000000082,0,False,True,22
+274,5f989fa02b5a611b2df1a305,1081.54,1082.16,Yeah.,0.08999999999991815,0.6200000000001182,0,False,False,1
+275,5cc020d5159f790017bee28b,1081.94,1084.8,"is really, really can be hard, can",-0.22000000000002728,2.8599999999999,0,False,True,7
+276,5f989fa02b5a611b2df1a305,1084.64,1084.94,Like,-0.15999999999985448,0.2999999999999545,0,False,True,1
+277,5cc020d5159f790017bee28b,1084.8,1084.94,be,-0.14000000000010004,0.14000000000010004,0,False,True,1
+278,5f989fa02b5a611b2df1a305,1084.94,1085.58,"comment,",0.0,0.6399999999998727,0,False,False,1
+279,5cc020d5159f790017bee28b,1084.94,1085.45,really,-0.6399999999998727,0.5099999999999909,0,False,True,1
+280,5f989fa02b5a611b2df1a305,1085.59,1090.76,"if you, if you read the comments under an article, you're just punishing yourself.",0.13999999999987267,5.170000000000073,0,False,False,15
+281,5cc020d5159f790017bee28b,1091.14,1092.06,okay.,0.38000000000010914,0.9199999999998454,0,False,False,1
+282,5f989fa02b5a611b2df1a305,1091.44,1093.67,Uh huh. It's a nightmare.,-0.6199999999998909,2.230000000000018,0,False,True,6
+283,5cc020d5159f790017bee28b,1094.24,1094.77,Yeah.,0.5699999999999363,0.5299999999999727,0,False,False,1
+284,5f989fa02b5a611b2df1a305,1094.34,1107.06,"Yeah. You are totally not wrong. I don't enjoy facebook anymore because it always makes me feel inadequate. It makes me feel like my life sucks compared to everyone else's glamorous, happy,",-0.43000000000006366,12.720000000000027,0,False,True,34
+285,5cc020d5159f790017bee28b,1106.44,1107.36,Yeah.,-0.6199999999998909,0.9199999999998454,0,False,True,1
+286,5f989fa02b5a611b2df1a305,1107.94,1110.56,very wealthy lives. And,0.5800000000001546,2.619999999999891,0,False,False,4
+287,5cc020d5159f790017bee28b,1110.34,1110.96,Mhm.,-0.22000000000002728,0.6200000000001182,0,False,True,1
+288,5f989fa02b5a611b2df1a305,1110.57,1112.96,"that's, that's not a good feeling.",-0.39000000000010004,2.3900000000001,0,False,True,8
+289,5cc020d5159f790017bee28b,1114.04,1114.96,Yeah.,1.0799999999999272,0.9200000000000728,0,False,False,1
+290,5f989fa02b5a611b2df1a305,1114.34,1116.22,Now I,-0.6200000000001182,1.8800000000001091,0,False,True,2
+291,5cc020d5159f790017bee28b,1115.64,1116.27,Now I,-0.5799999999999272,0.6299999999998818,0,False,True,2
+292,5f989fa02b5a611b2df1a305,1116.23,1122.67,"heard the news. I like, I like twitter for the news. I don't follow ordinary folks. I follow journalists and stuff",-0.03999999999996362,6.440000000000055,0,False,True,22
+293,5cc020d5159f790017bee28b,1122.94,1123.14,Uh,0.2699999999999818,0.20000000000004547,0,False,False,1
+294,5f989fa02b5a611b2df1a305,1123.04,1123.24,like,-0.10000000000013642,0.20000000000004547,0,False,True,1
+295,5cc020d5159f790017bee28b,1123.14,1123.44,huh.,-0.09999999999990905,0.2999999999999545,0,False,True,1
+296,5f989fa02b5a611b2df1a305,1123.24,1124.66,a generated news feed.,-0.20000000000004547,1.4200000000000728,0,False,True,4
+297,5cc020d5159f790017bee28b,1125.24,1138.54,"Yeah. Yeah. Well, I I think they're I think they're really good aspects to it. I just um you know, I mean I got on I first got on facebook because when I was in law school I was constantly missing out on things because",0.5799999999999272,13.299999999999955,0,False,False,47
+298,5f989fa02b5a611b2df1a305,1138.34,1138.84,Uh huh.,-0.20000000000004547,0.5,0,False,True,2
+299,5cc020d5159f790017bee28b,1138.54,1141.07,people would announce it on facebook and,-0.2999999999999545,2.5299999999999727,0,False,True,7
+300,5f989fa02b5a611b2df1a305,1140.64,1140.96,Right.,-0.4299999999998363,0.31999999999993634,0,False,True,1
+301,5cc020d5159f790017bee28b,1141.07,1153.86,"you know back when facebook was kind of smallish and you know, just mostly a lot of students and then their relatives and you know, um But then it just, it just got outrageous and so",0.10999999999989996,12.789999999999964,0,False,False,36
+302,5f989fa02b5a611b2df1a305,1154.14,1154.63,How old,0.2800000000002001,0.4900000000000091,0,False,False,2
+303,5cc020d5159f790017bee28b,1154.54,1154.68,all,-0.09000000000014552,0.14000000000010004,0,False,True,1
+304,5f989fa02b5a611b2df1a305,1154.63,1154.72,are,-0.049999999999954525,0.08999999999991815,0,False,True,1
+305,5cc020d5159f790017bee28b,1154.68,1155.05,"right,",-0.03999999999996362,0.36999999999989086,0,False,True,1
+306,5f989fa02b5a611b2df1a305,1154.72,1156.17,you went to law school,-0.32999999999992724,1.4500000000000455,0,False,True,5
+307,5cc020d5159f790017bee28b,1156.94,1159.08,I was 38 when I started,0.7699999999999818,2.1399999999998727,0,False,False,6
+308,5f989fa02b5a611b2df1a305,1158.74,1159.16,built next?,-0.33999999999991815,0.42000000000007276,1,True,True,2
+309,5cc020d5159f790017bee28b,1159.08,1174.55,"law school and I was the oldest person in my class, Despite the fact that I had been promised when I head toward campus, the very nice woman in admissions was like, Oh, don't worry, there's always like some 62 year old who ends up coming and there's no way",-0.08000000000015461,15.470000000000027,0,False,True,53
+310,5f989fa02b5a611b2df1a305,1174.54,1174.96,Mm.,-0.009999999999990905,0.42000000000007276,0,False,True,1
+311,5cc020d5159f790017bee28b,1174.55,1191.9,"you'll be the oldest parts in the class. And I got to the first um welcome picnic and um the dean was up there and announced that the age of folks in our class ranged from 19 two, and I was like, Oh, there's got to be a 38 year old, which is a little older",-0.41000000000008185,17.350000000000136,0,False,True,58
+312,5f989fa02b5a611b2df1a305,1191.64,1193.67,"Uh huh,",-0.2599999999999909,2.0299999999999727,0,False,True,2
+313,5cc020d5159f790017bee28b,1191.9,1204.53,"than me. And I'm looking around and I finally find this woman and I'm like, and it just feels terrible, but I'm thinking she looks older than me, and uh and it turned out she was like three months younger than I was, and",-1.7699999999999818,12.629999999999882,0,False,True,47
+314,5f989fa02b5a611b2df1a305,1204.44,1205.16,wow.,-0.08999999999991815,0.7200000000000273,0,False,True,1
+315,5cc020d5159f790017bee28b,1204.53,1207.85,"it made me very, very sad. But",-0.6300000000001091,3.3199999999999363,0,False,True,7
+316,5f989fa02b5a611b2df1a305,1207.94,1208.36,Mm.,0.09000000000014552,0.4199999999998454,0,False,False,1
+317,5cc020d5159f790017bee28b,1208.24,1222.39,"yeah, it was it was it's just made for this weird thing because like, like When I turned 40, I was in law school, and so all of my 24 year old classmates really wanted to celebrate this, this was such a big",-0.11999999999989086,14.150000000000091,0,False,True,44
+318,5f989fa02b5a611b2df1a305,1222.34,1222.84,Yeah.,-0.0500000000001819,0.5,0,False,True,1
+319,5cc020d5159f790017bee28b,1222.39,1225.43,"deal, and I'm like, I really don't want to celebrate it",-0.4499999999998181,3.0399999999999636,0,False,True,13
+320,5f989fa02b5a611b2df1a305,1225.34,1226.17,Uh huh.,-0.09000000000014552,0.8300000000001546,0,False,True,2
+321,5cc020d5159f790017bee28b,1225.43,1227.06,with you who are all young enough,-0.7400000000000091,1.6299999999998818,0,False,True,7
+322,5f989fa02b5a611b2df1a305,1226.84,1227.16,Yeah.,-0.22000000000002728,0.3200000000001637,0,False,True,1
+323,5cc020d5159f790017bee28b,1227.06,1229.4,to be my kids and,-0.10000000000013642,2.3400000000001455,0,False,True,5
+324,5f989fa02b5a611b2df1a305,1228.44,1229.06,Yeah.,-0.9600000000000364,0.6199999999998909,0,False,True,1
+325,5cc020d5159f790017bee28b,1229.41,1231.99,"like, no, but",0.3500000000001364,2.5799999999999272,0,False,False,3
+326,5f989fa02b5a611b2df1a305,1231.94,1232.12,So,-0.049999999999954525,0.1799999999998363,0,False,True,1
+327,5cc020d5159f790017bee28b,1232.0,1232.13,you,-0.11999999999989086,0.13000000000010914,0,False,True,1
+328,5f989fa02b5a611b2df1a305,1232.12,1232.31,my,-0.010000000000218279,0.19000000000005457,0,False,True,1
+329,5cc020d5159f790017bee28b,1232.13,1232.34,"know,",-0.1799999999998363,0.209999999999809,0,False,True,1
+330,5f989fa02b5a611b2df1a305,1232.31,1232.71,brother,-0.029999999999972715,0.40000000000009095,0,False,True,1
+331,5cc020d5159f790017bee28b,1232.34,1232.95,what do you do?,-0.37000000000011823,0.6100000000001273,1,True,True,4
+332,5f989fa02b5a611b2df1a305,1232.71,1235.06,wants to go to law school and he's 40.,-0.2400000000000091,2.349999999999909,0,False,True,10
+333,5cc020d5159f790017bee28b,1235.64,1236.27,"Okay,",0.5800000000001546,0.6299999999998818,0,False,False,1
+334,5f989fa02b5a611b2df1a305,1236.84,1237.46,"Yeah, he's",0.5699999999999363,0.6200000000001182,0,False,False,3
+335,5cc020d5159f790017bee28b,1237.34,1237.67,that's,-0.12000000000011823,0.3300000000001546,0,False,True,2
+336,5f989fa02b5a611b2df1a305,1237.46,1240.04,a pharmaceutical rep right now and,-0.21000000000003638,2.5799999999999272,0,False,True,6
+337,5cc020d5159f790017bee28b,1239.54,1240.17,Mhm.,-0.5,0.6300000000001091,0,False,True,1
+338,5f989fa02b5a611b2df1a305,1240.05,1247.56,"I don't think he's getting much out of that field. So, but he's a really good talker. So",-0.12000000000011823,7.509999999999991,0,False,True,21
+339,5cc020d5159f790017bee28b,1247.14,1247.77,"Oh,",-0.4199999999998454,0.6299999999998818,0,False,True,1
+340,5f989fa02b5a611b2df1a305,1248.14,1251.46,"I think I will, I will encourage him to do it",0.37000000000011823,3.3199999999999363,0,False,False,11
+341,5cc020d5159f790017bee28b,1252.04,1263.05,"I you know, I'm really glad I did it, I have never regretted it. Uh and I think that it's I mean, I think that people just come into where they are and what they want at different stages,",0.5799999999999272,11.009999999999991,0,False,False,41
+342,5f989fa02b5a611b2df1a305,1263.24,1263.86,totally,0.19000000000005457,0.6199999999998909,0,False,False,1
+343,5cc020d5159f790017bee28b,1263.54,1278.78,"and so, you know, I mean, I in some ways I probably didn't go to law school earlier because that was just what everyone seemed to do by default when I was getting out of college, and, you know, if you didn't have anything else you want to do with just a few minutes, we'll just go to law school. And that seemed weird to me. So",-0.31999999999993634,15.240000000000009,0,False,True,70
+344,5f989fa02b5a611b2df1a305,1278.24,1278.66,sure.,-0.5399999999999636,0.42000000000007276,0,False,True,1
+345,5cc020d5159f790017bee28b,1278.78,1291.56,"I took the other path and you know, um, it's been good, it's got me all over the country and had some good experiences and, you know, I think people are fascinating. That's what I like about the prolific stuff a lot.",0.11999999999989086,12.779999999999973,0,False,False,45
+346,5f989fa02b5a611b2df1a305,1292.44,1303.27,"Mm So after we're done, we we answer questions. But then how do you, you do this again and again? Like how does that keep going?",0.8800000000001091,10.829999999999927,2,True,False,27
+347,5cc020d5159f790017bee28b,1303.34,1315.14,"Okay, so you can do it up to seven times now. Um, and so when you're done, you'll answer the questionnaire and then we'll ask you if you want to sign up for another. So",0.06999999999993634,11.800000000000182,0,False,False,38
+348,5f989fa02b5a611b2df1a305,1315.04,1315.55,Okay.,-0.10000000000013642,0.5099999999999909,0,False,True,1
+349,5cc020d5159f790017bee28b,1315.14,1323.11,first it asks you whether this talk actually worked so and if it didn't and it wasn't your fault like you didn't skip,-0.4099999999998545,7.9699999999998,0,False,True,26
+350,5f989fa02b5a611b2df1a305,1322.94,1323.36,Mhm.,-0.16999999999984539,0.4199999999998454,0,False,True,1
+351,5cc020d5159f790017bee28b,1323.11,1323.46,it,-0.25,0.3500000000001364,0,False,True,1
+352,5f989fa02b5a611b2df1a305,1323.84,1324.35,Mhm.,0.37999999999988177,0.5099999999999909,0,False,False,1
+353,5cc020d5159f790017bee28b,1323.94,1334.04,then you automatically go to the thing when you sign up for another one. Um If if it went okay and you get to the end of the questionnaire they'll ask you if you'd like to sign up for another talk and,-0.4099999999998545,10.099999999999909,0,False,True,44
+354,5f989fa02b5a611b2df1a305,1333.94,1334.36,Okay.,-0.09999999999990905,0.4199999999998454,0,False,True,1
+355,5cc020d5159f790017bee28b,1334.04,1342.13,if you do you just the pain in the is that you have to fill out that weird checkbox schedule again with,-0.31999999999993634,8.090000000000146,0,False,True,22
+356,5f989fa02b5a611b2df1a305,1342.04,1342.48,Uh,-0.09000000000014552,0.44000000000005457,0,False,True,1
+357,5cc020d5159f790017bee28b,1342.13,1342.56,all those,-0.34999999999990905,0.4299999999998363,0,False,True,2
+358,5f989fa02b5a611b2df1a305,1342.49,1343.15,"yeah,",-0.06999999999993634,0.6600000000000819,0,False,True,1
+359,5cc020d5159f790017bee28b,1342.56,1343.06,kind of,-0.5900000000001455,0.5,0,False,True,2
+360,5f989fa02b5a611b2df1a305,1343.16,1344.26,super lengthy.,0.10000000000013642,1.099999999999909,0,False,False,2
+361,5cc020d5159f790017bee28b,1343.74,1360.67,"um super lengthy, super lengthy. But they um and then they just every night seems to be around nine or 10 central time. They run the match. And so if there's if you get matched sort of late in the evening you usually get",-0.5199999999999818,16.930000000000064,0,False,True,45
+362,5f989fa02b5a611b2df1a305,1360.64,1360.96,Mhm.,-0.029999999999972715,0.31999999999993634,0,False,True,1
+363,5cc020d5159f790017bee28b,1360.68,1369.91,"a a message and then you know do it again. But yeah you can do it and as long as people show up and even if they don't show up, I think you get A dollar",-0.2799999999999727,9.230000000000018,0,False,True,37
+364,5f989fa02b5a611b2df1a305,1369.84,1370.04,"Yeah,",-0.07000000000016371,0.20000000000004547,0,False,True,1
+365,5cc020d5159f790017bee28b,1369.91,1371.28,25 or something,-0.12999999999988177,1.3699999999998909,0,False,True,3
+366,5f989fa02b5a611b2df1a305,1370.94,1371.35,yeah.,-0.33999999999991815,0.4099999999998545,0,False,True,1
+367,5cc020d5159f790017bee28b,1371.28,1375.17,that's a little bit and then you just go right back into the pool to be matched again.,-0.06999999999993634,3.8900000000001,0,False,True,19
+368,5f989fa02b5a611b2df1a305,1375.54,1379.56,Are they all americans? Because the timing would be tricky if they're not?,0.36999999999989086,4.019999999999982,2,True,False,14
+369,5cc020d5159f790017bee28b,1379.94,1385.45,Um I think they are because I think that the only time zones they list when they ask on,0.38000000000010914,5.509999999999991,0,False,False,19
+370,5f989fa02b5a611b2df1a305,1385.44,1386.06,Mhm.,-0.009999999999990905,0.6199999999998909,0,False,True,1
+371,5cc020d5159f790017bee28b,1385.45,1391.86,that schedule is um but I don't know whether it's a requirement of the study or not.,-0.6099999999999,6.4099999999998545,0,False,True,19
+372,5f989fa02b5a611b2df1a305,1392.04,1392.55,Okay.,0.18000000000006366,0.5099999999999909,0,False,False,1
+373,5cc020d5159f790017bee28b,1392.34,1406.24,"Um you know, but I've had East coasters, west coasters, southerners. So yeah, it's been all over the map and I'm sort of convinced that you people that I talk to are just all like the same 10, what",-0.21000000000003638,13.900000000000091,0,False,True,42
+374,5f989fa02b5a611b2df1a305,1406.04,1406.54,Yeah.,-0.20000000000004547,0.5,0,False,True,1
+375,5cc020d5159f790017bee28b,1406.24,1409.94,is it better up or whatever employees just shuffling around and,-0.2999999999999545,3.7000000000000455,0,False,True,11
+376,5f989fa02b5a611b2df1a305,1409.84,1410.31,Uh,-0.10000000000013642,0.4700000000000273,0,False,True,1
+377,5cc020d5159f790017bee28b,1409.94,1410.74,like pretending,-0.36999999999989086,0.7999999999999545,0,False,True,2
+378,5f989fa02b5a611b2df1a305,1410.31,1410.55,huh.,-0.43000000000006366,0.2400000000000091,0,False,True,1
+379,5cc020d5159f790017bee28b,1410.74,1413.42,like this time you pretend your fact checker and next time,0.19000000000005457,2.6800000000000637,0,False,False,11
+380,5f989fa02b5a611b2df1a305,1413.24,1415.06,No.,-0.18000000000006366,1.8199999999999363,0,False,True,1
+381,5cc020d5159f790017bee28b,1413.42,1415.26,you pretend you're like,-1.6399999999998727,1.8399999999999181,0,False,True,5
+382,5f989fa02b5a611b2df1a305,1416.04,1422.53,"Yeah, no, this is really me and really my house and my messy kitchen behind me. I'm",0.7799999999999727,6.490000000000009,0,False,False,18
+383,5cc020d5159f790017bee28b,1422.34,1422.75,yeah,-0.19000000000005457,0.41000000000008185,0,False,True,1
+384,5f989fa02b5a611b2df1a305,1422.53,1424.67,not an algorithm.,-0.22000000000002728,2.1400000000001,0,False,True,3
+385,5cc020d5159f790017bee28b,1424.14,1428.85,"you're not and I'm not an algorithm, wow, nobody's have really said that to me before quite that way.",-0.5299999999999727,4.709999999999809,0,False,True,22
+386,5f989fa02b5a611b2df1a305,1428.96,1439.57,"I did uh an interesting survey through prolific a few days ago that was a game and yeah, I don't know, maybe you've",0.11000000000012733,10.6099999999999,0,False,False,25
+387,5cc020d5159f790017bee28b,1439.34,1439.69,five,-0.2300000000000182,0.3500000000001364,0,False,True,1
+388,5f989fa02b5a611b2df1a305,1439.57,1440.36,"encountered,",-0.12000000000011823,0.7899999999999636,0,False,True,1
+389,5cc020d5159f790017bee28b,1439.69,1441.26,people on the moon or whatever,-0.6699999999998454,1.5699999999999363,0,False,True,6
+390,5f989fa02b5a611b2df1a305,1441.64,1441.8,it,0.38000000000010914,0.15999999999985448,0,False,False,1
+391,5cc020d5159f790017bee28b,1441.74,1441.89,the,-0.05999999999994543,0.15000000000009095,0,False,True,1
+392,5f989fa02b5a611b2df1a305,1441.8,1441.95,was,-0.09000000000014552,0.15000000000009095,0,False,True,1
+393,5cc020d5159f790017bee28b,1441.89,1442.46,Ceta,-0.05999999999994543,0.5699999999999363,0,False,True,1
+394,5f989fa02b5a611b2df1a305,1441.95,1443.23,a space game and,-0.5099999999999909,1.2799999999999727,0,False,True,4
+395,5cc020d5159f790017bee28b,1443.14,1443.67,Well,-0.08999999999991815,0.5299999999999727,0,False,True,1
+396,5f989fa02b5a611b2df1a305,1443.23,1444.96,then people are in the chat,-0.44000000000005457,1.7300000000000182,0,False,True,6
+397,5cc020d5159f790017bee28b,1445.44,1445.67,okay.,0.4800000000000182,0.2300000000000182,0,False,False,1
+398,5f989fa02b5a611b2df1a305,1446.24,1446.8,and you have,0.5699999999999363,0.5599999999999454,0,False,False,3
+399,5cc020d5159f790017bee28b,1446.64,1447.05,Yeah.,-0.15999999999985448,0.4099999999998545,0,False,True,1
+400,5f989fa02b5a611b2df1a305,1446.8,1453.35,to figure out how to like solve puzzles or problems without knowing what the rules are.,-0.25,6.5499999999999545,0,False,True,16
+401,5cc020d5159f790017bee28b,1453.84,1454.25,Yeah.,0.4900000000000091,0.41000000000008185,0,False,False,1
+402,5f989fa02b5a611b2df1a305,1454.14,1457.77,And it was testing your cooperation with these other people in the chat,-0.10999999999989996,3.6299999999998818,0,False,True,13
+403,5cc020d5159f790017bee28b,1458.14,1458.85,Yeah,0.37000000000011823,0.709999999999809,0,False,False,1
+404,5f989fa02b5a611b2df1a305,1459.74,1459.99,and,0.8900000000001,0.25,0,False,False,1
+405,5cc020d5159f790017bee28b,1459.94,1460.06,I,-0.049999999999954525,0.11999999999989086,0,False,True,1
+406,5f989fa02b5a611b2df1a305,1459.99,1460.1,I,-0.06999999999993634,0.10999999999989996,0,False,True,1
+407,5cc020d5159f790017bee28b,1460.06,1460.25,did,-0.03999999999996362,0.19000000000005457,0,False,True,1
+408,5f989fa02b5a611b2df1a305,1460.1,1460.55,"wasn't,",-0.15000000000009095,0.4500000000000455,0,False,True,2
+409,5cc020d5159f790017bee28b,1460.25,1460.6,that one,-0.2999999999999545,0.34999999999990905,0,False,True,2
+410,5f989fa02b5a611b2df1a305,1460.56,1461.69,I,-0.03999999999996362,1.1300000000001091,0,False,True,1
+411,5cc020d5159f790017bee28b,1460.6,1461.17,too.,-1.0900000000001455,0.5700000000001637,0,False,True,1
+412,5f989fa02b5a611b2df1a305,1461.7,1463.16,still don't know if they were real.,0.5299999999999727,1.4600000000000364,0,False,False,8
+413,5cc020d5159f790017bee28b,1464.44,1474.47,Um I so so somehow I ended up doing that one twice and I don't know whether I was supposed to or not but they,1.2799999999999727,10.029999999999973,0,False,False,26
+414,5f989fa02b5a611b2df1a305,1473.74,1474.15,Yeah.,-0.7300000000000182,0.41000000000008185,0,False,True,1
+415,5cc020d5159f790017bee28b,1474.48,1481.74,did it we didn't make it all the way to the end because someone dropped out and then I got the invitation again. So I did it again,0.32999999999992724,7.259999999999991,0,False,False,29
+416,5f989fa02b5a611b2df1a305,1481.24,1481.66,"Oh,",-0.5,0.42000000000007276,0,False,True,1
+417,5cc020d5159f790017bee28b,1481.75,1490.27,so I got to see a little bit of how it worked and it did seem like they probably were real or at least some of them were real.,0.08999999999991815,8.519999999999982,0,False,False,29
+418,5f989fa02b5a611b2df1a305,1490.34,1490.76,"mm,",0.06999999999993634,0.42000000000007276,0,False,False,1
+419,5cc020d5159f790017bee28b,1490.64,1511.86,But um I don't know it's a little suspect when you all you know five of you all show up at exactly the same time. Um you know but I don't know I am it's it's it's hard to I don't know I mean algorithms are getting so good and ai is getting so good that you know,-0.11999999999989086,21.2199999999998,0,False,True,65
+420,5f989fa02b5a611b2df1a305,1512.04,1512.67,totally.,0.18000000000006366,0.6300000000001091,0,False,False,1
+421,5cc020d5159f790017bee28b,1512.24,1516.16,I mean if this point I can have as interesting a conversation,-0.43000000000006366,3.9200000000000728,0,False,True,12
+422,5f989fa02b5a611b2df1a305,1515.94,1516.36,Mhm,-0.22000000000002728,0.4199999999998454,0,False,True,1
+423,5cc020d5159f790017bee28b,1516.16,1522.77,with Alexa or Siri half the time as I can with my friends and family. So yeah.,-0.1999999999998181,6.6099999999999,0,False,True,17
+424,5f989fa02b5a611b2df1a305,1522.24,1522.66,mm.,-0.5299999999999727,0.42000000000007276,0,False,True,1
+425,5cc020d5159f790017bee28b,1522.78,1533.25,Um So um so do you get to do much travel given your kind of your job in your career and I mean not,0.11999999999989086,10.470000000000027,0,False,False,24
+426,5f989fa02b5a611b2df1a305,1533.24,1533.77,"Now,",-0.009999999999990905,0.5299999999999727,0,False,True,1
+427,5cc020d5159f790017bee28b,1533.25,1536.0,not necessarily for work but um,-0.5199999999999818,2.75,0,False,True,6
+428,5f989fa02b5a611b2df1a305,1535.64,1535.96,um,-0.35999999999989996,0.31999999999993634,0,False,True,1
+429,5cc020d5159f790017bee28b,1536.01,1536.5,but just,0.049999999999954525,0.4900000000000091,0,False,False,2
+430,5f989fa02b5a611b2df1a305,1536.34,1536.97,mm,-0.16000000000008185,0.6300000000001091,0,False,True,1
+431,5cc020d5159f790017bee28b,1536.51,1540.06,in general are you someone who likes to travel and explore the world and,-0.4600000000000364,3.5499999999999545,0,False,True,14
+432,5f989fa02b5a611b2df1a305,1540.24,1577.05,"Oh, certainly, but um no not not these days and but a long time ago, so on the work side of things, when I first joined National Geographic in 2005, My boss was someone who had been there since, well for 40 years, like it was way time for her to retire and she went to one of the moon launches in person so she could sit at Cape Canaveral on the stands and then talk to people in mission control and verify their quotes",0.18000000000006366,36.809999999999945,0,False,False,85
+433,5cc020d5159f790017bee28b,1577.84,1578.77,wow.,0.7899999999999636,0.9300000000000637,0,False,False,1
+434,5f989fa02b5a611b2df1a305,1578.74,1583.38,like that. You only could do things in person or on the phone or by,-0.029999999999972715,4.6400000000001,0,False,True,15
+435,5cc020d5159f790017bee28b,1583.24,1583.77,Yeah.,-0.14000000000010004,0.5299999999999727,0,False,True,1
+436,5f989fa02b5a611b2df1a305,1583.38,1587.45,the letter. So,-0.38999999999987267,4.069999999999936,0,False,True,3
+437,5cc020d5159f790017bee28b,1584.84,1585.77,Letter.,-2.6100000000001273,0.9300000000000637,0,False,True,1
+438,5f989fa02b5a611b2df1a305,1587.46,1590.38,I'd rather be able to use email.,1.6900000000000546,2.9200000000000728,0,False,False,8
+439,5cc020d5159f790017bee28b,1590.14,1590.94,Yeah.,-0.2400000000000091,0.7999999999999545,0,False,True,1
+440,5f989fa02b5a611b2df1a305,1591.14,1591.56,Well,0.20000000000004547,0.4199999999998454,0,False,False,1
+441,5cc020d5159f790017bee28b,1592.84,1600.44,Although I tell you the generation that only grew up on email they have like no sense of time and timing and that something,1.2799999999999727,7.600000000000136,0,False,False,24
+442,5f989fa02b5a611b2df1a305,1600.04,1600.46,mm,-0.40000000000009095,0.42000000000007276,0,False,True,1
+443,5cc020d5159f790017bee28b,1600.44,1604.07,might happen in less than instantaneous. I,-0.01999999999998181,3.6299999999998818,0,False,True,7
+444,5f989fa02b5a611b2df1a305,1603.84,1604.25,"yeah,",-0.2300000000000182,0.41000000000008185,0,False,True,1
+445,5cc020d5159f790017bee28b,1604.07,1607.57,want it now responses so um,-0.18000000000006366,3.5,0,False,True,6
+446,5f989fa02b5a611b2df1a305,1607.24,1608.02,yeah allow,-0.32999999999992724,0.7799999999999727,0,False,True,2
+447,5cc020d5159f790017bee28b,1607.58,1608.16,But,-0.44000000000005457,0.5800000000001546,0,False,True,1
+448,5f989fa02b5a611b2df1a305,1608.02,1610.33,the signal to go to the satellite and then come,-0.14000000000010004,2.3099999999999454,0,False,True,10
+449,5cc020d5159f790017bee28b,1610.14,1610.94,yeah,-0.1899999999998272,0.7999999999999545,0,False,True,1
+450,5f989fa02b5a611b2df1a305,1610.33,1612.36,back and then then you'll get your answer.,-0.6100000000001273,2.0299999999999727,0,False,True,9
+451,5cc020d5159f790017bee28b,1612.94,1627.77,"exactly. Exactly. Yeah. It's so funny. I mean I can't, my my one of my nieces is applying to college this year and her older brother applied last year. And it's so different even when I applied to law school, it was so different than when I applied to college.",0.5800000000001546,14.829999999999927,0,False,False,53
+452,5f989fa02b5a611b2df1a305,1627.74,1628.16,Mm,-0.029999999999972715,0.42000000000007276,0,False,True,1
+453,5cc020d5159f790017bee28b,1627.78,1640.3,But it's just so like their whole experience of it is just it's just so different. And I mean for him he basically lost half of his senior in high school and now his first year in college is,-0.38000000000010914,12.519999999999982,0,False,True,41
+454,5f989fa02b5a611b2df1a305,1640.24,1640.66,I know,-0.05999999999994543,0.42000000000007276,0,False,True,2
+455,5cc020d5159f790017bee28b,1640.42,1641.0,very,-0.2400000000000091,0.5799999999999272,0,False,True,1
+456,5f989fa02b5a611b2df1a305,1640.67,1641.35,that. So,-0.32999999999992724,0.6799999999998363,0,False,True,2
+457,5cc020d5159f790017bee28b,1641.0,1641.85,very odd.,-0.34999999999990905,0.849999999999909,0,False,True,2
+458,5f989fa02b5a611b2df1a305,1642.04,1642.85,so sad.,0.19000000000005457,0.8099999999999454,0,False,False,2
+459,5cc020d5159f790017bee28b,1643.14,1644.76,Yeah. So,0.290000000000191,1.6199999999998909,0,False,False,2
+460,5f989fa02b5a611b2df1a305,1645.04,1645.3,And,0.2799999999999727,0.2599999999999909,0,False,False,1
+461,5cc020d5159f790017bee28b,1645.24,1645.77,um,-0.05999999999994543,0.5299999999999727,0,False,True,1
+462,5f989fa02b5a611b2df1a305,1645.3,1646.77,your nieces with senior now?,-0.4700000000000273,1.4700000000000273,1,True,True,5
+463,5cc020d5159f790017bee28b,1647.04,1649.67,she's a senior now. Yeah.,0.2699999999999818,2.630000000000109,0,False,False,6
+464,5f989fa02b5a611b2df1a305,1648.74,1650.77,That's so Stuckey.,-0.9300000000000637,2.0299999999999727,0,False,True,4
+465,5cc020d5159f790017bee28b,1651.64,1664.31,Yeah. She said she said a lot of adjustment difficulties in general. So she's uh she's in she's in a program um that I think is helping but,0.8700000000001182,12.669999999999845,0,False,False,31
+466,5f989fa02b5a611b2df1a305,1664.24,1664.45,"Well,",-0.06999999999993634,0.21000000000003638,0,False,True,1
+467,5cc020d5159f790017bee28b,1664.32,1669.18,she actually does have some small in person pod kind of,-0.13000000000010914,4.860000000000127,0,False,True,11
+468,5f989fa02b5a611b2df1a305,1668.94,1669.75,yeah.,-0.2400000000000091,0.8099999999999454,0,False,True,1
+469,5cc020d5159f790017bee28b,1669.19,1671.04,class stuff that happens.,-0.5599999999999454,1.849999999999909,0,False,True,4
+470,5f989fa02b5a611b2df1a305,1670.74,1671.36,Mm,-0.2999999999999545,0.6199999999998909,0,False,True,1
+471,5cc020d5159f790017bee28b,1671.05,1675.45,"Um But not as much and you know, both of their parents are both professors so",-0.30999999999994543,4.400000000000091,0,False,True,16
+472,5f989fa02b5a611b2df1a305,1675.74,1676.16,Well,0.2899999999999636,0.42000000000007276,0,False,False,1
+473,5cc020d5159f790017bee28b,1675.74,1689.33,say um are used to having ah academia around but you know talking to uh the professors that I know it's just you know it's just trying to kind of move to this model which,-0.42000000000007276,13.589999999999918,0,False,True,37
+474,5f989fa02b5a611b2df1a305,1689.14,1689.77,I know.,-0.1899999999998272,0.6299999999998818,0,False,True,2
+475,5cc020d5159f790017bee28b,1689.34,1703.95,"um you know um I taught for a while after law school and the folks that are the folks, a lot of folks that I talked with, we're just like, but where's the typewriter, you know like",-0.43000000000006366,14.610000000000127,0,False,True,39
+476,5f989fa02b5a611b2df1a305,1704.44,1705.16,Mhm,0.4900000000000091,0.7200000000000273,0,False,False,1
+477,5cc020d5159f790017bee28b,1704.74,1733.83,"in fact, so I mean I graduate from law school in um 2009 and then I taught in law school until uh for five years until 2018 and while I was teaching, I went to get something online out of the student handbook and I found the section that said if you want to type your exam, you must bring your own typewriter to the exam. That it just like it was just",-0.42000000000007276,29.089999999999918,0,False,True,73
+478,5f989fa02b5a611b2df1a305,1733.74,1733.95,Who,-0.08999999999991815,0.21000000000003638,0,False,True,1
+479,5cc020d5159f790017bee28b,1733.83,1737.75,"sort of, you know, it was just flotsam and jetsam that got",-0.12000000000011823,3.9200000000000728,0,False,True,12
+480,5f989fa02b5a611b2df1a305,1737.74,1738.16,here?,-0.009999999999990905,0.42000000000007276,1,True,True,1
+481,5cc020d5159f790017bee28b,1737.75,1740.82,left there. But somehow it just when everything got digitized,-0.41000000000008185,3.0699999999999363,0,False,True,10
+482,5f989fa02b5a611b2df1a305,1740.44,1740.86,All right.,-0.37999999999988177,0.4199999999998454,0,False,True,2
+483,5cc020d5159f790017bee28b,1740.82,1745.85,"and moved in, somehow nobody managed to fix this page or even remember that it existed.",-0.03999999999996362,5.029999999999973,0,False,True,16
+484,5f989fa02b5a611b2df1a305,1745.14,1745.35,Mhm,-0.709999999999809,0.209999999999809,0,False,True,1
+485,5cc020d5159f790017bee28b,1746.14,1750.6,"And I don't know how I ended up on it, but I was like, I think it's really time that we uh",0.790000000000191,4.459999999999809,0,False,False,24
+486,5f989fa02b5a611b2df1a305,1750.44,1750.95,mm,-0.15999999999985448,0.5099999999999909,0,False,True,1
+487,5cc020d5159f790017bee28b,1750.61,1752.1,we we update this a little,-0.3400000000001455,1.490000000000009,0,False,True,6
+488,5f989fa02b5a611b2df1a305,1751.94,1752.66,maybe.,-0.15999999999985448,0.7200000000000273,0,False,True,1
+489,5cc020d5159f790017bee28b,1752.1,1753.36,"bit because you know,",-0.5600000000001728,1.259999999999991,0,False,True,4
+490,5f989fa02b5a611b2df1a305,1753.34,1753.55,Mhm,-0.01999999999998181,0.21000000000003638,0,False,True,1
+491,5cc020d5159f790017bee28b,1753.37,1764.24,"maybe it's just not as much of a world that uses carries. I mean, and then it was funny too, because that was the point when all the hipsters were like carrying their old ancient Underwood",-0.18000000000006366,10.870000000000118,0,False,True,37
+492,5f989fa02b5a611b2df1a305,1764.04,1764.36,No.,-0.20000000000004547,0.31999999999993634,0,False,True,1
+493,5cc020d5159f790017bee28b,1764.24,1765.21,typewriters around,-0.11999999999989086,0.9700000000000273,0,False,True,2
+494,5f989fa02b5a611b2df1a305,1764.84,1765.86,Mm hmm.,-0.37000000000011823,1.0199999999999818,0,False,True,2
+495,5cc020d5159f790017bee28b,1765.21,1770.27,"to coffee shops. And I thought well maybe they are, but those guys don't go to law school.",-0.6499999999998636,5.059999999999945,0,False,True,19
+496,5f989fa02b5a611b2df1a305,1770.34,1776.85,And their rotary phone carry that and pop that on the desk now it's time to update that. I would agree.,0.06999999999993634,6.509999999999991,0,False,False,22
+497,5cc020d5159f790017bee28b,1777.64,1782.55,I was telling uh someone that my uh every picture,0.790000000000191,4.9099999999998545,0,False,False,10
+498,5f989fa02b5a611b2df1a305,1782.24,1782.45,Oh.,-0.30999999999994543,0.21000000000003638,0,False,True,1
+499,5cc020d5159f790017bee28b,1782.55,1788.95,"of mine from when my mother was expecting, my mother is on the phone and smoking",0.09999999999990905,6.400000000000091,0,False,False,16
+500,5f989fa02b5a611b2df1a305,1789.04,1789.27,Uh huh,0.08999999999991815,0.2300000000000182,0,False,False,2
+501,5cc020d5159f790017bee28b,1790.04,1794.97,"um when she was pregnant with me. And um and I said, well that was because she",0.7699999999999818,4.930000000000064,0,False,False,17
+502,5f989fa02b5a611b2df1a305,1794.44,1794.67,Right,-0.5299999999999727,0.2300000000000182,0,False,True,1
+503,5cc020d5159f790017bee28b,1794.98,1797.6,really hated having her picture taken. So,0.30999999999994543,2.619999999999891,0,False,False,7
+504,5f989fa02b5a611b2df1a305,1797.54,1797.96,mm.,-0.05999999999994543,0.42000000000007276,0,False,True,1
+505,5cc020d5159f790017bee28b,1797.6,1801.61,it was the only time my dad could have her like contained in one place. And,-0.36000000000012733,4.009999999999991,0,False,True,16
+506,5f989fa02b5a611b2df1a305,1801.44,1801.85,Uh huh,-0.16999999999984539,0.4099999999998545,0,False,True,2
+507,5cc020d5159f790017bee28b,1801.61,1806.35,"they were like, why I'm like, because she was on the phone, and they're like, well why would that container in one",-0.2400000000000091,4.740000000000009,0,False,True,24
+508,5f989fa02b5a611b2df1a305,1806.34,1807.56,Oh,-0.009999999999990905,1.2200000000000273,0,False,True,1
+509,5cc020d5159f790017bee28b,1806.35,1810.05,"place? I'm like the phone was attached to the wall,",-1.2100000000000364,3.7000000000000455,1,False,True,11
+510,5f989fa02b5a611b2df1a305,1809.94,1810.17,you,-0.10999999999989996,0.2300000000000182,0,False,True,1
+511,5cc020d5159f790017bee28b,1810.54,1812.96,"you know? So yeah,",0.36999999999989086,2.4200000000000728,1,False,False,4
+512,5f989fa02b5a611b2df1a305,1812.34,1815.06,sometimes the curly corns could really stretch.,-0.6200000000001182,2.7200000000000273,0,False,True,7
+513,5cc020d5159f790017bee28b,1815.64,1819.65,"They could, but when, when? But that was a little after. So",0.5800000000001546,4.009999999999991,1,False,False,12
+514,5f989fa02b5a611b2df1a305,1819.54,1820.05,Okay.,-0.11000000000012733,0.5099999999999909,0,False,True,1
+515,5cc020d5159f790017bee28b,1819.65,1828.37,"I'm 52. So I was born in 68 and I think that uh I do remember my mother getting one of those chords that God knows, it was like 500 ft long",-0.3999999999998636,8.7199999999998,0,False,True,33
+516,5f989fa02b5a611b2df1a305,1828.34,1829.77,Yeah,-0.029999999999972715,1.4300000000000637,0,False,True,1
+517,5cc020d5159f790017bee28b,1828.37,1842.87,"or whatever, just like. you know? Um But like right. Uh I mean, our kitchen still had the old, the four pronged plug that the phones used to use before the modular plugs,",-1.400000000000091,14.5,1,False,True,33
+518,5f989fa02b5a611b2df1a305,1842.64,1843.27,okay,-0.22999999999979082,0.6299999999998818,0,False,True,1
+519,5cc020d5159f790017bee28b,1842.87,1844.4,you probably don't even remember,-0.40000000000009095,1.5300000000002,0,False,True,6
+520,5f989fa02b5a611b2df1a305,1844.34,1845.06,now,-0.060000000000172804,0.7200000000000273,0,False,True,1
+521,5cc020d5159f790017bee28b,1844.4,1844.96,that.,-0.6599999999998545,0.5599999999999454,0,False,True,1
+522,5f989fa02b5a611b2df1a305,1845.44,1845.83,I'm,0.4800000000000182,0.38999999999987267,0,False,False,2
+523,5cc020d5159f790017bee28b,1845.54,1845.9,Um,-0.2899999999999636,0.36000000000012733,0,False,True,1
+524,5f989fa02b5a611b2df1a305,1845.84,1845.98,a,-0.060000000000172804,0.14000000000010004,0,False,True,1
+525,5cc020d5159f790017bee28b,1845.91,1846.55,Yeah.,-0.06999999999993634,0.6399999999998727,0,False,True,1
+526,5f989fa02b5a611b2df1a305,1845.98,1847.66,little bit younger in 45.,-0.5699999999999363,1.6800000000000637,0,False,True,5
+527,5cc020d5159f790017bee28b,1848.34,1866.37,"Okay. Yeah, so that's probably about right. I mean I think they went modular in the late 70s, so by the time you were, you know, aware of that kind of stuff. But yeah, I mean it was it was it was definitely different, but at least we never lived with like party lines or any of those",0.6799999999998363,18.029999999999973,0,False,False,59
+528,5f989fa02b5a611b2df1a305,1866.14,1866.35,Mhm.,-0.22999999999979082,0.209999999999809,0,False,True,1
+529,5cc020d5159f790017bee28b,1866.37,1866.66,like,0.01999999999998181,0.290000000000191,0,False,False,1
+530,5f989fa02b5a611b2df1a305,1866.94,1867.45,Mhm.,0.2799999999999727,0.5099999999999909,0,False,False,1
+531,5cc020d5159f790017bee28b,1867.04,1872.51,"Weird, like, you know, I'm calling Pennsylvania 6 5000 or whatever and we",-0.41000000000008185,5.470000000000027,0,False,True,14
+532,5f989fa02b5a611b2df1a305,1872.34,1873.27,Operation,-0.17000000000007276,0.9300000000000637,0,False,True,1
+533,5cc020d5159f790017bee28b,1872.51,1874.24,always just dialed numbers operator.,-0.7599999999999909,1.7300000000000182,0,False,True,5
+534,5f989fa02b5a611b2df1a305,1873.84,1874.05,mm,-0.40000000000009095,0.21000000000003638,0,False,True,1
+535,5cc020d5159f790017bee28b,1874.24,1876.06,Yeah. So,0.19000000000005457,1.8199999999999363,0,False,False,2
+536,5f989fa02b5a611b2df1a305,1875.64,1883.56,there's a really cool movie that exemplifies that. I think it's on netflix right now. I love science fiction and,-0.4199999999998454,7.919999999999845,0,False,True,22
+537,5cc020d5159f790017bee28b,1883.04,1883.67,Okay.,-0.5199999999999818,0.6300000000001091,0,False,True,1
+538,5f989fa02b5a611b2df1a305,1883.8,1896.46,"this is a small budget movie but it was beautifully, really well done. It's called The Vast of Night and it's set in the fifties and it's about the ufo visiting this little new Mexico town",0.12999999999988177,12.660000000000082,0,False,False,39
+539,5cc020d5159f790017bee28b,1896.84,1897.46,Okay.,0.37999999999988177,0.6200000000001182,0,False,False,1
+540,5f989fa02b5a611b2df1a305,1896.94,1902.81,In the 50s and one of the main characters is the teenage girl operator at,-0.5199999999999818,5.869999999999891,0,False,True,15
+541,5cc020d5159f790017bee28b,1902.74,1903.16,Mhm.,-0.06999999999993634,0.42000000000007276,0,False,True,1
+542,5f989fa02b5a611b2df1a305,1902.81,1912.76,the floor building. It's a little tiny thing and she's pick it up where picks up the call and then plugs in the thing. Amazing to see that in action.,-0.3500000000001364,9.950000000000045,0,False,True,32
+543,5cc020d5159f790017bee28b,1913.54,1922.46,"Yeah, it's amazing this, you know, or or you see things where you know the the computer is like 12 rooms digged and it,",0.7799999999999727,8.920000000000073,0,False,False,25
+544,5f989fa02b5a611b2df1a305,1922.34,1922.58,Yeah,-0.12000000000011823,0.2400000000000091,0,False,True,1
+545,5cc020d5159f790017bee28b,1922.46,1922.69,"you know,",-0.11999999999989086,0.2300000000000182,0,False,True,2
+546,5f989fa02b5a611b2df1a305,1922.58,1922.72,and,-0.11000000000012733,0.14000000000010004,0,False,True,1
+547,5cc020d5159f790017bee28b,1922.69,1922.8,it,-0.029999999999972715,0.10999999999989996,0,False,True,1
+548,5f989fa02b5a611b2df1a305,1922.72,1924.56,IBM,-0.07999999999992724,1.8399999999999181,0,False,True,1
+549,5cc020d5159f790017bee28b,1922.8,1932.07,"can, you know, yeah, there's there's old amazing ones. Um and you know, I mean they made to get they made it to space with that sort",-1.759999999999991,9.269999999999982,0,False,True,29
+550,5f989fa02b5a611b2df1a305,1931.84,1932.56,Exactly.,-0.2300000000000182,0.7200000000000273,0,False,True,1
+551,5cc020d5159f790017bee28b,1932.07,1944.86,"of technology which was cutting edge and now you know I mean now we carry around these phones that have more power than you know, Was out there computing throughout the 60s and 70s combined.",-0.4900000000000091,12.789999999999964,0,False,True,35
+552,5f989fa02b5a611b2df1a305,1944.34,1944.75,Yeah,-0.5199999999999818,0.41000000000008185,0,False,True,1
+553,5cc020d5159f790017bee28b,1945.54,1946.4,So it's,0.7899999999999636,0.8600000000001273,0,False,False,3
+554,5f989fa02b5a611b2df1a305,1946.34,1946.53,I,-0.060000000000172804,0.19000000000005457,0,False,True,1
+555,5cc020d5159f790017bee28b,1946.4,1946.62,pretty,-0.12999999999988177,0.2199999999997999,0,False,True,1
+556,5f989fa02b5a611b2df1a305,1946.53,1946.85,think,-0.08999999999991815,0.31999999999993634,0,False,True,1
+557,5cc020d5159f790017bee28b,1946.62,1947.27,amazing,-0.2300000000000182,0.650000000000091,0,False,True,1
+558,5f989fa02b5a611b2df1a305,1946.86,1956.27,I've had frequently I I appreciate all that. I think that's wonderful. And I try to remind my kids once in a while of just how awesome they have it,-0.41000000000008185,9.410000000000082,0,False,True,32
+559,5cc020d5159f790017bee28b,1956.54,1957.05,President.,0.2699999999999818,0.5099999999999909,0,False,False,1
+560,5f989fa02b5a611b2df1a305,1956.74,1961.17,there there now freshman and junior in high school,-0.30999999999994543,4.430000000000064,0,False,True,9
+561,5cc020d5159f790017bee28b,1961.64,1962.27,Okay.,0.4700000000000273,0.6299999999998818,0,False,False,1
+562,5f989fa02b5a611b2df1a305,1963.04,1973.36,like uh well guess what? We used to have to open encyclopedias in paper form and use a card catalogue which was a drawer.,0.7699999999999818,10.319999999999936,1,False,False,24
+563,5cc020d5159f790017bee28b,1971.44,1981.93,"All right. Uh huh. I know the card catalogue, everyone. So I think about these things and we like when I was in elementary school we still used Noumea graphs we hadn't",-1.9199999999998454,10.490000000000009,0,False,True,33
+564,5f989fa02b5a611b2df1a305,1981.74,1982.27,"I don't,",-0.19000000000005457,0.5299999999999727,0,False,True,3
+565,5cc020d5159f790017bee28b,1981.93,1983.01,gone to. You,-0.33999999999991815,1.0799999999999272,0,False,True,3
+566,5f989fa02b5a611b2df1a305,1982.84,1983.13,I don't,-0.17000000000007276,0.290000000000191,0,False,True,3
+567,5cc020d5159f790017bee28b,1983.01,1983.15,don't,-0.12000000000011823,0.14000000000010004,0,False,True,2
+568,5f989fa02b5a611b2df1a305,1983.13,1983.4,"know,",-0.01999999999998181,0.2699999999999818,0,False,True,1
+569,5cc020d5159f790017bee28b,1983.15,1983.56,know those,-0.25,0.4099999999998545,0,False,True,2
+570,5f989fa02b5a611b2df1a305,1983.41,1983.86,I just,-0.14999999999986358,0.4499999999998181,0,False,True,2
+571,5cc020d5159f790017bee28b,1983.56,1983.95,either.,-0.2999999999999545,0.39000000000010004,0,False,True,1
+572,5f989fa02b5a611b2df1a305,1983.87,1985.81,"heard I've heard the word, I don't know what it",-0.08000000000015461,1.9400000000000546,0,False,True,12
+573,5cc020d5159f790017bee28b,1985.74,1986.4,Yeah.,-0.06999999999993634,0.6600000000000819,0,False,True,1
+574,5f989fa02b5a611b2df1a305,1985.81,1986.17,is.,-0.5900000000001455,0.36000000000012733,0,False,True,1
+575,5cc020d5159f790017bee28b,1986.41,1999.3,So basically it was a a like a an ink transfer thing where you would write on one sheet and underneath there was a sheet of ink and it would you know would transfer just where you wrote.,0.2400000000000091,12.889999999999873,0,False,False,38
+576,5f989fa02b5a611b2df1a305,1999.24,1999.52,Isn't,-0.05999999999994543,0.2799999999999727,0,False,True,2
+577,5cc020d5159f790017bee28b,1999.31,1999.53,And,-0.21000000000003638,0.22000000000002728,0,False,True,1
+578,5f989fa02b5a611b2df1a305,1999.52,1999.71,that,-0.009999999999990905,0.19000000000005457,0,False,True,1
+579,5cc020d5159f790017bee28b,1999.53,1999.84,so then,-0.18000000000006366,0.30999999999994543,0,False,True,2
+580,5f989fa02b5a611b2df1a305,1999.71,1999.88,what a,-0.12999999999988177,0.17000000000007276,0,False,True,2
+581,5cc020d5159f790017bee28b,1999.84,1999.92,you,-0.040000000000190994,0.08000000000015461,0,False,True,1
+582,5f989fa02b5a611b2df1a305,1999.88,2000.37,carbon,-0.03999999999996362,0.4899999999997817,0,False,True,1
+583,5cc020d5159f790017bee28b,1999.92,2000.05,would,-0.4499999999998181,0.12999999999988177,0,False,True,1
+584,5f989fa02b5a611b2df1a305,2000.37,2001.27,copy is,0.31999999999993634,0.900000000000091,0,False,False,2
+585,5cc020d5159f790017bee28b,2001.94,2013.05,"yes, well a carbon copy puts it to a second copy. What this would do, It created a master copy. So you would then put it through a machine that would run",0.6700000000000728,11.1099999999999,0,False,False,32
+586,5f989fa02b5a611b2df1a305,2012.94,2013.2,that,-0.10999999999989996,0.2599999999999909,0,False,True,1
+587,5cc020d5159f790017bee28b,2013.05,2013.42,ink,-0.15000000000009095,0.37000000000011823,0,False,True,1
+588,5f989fa02b5a611b2df1a305,2013.2,2013.86,well,-0.22000000000002728,0.6599999999998545,0,False,True,1
+589,5cc020d5159f790017bee28b,2013.43,2014.89,over that. And,-0.4299999999998363,1.4600000000000364,0,False,True,3
+590,5f989fa02b5a611b2df1a305,2014.74,2015.16,mm,-0.15000000000009095,0.42000000000007276,0,False,True,1
+591,5cc020d5159f790017bee28b,2014.89,2017.68,"then it would, and you had to turn it when I",-0.2699999999999818,2.7899999999999636,0,False,True,11
+592,5f989fa02b5a611b2df1a305,2017.64,2018.06,Sure.,-0.03999999999996362,0.4199999999998454,0,False,True,1
+593,5cc020d5159f790017bee28b,2017.68,2021.99,"started, we had to turn it by hand. That was sort of my job,",-0.37999999999988177,4.309999999999945,0,False,True,14
+594,5f989fa02b5a611b2df1a305,2021.64,2022.05,Yeah.,-0.34999999999990905,0.4099999999998545,0,False,True,1
+595,5cc020d5159f790017bee28b,2022.0,2029.14,"I would get sent down to too many a graph these things and you just go, we go, didn't didn't didn't",-0.049999999999954525,7.1400000000001,0,False,True,24
+596,5f989fa02b5a611b2df1a305,2028.74,2029.16,Oh no.,-0.40000000000009095,0.42000000000007276,0,False,True,2
+597,5cc020d5159f790017bee28b,2029.15,2032.22,really noisy and it smelled so disgusting,-0.009999999999990905,3.0699999999999363,0,False,True,7
+598,5f989fa02b5a611b2df1a305,2032.14,2032.52,Uh,-0.07999999999992724,0.37999999999988177,0,False,True,1
+599,5cc020d5159f790017bee28b,2032.22,2032.69,and it just,-0.2999999999999545,0.4700000000000273,0,False,True,3
+600,5f989fa02b5a611b2df1a305,2032.52,2032.94,huh.,-0.17000000000007276,0.42000000000007276,0,False,True,1
+601,5cc020d5159f790017bee28b,2032.69,2039.55,"like, you know, it's probably incredibly toxic, but you know, they that's what we did. So",-0.25,6.8599999999999,0,False,True,18
+602,5f989fa02b5a611b2df1a305,2039.04,2040.05,Yeah.,-0.5099999999999909,1.009999999999991,0,False,True,1
+603,5cc020d5159f790017bee28b,2039.94,2049.25,"yeah. Um so as a as an official, we have now passed at least the 26 minute mark since I started timing just so you know,",-0.10999999999989996,9.309999999999945,0,False,True,26
+604,5f989fa02b5a611b2df1a305,2049.84,2050.76,Okay.,0.5900000000001455,0.9200000000000728,0,False,False,1
+605,5cc020d5159f790017bee28b,2051.54,2053.55,"did you, you look confused?",0.7799999999997453,2.0100000000002183,1,True,False,5
+606,5f989fa02b5a611b2df1a305,2053.64,2054.55,"No, no, no, I",0.08999999999969077,0.9100000000003092,0,False,False,4
+607,5cc020d5159f790017bee28b,2054.54,2054.96,Well,-0.010000000000218279,0.42000000000007276,0,False,True,1
+608,5f989fa02b5a611b2df1a305,2054.55,2061.79,"I opened another screen where it has a little um, um, timer",-0.4099999999998545,7.239999999999782,0,False,True,12
+609,5cc020d5159f790017bee28b,2061.24,2062.05,timer,-0.5500000000001819,0.8100000000004002,0,False,True,1
+610,5f989fa02b5a611b2df1a305,2061.79,2063.06,"of home. Yeah,",-0.2600000000002183,1.2699999999999818,0,False,True,3
+611,5cc020d5159f790017bee28b,2064.04,2064.33,and,0.9800000000000182,0.2899999999999636,0,False,False,1
+612,5f989fa02b5a611b2df1a305,2064.24,2064.56,"yep,",-0.09000000000014552,0.3200000000001637,0,False,True,1
+613,5cc020d5159f790017bee28b,2064.33,2065.23,it where,-0.2300000000000182,0.900000000000091,0,False,True,2
+614,5f989fa02b5a611b2df1a305,2064.94,2065.57,so good,-0.2899999999999636,0.6300000000001091,0,False,True,2
+615,5cc020d5159f790017bee28b,2065.23,2065.66,does it?,-0.3400000000001455,0.4299999999998363,1,True,True,2
+616,5f989fa02b5a611b2df1a305,2065.58,2068.86,you for for doing that because I didn't think to do it.,-0.07999999999992724,3.2800000000002,0,False,True,13
+617,5cc020d5159f790017bee28b,2069.24,2091.56,"So my um so my fear is always that I'm going to do like 24 minutes and 48 seconds of this and then I'm going to be so pissy. So I always do this just because I'm I'm terrible with time. I am like, I'm the worst person. It's amazing. Like You have seen me the closest on time. I've probably been in the last 10",0.3799999999996544,22.320000000000164,0,False,False,73
+618,5f989fa02b5a611b2df1a305,2091.44,2092.75,Yeah.,-0.11999999999989086,1.3099999999999454,0,False,True,1
+619,5cc020d5159f790017bee28b,2091.56,2103.17,"years, so, you know, and uh well, and I blame college because we, when you went to school, What time did your 10:00 class start?",-1.1900000000000546,11.610000000000127,1,True,True,25
+620,5f989fa02b5a611b2df1a305,2103.84,2104.47,Mm hmm.,0.6700000000000728,0.6299999999996544,0,False,False,2
+621,5cc020d5159f790017bee28b,2104.24,2114.84,"Tenet, likely 10 o'clock, like every other place I've been at, 10 o'clock class started at 10, 10 and went to the hour. And I don't know why I did that,",-0.2300000000000182,10.600000000000364,0,False,True,33
+622,5f989fa02b5a611b2df1a305,2114.84,2115.07,That's,0.0,0.2300000000000182,0,False,False,2
+623,5cc020d5159f790017bee28b,2114.85,2115.25,but,-0.22000000000025466,0.40000000000009095,0,False,True,1
+624,5f989fa02b5a611b2df1a305,2115.07,2115.35,weird.,-0.1799999999998363,0.27999999999974534,0,False,True,1
+625,5cc020d5159f790017bee28b,2115.26,2123.46,"it's like, it's, it's like, so my whole sense of time is at a minimum off by 10 minutes and frequently off by like two days.",-0.08999999999969077,8.199999999999818,0,False,True,29
+626,5f989fa02b5a611b2df1a305,2123.74,2123.9,And,0.27999999999974534,0.16000000000030923,0,False,False,1
+627,5cc020d5159f790017bee28b,2123.84,2124.35,So,-0.05999999999994543,0.5099999999997635,0,False,True,1
+628,5f989fa02b5a611b2df1a305,2123.9,2125.36,at least self aware.,-0.4499999999998181,1.4600000000000364,0,False,True,4
+629,5cc020d5159f790017bee28b,2125.74,2129.67,"oh, I'm very aware. It doesn't, it doesn't solve the problem.",0.3799999999996544,3.930000000000291,0,False,False,14
+630,5f989fa02b5a611b2df1a305,2129.64,2130.35,Yeah.,-0.03000000000020009,0.7100000000000364,0,False,True,1
+631,5cc020d5159f790017bee28b,2130.24,2138.75,"Um I mean, it solves the problem enough for me to uh like say to people, but you know me, you know, I'm always late. Why are you upset?",-0.11000000000012733,8.510000000000218,1,True,True,30
+632,5f989fa02b5a611b2df1a305,2139.04,2139.55,Mm,0.2899999999999636,0.5100000000002183,0,False,False,1
+633,5cc020d5159f790017bee28b,2139.44,2145.46,"But it doesn't do enough to help me actually stop doing it so well, when on that note,",-0.11000000000012733,6.019999999999982,0,False,True,19
+634,5f989fa02b5a611b2df1a305,2145.54,2146.47,"Shall we,",0.07999999999992724,0.9299999999998363,0,False,False,2
+635,5cc020d5159f790017bee28b,2146.94,2150.17,"shall we? Yes, very nice to meet you. And",0.47000000000025466,3.230000000000018,1,False,False,9
+636,5f989fa02b5a611b2df1a305,2149.44,2151.96,"There's no chance that he would get paired up again. Right,",-0.7300000000000182,2.519999999999982,0,False,True,12
+637,5cc020d5159f790017bee28b,2152.34,2157.0,"well, I'm, this is the last one I can do because this is actually my seventh. Um, No,",0.38000000000010914,4.6599999999998545,0,False,False,19
+638,5f989fa02b5a611b2df1a305,2156.64,2156.97,Okay.,-0.36000000000012733,0.32999999999992724,0,False,True,1
+639,5cc020d5159f790017bee28b,2157.0,2161.34,"they try to make sure they don't pay you up again as far as I know. So,",0.03000000000020009,4.3400000000001455,0,False,False,18
+640,5f989fa02b5a611b2df1a305,2161.04,2161.55,Okay.,-0.3000000000001819,0.5100000000002183,0,False,True,1
+641,5cc020d5159f790017bee28b,2161.35,2169.16,"um, but it's fun. There's, you know, interesting people all over the country and, you know, uh, more women than men. At least if my",-0.20000000000027285,7.809999999999945,0,False,True,27
+642,5f989fa02b5a611b2df1a305,2169.04,2169.46,"Yes,",-0.11999999999989086,0.42000000000007276,0,False,True,1
+643,5cc020d5159f790017bee28b,2169.17,2178.2,sample is correct because I think it's been six women and one man. So I don't know if that's the prolific pool or whatever.,-0.2899999999999636,9.029999999999745,0,False,True,27
+644,5f989fa02b5a611b2df1a305,2177.64,2178.36,I don't know.,-0.5599999999999454,0.7200000000002547,0,False,True,4
+645,5cc020d5159f790017bee28b,2178.84,2179.47,Um,0.4800000000000182,0.6299999999996544,0,False,False,1
+646,5f989fa02b5a611b2df1a305,2179.49,2180.26,"Well,",0.01999999999998181,0.7700000000004366,0,False,False,1
+647,5cc020d5159f790017bee28b,2180.14,2180.47,"Hi,",-0.12000000000034561,0.32999999999992724,0,False,True,1
+648,5f989fa02b5a611b2df1a305,2180.27,2180.48,I've,-0.1999999999998181,0.21000000000003638,0,False,True,2
+649,5cc020d5159f790017bee28b,2180.47,2180.86,will,-0.010000000000218279,0.3900000000003274,0,False,True,1
+650,5f989fa02b5a611b2df1a305,2180.48,2182.47,"been welcome to you Alan, thank you.",-0.38000000000010914,1.9899999999997817,0,False,True,7
+651,5cc020d5159f790017bee28b,2182.84,2183.69,thank you and,0.3700000000003456,0.849999999999909,0,False,False,3
+652,5f989fa02b5a611b2df1a305,2183.54,2183.74,I,-0.15000000000009095,0.1999999999998181,0,False,True,1
+653,5cc020d5159f790017bee28b,2183.69,2183.84,have,-0.04999999999972715,0.15000000000009095,0,False,True,1
+654,5f989fa02b5a611b2df1a305,2183.74,2184.0,like,-0.1000000000003638,0.2600000000002183,0,False,True,1
+655,5cc020d5159f790017bee28b,2183.84,2184.04,a good,-0.15999999999985448,0.1999999999998181,0,False,True,2
+656,5f989fa02b5a611b2df1a305,2184.0,2184.26,it.,-0.03999999999996362,0.2600000000002183,0,False,True,1
+657,5cc020d5159f790017bee28b,2184.04,2184.85,risk today.,-0.22000000000025466,0.8099999999999454,0,False,True,2
+658,5f989fa02b5a611b2df1a305,2184.74,2186.42,Your cubs hat represented,-0.11000000000012733,1.680000000000291,0,False,True,4
+659,5cc020d5159f790017bee28b,2186.14,2186.45,"Well,",-0.2800000000002001,0.30999999999994543,0,False,True,1
+660,5f989fa02b5a611b2df1a305,2186.42,2187.17,Chicago,-0.02999999999974534,0.75,0,False,True,1
+661,5cc020d5159f790017bee28b,2186.45,2201.26,"my cubs heck, it's really just hiding the fact that my hair is a disaster this morning because like everybody else, I have like covid hair and covid beard. And you know, I don't know, we're all going to look like uh, like cave dwellers when this is over",-0.7200000000002547,14.8100000000004,0,False,True,52
+662,5f989fa02b5a611b2df1a305,2201.54,2201.85,or,0.27999999999974534,0.30999999999994543,0,False,False,1
+663,5cc020d5159f790017bee28b,2201.84,2202.26,sound.,-0.009999999999763531,0.42000000000007276,0,False,True,1
+664,5f989fa02b5a611b2df1a305,2201.85,2204.86,"like the people from wally, yep.",-0.41000000000030923,3.0100000000002183,0,False,True,6
+665,5cc020d5159f790017bee28b,2204.44,2208.21,"Yeah, I love wally.",-0.42000000000007276,3.769999999999982,0,False,True,4
+666,5f989fa02b5a611b2df1a305,2207.84,2208.37,"Alright,",-0.36999999999989086,0.5299999999997453,0,False,True,1
+667,5cc020d5159f790017bee28b,2208.22,2208.5,I,-0.15000000000009095,0.2800000000002001,0,False,True,1
+668,5f989fa02b5a611b2df1a305,2208.37,2208.7,we won't,-0.13000000000010914,0.32999999999992724,0,False,True,3
+669,5cc020d5159f790017bee28b,2208.5,2208.9,love,-0.1999999999998181,0.40000000000009095,0,False,True,1
+670,5f989fa02b5a611b2df1a305,2208.7,2209.01,get into,-0.20000000000027285,0.3100000000004002,0,False,True,2
+671,5cc020d5159f790017bee28b,2208.91,2210.02,all,-0.1000000000003638,1.1100000000001273,0,False,True,1
+672,5f989fa02b5a611b2df1a305,2209.01,2210.06,that. Yes.,-1.0099999999997635,1.0499999999997272,0,False,True,2
+673,5cc020d5159f790017bee28b,2210.02,2211.46,right. Talk to you later.,-0.03999999999996362,1.4400000000000546,0,False,True,5
+674,5f989fa02b5a611b2df1a305,2211.54,2213.25,Okay. Thank you so much. Bye.,0.07999999999992724,1.7100000000000364,0,False,False,6

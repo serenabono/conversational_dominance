@@ -1,0 +1,371 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5defe76ec33cea000b6cb8e1,104.84,105.05,Mhm,,0.20999999999999375,0,False,False,1
+1,5dd6f563270f44688d3cd745,117.14,118.15,"Yeah,",12.090000000000003,1.0100000000000051,0,False,False,1
+2,5defe76ec33cea000b6cb8e1,120.74,121.46,"Oh no,",2.589999999999989,0.7199999999999989,0,False,False,2
+3,5dd6f563270f44688d3cd745,122.24,123.46,hi there.,0.7800000000000011,1.2199999999999989,0,False,False,2
+4,5defe76ec33cea000b6cb8e1,123.84,124.56,are you?,0.38000000000000966,0.7199999999999989,1,True,False,2
+5,5dd6f563270f44688d3cd745,124.34,127.46,Do you know? I'm good. Do you know what we're doing?,-0.21999999999999886,3.1199999999999903,2,True,True,13
+6,5defe76ec33cea000b6cb8e1,127.74,129.26,No idea.,0.28000000000000114,1.519999999999996,0,False,False,2
+7,5dd6f563270f44688d3cd745,129.84,131.74,Okay. I said,0.5800000000000125,1.9000000000000057,0,False,False,3
+8,5defe76ec33cea000b6cb8e1,131.44,131.95,The man?,-0.30000000000001137,0.5099999999999909,1,True,True,2
+9,5dd6f563270f44688d3cd745,131.74,140.26,"a time, so I set a timer on my phone so we'll know the time. But uh are we just supposed to chat about anything?",-0.20999999999997954,8.519999999999982,1,True,True,26
+10,5defe76ec33cea000b6cb8e1,141.14,147.46,"I guess so. I don't actually know, I guess it's supposed to be some sort of experiment. I'm going to confuse myself.",0.8799999999999955,6.320000000000022,0,False,False,25
+11,5dd6f563270f44688d3cd745,148.64,152.96,"Maybe that's what they're testing us for, is to see if we get confused.",1.1799999999999784,4.320000000000022,0,False,False,16
+12,5defe76ec33cea000b6cb8e1,153.64,160.56,"That's really, I'm not sure if that's weird, creepy or interesting or",0.6799999999999784,6.920000000000016,0,False,False,15
+13,5dd6f563270f44688d3cd745,160.94,161.54,Uh,0.37999999999999545,0.5999999999999943,0,False,False,1
+14,5defe76ec33cea000b6cb8e1,161.44,162.25,uh,-0.09999999999999432,0.8100000000000023,0,False,True,1
+15,5dd6f563270f44688d3cd745,161.55,171.95,"I've only done, I've only done prolific studies for a few weeks. So this is like my first one, like this. Have you done any videos before?",-0.6999999999999886,10.399999999999977,1,True,True,29
+16,5defe76ec33cea000b6cb8e1,172.84,180.36,"no, this is my first one. I've only been doing prolific for a few weeks myself, so this is my first real video testing.",0.8900000000000148,7.52000000000001,0,False,False,25
+17,5dd6f563270f44688d3cd745,182.34,186.58,"Well, we're both equal on this one man.",1.9799999999999898,4.240000000000009,0,False,False,9
+18,5defe76ec33cea000b6cb8e1,186.14,186.46,All right.,-0.44000000000002615,0.3200000000000216,0,False,True,2
+19,5dd6f563270f44688d3cd745,186.59,187.95,Um,0.12999999999999545,1.3599999999999852,0,False,False,1
+20,5defe76ec33cea000b6cb8e1,186.94,189.99,Uh huh. Is,-1.009999999999991,3.0500000000000114,0,False,True,3
+21,5dd6f563270f44688d3cd745,189.84,190.56,Yes.,-0.15000000000000568,0.7199999999999989,0,False,True,1
+22,5defe76ec33cea000b6cb8e1,189.99,191.66,there anything what it meant to talk about?,-0.5699999999999932,1.6699999999999875,1,True,True,8
+23,5dd6f563270f44688d3cd745,192.24,198.45,"Well, it sounds like you're from the United States and I am too. I'm like midwest. Where are you from?",0.5800000000000125,6.2099999999999795,1,True,False,22
+24,5defe76ec33cea000b6cb8e1,199.34,199.96,Midwest?,0.8900000000000148,0.6200000000000045,1,True,False,1
+25,5dd6f563270f44688d3cd745,200.84,208.06,"Really well, your accent and mind sound very similar. So yeah, I'm in",0.8799999999999955,7.219999999999999,0,False,False,14
+26,5defe76ec33cea000b6cb8e1,208.04,208.45,"Yeah,",-0.020000000000010232,0.4099999999999966,0,False,True,1
+27,5dd6f563270f44688d3cd745,208.06,208.86,Kansas.,-0.38999999999998636,0.8000000000000114,0,False,True,1
+28,5defe76ec33cea000b6cb8e1,210.94,212.05,"I'm in Wisconsin,",2.079999999999984,1.1100000000000136,0,False,False,4
+29,5dd6f563270f44688d3cd745,212.64,216.11,Really? I was born in Wisconsin. My sister,0.589999999999975,3.4700000000000273,1,False,False,8
+30,5defe76ec33cea000b6cb8e1,216.04,216.4,don't,-0.0700000000000216,0.36000000000001364,0,False,True,2
+31,5dd6f563270f44688d3cd745,216.11,216.5,lives in,-0.28999999999999204,0.38999999999998636,0,False,True,2
+32,5defe76ec33cea000b6cb8e1,216.4,216.85,worry.,-0.09999999999999432,0.44999999999998863,0,False,True,1
+33,5dd6f563270f44688d3cd745,216.5,221.95,Milwaukee. My sister lives in Madison. I was born in WA saw.,-0.3499999999999943,5.449999999999989,0,False,True,12
+34,5defe76ec33cea000b6cb8e1,223.24,229.66,"Oh, wow. Yeah, that's interesting. No, I'm from Milwaukee myself. I live in a kind of walk now, but I was actually born in walking.",1.2900000000000205,6.4199999999999875,0,False,False,27
+35,5dd6f563270f44688d3cd745,230.44,241.08,"Okay. My dad, my dad and his family are from Shoot like New London and WAPA ca. Any of those familiar?",0.7800000000000011,10.640000000000015,1,True,False,21
+36,5defe76ec33cea000b6cb8e1,240.34,240.75,"Yeah,",-0.7400000000000091,0.4099999999999966,0,False,True,1
+37,5dd6f563270f44688d3cd745,241.09,242.05,"Yeah,",0.3400000000000034,0.960000000000008,0,False,False,1
+38,5defe76ec33cea000b6cb8e1,241.84,243.36,all those are familiar area.,-0.21000000000000796,1.5200000000000102,0,False,True,5
+39,5dd6f563270f44688d3cd745,244.34,255.41,"We've got a farm, it's right outside Ogdensburg, but most people don't know Ogdensburg. I think there's like 300 people there or something. Yeah.",0.9799999999999898,11.069999999999993,0,False,False,28
+40,5defe76ec33cea000b6cb8e1,253.94,254.96,No idea.,-1.4699999999999989,1.0200000000000102,0,False,True,2
+41,5dd6f563270f44688d3cd745,255.42,256.36,Yeah.,0.45999999999997954,0.9400000000000261,0,False,False,1
+42,5defe76ec33cea000b6cb8e1,255.44,256.54,Uh huh,-0.9200000000000159,1.1000000000000227,0,False,True,2
+43,5dd6f563270f44688d3cd745,256.84,264.26,"That's where I always wanted to go when, when I like retire and just go somewhere. Because I love Wisconsin",0.2999999999999545,7.420000000000016,0,False,False,21
+44,5defe76ec33cea000b6cb8e1,265.24,266.41,"Yeah, it's really nice.",0.9800000000000182,1.170000000000016,0,False,False,5
+45,5dd6f563270f44688d3cd745,266.04,267.06,country.,-0.37000000000000455,1.0199999999999818,0,False,True,1
+46,5defe76ec33cea000b6cb8e1,266.42,268.96,"You know, how long has it been since you've been here?",-0.6399999999999864,2.5399999999999636,1,True,True,12
+47,5dd6f563270f44688d3cd745,269.64,281.05,"Well I was just there last last year to visit my sister, but I haven't been there for more than just, you know, a few days at a time in a long time. But",0.6800000000000068,11.410000000000025,0,False,False,35
+48,5defe76ec33cea000b6cb8e1,281.64,282.15,Right.,0.589999999999975,0.5099999999999909,0,False,False,1
+49,5dd6f563270f44688d3cd745,282.44,283.33,"yeah, we",0.29000000000002046,0.8899999999999864,0,False,False,2
+50,5defe76ec33cea000b6cb8e1,283.24,283.56,It's,-0.08999999999997499,0.3199999999999932,0,False,True,2
+51,5dd6f563270f44688d3cd745,283.33,283.69,went,-0.2300000000000182,0.36000000000001364,0,False,True,1
+52,5defe76ec33cea000b6cb8e1,283.56,283.85,cool,-0.12999999999999545,0.29000000000002046,0,False,True,1
+53,5dd6f563270f44688d3cd745,283.69,284.55,"to,",-0.160000000000025,0.8600000000000136,0,False,True,1
+54,5defe76ec33cea000b6cb8e1,283.85,285.66,to talk to a fellow Wisconsinite,-0.6999999999999886,1.8100000000000023,0,False,True,6
+55,5dd6f563270f44688d3cd745,286.04,304.06,"yeah, we're about to be moving back north to north Dakota. So we'll be going to like the twin cities a lot. But you know, usually now my sister will drive like to the twin cities and then I'll drive there. And that way neither of us has to spend a whole day traveling, you know,",0.37999999999999545,18.019999999999982,0,False,False,59
+56,5defe76ec33cea000b6cb8e1,305.14,308.46,understandable. Is that have you been translated a lot,1.079999999999984,3.319999999999993,0,False,False,9
+57,5dd6f563270f44688d3cd745,309.74,322.16,"Not a lot. No. I have a nephew who lives in Minneapolis. Well he lives in um, Apple Valley. Is that the name of the city? The one where the mall of America is",1.2800000000000296,12.420000000000016,1,False,False,34
+58,5defe76ec33cea000b6cb8e1,322.74,323.76,bloomington?,0.5799999999999841,1.0199999999999818,1,True,False,1
+59,5dd6f563270f44688d3cd745,322.84,341.26,"and bloomington. Thank you. And then, so he's got two Children and their my dad's great grandchildren and his only two great grandchildren. So when I visit my dad we go to visit them and that's why we end up, you know in the, in the area.",-0.9200000000000159,18.420000000000016,0,False,True,50
+60,5defe76ec33cea000b6cb8e1,342.64,342.87,That's,1.3799999999999955,0.2300000000000182,0,False,False,2
+61,5dd6f563270f44688d3cd745,342.74,343.54,Uh huh.,-0.12999999999999545,0.8000000000000114,0,False,True,2
+62,5defe76ec33cea000b6cb8e1,342.87,351.85,"cool. I got, my little brother lives in Minneapolis. I was actually just up there on christmas to visit him. He lives in Lindale, which is I think north of Minneapolis.",-0.6700000000000159,8.980000000000018,0,False,True,31
+63,5dd6f563270f44688d3cd745,353.04,364.86,"I think, I think that's where my nephew, um what would he be? My like my grand nephew plays hockey. He's about seven or eight and they, you know,",1.1899999999999977,11.819999999999993,1,False,False,31
+64,5defe76ec33cea000b6cb8e1,364.94,365.26,Uh huh.,0.07999999999998408,0.3199999999999932,0,False,False,2
+65,5dd6f563270f44688d3cd745,365.54,369.2,"well you know the north, he started playing hockey when he was like",0.28000000000002956,3.659999999999968,0,False,False,13
+66,5defe76ec33cea000b6cb8e1,369.04,369.45,Yeah.,-0.15999999999996817,0.40999999999996817,0,False,True,1
+67,5dd6f563270f44688d3cd745,369.2,372.95,"threes. Yeah,",-0.25,3.75,0,False,True,2
+68,5defe76ec33cea000b6cb8e1,371.74,373.44,Yeah.,-1.2099999999999795,1.6999999999999886,0,False,True,1
+69,5dd6f563270f44688d3cd745,373.44,379.71,"this, this year was the first year he got to specialize he's a goalie now. And",0.0,6.269999999999982,0,False,False,17
+70,5defe76ec33cea000b6cb8e1,379.54,380.12,Good,-0.16999999999995907,0.5799999999999841,0,False,True,1
+71,5dd6f563270f44688d3cd745,379.71,381.01,so,-0.410000000000025,1.3000000000000114,0,False,True,1
+72,5defe76ec33cea000b6cb8e1,380.12,380.65,for him.,-0.8899999999999864,0.5299999999999727,0,False,True,2
+73,5dd6f563270f44688d3cd745,381.02,392.66,"yeah, he's excited. We joke because we say goalies don't have to know how to skate and he gets so mad and it's like, well we don't have to skate if you're a goalie. Mm",0.37000000000000455,11.640000000000043,0,False,False,40
+74,5defe76ec33cea000b6cb8e1,392.44,394.99,Yeah.,-0.22000000000002728,2.5500000000000114,0,False,True,1
+75,5dd6f563270f44688d3cd745,393.24,394.96,"okay. Um,",-1.75,1.7199999999999704,0,False,True,2
+76,5defe76ec33cea000b6cb8e1,395.0,397.04,That's funny. How's,0.040000000000020464,2.0400000000000205,0,False,False,5
+77,5dd6f563270f44688d3cd745,396.74,398.36,"it will,",-0.30000000000001137,1.6200000000000045,0,False,True,2
+78,5defe76ec33cea000b6cb8e1,397.04,398.66,Kansas? I've never been to Kansas.,-1.3199999999999932,1.6200000000000045,1,False,True,7
+79,5dd6f563270f44688d3cd745,399.44,400.67,you're lucky.,0.7799999999999727,1.2300000000000182,0,False,False,3
+80,5defe76ec33cea000b6cb8e1,401.54,402.36,"Oh,",0.8700000000000045,0.8199999999999932,0,False,False,1
+81,5dd6f563270f44688d3cd745,401.84,425.86,"Mm No, it's it's not a bad state. You know, I love the middle of the country because we're just kind of more conservative and slow and friendly. The further out you get to the east and the west kind of get more of a rush and I don't know, it just seems nice in the midwest, you know?",-0.5200000000000387,24.02000000000004,1,True,True,63
+82,5defe76ec33cea000b6cb8e1,427.04,430.05,"you prefer the slow quiet, relax?",1.1800000000000068,3.009999999999991,1,True,False,6
+83,5dd6f563270f44688d3cd745,429.64,429.85,Mhm.,-0.410000000000025,0.21000000000003638,0,False,True,1
+84,5defe76ec33cea000b6cb8e1,430.05,430.32,Not,0.19999999999998863,0.2699999999999818,0,False,False,1
+85,5dd6f563270f44688d3cd745,430.24,430.37,All,-0.07999999999998408,0.12999999999999545,0,False,True,1
+86,5defe76ec33cea000b6cb8e1,430.32,430.47,so,-0.05000000000001137,0.1500000000000341,0,False,True,1
+87,5dd6f563270f44688d3cd745,430.37,430.66,right.,-0.10000000000002274,0.29000000000002046,0,False,True,1
+88,5defe76ec33cea000b6cb8e1,430.48,430.96,quick.,-0.18000000000000682,0.47999999999996135,0,False,True,1
+89,5dd6f563270f44688d3cd745,432.04,456.36,"It's what I grew up with. It's what I'm comfortable with, but I like city to, you know, I guess, um, there was a familiar and then there's the fun. So I like going to visit where there's more activity and you know, more pressure maybe. But I like to be able to come home to relaxing calm.",1.080000000000041,24.319999999999993,0,False,False,63
+90,5defe76ec33cea000b6cb8e1,458.44,459.72,Yeah. When I went,2.079999999999984,1.2800000000000296,0,False,False,4
+91,5dd6f563270f44688d3cd745,459.44,460.25,Yeah.,-0.28000000000002956,0.8100000000000023,0,False,True,1
+92,5defe76ec33cea000b6cb8e1,459.72,462.1,"out in florida, I liked visiting forward.",-0.5299999999999727,2.3799999999999955,0,False,True,7
+93,5dd6f563270f44688d3cd745,461.94,462.14,Yeah.,-0.160000000000025,0.19999999999998863,0,False,True,1
+94,5defe76ec33cea000b6cb8e1,462.1,472.96,"It was really adorable. East coast to, but there's something about the midwest that is just different than the rest of the country that you just get used to when you're from here.",-0.03999999999996362,10.859999999999957,0,False,True,35
+95,5dd6f563270f44688d3cd745,473.84,474.46,Right.,0.8799999999999955,0.6200000000000045,0,False,False,1
+96,5defe76ec33cea000b6cb8e1,474.04,474.46,"No,",-0.4199999999999591,0.4199999999999591,0,False,True,1
+97,5dd6f563270f44688d3cd745,475.24,478.15,"So you're in Milwaukee, What do you do?",0.7800000000000296,2.909999999999968,1,True,False,9
+98,5defe76ec33cea000b6cb8e1,479.44,481.86,I work in it. I am a Nike support.,1.2900000000000205,2.420000000000016,0,False,False,9
+99,5dd6f563270f44688d3cd745,481.34,485.36,Yes wow. Do you get to work from home then,-0.5200000000000387,4.020000000000039,0,False,True,10
+100,5defe76ec33cea000b6cb8e1,486.04,486.36,I,0.6800000000000068,0.3199999999999932,0,False,False,1
+101,5dd6f563270f44688d3cd745,486.14,486.43,or do,-0.22000000000002728,0.29000000000002046,0,False,True,2
+102,5defe76ec33cea000b6cb8e1,486.36,486.85,do,-0.06999999999999318,0.4900000000000091,0,False,True,1
+103,5dd6f563270f44688d3cd745,486.43,495.56,you have an office need I work I work from home to with computers but I just do captioning. I don't,-0.4200000000000159,9.129999999999995,0,False,True,22
+104,5defe76ec33cea000b6cb8e1,495.14,496.46,of transcribing.,-0.4200000000000159,1.3199999999999932,0,False,True,2
+105,5dd6f563270f44688d3cd745,495.57,497.36,I don't know any of the technical,-0.8899999999999864,1.7900000000000205,0,False,True,8
+106,5defe76ec33cea000b6cb8e1,499.94,501.95,"Uh, do you do transcription stuff?",2.579999999999984,2.009999999999991,1,True,False,6
+107,5dd6f563270f44688d3cd745,502.74,511.96,um I started doing transcriptions but then I went to captioning and I prefer captioning to transcription but but,0.7900000000000205,9.21999999999997,0,False,False,19
+108,5defe76ec33cea000b6cb8e1,511.84,512.16,It's,-0.12000000000000455,0.3199999999999932,0,False,True,2
+109,5dd6f563270f44688d3cd745,511.96,514.86,I do that. The other. Yeah.,-0.19999999999998863,2.900000000000034,0,False,True,6
+110,5defe76ec33cea000b6cb8e1,515.54,516.16,okay.,0.67999999999995,0.6200000000000045,0,False,False,1
+111,5dd6f563270f44688d3cd745,515.74,516.06,Mm,-0.4199999999999591,0.31999999999993634,0,False,True,1
+112,5defe76ec33cea000b6cb8e1,516.17,516.86,What's That wasn't,0.11000000000001364,0.6900000000000546,0,False,False,5
+113,5dd6f563270f44688d3cd745,516.74,516.94,Yeah,-0.12000000000000455,0.20000000000004547,0,False,True,1
+114,5defe76ec33cea000b6cb8e1,516.86,517.46,really too,-0.08000000000004093,0.6000000000000227,0,False,True,2
+115,5dd6f563270f44688d3cd745,518.14,532.15,transcription is like in paragraph form like you'd read captioning is when you attach it to the video. So like if you're watching a movie or tv or video and it appears up on the screen as you're watching.,0.67999999999995,14.009999999999991,0,False,False,42
+116,5defe76ec33cea000b6cb8e1,533.84,539.96,okay. So I assume that's just probably a lot easier and more workload wise. And we can kinda enjoy the video a little better.,1.6900000000000546,6.1200000000000045,0,False,False,25
+117,5dd6f563270f44688d3cd745,541.34,568.16,"Yeah the transcription. To me there's something about putting it in written word. I want it to be perfect but in transcription you're still recording what a person said so it's not going to be perfect and that just kind of bothers me. Whereas when you're doing captioning, it's still what a person is saying, so it doesn't bother me, but it's not all perfect, you know?",1.3799999999999955,26.819999999999936,1,True,False,74
+118,5defe76ec33cea000b6cb8e1,569.74,570.85,You can guide corrected,1.580000000000041,1.1100000000000136,0,False,False,4
+119,5dd6f563270f44688d3cd745,570.44,570.64,"Yeah,",-0.40999999999996817,0.1999999999999318,0,False,True,1
+120,5defe76ec33cea000b6cb8e1,570.86,572.56,for them and make it a little bit better.,0.22000000000002728,1.6999999999999318,0,False,False,9
+121,5dd6f563270f44688d3cd745,573.24,575.76,"no, we can't, that's that's",0.6800000000000637,2.519999999999982,0,False,False,8
+122,5defe76ec33cea000b6cb8e1,575.64,576.06,"Right,",-0.12000000000000455,0.4199999999999591,0,False,True,1
+123,5dd6f563270f44688d3cd745,575.76,612.66,"the hardest part to it. What a person says is their work and they're paying us to record their work not to edit it or correct it, you know, that would be a proof reader, but that's not what we do. So we're stuck with what they say, even if we know it's wrong, we're stuck with what they say. It's hard in that respect because well, like today I was doing some things and I know what the person was saying was wrong, but I I can't fix it, that's not my job, you know?",-0.2999999999999545,36.89999999999998,1,True,True,104
+124,5defe76ec33cea000b6cb8e1,614.44,622.96,"Right. Your job is to tell that what has said not, you know, correct them or insert your opinion. I mean it's gonna be difficult",1.7800000000000864,8.519999999999982,0,False,False,27
+125,5dd6f563270f44688d3cd745,622.64,623.06,Right.,-0.32000000000005,0.4199999999999591,0,False,True,1
+126,5defe76ec33cea000b6cb8e1,623.44,629.55,"when you just know they're way off base. So you know, it's something I don't personally agree with. Gotta do what",0.38000000000010914,6.1099999999999,0,False,False,25
+127,5dd6f563270f44688d3cd745,629.44,630.16,Right.,-0.10999999999989996,0.7199999999999136,0,False,True,1
+128,5defe76ec33cea000b6cb8e1,629.56,630.05,I do,-0.6000000000000227,0.4900000000000091,0,False,True,2
+129,5dd6f563270f44688d3cd745,630.74,632.15,Right. Exactly.,0.6900000000000546,1.4099999999999682,0,False,False,2
+130,5defe76ec33cea000b6cb8e1,634.34,656.76,"kind of the same way with. I think interestingly enough um My job with the idea is to give customers what they want even when I know personally that it's not what they should be doing, but they pay for it. They know what they want, got to give it to him and then three months later when it doesn't work, you have to talk to him again and say, okay, this is what you should do.",2.1900000000000546,22.41999999999996,0,False,False,79
+131,5dd6f563270f44688d3cd745,657.64,667.36,Right. Right. So what kind of stuff do you do web design or do you do the actual coding? I'm just really curious,0.8799999999999955,9.720000000000027,1,False,False,24
+132,5defe76ec33cea000b6cb8e1,666.74,691.45,"Mhm. I studied programming. Um I actually went Democracy engineering first Programming, but as I've gotten in my career I've transitioned to more network administration, server, administration, you know, general support. It is more networking and servers and cloud based",-0.6200000000000045,24.710000000000036,0,False,True,42
+133,5dd6f563270f44688d3cd745,691.24,691.45,mm.,-0.21000000000003638,0.21000000000003638,0,False,True,1
+134,5defe76ec33cea000b6cb8e1,691.45,692.65,stuff now,0.0,1.1999999999999318,0,False,False,2
+135,5dd6f563270f44688d3cd745,693.54,694.25,Yeah.,0.8899999999999864,0.7100000000000364,0,False,False,1
+136,5defe76ec33cea000b6cb8e1,696.34,700.77,it's not particularly interesting unless you're you're into it but,2.090000000000032,4.42999999999995,0,False,False,13
+137,5dd6f563270f44688d3cd745,700.54,700.8,Thank,-0.2300000000000182,0.2599999999999909,0,False,True,1
+138,5defe76ec33cea000b6cb8e1,700.78,700.93,you,-0.01999999999998181,0.14999999999997726,0,False,True,1
+139,5dd6f563270f44688d3cd745,700.81,700.86,you.,-0.12000000000000455,0.05000000000006821,0,False,True,1
+140,5defe76ec33cea000b6cb8e1,700.93,701.82,know it is,0.06999999999993634,0.8900000000001,0,False,False,3
+141,5dd6f563270f44688d3cd745,701.74,702.15,Yeah,-0.08000000000004093,0.40999999999996817,0,False,True,1
+142,5defe76ec33cea000b6cb8e1,701.82,702.36,"what it is,",-0.32999999999992724,0.5399999999999636,0,False,True,3
+143,5dd6f563270f44688d3cd745,703.14,723.36,it's interesting to me but I'm not familiar with it so it kind of goes over my head And I would love to hear like about what you do but I'm sure that in about 30 seconds it would be so much that I'm not familiar with that I would be confused.,0.7799999999999727,20.220000000000027,0,False,False,56
+144,5defe76ec33cea000b6cb8e1,724.94,731.86,"you know, interestingly enough you think so but not really because you probably know what outlook is right",1.580000000000041,6.919999999999959,0,False,False,18
+145,5dd6f563270f44688d3cd745,732.24,732.86,Yeah.,0.37999999999999545,0.6200000000000045,0,False,False,1
+146,5defe76ec33cea000b6cb8e1,733.84,737.46,And you know what like one Drive and Google driver,0.9800000000000182,3.6200000000000045,0,False,False,10
+147,5dd6f563270f44688d3cd745,737.94,739.26,Yeah a little,0.4800000000000182,1.3199999999999363,0,False,False,3
+148,5defe76ec33cea000b6cb8e1,740.24,741.86,a little bit you've heard of them. Right.,0.9800000000000182,1.6200000000000045,0,False,False,9
+149,5dd6f563270f44688d3cd745,742.04,743.66,right definitely.,0.17999999999994998,1.6200000000000045,0,False,False,2
+150,5defe76ec33cea000b6cb8e1,744.64,761.26,So it's all concepts that people are using now just Either one in a business at a business level or supporting the personal level. It is still based on people and what people do.,0.9800000000000182,16.620000000000005,0,False,False,35
+151,5dd6f563270f44688d3cd745,761.94,762.45,Right.,0.6800000000000637,0.5099999999999909,0,False,False,1
+152,5defe76ec33cea000b6cb8e1,762.24,774.26,"So even though even though I know a lot of these bands concepts, most of what I do is supporting what people want to do their email across the web, get their work done",-0.21000000000003638,12.019999999999982,0,False,True,34
+153,5dd6f563270f44688d3cd745,774.54,775.25,Yeah.,0.2799999999999727,0.7100000000000364,0,False,False,1
+154,5defe76ec33cea000b6cb8e1,774.84,778.26,and have it all work. So that's a pity.,-0.40999999999996817,3.419999999999959,0,False,True,10
+155,5dd6f563270f44688d3cd745,779.04,792.96,Yeah. Well that sounds exciting. I mean it really does to me because I work with computers a lot but I don't understand how they work and I like to know how things work if I rely on them.,0.7799999999999727,13.920000000000073,0,False,False,40
+156,5defe76ec33cea000b6cb8e1,794.94,795.67,Sure.,1.9800000000000182,0.7299999999999045,0,False,False,1
+157,5dd6f563270f44688d3cd745,795.64,795.84,Yeah.,-0.029999999999972715,0.20000000000004547,0,False,True,1
+158,5defe76ec33cea000b6cb8e1,795.68,810.06,Um One advanced computers and technology versus other fields. Is that a lot of information you need to know or could no is like readily available. It's just knowing where to look. It's difficult.,-0.16000000000008185,14.379999999999995,0,False,True,36
+159,5dd6f563270f44688d3cd745,809.64,810.45,Right.,-0.4199999999999591,0.8100000000000591,0,False,True,1
+160,5defe76ec33cea000b6cb8e1,811.84,813.06,But,1.3899999999999864,1.2199999999999136,0,False,False,1
+161,5dd6f563270f44688d3cd745,811.94,812.44,Yeah.,-1.1199999999998909,0.5,0,False,True,1
+162,5defe76ec33cea000b6cb8e1,813.44,822.15,once you get started you can't find the right course and eventually teach yourself. You may have to become a wizard guru if you don't want to. But,1.0,8.709999999999923,0,False,False,30
+163,5dd6f563270f44688d3cd745,822.04,822.45,Yeah.,-0.11000000000001364,0.41000000000008185,0,False,True,1
+164,5defe76ec33cea000b6cb8e1,822.15,830.39,you can listen into space and you know understand. Especially since you do a lot of yeah you do captioning. Your,-0.3000000000000682,8.240000000000009,0,False,True,21
+165,5dd6f563270f44688d3cd745,829.94,830.45,Right.,-0.4499999999999318,0.5099999999999909,0,False,True,1
+166,5defe76ec33cea000b6cb8e1,830.39,836.72,system has been able to handle audio and you know immediate abilities. So you probably,-0.06000000000005912,6.330000000000041,0,False,True,15
+167,5dd6f563270f44688d3cd745,836.44,836.86,Right.,-0.2799999999999727,0.4199999999999591,0,False,True,1
+168,5defe76ec33cea000b6cb8e1,836.72,844.56,"want us the computer that can handle that. Whether so your your video, your body of loads quicker. You get done",-0.13999999999998636,7.839999999999918,0,False,True,21
+169,5dd6f563270f44688d3cd745,844.54,844.96,Right.,-0.01999999999998181,0.42000000000007276,0,False,True,1
+170,5defe76ec33cea000b6cb8e1,844.56,849.46,quicker. You'll be more right. That's that's more you learn.,-0.40000000000009095,4.900000000000091,0,False,True,13
+171,5dd6f563270f44688d3cd745,850.44,859.36,Right. Well that's good. So my dog just walked over. Do you have any pets? Mm,0.9800000000000182,8.919999999999959,1,False,False,17
+172,5defe76ec33cea000b6cb8e1,859.14,860.71,I don't I want,-0.22000000000002728,1.57000000000005,0,False,True,5
+173,5dd6f563270f44688d3cd745,860.54,860.73,You,-0.17000000000007276,0.19000000000005457,0,False,True,1
+174,5defe76ec33cea000b6cb8e1,860.71,860.76,a,-0.01999999999998181,0.049999999999954525,0,False,True,1
+175,5dd6f563270f44688d3cd745,860.73,861.05,don't,-0.029999999999972715,0.31999999999993634,0,False,True,2
+176,5defe76ec33cea000b6cb8e1,860.76,861.26,cat.,-0.2899999999999636,0.5,0,False,True,1
+177,5dd6f563270f44688d3cd745,861.94,896.46,"you? Uh We had a cat but he kept biting us. We tried for a whole year. And finally my son my son is an adult and we live in the apartment here together. But he just said mom I have to give the cat back, he won't stop biting. But anyway I had a cat growing up and love cats but this one was just I don't know he was a great cat but he'd get in the mood and he just wanted to bite. But anyway I've got my dogs so",0.6800000000000637,34.51999999999998,1,False,False,97
+178,5defe76ec33cea000b6cb8e1,897.54,898.46,What kind of drug?,1.0799999999999272,0.9200000000000728,1,True,False,4
+179,5dd6f563270f44688d3cd745,899.19,901.06,he's a little shit. So you want to meet her?,0.7300000000000182,1.8699999999998909,1,True,False,11
+180,5defe76ec33cea000b6cb8e1,901.94,902.56,Sure.,0.8800000000001091,0.6199999999998909,0,False,False,1
+181,5dd6f563270f44688d3cd745,902.74,907.05,Hey? Okay you're here. Mhm.,0.18000000000006366,4.309999999999945,1,False,False,6
+182,5defe76ec33cea000b6cb8e1,907.44,907.82,All,0.39000000000010004,0.37999999999999545,0,False,False,1
+183,5dd6f563270f44688d3cd745,907.79,908.74,Look,-0.030000000000086402,0.9500000000000455,0,False,True,1
+184,5defe76ec33cea000b6cb8e1,907.82,908.36,right. Thank you.,-0.9199999999999591,0.5399999999999636,0,False,True,3
+185,5dd6f563270f44688d3cd745,908.74,909.89,"at him, look",0.37999999999999545,1.1499999999999773,0,False,False,3
+186,5defe76ec33cea000b6cb8e1,909.44,910.84,Uh huh.,-0.4499999999999318,1.3999999999999773,0,False,True,2
+187,5dd6f563270f44688d3cd745,909.9,925.06,at high. Yeah she got her stuffed animal that she chews on and she's just sitting here with her baby pretending I guess to be a good mommy. But,-0.9400000000000546,15.159999999999968,0,False,True,30
+188,5defe76ec33cea000b6cb8e1,923.44,924.36,Good for her.,-1.6199999999998909,0.9199999999999591,0,False,True,3
+189,5dd6f563270f44688d3cd745,925.07,926.15,yeah,0.7100000000000364,1.0799999999999272,0,False,False,1
+190,5defe76ec33cea000b6cb8e1,925.14,925.43,Oh,-1.009999999999991,0.2899999999999636,0,False,True,1
+191,5dd6f563270f44688d3cd745,926.74,927.85,She was about eight.,1.3100000000000591,1.1100000000000136,0,False,False,4
+192,5defe76ec33cea000b6cb8e1,929.04,929.64,so,1.1899999999999409,0.6000000000000227,0,False,False,1
+193,5dd6f563270f44688d3cd745,929.44,929.67,She,-0.1999999999999318,0.2299999999999045,0,False,True,1
+194,5defe76ec33cea000b6cb8e1,929.64,929.93,about,-0.029999999999972715,0.2899999999999636,0,False,True,1
+195,5dd6f563270f44688d3cd745,929.67,929.92,is,-0.2599999999999909,0.25,0,False,True,1
+196,5defe76ec33cea000b6cb8e1,929.93,930.32,halfway,0.009999999999990905,0.39000000000010004,0,False,False,1
+197,5dd6f563270f44688d3cd745,929.93,930.76,her name.,-0.39000000000010004,0.8300000000000409,0,False,True,2
+198,5defe76ec33cea000b6cb8e1,930.32,930.75,there?,-0.4399999999999409,0.42999999999995,1,True,True,1
+199,5dd6f563270f44688d3cd745,931.44,951.96,"Yeah her name is little one because when I got her I told my kids who were adults at the time they could name this dog. So I wasn't going to give her a name and they came up with really stupid names. And after about three weeks she was the smallest one we had. So she was the little one, you know",0.6900000000000546,20.519999999999982,0,False,False,64
+200,5defe76ec33cea000b6cb8e1,952.04,952.24,Yeah.,0.07999999999992724,0.20000000000004547,0,False,False,1
+201,5dd6f563270f44688d3cd745,952.44,953.02,after about,0.20000000000004547,0.5799999999999272,0,False,False,2
+202,5defe76ec33cea000b6cb8e1,952.84,954.06,Yeah.,-0.17999999999994998,1.2199999999999136,0,False,True,1
+203,5dd6f563270f44688d3cd745,953.02,957.15,three weeks it was too late to name her. So.,-1.0399999999999636,4.1299999999999955,0,False,True,10
+204,5defe76ec33cea000b6cb8e1,956.94,957.56,Well,-0.2099999999999227,0.6199999999998909,0,False,True,1
+205,5dd6f563270f44688d3cd745,957.54,984.7,"Uh huh. Yeah. But that's one of the reasons that I wanted to move to Wisconsin to the farm was so that I could have more animals you know and and people in Wisconsin I mean I know cities to and it shouldn't lump all people together but there is more, it seems there is more animal. I don't know.",-0.01999999999998181,27.160000000000082,0,False,True,63
+206,5defe76ec33cea000b6cb8e1,984.44,985.25,"anniversary,",-0.2599999999999909,0.8099999999999454,0,False,True,1
+207,5dd6f563270f44688d3cd745,984.71,1017.36,"Yeah. Yeah. All my friends who live there have horses and cows and pigs and we used to have ducks to every summer my grandma would would, I don't know how many eggs should have and they'd hatch and I would go to visit and the ducks would just follow me around and it was so fun and I think that's where I got the love of animals and why I want to go back to the farm probably. But you know someday.",-0.5399999999999636,32.64999999999998,0,False,True,86
+208,5defe76ec33cea000b6cb8e1,1018.34,1019.17,yeah someday,0.9800000000000182,0.8299999999999272,0,False,False,2
+209,5dd6f563270f44688d3cd745,1018.94,1021.75,Yeah.,-0.2299999999999045,2.8099999999999454,0,False,True,1
+210,5defe76ec33cea000b6cb8e1,1019.17,1021.27,"when you can get Kansas,",-2.580000000000041,2.1000000000000227,0,False,True,5
+211,5dd6f563270f44688d3cd745,1022.34,1022.97,Party.,1.07000000000005,0.6299999999999955,0,False,False,1
+212,5defe76ec33cea000b6cb8e1,1024.04,1024.72,I got something when,1.0699999999999363,0.6800000000000637,0,False,False,4
+213,5dd6f563270f44688d3cd745,1024.64,1024.84,Yeah.,-0.07999999999992724,0.1999999999998181,0,False,True,1
+214,5defe76ec33cea000b6cb8e1,1024.72,1026.05,"you get to skate Kansas,",-0.11999999999989086,1.3299999999999272,0,False,True,5
+215,5dd6f563270f44688d3cd745,1027.04,1037.17,Yeah. Yeah. Well we're moving in just two months but we're only moving straight north. We're not moving north and east so. But,0.9900000000000091,10.13000000000011,0,False,False,26
+216,5defe76ec33cea000b6cb8e1,1037.44,1038.32,Have you been in north,0.2699999999999818,0.8799999999998818,0,False,False,5
+217,5dd6f563270f44688d3cd745,1038.24,1039.67,okay.,-0.07999999999992724,1.4300000000000637,0,False,True,1
+218,5defe76ec33cea000b6cb8e1,1038.32,1039.17,Dakota before?,-1.3500000000001364,0.8500000000001364,1,True,True,2
+219,5dd6f563270f44688d3cd745,1040.14,1046.52,"Well that's, I was born in Wisconsin but raised in North Dakota and so",0.9700000000000273,6.379999999999882,0,False,False,15
+220,5defe76ec33cea000b6cb8e1,1046.24,1046.56,Oh,-0.2799999999999727,0.31999999999993634,0,False,True,1
+221,5dd6f563270f44688d3cd745,1046.52,1060.14,"we left there about, I left there about 30 years ago but my dad is there, he's 84 now so he's pretty sick. We're moving up so that I'll be with him to help take care of him for however",-0.03999999999996362,13.620000000000118,0,False,True,44
+222,5defe76ec33cea000b6cb8e1,1060.14,1060.35,right.,0.0,0.209999999999809,0,False,False,1
+223,5dd6f563270f44688d3cd745,1060.14,1069.41,"long he's got left and but it's returning home, it's where I graduated from high school and college and all that. So, so I know what we're getting",-0.209999999999809,9.269999999999982,0,False,True,32
+224,5defe76ec33cea000b6cb8e1,1069.34,1069.75,Yeah.,-0.07000000000016371,0.41000000000008185,0,False,True,1
+225,5dd6f563270f44688d3cd745,1069.41,1074.67,"into, we know the weather, we know the flooding,",-0.33999999999991815,5.259999999999991,0,False,True,9
+226,5defe76ec33cea000b6cb8e1,1075.64,1076.35,Yeah.,0.9700000000000273,0.709999999999809,0,False,False,1
+227,5dd6f563270f44688d3cd745,1075.74,1076.76,but,-0.6099999999999,1.0199999999999818,0,False,True,1
+228,5defe76ec33cea000b6cb8e1,1076.74,1078.66,Did you go to university and dr cole again?,-0.01999999999998181,1.9200000000000728,1,True,True,9
+229,5dd6f563270f44688d3cd745,1079.44,1081.55,"yep, I went to the University",0.7799999999999727,2.1099999999999,0,False,False,6
+230,5defe76ec33cea000b6cb8e1,1081.44,1081.86,Right,-0.10999999999989996,0.4199999999998454,0,False,True,1
+231,5dd6f563270f44688d3cd745,1081.55,1087.76,of North Dakota in back in the 80s. So it was a long time ago. Yeah.,-0.30999999999994543,6.210000000000036,0,False,True,16
+232,5defe76ec33cea000b6cb8e1,1087.84,1088.26,wow.,0.07999999999992724,0.42000000000007276,0,False,False,1
+233,5dd6f563270f44688d3cd745,1089.34,1089.81,Back,1.0799999999999272,0.4700000000000273,0,False,False,1
+234,5defe76ec33cea000b6cb8e1,1089.74,1090.22,Well,-0.06999999999993634,0.4800000000000182,0,False,True,1
+235,5dd6f563270f44688d3cd745,1089.81,1090.38,when the hockey,-0.41000000000008185,0.5700000000001637,0,False,True,3
+236,5defe76ec33cea000b6cb8e1,1090.23,1090.4,where,-0.15000000000009095,0.17000000000007276,0,False,True,1
+237,5dd6f563270f44688d3cd745,1090.38,1090.67,team,-0.01999999999998181,0.2899999999999636,0,False,True,1
+238,5defe76ec33cea000b6cb8e1,1090.4,1090.88,would we be going,-0.2699999999999818,0.4800000000000182,0,False,True,4
+239,5dd6f563270f44688d3cd745,1090.67,1090.88,was,-0.21000000000003638,0.21000000000003638,0,False,True,1
+240,5defe76ec33cea000b6cb8e1,1090.88,1091.27,back?,0.0,0.38999999999987267,1,True,False,1
+241,5dd6f563270f44688d3cd745,1090.88,1091.56,the best,-0.38999999999987267,0.6799999999998363,0,False,True,2
+242,5defe76ec33cea000b6cb8e1,1092.64,1093.21,Oh,1.0800000000001546,0.5699999999999363,0,False,False,1
+243,5dd6f563270f44688d3cd745,1093.14,1093.67,time.,-0.06999999999993634,0.5299999999999727,0,False,True,1
+244,5defe76ec33cea000b6cb8e1,1093.22,1097.27,yeah now right,-0.4500000000000455,4.0499999999999545,0,False,True,3
+245,5dd6f563270f44688d3cd745,1097.24,1097.77,Yeah,-0.029999999999972715,0.5299999999999727,0,False,True,1
+246,5defe76ec33cea000b6cb8e1,1098.14,1104.07,now Minnesota is the best and the Minnesota took off took over Misaki a thing. It was Wisconsin,0.37000000000011823,5.929999999999836,0,False,False,18
+247,5dd6f563270f44688d3cd745,1103.94,1104.09,and,-0.12999999999988177,0.14999999999986358,0,False,True,1
+248,5defe76ec33cea000b6cb8e1,1104.08,1104.2,for,-0.009999999999990905,0.12000000000011823,0,False,True,1
+249,5dd6f563270f44688d3cd745,1104.09,1104.45,that's,-0.11000000000012733,0.36000000000012733,0,False,True,2
+250,5defe76ec33cea000b6cb8e1,1104.2,1104.95,a long time.,-0.25,0.75,0,False,True,3
+251,5dd6f563270f44688d3cd745,1105.74,1125.66,"yeah, we love the the U. N. D. Wisconsin games. But see I went to college back in the 80's With like the 1980 Olympic team, the hockey. But we knew well we knew the coach of the team, her brooks because my dad was the",0.7899999999999636,19.920000000000073,0,False,False,47
+252,5defe76ec33cea000b6cb8e1,1125.54,1125.86,Okay.,-0.12000000000011823,0.31999999999993634,0,False,True,1
+253,5dd6f563270f44688d3cd745,1125.66,1138.86,"faculty athletic representative and then when it came to the hockey players we knew a lot of the olympic hockey players, but the ones we knew were on the Canadian team. So it was really weird. I think",-0.1999999999998181,13.199999999999818,0,False,True,38
+254,5defe76ec33cea000b6cb8e1,1138.64,1139.44,Uh huh.,-0.2199999999997999,0.7999999999999545,0,False,True,2
+255,5dd6f563270f44688d3cd745,1138.86,1151.86,"we had like one or two on the US team, we had like four on the Canadian team. So it was kind of an awkward, we want the US to win but we want the Canadian you know. Anyway.",-0.5800000000001546,13.0,0,False,True,39
+256,5defe76ec33cea000b6cb8e1,1152.04,1153.47,Yeah. Well at,0.18000000000006366,1.4300000000000637,0,False,False,3
+257,5dd6f563270f44688d3cd745,1153.44,1155.35,"Yeah,",-0.029999999999972715,1.9099999999998545,0,False,True,1
+258,5defe76ec33cea000b6cb8e1,1153.47,1156.04,least you didn't know any of the soviet said really? Inoculated?,-1.8799999999998818,2.5699999999999363,2,True,True,12
+259,5dd6f563270f44688d3cd745,1156.84,1179.27,"yeah, that would this um this year the hockey coach that my dad is friends with has gone over to china, so he's with the chinese team but it's the summer olympics not winter, so we don't have to worry about it yet. But I can just imagine in a couple of years we're going to be having to cheer on the chinese hockey team.",0.7999999999999545,22.430000000000064,0,False,False,69
+260,5defe76ec33cea000b6cb8e1,1180.34,1181.25,That's going to be odd,1.0699999999999363,0.9100000000000819,0,False,False,6
+261,5dd6f563270f44688d3cd745,1181.24,1181.51,"Yeah,",-0.009999999999990905,0.2699999999999818,0,False,True,1
+262,5defe76ec33cea000b6cb8e1,1181.25,1183.85,to have the winter looks in china anyway.,-0.2599999999999909,2.599999999999909,0,False,True,8
+263,5dd6f563270f44688d3cd745,1185.14,1189.45,"yeah, yeah, it would be neat to be able to go",1.290000000000191,4.309999999999945,0,False,False,11
+264,5defe76ec33cea000b6cb8e1,1191.44,1192.24,Yeah,1.990000000000009,0.7999999999999545,0,False,False,1
+265,5dd6f563270f44688d3cd745,1191.94,1192.36,that.,-0.2999999999999545,0.4199999999998454,0,False,True,1
+266,5defe76ec33cea000b6cb8e1,1192.25,1196.86,it's gonna be in L. A. in 2026 accounting which would have been in Chicago so close,-0.10999999999989996,4.6099999999999,0,False,True,19
+267,5dd6f563270f44688d3cd745,1197.74,1201.36,"Oh yeah, but",0.8800000000001091,3.619999999999891,0,False,False,3
+268,5defe76ec33cea000b6cb8e1,1201.24,1202.35,you know one.,-0.11999999999989086,1.1099999999999,0,False,True,3
+269,5dd6f563270f44688d3cd745,1204.44,1231.56,"I think when it was at Lake Placid, my mom and dad went because that was, that was a long time ago, they were much younger and all that and they really enjoyed the olympics there. That and then we lived in Utah when they have the Salt Lake City olympics but we didn't go because like we didn't have money for it. We were still a young struggling family at the time, you know, But",2.0900000000001455,27.11999999999989,0,False,False,78
+270,5defe76ec33cea000b6cb8e1,1231.74,1234.95,Right. But the excitement of being your city must have been fun.,0.18000000000006366,3.2100000000000364,0,False,False,12
+271,5dd6f563270f44688d3cd745,1235.74,1265.4,"it was what was I think most exciting was for the opening ceremonies. They had the elementary school kids doing a song and so the kids got to go and be a part of it and we have five kids. So they were all in elementary school at the time and so they got to go for that but they were young enough that they're not really going to have the memories, you know, I wish that they had been just a little older but it's okay,",0.7899999999999636,29.660000000000082,0,False,False,89
+272,5defe76ec33cea000b6cb8e1,1265.04,1265.45,Yeah.,-0.36000000000012733,0.41000000000008185,0,False,True,1
+273,5dd6f563270f44688d3cd745,1265.4,1286.56,"it's still is fun and exciting and all that. I shouldn't complain because we didn't get it to be the most exciting. At least we got something so you know, seems kind of wrong to complain that we didn't get the best when we got better than a lot of people, you know.",-0.049999999999954525,21.159999999999854,0,False,True,57
+274,5defe76ec33cea000b6cb8e1,1288.74,1289.72,Yeah. You can still,2.1800000000000637,0.9800000000000182,0,False,False,4
+275,5dd6f563270f44688d3cd745,1289.54,1293.01,Well,-0.18000000000006366,3.4700000000000273,0,False,True,1
+276,5defe76ec33cea000b6cb8e1,1289.72,1290.96,complain.,-3.2899999999999636,1.240000000000009,0,False,True,1
+277,5dd6f563270f44688d3cd745,1293.01,1294.17,this is America.,2.0499999999999545,1.1600000000000819,0,False,False,3
+278,5defe76ec33cea000b6cb8e1,1293.94,1294.17,Oh.,-0.2300000000000182,0.2300000000000182,0,False,True,1
+279,5dd6f563270f44688d3cd745,1294.17,1295.56,We can complain,0.0,1.3899999999998727,0,False,False,3
+280,5defe76ec33cea000b6cb8e1,1294.74,1294.95,Mhm.,-0.8199999999999363,0.21000000000003638,0,False,True,1
+281,5dd6f563270f44688d3cd745,1296.14,1296.56,and,1.1900000000000546,0.4199999999998454,0,False,False,1
+282,5defe76ec33cea000b6cb8e1,1296.34,1305.86,"We can we can get away. We can play, you know. Mhm airing our grievances without fear of rest and all this.",-0.22000000000002728,9.519999999999982,0,False,True,22
+283,5dd6f563270f44688d3cd745,1306.74,1319.27,"yeah, well let's see. Trying to think of something else, fun and exciting to talk about. Want to stay away from all the controversial topics. It's",0.8800000000001091,12.529999999999973,0,False,False,28
+284,5defe76ec33cea000b6cb8e1,1319.44,1329.27,"Yeah. I wonder if they made this just to see who would be waging into those controversial topics and you know,",0.17000000000007276,9.829999999999927,0,False,False,21
+285,5dd6f563270f44688d3cd745,1329.34,1349.16,yeah. Yeah. And then I start wondering about what kind of questions they're going to ask us about because like you and I just started talking and we never even introduced ourselves or anything. I mean we talked about where we were from but like my name is Cheryl. I don't know if that matters. Um,0.06999999999993634,19.820000000000164,0,False,False,58
+286,5defe76ec33cea000b6cb8e1,1349.24,1350.32,my name is ted,0.07999999999992724,1.0799999999999272,0,False,False,4
+287,5dd6f563270f44688d3cd745,1350.9,1352.64,tim nice to meet,0.5800000000001546,1.740000000000009,0,False,False,4
+288,5defe76ec33cea000b6cb8e1,1352.64,1353.05,Yeah.,0.0,0.4099999999998545,0,False,False,1
+289,5dd6f563270f44688d3cd745,1352.64,1353.95,"you, tim.",-0.4099999999998545,1.3099999999999454,0,False,True,2
+290,5defe76ec33cea000b6cb8e1,1354.14,1354.8,Nice to meet,0.19000000000005457,0.6599999999998545,0,False,False,3
+291,5dd6f563270f44688d3cd745,1354.74,1354.95,Oh,-0.05999999999994543,0.21000000000003638,0,False,True,1
+292,5defe76ec33cea000b6cb8e1,1354.8,1355.76,you too.,-0.15000000000009095,0.9600000000000364,0,False,True,2
+293,5dd6f563270f44688d3cd745,1355.94,1371.86,we know a little about each other and where we're from and what we do. But I wonder if they're going to touch on the depths of what we talk about or or whether or not we sit and discuss why we're supposed to be talking. I don't know.,0.18000000000006366,15.919999999999845,0,False,False,53
+294,5defe76ec33cea000b6cb8e1,1373.64,1374.6,I'm sure that that,1.7800000000002,0.959999999999809,0,False,False,5
+295,5dd6f563270f44688d3cd745,1374.44,1374.6,All,-0.15999999999985448,0.15999999999985448,0,False,True,1
+296,5defe76ec33cea000b6cb8e1,1374.6,1374.72,will,0.0,0.12000000000011823,0,False,False,1
+297,5dd6f563270f44688d3cd745,1374.6,1374.77,right.,-0.12000000000011823,0.17000000000007276,0,False,True,1
+298,5defe76ec33cea000b6cb8e1,1374.72,1380.64,come up. Probably helped us out. Probably heard a lot of people that we had the Wisconsin connection. I'm sure,-0.049999999999954525,5.920000000000073,0,False,True,21
+299,5dd6f563270f44688d3cd745,1380.54,1381.05,Right.,-0.10000000000013642,0.5099999999999909,0,False,True,1
+300,5defe76ec33cea000b6cb8e1,1380.64,1387.27,others who had no connection whatsoever like uh what do we say? Hello?,-0.4099999999998545,6.629999999999882,2,True,True,13
+301,5dd6f563270f44688d3cd745,1386.34,1386.84,Yeah.,-0.9300000000000637,0.5,0,False,True,1
+302,5defe76ec33cea000b6cb8e1,1387.84,1389.15,But since,1.0,1.3100000000001728,0,False,False,2
+303,5dd6f563270f44688d3cd745,1389.14,1389.94,Yeah.,-0.009999999999990905,0.7999999999999545,0,False,True,1
+304,5defe76ec33cea000b6cb8e1,1389.15,1394.95,"we have an immediate trend, we were able to kind of build out the conversation lawyers",-0.7899999999999636,5.7999999999999545,0,False,True,16
+305,5dd6f563270f44688d3cd745,1394.94,1395.77,Yeah.,-0.009999999999990905,0.8299999999999272,0,False,True,1
+306,5defe76ec33cea000b6cb8e1,1394.95,1395.26,here.,-0.8199999999999363,0.30999999999994543,0,False,True,1
+307,5dd6f563270f44688d3cd745,1396.49,1441.06,"My dad went to school at the University of Wisconsin in Milwaukee and he and my mom used to live in the I'm trying to remember the apartments, but he goes back there about twice a year and just goes to the different places where they lived when they were first married. My mom passed away three almost four years ago. So my dad will go back there and he likes to drive around and look at the places where they used to live and that. And so, you know, it's it's something that he likes to do. I don't know why exactly. But maybe when I get older it will mean something to me too. I don't know. Yeah.",1.2300000000000182,44.569999999999936,0,False,False,125
+308,5defe76ec33cea000b6cb8e1,1441.24,1441.7,I can't tell,0.18000000000006366,0.4600000000000364,0,False,False,4
+309,5dd6f563270f44688d3cd745,1441.54,1442.35,Anyway.,-0.16000000000008185,0.8099999999999454,0,False,True,1
+310,5defe76ec33cea000b6cb8e1,1441.7,1448.77,you why I haven't been I lived downtown about 10 down to talk about 10 years ago. It's changed so much. Even 10 years.,-0.6499999999998636,7.069999999999936,0,False,True,26
+311,5dd6f563270f44688d3cd745,1448.64,1449.06,Mhm.,-0.12999999999988177,0.4199999999998454,0,False,True,1
+312,5defe76ec33cea000b6cb8e1,1449.14,1455.26,"So I got this guy be kicked for him just you know, so many years ago. Walk is a completely different city and it's completely",0.08000000000015461,6.119999999999891,0,False,False,26
+313,5dd6f563270f44688d3cd745,1454.94,1455.45,Right.,-0.31999999999993634,0.5099999999999909,0,False,True,1
+314,5defe76ec33cea000b6cb8e1,1455.26,1461.17,"different. So it's gonna be crazy for the kind of drive through, wow this is not the Milwaukee I remember at all",-0.19000000000005457,5.910000000000082,0,False,True,24
+315,5dd6f563270f44688d3cd745,1461.84,1483.08,Yeah. I know one of the apartment buildings uh is still there because he takes pictures of himself at the sign and the apartment building every time he goes. But like the house where they first lived when they got married is now a big parking lot. Or I think he said it's a parking,0.6699999999998454,21.24000000000001,0,False,False,56
+316,5defe76ec33cea000b6cb8e1,1484.84,1485.46,structure.,1.759999999999991,0.6200000000001182,0,False,False,1
+317,5dd6f563270f44688d3cd745,1484.84,1532.05,"high rise. Yes exactly. It's not just a parking lot that three or four stories high whatever. And then he goes and he looks like this is where the store was. Only now there's not a store there, but it brings back the memories for him of something that he can never get back. And you know I mean we're talking back in the 1950s, it was hard to take pictures at that time. Every you know the young people were struggling financially and just to own a camera, he would tell me about how he owned a camera but pretty much it was always at the pawn shop because that's how they got by from check to check. You know, so it was hard to take",-0.6200000000001182,47.210000000000036,0,False,True,131
+318,5defe76ec33cea000b6cb8e1,1531.74,1532.06,Mhm.,-0.30999999999994543,0.31999999999993634,0,False,True,1
+319,5dd6f563270f44688d3cd745,1532.06,1551.77,pictures and then it cost money to develop the pictures and so I think going to those places is about the only way he has to relive the memories. You know now you record your whole life practically or a lot of people do not everybody but,0.0,19.710000000000036,0,False,False,47
+320,5defe76ec33cea000b6cb8e1,1554.64,1555.59,I don't really,2.8700000000001182,0.9499999999998181,0,False,False,4
+321,5dd6f563270f44688d3cd745,1555.54,1555.77,group.,-0.049999999999954525,0.2300000000000182,0,False,True,1
+322,5defe76ec33cea000b6cb8e1,1555.6,1565.1,uh you know I think what the best of that is. You know sometimes a picture can't recreate your memory and,-0.17000000000007276,9.5,0,False,True,22
+323,5dd6f563270f44688d3cd745,1565.04,1565.55,Right.,-0.05999999999994543,0.5099999999999909,0,False,True,1
+324,5defe76ec33cea000b6cb8e1,1565.11,1570.65,putting yourself in your mind. It doesnt picture doesn't replace that. So I think for,-0.44000000000005457,5.540000000000191,0,False,True,17
+325,5dd6f563270f44688d3cd745,1570.54,1570.96,Right.,-0.11000000000012733,0.42000000000007276,0,False,True,1
+326,5defe76ec33cea000b6cb8e1,1570.65,1576.44,him just just gets transported transported back to that time. Yeah,-0.30999999999994543,5.789999999999964,0,False,True,11
+327,5dd6f563270f44688d3cd745,1576.24,1576.77,Yeah.,-0.20000000000004547,0.5299999999999727,0,False,True,1
+328,5defe76ec33cea000b6cb8e1,1576.84,1583.66,you may not have the printers but he has the memories and and as long as it has those you know that's what awesome matters.,0.06999999999993634,6.820000000000164,0,False,False,26
+329,5dd6f563270f44688d3cd745,1584.34,1620.56,"Right. Sometimes I think that the pictures and videos we have today are more of a negative because almost with writing you know people used to remember things and then they learned how to write them down and as soon as everybody could write you didn't have to remember you could write it down and with the pictures you know you had to be able to remember the memories. But now, you know, it's all recorded, you don't even have to remember kind of like with math and calculators people used to be able to add and then they got a calculator and didn't need to know how.",0.6799999999998363,36.22000000000003,0,False,False,112
+330,5defe76ec33cea000b6cb8e1,1622.64,1624.12,Yeah. Now they have laptops,2.0800000000001546,1.4799999999997908,0,False,False,5
+331,5dd6f563270f44688d3cd745,1623.74,1625.05,Yeah.,-0.37999999999988177,1.3099999999999454,0,False,True,1
+332,5defe76ec33cea000b6cb8e1,1624.12,1625.85,and clouds open better.,-0.9300000000000637,1.7300000000000182,0,False,True,4
+333,5dd6f563270f44688d3cd745,1626.84,1635.25,Yeah. I don't even use a calculator anymore. I ask my amazon Alexa thing and it adds up my numbers,0.9900000000000091,8.410000000000082,0,False,False,21
+334,5defe76ec33cea000b6cb8e1,1635.14,1635.46,Mhm.,-0.10999999999989996,0.31999999999993634,0,False,True,1
+335,5dd6f563270f44688d3cd745,1635.25,1638.95,for me. It's getting so easy to do anything.,-0.21000000000003638,3.7000000000000455,0,False,True,10
+336,5defe76ec33cea000b6cb8e1,1640.14,1650.06,Same here and still I struggle with basic map from. So maybe there's a strand of truth to that. Yeah. Mhm.,1.1900000000000546,9.919999999999845,0,False,False,22
+337,5dd6f563270f44688d3cd745,1650.14,1661.98,"Yeah. All right, well, According to my calculator, we've been talking for 25.5 minutes. So I don't know about",0.08000000000015461,11.839999999999918,0,False,False,21
+338,5defe76ec33cea000b6cb8e1,1661.74,1662.36,"All right,",-0.2400000000000091,0.6199999999998909,0,False,True,2
+339,5dd6f563270f44688d3cd745,1661.98,1669.27,"you. We could talk longer if you want. But if you're doing this like for the same reason I am for the money, we've done it. Okay.",-0.37999999999988177,7.289999999999964,0,False,True,29
+340,5defe76ec33cea000b6cb8e1,1669.94,1670.78,Yep.,0.6700000000000728,0.8399999999999181,0,False,False,1
+341,5dd6f563270f44688d3cd745,1670.64,1670.84,Yeah.,-0.13999999999987267,0.1999999999998181,0,False,True,1
+342,5defe76ec33cea000b6cb8e1,1670.79,1679.96,It was but it was really nice to not have a 25 minute conversation. Was nice to have a nice 25 minute conversation. Well,-0.049999999999954525,9.170000000000073,0,False,True,24
+343,5dd6f563270f44688d3cd745,1680.04,1680.99,Yeah. And,0.07999999999992724,0.9500000000000455,0,False,False,2
+344,5defe76ec33cea000b6cb8e1,1680.84,1681.26,increased.,-0.15000000000009095,0.42000000000007276,0,False,True,1
+345,5dd6f563270f44688d3cd745,1681.0,1699.86,"and my son, I was expecting him to walk in and interrupt me actually. So I warned him you stay at work late tonight. That all right, Well, I'm going to go ahead and see what the window tells us to do because I'm not sure what we're supposed to do now. Any ideas?",-0.2599999999999909,18.8599999999999,1,True,True,57
+346,5defe76ec33cea000b6cb8e1,1699.74,1707.26,"Uh huh. I think as long as we go over 25 minutes and record like that, it will account. So we",-0.11999999999989086,7.519999999999982,0,False,True,21
+347,5dd6f563270f44688d3cd745,1707.24,1707.77,Okay.,-0.01999999999998181,0.5299999999999727,0,False,True,1
+348,5defe76ec33cea000b6cb8e1,1707.26,1710.16,"close the window, we continue. Everything will be fine.",-0.5099999999999909,2.900000000000091,0,False,True,9
+349,5dd6f563270f44688d3cd745,1711.04,1714.33,Alrighty. So I don't,0.8799999999998818,3.2899999999999636,0,False,False,5
+350,5defe76ec33cea000b6cb8e1,1714.24,1714.45,It's,-0.08999999999991815,0.21000000000003638,0,False,True,2
+351,5dd6f563270f44688d3cd745,1714.33,1714.56,know.,-0.12000000000011823,0.2300000000000182,0,False,True,1
+352,5defe76ec33cea000b6cb8e1,1714.45,1714.66,really,-0.10999999999989996,0.21000000000003638,0,False,True,1
+353,5dd6f563270f44688d3cd745,1714.56,1714.77,She'll,-0.10000000000013642,0.21000000000003638,0,False,True,2
+354,5defe76ec33cea000b6cb8e1,1714.66,1714.86,nice,-0.10999999999989996,0.1999999999998181,0,False,True,1
+355,5dd6f563270f44688d3cd745,1714.77,1715.27,be,-0.08999999999991815,0.5,0,False,True,1
+356,5defe76ec33cea000b6cb8e1,1714.86,1715.35,to meet you.,-0.41000000000008185,0.4900000000000091,0,False,True,3
+357,5dd6f563270f44688d3cd745,1715.94,1721.25,"you too tim good luck with your IT. And you know, maybe I'll run",0.5900000000001455,5.309999999999945,0,False,False,15
+358,5defe76ec33cea000b6cb8e1,1721.24,1721.43,Good,-0.009999999999990905,0.19000000000005457,0,False,True,1
+359,5dd6f563270f44688d3cd745,1721.25,1721.54,into,-0.18000000000006366,0.2899999999999636,0,False,True,1
+360,5defe76ec33cea000b6cb8e1,1721.43,1721.96,luck.,-0.10999999999989996,0.5299999999999727,0,False,True,1
+361,5dd6f563270f44688d3cd745,1721.54,1724.36,you in Minneapolis eventually. Yeah.,-0.42000000000007276,2.8199999999999363,0,False,True,5
+362,5defe76ec33cea000b6cb8e1,1724.34,1725.26,Maybe,-0.01999999999998181,0.9200000000000728,0,False,True,1
+363,5dd6f563270f44688d3cd745,1724.94,1725.27,Yes.,-0.31999999999993634,0.32999999999992724,0,False,True,1
+364,5defe76ec33cea000b6cb8e1,1725.27,1726.32,Good luck escaping,0.0,1.0499999999999545,0,False,False,3
+365,5dd6f563270f44688d3cd745,1725.84,1726.56,All right.,-0.4800000000000182,0.7200000000000273,0,False,True,2
+366,5defe76ec33cea000b6cb8e1,1726.32,1728.06,Kansas.,-0.2400000000000091,1.740000000000009,0,False,True,1
+367,5dd6f563270f44688d3cd745,1727.74,1730.17,Yeah. Thanks. Tim.,-0.31999999999993634,2.4300000000000637,0,False,True,3
+368,5defe76ec33cea000b6cb8e1,1731.14,1731.77,Thank you.,0.9700000000000273,0.6299999999998818,0,False,False,2
+369,5dd6f563270f44688d3cd745,1732.44,1733.36,"You, too.",0.6700000000000728,0.9199999999998454,0,False,False,2

@@ -1,0 +1,398 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5f98aeb71f6d0e1cec74defb,0.64,125.84,"Yeah. Mhm. Mhm, mm. Yeah. Uh huh, mm. Well, so, mm hmm. Right. Mhm. Mhm. Yeah. Oh yeah. Yeah. Oh, whoa. Mhm. World, Yeah. Oh yeah. Oh all the world is going on paul. For for home. Mhm. Thanks. Okay. Mhm. Mhm. Yeah. Mhm. But Mhm. Right. Yeah.",,125.2,0,False,False,48
+1,59296fb2e8a7ff000163f033,129.34,129.55,Right.,3.5,0.21000000000000796,0,False,False,1
+2,5f98aeb71f6d0e1cec74defb,129.94,130.15,Mhm.,0.38999999999998636,0.21000000000000796,0,False,False,1
+3,59296fb2e8a7ff000163f033,130.04,137.56,"Mhm. Uh huh. Hey, what's up?",-0.11000000000001364,7.52000000000001,1,True,True,7
+4,5f98aeb71f6d0e1cec74defb,137.44,137.64,Yeah.,-0.12000000000000455,0.19999999999998863,0,False,True,1
+5,59296fb2e8a7ff000163f033,138.24,139.37,"Two of my men,",0.6000000000000227,1.1299999999999955,0,False,False,4
+6,5f98aeb71f6d0e1cec74defb,139.54,141.16,Hello? Can you hear me?,0.1699999999999875,1.6200000000000045,2,True,False,5
+7,59296fb2e8a7ff000163f033,140.84,143.06,"yep, I got you.",-0.3199999999999932,2.219999999999999,0,False,True,4
+8,5f98aeb71f6d0e1cec74defb,142.44,144.15,Perfect.,-0.6200000000000045,1.710000000000008,0,False,True,1
+9,59296fb2e8a7ff000163f033,143.94,146.66,"Cool, cool. What's up with you?",-0.21000000000000796,2.719999999999999,1,True,True,7
+10,5f98aeb71f6d0e1cec74defb,146.14,153.46,"Uh Nothing much just been in the day, university students. So everything's from home these days.",-0.5200000000000102,7.320000000000022,0,False,True,17
+11,59296fb2e8a7ff000163f033,153.24,156.36,"Right, Right. I think that's everybody.",-0.21999999999999886,3.1200000000000045,0,False,True,7
+12,5f98aeb71f6d0e1cec74defb,155.44,156.96,Yeah.,-0.9200000000000159,1.5200000000000102,0,False,True,1
+13,59296fb2e8a7ff000163f033,157.04,159.15,Almost everybody thinks like,0.07999999999998408,2.1100000000000136,0,False,False,4
+14,5f98aeb71f6d0e1cec74defb,158.84,159.34,Yeah.,-0.3100000000000023,0.5,0,False,True,1
+15,59296fb2e8a7ff000163f033,159.15,160.46,everybody is pretty much how?,-0.18999999999999773,1.3100000000000023,1,True,True,5
+16,5f98aeb71f6d0e1cec74defb,161.14,165.46,"Yeah. Yeah. Where are you located? West Coast, East Coast,",0.6799999999999784,4.320000000000022,1,False,False,10
+17,59296fb2e8a7ff000163f033,165.54,168.75,"Oh, definitely East. I'm like out Buffalo Way.",0.07999999999998408,3.210000000000008,0,False,False,9
+18,5f98aeb71f6d0e1cec74defb,169.14,175.16,Okay. When the West Coast in Seattle? So we have a new lockdown order for four weeks.,0.38999999999998636,6.02000000000001,1,False,False,17
+19,59296fb2e8a7ff000163f033,175.44,184.76,"Oh, nice. Yeah, so I'm in new york and it's just as wonderful here. So I think we might even be going into red next week.",0.28000000000000114,9.319999999999993,0,False,False,28
+20,5f98aeb71f6d0e1cec74defb,185.74,186.75,Uh huh.,0.9800000000000182,1.009999999999991,0,False,False,2
+21,59296fb2e8a7ff000163f033,185.84,193.95,"Is that that rings a bell with you? So like people have depleted all the toilet paper again, all the paper towels and",-0.9099999999999966,8.109999999999985,1,False,True,23
+22,5f98aeb71f6d0e1cec74defb,193.84,194.55,Uh huh.,-0.10999999999998522,0.710000000000008,0,False,True,2
+23,59296fb2e8a7ff000163f033,194.64,200.66,"you know, they're doing all that crap. So it's awesome here, I can't",0.08999999999997499,6.02000000000001,0,False,False,16
+24,5f98aeb71f6d0e1cec74defb,200.44,201.24,Yeah.,-0.21999999999999886,0.8000000000000114,0,False,True,1
+25,59296fb2e8a7ff000163f033,200.66,204.46,"really go anywhere. We have to be home, like, I think it's like eight o'clock or something.",-0.5800000000000125,3.8000000000000114,0,False,True,18
+26,5f98aeb71f6d0e1cec74defb,203.94,206.56,Yeah. Oh you guys got curfews over there?,-0.5200000000000102,2.6200000000000045,1,True,True,8
+27,59296fb2e8a7ff000163f033,206.64,213.15,"Yeah, they're implementing that crap again, it's it's just a whole bunch of fun over here. What?",0.07999999999998408,6.510000000000019,1,True,False,20
+28,5f98aeb71f6d0e1cec74defb,212.44,217.8,"Yeah, you don't have thankfully don't have all that stuff because I",-0.710000000000008,5.360000000000014,0,False,True,14
+29,59296fb2e8a7ff000163f033,217.04,217.25,What?,-0.7600000000000193,0.21000000000000796,1,True,True,1
+30,5f98aeb71f6d0e1cec74defb,217.81,218.15,am,0.5600000000000023,0.3400000000000034,0,False,False,1
+31,59296fb2e8a7ff000163f033,218.14,218.43,That's,-0.010000000000019327,0.29000000000002046,0,False,True,2
+32,5f98aeb71f6d0e1cec74defb,218.15,218.45,a food,-0.28000000000000114,0.29999999999998295,0,False,True,2
+33,59296fb2e8a7ff000163f033,218.43,218.76,good.,-0.01999999999998181,0.3299999999999841,0,False,True,1
+34,5f98aeb71f6d0e1cec74defb,218.45,227.05,delivery. So I do food delivery by night usually because I take my classes during the day and do that. So thanks for there's there's no curfews or any of that stuff.,-0.3100000000000023,8.600000000000023,0,False,True,34
+35,59296fb2e8a7ff000163f033,227.54,236.36,"That's good. Yeah, I mean we have obviously like food delivery and whatnot, but they have to end I think at like eight o'clock. So that sucks for a lot of people.",0.4899999999999807,8.820000000000022,0,False,False,33
+36,5f98aeb71f6d0e1cec74defb,236.74,237.54,Yeah.,0.37999999999999545,0.799999999999983,0,False,False,1
+37,59296fb2e8a7ff000163f033,236.84,240.26,"Well, like what restrictions do you guys have?",-0.6999999999999886,3.4199999999999875,1,True,True,8
+38,5f98aeb71f6d0e1cec74defb,240.84,246.56,Um we basically just have no in person dying us that they took away. So like,0.5800000000000125,5.719999999999999,0,False,False,16
+39,59296fb2e8a7ff000163f033,246.24,246.96,Mhm.,-0.3199999999999932,0.7199999999999989,0,False,True,1
+40,5f98aeb71f6d0e1cec74defb,247.04,254.64,"and they just reduce the amount of people that can be like in retail stores, so non essential stuff. Um",0.07999999999998408,7.599999999999994,0,False,False,20
+41,59296fb2e8a7ff000163f033,254.54,255.05,Right.,-0.09999999999999432,0.5100000000000193,0,False,True,1
+42,5f98aeb71f6d0e1cec74defb,254.64,262.66,"They don't really close anything just besides like limiting in person stuff. So basically said like if it can be done outside, do it outside.",-0.410000000000025,8.020000000000039,0,False,True,26
+43,59296fb2e8a7ff000163f033,263.14,264.36,"Got you,",0.47999999999996135,1.2200000000000273,0,False,False,2
+44,5f98aeb71f6d0e1cec74defb,264.04,271.36,"Um But it is the pacific northwest, so it's that means night rain 90% of the time. So.",-0.3199999999999932,7.319999999999993,0,False,True,19
+45,59296fb2e8a7ff000163f033,270.94,272.44,"yep. Yeah,",-0.4200000000000159,1.5,0,False,True,2
+46,5f98aeb71f6d0e1cec74defb,272.64,273.44,Yeah.,0.19999999999998863,0.8000000000000114,0,False,False,1
+47,59296fb2e8a7ff000163f033,273.54,280.46,"I know, I mean we're going to have the same scenario, but it's just gonna be piles of snow pretty soon here,",0.10000000000002274,6.919999999999959,0,False,False,25
+48,5f98aeb71f6d0e1cec74defb,280.74,281.43,Yeah.,0.28000000000002956,0.6899999999999977,0,False,False,1
+49,59296fb2e8a7ff000163f033,281.14,281.71,surprised.,-0.29000000000002046,0.5699999999999932,0,False,True,1
+50,5f98aeb71f6d0e1cec74defb,281.44,281.78,Thank,-0.2699999999999818,0.339999999999975,0,False,True,1
+51,59296fb2e8a7ff000163f033,281.72,282.36,"Yeah,",-0.05999999999994543,0.6399999999999864,0,False,True,1
+52,5f98aeb71f6d0e1cec74defb,281.79,281.85,you.,-0.5699999999999932,0.060000000000002274,0,False,True,1
+53,59296fb2e8a7ff000163f033,282.37,283.26,Honestly.,0.5199999999999818,0.8899999999999864,0,False,False,1
+54,5f98aeb71f6d0e1cec74defb,283.54,292.06,"Yeah, I think the city here's have been pretty leaning in. Like now they're letting restaurants, like basically they close off complete streets",0.28000000000002956,8.519999999999982,0,False,False,25
+55,59296fb2e8a7ff000163f033,292.24,292.44,Yeah.,0.18000000000000682,0.19999999999998863,0,False,False,1
+56,5f98aeb71f6d0e1cec74defb,292.84,293.06,and,0.39999999999997726,0.22000000000002728,0,False,False,1
+57,59296fb2e8a7ff000163f033,293.04,293.36,Right.,-0.01999999999998181,0.3199999999999932,0,False,True,1
+58,5f98aeb71f6d0e1cec74defb,293.06,302.25,"let them put patios and things seating all in that street to kind of keep them, keep them alive.",-0.30000000000001137,9.189999999999998,0,False,True,19
+59,59296fb2e8a7ff000163f033,302.74,307.96,"Oh my gosh, you usually not have much outside area, It's just like a storefront.",0.4900000000000091,5.21999999999997,0,False,False,16
+60,5f98aeb71f6d0e1cec74defb,307.84,309.5,"Yeah, usually especially",-0.12000000000000455,1.660000000000025,0,False,True,3
+61,59296fb2e8a7ff000163f033,309.44,309.65,Good,-0.060000000000002274,0.20999999999997954,0,False,True,1
+62,5f98aeb71f6d0e1cec74defb,309.5,321.36,"in the downtown areas um like capitol hill, just popular place, so basically just shut down like the entire street made a pedestrian only and then let restaurants basically put seating all the way on the street.",-0.14999999999997726,11.860000000000014,0,False,True,37
+63,59296fb2e8a7ff000163f033,321.64,329.18,"gotcha. Yeah. Yeah, I mean we have some storefronts here, but like a lot of places have a lot of land, like",0.2799999999999727,7.5400000000000205,0,False,False,22
+64,5f98aeb71f6d0e1cec74defb,328.84,329.35,Mhm.,-0.34000000000003183,0.5100000000000477,0,False,True,1
+65,59296fb2e8a7ff000163f033,329.18,377.56,"it's a little more separated. Um So like they have done that, I've heard like a couple streets where it's like super densely packed stores or they don't have much area, but a lot of the guys, they already had a lot of outside, so a lot of them have just like utilized that. Or like some people have built onto their building, like they built like a, like a ventilated but covered area. So it just has like an overhead but there's not like many walls. So it's like open air. I've seen a lot of that so they're making do. But again like with all the shutdowns there, like you know our governor, he's just he's just all like, like if anything is, if we're like even with you guys, he's like, you know, shutting down twice as hard because he doesn't want to be like, you know that state that everybody looks at when things are really bad.",-0.17000000000001592,48.379999999999995,0,False,True,174
+66,5f98aeb71f6d0e1cec74defb,377.94,378.44,Yeah.,0.37999999999999545,0.5,0,False,False,1
+67,59296fb2e8a7ff000163f033,378.04,378.55,So.,-0.39999999999997726,0.5099999999999909,0,False,True,1
+68,5f98aeb71f6d0e1cec74defb,378.44,379.46,I think that's the right,-0.11000000000001364,1.0199999999999818,0,False,True,6
+69,59296fb2e8a7ff000163f033,379.34,379.66,Mhm.,-0.12000000000000455,0.32000000000005,0,False,True,1
+70,5f98aeb71f6d0e1cec74defb,379.46,382.42,now is Callie isn't it? Aren't they the worst or there,-0.20000000000004547,2.9600000000000364,1,False,True,13
+71,59296fb2e8a7ff000163f033,382.14,383.05,Yeah.,-0.28000000000002956,0.910000000000025,0,False,True,1
+72,5f98aeb71f6d0e1cec74defb,382.43,383.13,you know?,-0.6200000000000045,0.6999999999999886,1,True,True,2
+73,59296fb2e8a7ff000163f033,383.06,386.41,"Yeah. I mean new york was the first worst state, right?",-0.06999999999999318,3.3500000000000227,1,True,True,11
+74,5f98aeb71f6d0e1cec74defb,386.24,386.86,Right.,-0.17000000000001592,0.6200000000000045,0,False,True,1
+75,59296fb2e8a7ff000163f033,386.42,397.49,"That was my first began. And he's just like, he was like riding this ego thing like you know, we got over this were the best. Now. He had like a chart mountain graph and like here's where we are. You know, he was",-0.4399999999999977,11.069999999999993,0,False,True,46
+76,5f98aeb71f6d0e1cec74defb,397.44,397.65,Mhm.,-0.05000000000001137,0.20999999999997954,0,False,True,1
+77,59296fb2e8a7ff000163f033,397.49,416.85,"all touting how good everything was And I mean he's getting a lot of flak lately. So I think that's why he's really like shutting down so he can like make sure he's not that state again because he feels like, I mean I think he just feels like it's going to hurt his numbers, you know, so we can't get reelected. But who really knows now?",-0.15999999999996817,19.360000000000014,1,True,True,73
+78,5f98aeb71f6d0e1cec74defb,417.44,422.81,Yeah it's interesting. I mean all the vaccine used to this,0.589999999999975,5.3700000000000045,0,False,False,12
+79,59296fb2e8a7ff000163f033,422.74,423.15,Yeah.,-0.06999999999999318,0.40999999999996817,0,False,True,1
+80,5f98aeb71f6d0e1cec74defb,422.81,424.25,past week. Mhm.,-0.339999999999975,1.4399999999999977,0,False,True,3
+81,59296fb2e8a7ff000163f033,424.04,433.96,"Yeah. Right. I mean it's promising. But like, I mean my thing is like, I don't know on supply like how are they going to do that? Right.",-0.20999999999997954,9.919999999999959,1,False,True,30
+82,5f98aeb71f6d0e1cec74defb,434.14,434.34,Yeah.,0.18000000000000682,0.19999999999998863,0,False,False,1
+83,59296fb2e8a7ff000163f033,434.94,437.83,I mean you even have like people that have gotten covid,0.6000000000000227,2.8899999999999864,0,False,False,11
+84,5f98aeb71f6d0e1cec74defb,437.64,437.96,Mhm.,-0.18999999999999773,0.3199999999999932,0,False,True,1
+85,59296fb2e8a7ff000163f033,437.83,438.59,twice.,-0.12999999999999545,0.7599999999999909,0,False,True,1
+86,5f98aeb71f6d0e1cec74defb,438.44,438.64,Uh huh.,-0.14999999999997726,0.19999999999998863,0,False,True,2
+87,59296fb2e8a7ff000163f033,438.6,447.36,"So like does that mean you're going to have to get the vaccine more frequently as well? Because people like the antibodies you develop like they don't last as long, you know,",-0.03999999999996362,8.759999999999991,1,False,True,34
+88,5f98aeb71f6d0e1cec74defb,447.64,451.86,Yeah. I wonder if it's gonna become like a seasonal thing like the flu shot.,0.2799999999999727,4.220000000000027,0,False,False,17
+89,59296fb2e8a7ff000163f033,452.04,457.95,"yep you know, even more frequently potentially because some people are getting covid twice within like three months.",0.18000000000000682,5.909999999999968,0,False,False,18
+90,5f98aeb71f6d0e1cec74defb,458.54,459.92,Yeah.,0.5900000000000318,1.3799999999999955,0,False,False,1
+91,59296fb2e8a7ff000163f033,458.84,459.46,So,-1.080000000000041,0.6200000000000045,0,False,True,1
+92,5f98aeb71f6d0e1cec74defb,459.93,460.66,Uh,0.4700000000000273,0.7300000000000182,0,False,False,1
+93,59296fb2e8a7ff000163f033,460.94,465.76,I don't know you know that's a lot of people it's a lot we have to go around with. Right.,0.2799999999999727,4.819999999999993,0,False,False,23
+94,5f98aeb71f6d0e1cec74defb,466.54,468.26,Yeah. Well I think from,0.7800000000000296,1.7199999999999704,0,False,False,5
+95,59296fb2e8a7ff000163f033,468.14,468.46,Yeah.,-0.12000000000000455,0.3199999999999932,0,False,True,1
+96,5f98aeb71f6d0e1cec74defb,468.26,474.06,what I was reading is that it requires cold storage. Like really good cold storage. So,-0.19999999999998863,5.800000000000011,0,False,True,16
+97,59296fb2e8a7ff000163f033,474.14,474.86,Mhm.,0.07999999999998408,0.7200000000000273,0,False,False,1
+98,5f98aeb71f6d0e1cec74defb,474.44,479.6,for both countries it doesn't really work. It's basically just western countries how,-0.4200000000000159,5.160000000000025,0,False,True,15
+99,59296fb2e8a7ff000163f033,479.54,480.26,Right.,-0.060000000000002274,0.7199999999999704,0,False,True,1
+100,5f98aeb71f6d0e1cec74defb,479.6,481.16,we develop we sell.,-0.6599999999999682,1.5600000000000023,0,False,True,4
+101,59296fb2e8a7ff000163f033,481.44,486.45,How cold did you see it was like I heard one thing but they really weren't sure. Mhm.,0.2799999999999727,5.009999999999991,0,False,False,19
+102,5f98aeb71f6d0e1cec74defb,486.44,492.65,Um I can't recall I know that it was only good for seven days after unfreezing it.,-0.009999999999990905,6.2099999999999795,0,False,True,18
+103,59296fb2e8a7ff000163f033,493.34,499.66,Yeah I heard something like 70 below or something like something below what like any normal freezer would go.,0.6899999999999977,6.32000000000005,0,False,False,19
+104,5f98aeb71f6d0e1cec74defb,499.84,501.33,Yeah. Yeah it's like cold,0.17999999999994998,1.490000000000009,0,False,False,6
+105,59296fb2e8a7ff000163f033,501.04,501.48,Yeah,-0.2899999999999636,0.4399999999999977,0,False,True,1
+106,5f98aeb71f6d0e1cec74defb,501.33,501.5,tea,-0.1500000000000341,0.17000000000001592,0,False,True,1
+107,59296fb2e8a7ff000163f033,501.49,502.56,units.,-0.009999999999990905,1.0699999999999932,0,False,True,1
+108,5f98aeb71f6d0e1cec74defb,501.5,503.56,cold storage something like that.,-1.0600000000000023,2.0600000000000023,0,False,True,5
+109,59296fb2e8a7ff000163f033,503.84,513.66,Yeah they got to get like these special units and whatnot. And it's like I don't know how you're going to do that without much supply. So again like a demand thing right? Supply and demand.,0.2799999999999727,9.819999999999993,1,False,False,39
+110,5f98aeb71f6d0e1cec74defb,514.34,515.26,Yeah.,0.6800000000000637,0.9199999999999591,0,False,False,1
+111,59296fb2e8a7ff000163f033,514.34,517.16,It's like how are we going to get this out to everybody?,-0.9199999999999591,2.8199999999999363,1,True,True,13
+112,5f98aeb71f6d0e1cec74defb,517.54,517.88,Yeah,0.37999999999999545,0.34000000000003183,0,False,False,1
+113,59296fb2e8a7ff000163f033,517.74,517.99,Give,-0.13999999999998636,0.25,0,False,True,1
+114,5f98aeb71f6d0e1cec74defb,517.88,518.11,I was,-0.11000000000001364,0.2300000000000182,0,False,True,2
+115,59296fb2e8a7ff000163f033,517.99,518.15,me a,-0.12000000000000455,0.15999999999996817,0,False,True,2
+116,5f98aeb71f6d0e1cec74defb,518.11,518.38,really,-0.03999999999996362,0.2699999999999818,0,False,True,1
+117,59296fb2e8a7ff000163f033,518.15,518.48,long,-0.2300000000000182,0.3300000000000409,0,False,True,1
+118,5f98aeb71f6d0e1cec74defb,518.38,518.57,I mean,-0.10000000000002274,0.19000000000005457,0,False,True,2
+119,59296fb2e8a7ff000163f033,518.48,518.59,time.,-0.09000000000003183,0.11000000000001364,0,False,True,1
+120,5f98aeb71f6d0e1cec74defb,518.57,522.85,basically it's only like the U. S. And a few countries that can really do it.,-0.01999999999998181,4.279999999999973,0,False,True,17
+121,59296fb2e8a7ff000163f033,523.74,529.46,Yeah but I guess I guess it's a start though. Right? It's better than nothing.,0.8899999999999864,5.720000000000027,1,False,False,17
+122,5f98aeb71f6d0e1cec74defb,529.74,530.46,Yeah,0.2799999999999727,0.7200000000000273,0,False,False,1
+123,59296fb2e8a7ff000163f033,529.84,530.04,Yeah.,-0.6200000000000045,0.1999999999999318,0,False,True,1
+124,5f98aeb71f6d0e1cec74defb,530.46,536.85,I mean it's I guess the worry then just becomes if only a few countries can really afford to do it. I mean,0.42000000000007276,6.389999999999986,0,False,False,24
+125,59296fb2e8a7ff000163f033,536.34,536.66,Yeah.,-0.5099999999999909,0.31999999999993634,0,False,True,1
+126,5f98aeb71f6d0e1cec74defb,537.24,541.56,does it really do that much? I mean because global travel is still probably gonna be dead,0.5800000000000409,4.319999999999936,1,False,False,18
+127,59296fb2e8a7ff000163f033,542.24,557.92,"Yeah. Right. I mean it does like I was saying it does some, but again, it's not it's not the answer. It's just like a start to an answer I guess. Because like maybe you can take that then and like, you know, jen to it and then that that won't require the cold",0.6800000000000637,15.67999999999995,0,False,False,58
+128,5f98aeb71f6d0e1cec74defb,557.84,558.16,and.,-0.07999999999992724,0.31999999999993634,0,False,True,1
+129,59296fb2e8a7ff000163f033,557.92,560.46,stores maybe or something. Right?,-0.2400000000000091,2.5400000000000773,1,True,True,5
+130,5f98aeb71f6d0e1cec74defb,560.04,561.35,Yeah,-0.42000000000007276,1.3100000000000591,0,False,True,1
+131,59296fb2e8a7ff000163f033,561.04,570.46,So I think it's just like a start. That's really what I'm thinking. So what do you do when you get bored now now that you have to just hang out and not go anywhere?,-0.3100000000000591,9.420000000000073,1,True,True,38
+132,5f98aeb71f6d0e1cec74defb,570.64,580.86,well it's basically just been school and work. So I was actually graduated in june in the middle of a pandemic. So we had our graduation online.,0.17999999999994998,10.220000000000027,0,False,False,28
+133,59296fb2e8a7ff000163f033,581.14,582.25,"Yeah. Okay,",0.2799999999999727,1.1100000000000136,0,False,False,2
+134,5f98aeb71f6d0e1cec74defb,582.14,592.35,Um But kind of seeing the job market start to evaporate in March kinda like forced me to go into a master's program. So I'm currently finishing up my masters.,-0.11000000000001364,10.210000000000036,0,False,True,32
+135,59296fb2e8a7ff000163f033,592.44,595.35,that's a good move.,0.09000000000003183,2.909999999999968,0,False,False,5
+136,5f98aeb71f6d0e1cec74defb,594.14,602.2,Um And here I was thinking you know when I grew up because I'm supposed to graduate again this coming june you know things will be better but you,-1.2100000000000364,8.06000000000006,0,False,True,30
+137,59296fb2e8a7ff000163f033,602.04,602.66,Yeah.,-0.16000000000008185,0.6200000000000045,0,False,True,1
+138,5f98aeb71f6d0e1cec74defb,602.2,608.75,know it seems that things might be improving but not at the rate that I kind of thought,-0.4599999999999227,6.5499999999999545,0,False,True,18
+139,59296fb2e8a7ff000163f033,609.14,609.96,Right.,0.38999999999998636,0.82000000000005,0,False,False,1
+140,5f98aeb71f6d0e1cec74defb,609.84,610.46,so,-0.12000000000000455,0.6200000000000045,0,False,True,1
+141,59296fb2e8a7ff000163f033,609.97,610.76,Exactly.,-0.4900000000000091,0.7899999999999636,0,False,True,1
+142,5f98aeb71f6d0e1cec74defb,610.47,618.75,"uh we'll see how it goes, how the job market is. Um Am I test it or decide to just keep going the PhD route?",-0.2899999999999636,8.279999999999973,1,True,True,26
+143,59296fb2e8a7ff000163f033,619.54,620.16,Mhm.,0.7899999999999636,0.6200000000000045,0,False,False,1
+144,5f98aeb71f6d0e1cec74defb,619.94,620.66,We'll see.,-0.2199999999999136,0.7199999999999136,0,False,True,3
+145,59296fb2e8a7ff000163f033,621.94,625.33,"Is it worth it? And once you do like some, some careers,",1.2800000000000864,3.3899999999999864,1,False,False,12
+146,5f98aeb71f6d0e1cec74defb,625.14,625.46,Yeah.,-0.19000000000005457,0.32000000000005,0,False,True,1
+147,59296fb2e8a7ff000163f033,625.33,629.64,"like it's worth it to get the degree, others, it's kind of like it's nice to have, it's",-0.12999999999999545,4.309999999999945,0,False,True,22
+148,5f98aeb71f6d0e1cec74defb,629.54,629.95,Yeah.,-0.10000000000002274,0.41000000000008185,0,False,True,1
+149,59296fb2e8a7ff000163f033,629.64,631.15,not like the biggest thing.,-0.3100000000000591,1.509999999999991,0,False,True,5
+150,5f98aeb71f6d0e1cec74defb,631.44,636.52,"Yeah. So mine is financing marketing, so that's that's my",0.2900000000000773,5.079999999999927,0,False,False,12
+151,59296fb2e8a7ff000163f033,636.24,636.45,Mhm.,-0.2799999999999727,0.21000000000003638,0,False,True,1
+152,5f98aeb71f6d0e1cec74defb,636.52,638.46,undergrad and,0.06999999999993634,1.9400000000000546,0,False,False,2
+153,59296fb2e8a7ff000163f033,638.84,639.56,Right.,0.37999999999999545,0.7199999999999136,0,False,False,1
+154,5f98aeb71f6d0e1cec74defb,639.54,648.93,I mean there are really only real added benefit to going. The PhD route is mostly just if I wanted to really become a professor at the university level. I mean that's,-0.01999999999998181,9.389999999999986,0,False,True,33
+155,59296fb2e8a7ff000163f033,648.44,649.16,Mhm.,-0.4899999999998954,0.7199999999999136,0,False,True,1
+156,5f98aeb71f6d0e1cec74defb,648.94,660.56,"being involved in research related to finance, things like that. I don't think once once you achieve the masters of, I don't think there's really an added benefit in most workplace settings.",-0.2199999999999136,11.61999999999989,0,False,True,35
+157,59296fb2e8a7ff000163f033,661.04,662.36,Right. Okay.,0.4800000000000182,1.32000000000005,0,False,False,2
+158,5f98aeb71f6d0e1cec74defb,662.74,664.51,So Masters,0.37999999999999545,1.7699999999999818,0,False,False,2
+159,59296fb2e8a7ff000163f033,664.24,664.56,But,-0.2699999999999818,0.31999999999993634,0,False,True,1
+160,5f98aeb71f6d0e1cec74defb,664.51,664.81,made,-0.049999999999954525,0.2999999999999545,0,False,True,1
+161,59296fb2e8a7ff000163f033,664.57,665.92,anyways,-0.2399999999998954,1.349999999999909,0,False,True,1
+162,5f98aeb71f6d0e1cec74defb,664.81,667.46,stands. Huh?,-1.1100000000000136,2.650000000000091,1,True,True,2
+163,59296fb2e8a7ff000163f033,667.54,669.46,you said you're thinking of doing it anyways,0.07999999999992724,1.9200000000000728,0,False,False,9
+164,5f98aeb71f6d0e1cec74defb,669.74,691.76,"Um Only so I'm not applying right now, basically gonna just try the job market for a year. And I mean if I really just in a place that I can't get something that uh where I like or in kind of the field that I want or anything, then I might just go the other out. Uh,",0.2799999999999727,22.019999999999982,0,False,False,61
+165,59296fb2e8a7ff000163f033,691.44,691.95,right?,-0.31999999999993634,0.5099999999999909,1,True,True,1
+166,5f98aeb71f6d0e1cec74defb,693.04,693.52,So we'll,1.0899999999999181,0.4800000000000182,0,False,False,3
+167,59296fb2e8a7ff000163f033,693.34,693.55,Oh my,-0.17999999999994998,0.2099999999999227,0,False,True,2
+168,5f98aeb71f6d0e1cec74defb,693.52,694.15,see.,-0.029999999999972715,0.6299999999999955,0,False,True,1
+169,59296fb2e8a7ff000163f033,693.55,693.85,"God,",-0.6000000000000227,0.3000000000000682,0,False,True,1
+170,5f98aeb71f6d0e1cec74defb,694.54,695.16,"Yeah,",0.6899999999999409,0.6200000000000045,0,False,False,1
+171,59296fb2e8a7ff000163f033,695.64,702.45,"like if you did that, would you then get out? And if jobs still some kind of just do like the research and whatnot, like",0.4800000000000182,6.810000000000059,1,False,False,25
+172,5f98aeb71f6d0e1cec74defb,702.94,704.35,"well,",0.4900000000000091,1.4099999999999682,0,False,False,1
+173,59296fb2e8a7ff000163f033,703.14,705.24,go for those additional we're gonna get,-1.2100000000000364,2.1000000000000227,0,False,True,9
+174,5f98aeb71f6d0e1cec74defb,705.24,705.7,"yeah,",0.0,0.4600000000000364,0,False,False,1
+175,59296fb2e8a7ff000163f033,705.24,705.95,otherwise.,-0.4600000000000364,0.7100000000000364,0,False,True,1
+176,5f98aeb71f6d0e1cec74defb,705.7,711.35,I would be graduating at that point in 2022 to 2023. So if,-0.25,5.649999999999977,0,False,True,13
+177,59296fb2e8a7ff000163f033,711.24,711.65,Yeah.,-0.11000000000001364,0.40999999999996817,0,False,True,1
+178,5f98aeb71f6d0e1cec74defb,711.35,715.26,"things are still bad by then, then we probably have other issues.",-0.2999999999999545,3.909999999999968,0,False,True,12
+179,59296fb2e8a7ff000163f033,714.84,723.56,"Yeah, true enough. Right. That's very true. And like what you said you're doing, like that seems kind of like you could do it a lot of it remotely",-0.4199999999999591,8.719999999999914,0,False,True,31
+180,5f98aeb71f6d0e1cec74defb,724.14,725.46,"Yeah. Yeah,",0.5800000000000409,1.32000000000005,0,False,False,2
+181,59296fb2e8a7ff000163f033,725.24,725.8,so,-0.22000000000002728,0.5599999999999454,0,False,True,1
+182,5f98aeb71f6d0e1cec74defb,725.47,726.12,it's just,-0.32999999999992724,0.6499999999999773,0,False,True,3
+183,59296fb2e8a7ff000163f033,725.81,726.22,that's kind,-0.3100000000000591,0.41000000000008185,0,False,True,3
+184,5f98aeb71f6d0e1cec74defb,726.13,726.82,"mainly,",-0.09000000000003183,0.6900000000000546,0,False,True,1
+185,59296fb2e8a7ff000163f033,726.22,726.3,of,-0.6000000000000227,0.07999999999992724,0,False,True,1
+186,5f98aeb71f6d0e1cec74defb,726.83,738.56,"yeah, mainly just the hiring freezes that affect its the war can still be done remotely. But most of those companies just have hiring freezes right now, so they aren't even recruiting at the university level at all.",0.5300000000000864,11.729999999999905,0,False,False,39
+187,59296fb2e8a7ff000163f033,738.84,745.55,right. Right. I'm just thinking like once they get rid of those freezes it would be pretty quick to pick up,0.2800000000000864,6.709999999999923,0,False,False,22
+188,5f98aeb71f6d0e1cec74defb,745.34,745.76,Right.,-0.2099999999999227,0.4199999999999591,0,False,True,1
+189,59296fb2e8a7ff000163f033,745.55,749.16,"your, wow, so that'll be good.",-0.21000000000003638,3.6100000000000136,0,False,True,7
+190,5f98aeb71f6d0e1cec74defb,749.64,750.02,"Yeah,",0.4800000000000182,0.37999999999999545,0,False,False,1
+191,59296fb2e8a7ff000163f033,749.84,750.16,Okay.,-0.17999999999994998,0.31999999999993634,0,False,True,1
+192,5f98aeb71f6d0e1cec74defb,750.02,759.66,"hopefully, hopefully. I mean, they're saying that if the vaccines turned out, well the economy should recover and those freezes should lift, but who knows.",-0.13999999999998636,9.639999999999986,0,False,True,26
+193,59296fb2e8a7ff000163f033,760.24,770.78,"I know because I mean the thing is to like all those companies, they they're in a different position now than they were a year ago, right? Like financially like are",0.5800000000000409,10.539999999999964,1,False,False,32
+194,5f98aeb71f6d0e1cec74defb,770.64,770.85,Mm.,-0.13999999999998636,0.21000000000003638,0,False,True,1
+195,59296fb2e8a7ff000163f033,770.78,796.06,"they ready for growth, are they ready to bring more people on, you know like do they have the funds to do all that crap like I I don't know. You know are they even they're still like a lot of companies are dissolving so but then again like where there's people without jobs you know if they maybe if they get like grants out there and like funding for them like other people start up companies. So I guess we just got to wait and see how things go. Right.",-0.07000000000005002,25.279999999999973,0,False,True,94
+196,5f98aeb71f6d0e1cec74defb,797.14,819.37,"Yeah, it'll be interesting. Speaking of companies, that's uh, that's one thing that I'm doing my Masters in entrepreneurship and with the focus again and finance and stuff. and one of the requirements is that you kind of have to start a small business. The university partially funds it, invest in the company. You can then decide to take it out of the university if it's successful, if",1.080000000000041,22.230000000000018,0,False,False,73
+197,59296fb2e8a7ff000163f033,819.24,819.41,Uh,-0.12999999999999545,0.16999999999995907,0,False,True,1
+198,5f98aeb71f6d0e1cec74defb,819.37,819.56,it's,-0.03999999999996362,0.18999999999994088,0,False,True,2
+199,59296fb2e8a7ff000163f033,819.41,819.74,huh.,-0.14999999999997726,0.3300000000000409,0,False,True,1
+200,5f98aeb71f6d0e1cec74defb,819.56,823.06,"not, essentially the university is willing to eat most of the losses.",-0.18000000000006366,3.5,0,False,True,12
+201,59296fb2e8a7ff000163f033,823.74,824.76,That's cool.,0.6800000000000637,1.0199999999999818,0,False,False,3
+202,5f98aeb71f6d0e1cec74defb,824.84,843.36,"Um So we decided to start a home decor business, candles, soaps, that kind of stuff, but it's been tricky trying to do it all online because those things are sent or touch, so most people don't really want to buy them online. It's like, you don't, I mean you can see the scent described but you can't really smell it,",0.08000000000004093,18.519999999999982,0,False,False,66
+203,59296fb2e8a7ff000163f033,843.64,844.56,Yeah.,0.2799999999999727,0.9199999999999591,0,False,False,1
+204,5f98aeb71f6d0e1cec74defb,844.04,846.76,can you feel the soap? So it's been tricky.,-0.5199999999999818,2.7200000000000273,1,False,True,10
+205,59296fb2e8a7ff000163f033,847.24,857.96,I got you. I got you. Now. Is this just you said we like is it did you guys like you and other people that are in the program? Did you go in and like a business together? Is that the idea,0.4800000000000182,10.720000000000027,2,False,False,42
+206,5f98aeb71f6d0e1cec74defb,858.34,865.19,"Yeah, the idea is, yeah, you form a team, you going at the university can, will fund up to $10,000 and then",0.37999999999999545,6.850000000000023,0,False,False,23
+207,59296fb2e8a7ff000163f033,865.14,865.86,what?,-0.05000000000006821,0.7200000000000273,1,True,True,1
+208,5f98aeb71f6d0e1cec74defb,865.2,871.66,um you guys can start it um And then like I said you can take it out of the university later when you graduate.,-0.6599999999999682,6.459999999999923,0,False,True,24
+209,59296fb2e8a7ff000163f033,872.24,872.86,Mhm.,0.5800000000000409,0.6200000000000045,0,False,False,1
+210,5f98aeb71f6d0e1cec74defb,872.34,877.65,Um You owned I. P. Um They just basically with they own would technically be the inventory.,-0.5199999999999818,5.309999999999945,0,False,True,17
+211,59296fb2e8a7ff000163f033,878.34,878.85,Mhm.,0.6900000000000546,0.5099999999999909,0,False,False,1
+212,5f98aeb71f6d0e1cec74defb,879.34,889.75,"So um that's how we do, we we sold at the farmers market basically every thursday. But it's been tricky to find in person events just because of Covid again",0.4900000000000091,10.409999999999968,0,False,False,32
+213,59296fb2e8a7ff000163f033,889.74,890.06,Yeah.,-0.009999999999990905,0.31999999999993634,0,False,True,1
+214,5f98aeb71f6d0e1cec74defb,889.75,895.06,basically the only places farmers market because it's technically considered a grocery store which is an essential business.,-0.30999999999994543,5.309999999999945,0,False,True,19
+215,59296fb2e8a7ff000163f033,895.44,896.06,Mhm.,0.38000000000010914,0.6199999999998909,0,False,False,1
+216,5f98aeb71f6d0e1cec74defb,896.44,899.65,"Um And it's outside, but that's about it, like",0.38000000000010914,3.2099999999999227,0,False,False,11
+217,59296fb2e8a7ff000163f033,900.24,901.04,Yeah.,0.5900000000000318,0.7999999999999545,0,False,False,1
+218,5f98aeb71f6d0e1cec74defb,900.54,904.46,anything else is tricky besides that's just online.,-0.5,3.9200000000000728,0,False,True,9
+219,59296fb2e8a7ff000163f033,904.84,907.66,Right. Right. I mean is it even going like,0.37999999999999545,2.8199999999999363,0,False,False,9
+220,5f98aeb71f6d0e1cec74defb,907.54,907.74,Yeah.,-0.12000000000000455,0.20000000000004547,0,False,True,1
+221,59296fb2e8a7ff000163f033,907.67,914.4,you say it's tricky. Are you are you being polite with respect to your labeling or is it is it actually doing halfway Okay. Like,-0.07000000000005002,6.730000000000018,0,False,True,26
+222,5f98aeb71f6d0e1cec74defb,914.34,914.55,Mhm.,-0.05999999999994543,0.2099999999999227,0,False,True,1
+223,59296fb2e8a7ff000163f033,914.4,916.26,are you guys is it floating?,-0.14999999999997726,1.8600000000000136,1,True,True,6
+224,5f98aeb71f6d0e1cec74defb,915.84,916.83,Yeah. Yeah,-0.4199999999999591,0.9900000000000091,0,False,True,2
+225,59296fb2e8a7ff000163f033,916.64,916.96,Uh huh.,-0.19000000000005457,0.32000000000005,0,False,True,2
+226,5f98aeb71f6d0e1cec74defb,916.84,925.11,it's um so we've been slowly growing our inventory because so by far is really selling well. So we we,-0.12000000000000455,8.269999999999982,0,False,True,22
+227,59296fb2e8a7ff000163f033,925.04,925.36,Trip.,-0.07000000000005002,0.32000000000005,0,False,True,1
+228,5f98aeb71f6d0e1cec74defb,925.11,934.77,"started it out in in february, so like about a month right before the pandemic and we had about $2500 in sales for just candles.",-0.25,9.659999999999968,0,False,True,26
+229,59296fb2e8a7ff000163f033,934.04,934.24,Yeah.,-0.7300000000000182,0.20000000000004547,0,False,True,1
+230,5f98aeb71f6d0e1cec74defb,934.78,935.46,It was great.,0.5399999999999636,0.6800000000000637,0,False,False,3
+231,59296fb2e8a7ff000163f033,935.04,935.55,Okay.,-0.42000000000007276,0.5099999999999909,0,False,True,1
+232,5f98aeb71f6d0e1cec74defb,935.84,941.06,But then the pandemic kind of hidden that basically evaporated Mother's Day kind of picked up again to about 1000.,0.2900000000000773,5.219999999999914,0,False,False,21
+233,59296fb2e8a7ff000163f033,941.54,941.96,No.,0.4800000000000182,0.42000000000007276,0,False,False,1
+234,5f98aeb71f6d0e1cec74defb,941.64,945.94,But lately we haven't really been having much candle sells because there are more,-0.32000000000005,4.300000000000068,0,False,True,15
+235,59296fb2e8a7ff000163f033,945.74,945.94,Yeah.,-0.20000000000004547,0.20000000000004547,0,False,True,1
+236,5f98aeb71f6d0e1cec74defb,945.94,949.56,on the expensive side because we use kind of premium ingredients.,0.0,3.619999999999891,0,False,False,11
+237,59296fb2e8a7ff000163f033,950.14,950.76,Mhm.,0.5800000000000409,0.6200000000000045,0,False,False,1
+238,5f98aeb71f6d0e1cec74defb,950.24,961.66,"Um So coconut wax, wooden wicks, that kind of thing and it's supposed to last longer smell nicer, things like that. But I guess people are a little bit more price sensitive now and it makes sense.",-0.5199999999999818,11.419999999999959,0,False,True,38
+239,59296fb2e8a7ff000163f033,961.94,962.56,Mhm.,0.2800000000000864,0.6199999999998909,0,False,False,1
+240,5f98aeb71f6d0e1cec74defb,962.34,973.75,"Um Soaps is a much easier sell, you know at $567. It's people buy those both more in person and online um candle",-0.2199999999999136,11.409999999999968,0,False,True,25
+241,59296fb2e8a7ff000163f033,973.54,973.86,Mhm.,-0.21000000000003638,0.32000000000005,0,False,True,1
+242,5f98aeb71f6d0e1cec74defb,973.75,978.44,"cells are basically just stayed now at like 2 $300 a month, that's",-0.11000000000001364,4.690000000000055,0,False,True,15
+243,59296fb2e8a7ff000163f033,978.34,978.85,It's,-0.10000000000002274,0.5099999999999909,0,False,True,2
+244,5f98aeb71f6d0e1cec74defb,978.44,979.05,about it.,-0.40999999999996817,0.6099999999999,0,False,True,2
+245,59296fb2e8a7ff000163f033,979.34,980.15,okay.,0.2900000000000773,0.8099999999999454,0,False,False,1
+246,5f98aeb71f6d0e1cec74defb,979.74,980.25,So,-0.40999999999996817,0.5099999999999909,0,False,True,1
+247,59296fb2e8a7ff000163f033,981.62,990.16,School. Yeah. I mean maybe something good that will pick up after these things are over and you guys can actually sell out in person again.,1.3700000000000045,8.539999999999964,0,False,False,26
+248,5f98aeb71f6d0e1cec74defb,991.44,1008.65,"yeah, I mean we've been trying things to like uh the home decor stuff. So we've been um importing marble from Mexico. We're looking at coconut products from Vietnam and alpaca products from chile because we have people, we have team members that have families",1.2800000000000864,17.209999999999923,0,False,False,48
+249,59296fb2e8a7ff000163f033,1008.14,1008.35,Right.,-0.5099999999999909,0.21000000000003638,0,False,True,1
+250,5f98aeb71f6d0e1cec74defb,1008.65,1009.81,or know people,0.2999999999999545,1.1599999999999682,0,False,False,3
+251,59296fb2e8a7ff000163f033,1009.74,1009.97,Mhm.,-0.06999999999993634,0.2300000000000182,0,False,True,1
+252,5f98aeb71f6d0e1cec74defb,1009.81,1010.85,from those countries.,-0.16000000000008185,1.0400000000000773,0,False,True,3
+253,59296fb2e8a7ff000163f033,1011.34,1011.97,Mhm.,0.4900000000000091,0.6299999999999955,0,False,False,1
+254,5f98aeb71f6d0e1cec74defb,1011.44,1020.86,"So right now we have some marble coming in should arrive right after I think by cyber monday. So on the 30th of this month,",-0.5299999999999727,9.419999999999959,0,False,True,25
+255,59296fb2e8a7ff000163f033,1021.54,1022.16,Mhm.,0.67999999999995,0.6200000000000045,0,False,False,1
+256,5f98aeb71f6d0e1cec74defb,1021.64,1039.39,"hopefully in time for holiday sales. So we've been trying some of that to trying to just diversify, see what works. I guess the benefit of being underneath the university is just that if it all kind of goes downhill it's not too much on us, it's like",-0.5199999999999818,17.750000000000114,0,False,True,51
+257,59296fb2e8a7ff000163f033,1039.34,1040.3,Write,-0.0500000000001819,0.9600000000000364,0,False,True,1
+258,5f98aeb71f6d0e1cec74defb,1039.39,1040.86,a experiment.,-0.9099999999998545,1.4699999999998,0,False,True,2
+259,59296fb2e8a7ff000163f033,1040.31,1043.56,your skin is out of the game. I got you.,-0.5499999999999545,3.25,0,False,True,10
+260,5f98aeb71f6d0e1cec74defb,1044.24,1045.46,So,0.6800000000000637,1.2200000000000273,0,False,False,1
+261,59296fb2e8a7ff000163f033,1044.24,1044.44,Yeah.,-1.2200000000000273,0.20000000000004547,0,False,True,1
+262,5f98aeb71f6d0e1cec74defb,1046.14,1059.67,"yeah just trying different things to see what works what doesn't and uh and if we find something that really really works and picks up especially before june of next year, then we might take it out of the university, we'll see how that goes.",1.7000000000000455,13.529999999999973,0,False,False,47
+263,59296fb2e8a7ff000163f033,1060.14,1063.67,"Right. Why soap? Like, why did you get into soap and candles?",0.4700000000000273,3.5299999999999727,2,True,False,12
+264,5f98aeb71f6d0e1cec74defb,1064.84,1073.06,"So candles mainly because it was more from the environmental aspects. So a lot of soaps are candles use paraffin wax,",1.1699999999998454,8.220000000000027,0,False,False,21
+265,59296fb2e8a7ff000163f033,1073.74,1074.27,Mhm.,0.6800000000000637,0.5299999999999727,0,False,False,1
+266,5f98aeb71f6d0e1cec74defb,1073.84,1092.85,"which is a petroleum derived product and when you burn it and enclosed spaces for prolonged periods of time, it can kind of give certain chemicals off. Um that are not necessarily bad for you if you're in an open space, but if you're in an enclosed space it can be.",-0.43000000000006366,19.00999999999999,0,False,True,53
+267,59296fb2e8a7ff000163f033,1093.34,1093.96,Mhm.,0.4900000000000091,0.6200000000001182,0,False,False,1
+268,5f98aeb71f6d0e1cec74defb,1093.54,1109.59,And so we're trying to think um we wanted to kind of hit two things. We wanted to make a product that's better but also more environmentally friendly. So without sacrificing quality because paraffin wax is really good at releasing sent and,-0.42000000000007276,16.049999999999955,0,False,True,44
+269,59296fb2e8a7ff000163f033,1109.44,1109.86,Mhm.,-0.14999999999986358,0.4199999999998454,0,False,True,1
+270,5f98aeb71f6d0e1cec74defb,1109.59,1141.05,his wife visit and it's cheap. Um So we decided to use coconut wax because it releases sent even better than paraffin wax. The one downside is cost. But the upside is it's more environmentally friendly without sacrificing any of the quality attributes. It's great send throw it lasts longer. Um We use 11 ounces in our candles. Normal candle wax would probably burn about 60 to 70 hours are burns up to 100.,-0.2699999999999818,31.460000000000036,0,False,True,77
+271,59296fb2e8a7ff000163f033,1141.54,1141.86,Yeah.,0.4900000000000091,0.31999999999993634,0,False,False,1
+272,5f98aeb71f6d0e1cec74defb,1141.84,1153.86,So we get that from just using coconut wax and a wooden wick. Um So it's kind of those that kind of led us into the candle route and same thing to the so proud just,-0.01999999999998181,12.019999999999982,0,False,True,37
+273,59296fb2e8a7ff000163f033,1154.14,1154.46,Okay.,0.2800000000002001,0.31999999999993634,0,False,False,1
+274,5f98aeb71f6d0e1cec74defb,1154.44,1159.07,trying to keep stuff on the label that you can actually read and understand um,-0.01999999999998181,4.629999999999882,0,False,True,15
+275,59296fb2e8a7ff000163f033,1158.44,1159.36,Okay.,-0.6299999999998818,0.9199999999998454,0,False,True,1
+276,5f98aeb71f6d0e1cec74defb,1159.08,1164.06,keeper long chemical names that you know we don't even know what it actually means.,-0.2799999999999727,4.980000000000018,0,False,True,16
+277,59296fb2e8a7ff000163f033,1164.44,1171.46,Right. So it's like a hell slash environmentally friendly product that you saw like a need for or that you were just interested in?,0.38000000000010914,7.019999999999982,1,True,False,25
+278,5f98aeb71f6d0e1cec74defb,1172.14,1188.8,"Um So we were kind interested in but also because there's kind of a lack of it. I mean there's a lot of greenwashing especially here in Seattle because it's supposedly environmentally friendly city. Um But a lot of the products that say they're green or eco friendly if you actually read the label, like",0.6800000000000637,16.659999999999854,0,False,False,59
+279,59296fb2e8a7ff000163f033,1188.64,1189.27,Mhm.,-0.15999999999985448,0.6299999999998818,0,False,True,1
+280,5f98aeb71f6d0e1cec74defb,1188.8,1203.86,"they may be packaged in a nice brown recycled packaging and what not, but when you actually read the ingredient label, a lot of them can still contain not all of the chemicals but still some of them that you find in like big brand names.",-0.4700000000000273,15.059999999999945,0,False,True,46
+281,59296fb2e8a7ff000163f033,1204.14,1204.65,Right.,0.2800000000002001,0.5099999999999909,0,False,False,1
+282,5f98aeb71f6d0e1cec74defb,1204.34,1204.67,Sure.,-0.3100000000001728,0.3300000000001546,0,False,True,1
+283,59296fb2e8a7ff000163f033,1204.65,1206.06,They're not 100% them.,-0.01999999999998181,1.4099999999998545,0,False,True,5
+284,5f98aeb71f6d0e1cec74defb,1206.54,1221.45,"Yeah. So yeah, I I assume that's something similar that happens in other cities to that are kind of more eco friendly focus that there's a lot of greenwashing and just to appeal to the to the consumer, but because consumers sometimes don't necessarily read.",0.4800000000000182,14.910000000000082,0,False,False,48
+285,59296fb2e8a7ff000163f033,1221.64,1225.4,"Yeah. Really? They just see like the label, right?",0.19000000000005457,3.759999999999991,2,True,False,9
+286,5f98aeb71f6d0e1cec74defb,1225.34,1225.96,Mhm.,-0.060000000000172804,0.6200000000001182,0,False,True,1
+287,59296fb2e8a7ff000163f033,1225.41,1229.36,"And they just seem like the claims on it. So they just hit like the highlights, Right? They don't look",-0.5499999999999545,3.949999999999818,1,False,True,21
+288,5f98aeb71f6d0e1cec74defb,1229.34,1229.76,"Right,",-0.01999999999998181,0.42000000000007276,0,False,True,1
+289,59296fb2e8a7ff000163f033,1229.36,1232.85,at the day. It's very true. Let's,-0.40000000000009095,3.490000000000009,0,False,True,9
+290,5f98aeb71f6d0e1cec74defb,1232.84,1233.04,and,-0.009999999999990905,0.20000000000004547,0,False,True,1
+291,59296fb2e8a7ff000163f033,1232.85,1233.27,do that.,-0.19000000000005457,0.42000000000007276,0,False,True,2
+292,5f98aeb71f6d0e1cec74defb,1233.04,1244.96,"so that's how you want to focus more on the burn time and the quality aspect of of our product, it's kind of like here's our product, it's higher quality, it burns longer, burns better, it smells better",-0.2300000000000182,11.920000000000073,0,False,True,42
+293,59296fb2e8a7ff000163f033,1245.34,1246.17,Mhm.,0.37999999999988177,0.8300000000001546,0,False,False,1
+294,5f98aeb71f6d0e1cec74defb,1245.54,1262.35,"and it's sustainable. It's kind of like the sustainability is second just because I guess some people to like um they don't want to make a sacrifice, like sometimes I feel like if you want to be environmentally friendly you got to make a sacrifice in some aspect of the quality of the product.",-0.6300000000001091,16.809999999999945,0,False,True,57
+295,59296fb2e8a7ff000163f033,1262.94,1268.56,"Mhm. You don't have to do that for online, like what channels do you market through?",0.5900000000001455,5.619999999999891,1,True,False,17
+296,5f98aeb71f6d0e1cec74defb,1269.64,1272.18,So we use Shopify,1.0800000000001546,2.5399999999999636,0,False,False,4
+297,59296fb2e8a7ff000163f033,1271.04,1271.27,"Yeah,",-1.1400000000001,0.2300000000000182,0,False,True,1
+298,5f98aeb71f6d0e1cec74defb,1272.19,1275.71,"um and we basically, it's pretty well",0.9200000000000728,3.519999999999982,0,False,False,8
+299,59296fb2e8a7ff000163f033,1275.54,1275.77,Yeah.,-0.17000000000007276,0.2300000000000182,0,False,True,1
+300,5f98aeb71f6d0e1cec74defb,1275.71,1286.17,"integrated with google ads and instagram um instagram and facebook are great for getting page views and people spending more time on the website, but",-0.05999999999994543,10.460000000000036,0,False,True,25
+301,59296fb2e8a7ff000163f033,1285.54,1286.17,"Mhm,",-0.6300000000001091,0.6300000000001091,0,False,True,1
+302,5f98aeb71f6d0e1cec74defb,1286.54,1292.45,"in terms of actual purchasing, google ads has done much better for us.",0.36999999999989086,5.910000000000082,0,False,False,13
+303,59296fb2e8a7ff000163f033,1292.74,1295.56,"mm hmm, interesting. You know why?",0.2899999999999636,2.8199999999999363,1,True,False,6
+304,5f98aeb71f6d0e1cec74defb,1296.94,1319.77,"Um We really don't. It's kind of perplexes also just because they sit around for roughly two minutes in facebook, if it's the incoming traffic from facebook or instagram, they looked through various pages, some people added to the cart, very little checkouts. I think maybe we might get $100 in sales a month from them.",1.3800000000001091,22.829999999999927,0,False,False,60
+305,59296fb2e8a7ff000163f033,1319.94,1320.56,Mhm.,0.17000000000007276,0.6199999999998909,0,False,False,1
+306,5f98aeb71f6d0e1cec74defb,1320.34,1327.67,Our as google probably every month we get at least $1000 in sales from them just because,-0.22000000000002728,7.330000000000155,0,False,True,18
+307,59296fb2e8a7ff000163f033,1328.04,1328.36,Mhm.,0.36999999999989086,0.31999999999993634,0,False,False,1
+308,5f98aeb71f6d0e1cec74defb,1328.14,1331.86,"they spend less time, but they actually do add it to cart",-0.2199999999997999,3.7199999999998,0,False,True,12
+309,59296fb2e8a7ff000163f033,1331.74,1331.94,"Yeah,",-0.11999999999989086,0.20000000000004547,0,False,True,1
+310,5f98aeb71f6d0e1cec74defb,1331.86,1334.67,and go through with the whole purchase process.,-0.08000000000015461,2.810000000000173,0,False,True,8
+311,59296fb2e8a7ff000163f033,1334.74,1343.65,"interesting. So it's like they're sold somehow before they even get there, you know what I mean? Like the other guys are like more skeptical to check out more, I don't",0.06999999999993634,8.910000000000082,1,False,False,34
+312,5f98aeb71f6d0e1cec74defb,1343.54,1344.05,Right?,-0.11000000000012733,0.5099999999999909,1,True,True,1
+313,59296fb2e8a7ff000163f033,1343.65,1345.55,"know that, I'm just guessing there.",-0.3999999999998636,1.8999999999998636,0,False,True,7
+314,5f98aeb71f6d0e1cec74defb,1345.84,1350.85,Yeah. And it's interesting because instagram ads um are more image based,0.2899999999999636,5.009999999999991,0,False,False,13
+315,59296fb2e8a7ff000163f033,1351.24,1351.86,Mhm.,0.39000000000010004,0.6199999999998909,0,False,False,1
+316,5f98aeb71f6d0e1cec74defb,1352.14,1357.96,"and google ads. Most text, mostly text based. So there is something there",0.2800000000002001,5.819999999999936,0,False,False,13
+317,59296fb2e8a7ff000163f033,1358.64,1359.27,Mhm.,0.6800000000000637,0.6299999999998818,0,False,False,1
+318,5f98aeb71f6d0e1cec74defb,1359.64,1378.77,"but it almost is counterintuitive because you would think if they're looking at the product and they go and learn more about it, um they'd be more willing to purchase but it seems that they're more willing to purchase. If they read the description, go to the website, look at the product, agree with it and then go and purchase.",0.37000000000011823,19.12999999999988,0,False,False,63
+319,59296fb2e8a7ff000163f033,1379.34,1385.46,"Yeah, that is interesting. Like, are you guys doing anything with that information?",0.5699999999999363,6.120000000000118,1,True,False,13
+320,5f98aeb71f6d0e1cec74defb,1386.64,1397.23,"Uh Not yet right now, we've honestly been more focused on just bringing the products in um for the past month or so, so",1.1800000000000637,10.589999999999918,0,False,False,25
+321,59296fb2e8a7ff000163f033,1396.64,1397.06,Mhm.,-0.5899999999999181,0.4199999999998454,0,False,True,1
+322,5f98aeb71f6d0e1cec74defb,1397.24,1401.64,"yeah, that's kind of saying we're trying to bring products from other countries and uh",0.18000000000006366,4.400000000000091,0,False,False,17
+323,59296fb2e8a7ff000163f033,1401.64,1401.85,Ah,0.0,0.209999999999809,0,False,False,1
+324,5f98aeb71f6d0e1cec74defb,1401.65,1404.86,"that's been challenging with Covid and shipping, so",-0.1999999999998181,3.209999999999809,0,False,True,9
+325,59296fb2e8a7ff000163f033,1405.04,1407.46,"right. And I got to ask, what do you do with the marble?",0.18000000000006366,2.4200000000000728,1,True,False,13
+326,5f98aeb71f6d0e1cec74defb,1408.04,1408.91,so,0.5799999999999272,0.8700000000001182,0,False,False,1
+327,59296fb2e8a7ff000163f033,1408.74,1409.46,What,-0.17000000000007276,0.7200000000000273,0,False,True,1
+328,5f98aeb71f6d0e1cec74defb,1408.91,1411.43,we make coasters out of it and uh,-0.5499999999999545,2.519999999999982,0,False,True,8
+329,59296fb2e8a7ff000163f033,1411.34,1411.67,help?,-0.09000000000014552,0.3300000000001546,1,True,True,1
+330,5f98aeb71f6d0e1cec74defb,1411.44,1412.45,plant potters,-0.2300000000000182,1.009999999999991,0,False,True,2
+331,59296fb2e8a7ff000163f033,1412.64,1414.35,"Okay, I got you.",0.19000000000005457,1.709999999999809,0,False,False,4
+332,5f98aeb71f6d0e1cec74defb,1414.44,1438.45,"and its artisan made, so it's, the finish is really nice. Um but also we have the ability to kind of make whatever you want. So we kind of expect out four inch and 3.5 inch coasters to bring here. But I mean if someone wanted like a large platter, we can turn around is about 3 to 4 weeks, that includes shipping time so",0.09000000000014552,24.00999999999999,0,False,False,66
+333,59296fb2e8a7ff000163f033,1438.74,1439.36,Mhm.,0.2899999999999636,0.6199999999998909,0,False,False,1
+334,5f98aeb71f6d0e1cec74defb,1439.14,1440.96,we can get it done.,-0.2199999999997999,1.8199999999999363,0,False,True,5
+335,59296fb2e8a7ff000163f033,1442.84,1446.86,"God, is that like a new thing for you guys, you're just starting to do?",1.8799999999998818,4.019999999999982,1,True,False,16
+336,5f98aeb71f6d0e1cec74defb,1447.44,1460.22,"Yeah, yeah, so that's kind of basically under our home decor area of our business, so that and uh we're looking in the products made out of sea grass or coconut um",0.5800000000001546,12.779999999999973,0,False,False,34
+337,59296fb2e8a7ff000163f033,1459.74,1460.27,Mhm.,-0.4800000000000182,0.5299999999999727,0,False,True,1
+338,5f98aeb71f6d0e1cec74defb,1460.23,1461.17,too. so,-0.03999999999996362,0.9400000000000546,0,False,True,2
+339,59296fb2e8a7ff000163f033,1462.54,1466.56,"Okay. And so you're just trying to diversify, like, expand into like related products?",1.3699999999998909,4.019999999999982,1,True,False,15
+340,5f98aeb71f6d0e1cec74defb,1467.44,1480.57,"yeah basically and see what kind of what kind of works. Um I was like actually honest surprise little bit shipping isn't as much as I would think it would be, you know marbles pretty heavy but shipping it 3000",0.8800000000001091,13.129999999999882,0,False,False,41
+341,59296fb2e8a7ff000163f033,1480.14,1480.46,"Yeah,",-0.4299999999998363,0.31999999999993634,0,False,True,1
+342,5f98aeb71f6d0e1cec74defb,1480.57,1482.96,miles isn't actually that expensive.,0.10999999999989996,2.3900000000001,0,False,False,6
+343,59296fb2e8a7ff000163f033,1483.14,1485.66,"interesting. I would not think that, you know,",0.18000000000006366,2.519999999999982,0,False,False,8
+344,5f98aeb71f6d0e1cec74defb,1486.74,1487.15,Yeah,1.0799999999999272,0.41000000000008185,0,False,False,1
+345,59296fb2e8a7ff000163f033,1486.84,1487.87,usually,-0.3100000000001728,1.0299999999999727,0,False,True,1
+346,5f98aeb71f6d0e1cec74defb,1487.15,1488.56,I think it's,-0.7199999999997999,1.4099999999998545,0,False,True,4
+347,59296fb2e8a7ff000163f033,1487.9,1488.67,uh,-0.6599999999998545,0.7699999999999818,0,False,True,1
+348,5f98aeb71f6d0e1cec74defb,1488.94,1489.14,I think,0.2699999999999818,0.20000000000004547,0,False,False,2
+349,59296fb2e8a7ff000163f033,1489.04,1489.58,talk.,-0.10000000000013642,0.5399999999999636,0,False,True,1
+350,5f98aeb71f6d0e1cec74defb,1489.14,1495.86,it's like 6 £700 of marble and it's only like 300 ish dollars to ship it something like,-0.4399999999998272,6.7199999999998,0,False,True,21
+351,59296fb2e8a7ff000163f033,1495.74,1495.95,Mhm.,-0.11999999999989086,0.21000000000003638,0,False,True,1
+352,5f98aeb71f6d0e1cec74defb,1495.86,1496.35,that.,-0.09000000000014552,0.4900000000000091,0,False,True,1
+353,59296fb2e8a7ff000163f033,1496.54,1506.56,"Yeah. Okay. It is surprising and it's still cheaper than getting it, like it's still cheaper to get a ship than to get anything local then.",0.19000000000005457,10.019999999999982,0,False,False,28
+354,5f98aeb71f6d0e1cec74defb,1508.24,1522.55,"Yes, and also just from a turnaround time, like I don't know what's your experience there with basically anything that might have to do with building material related, but it's like a 4 to 5 month lead time, it's just absolutely nuts,",1.6800000000000637,14.309999999999945,0,False,False,46
+355,59296fb2e8a7ff000163f033,1522.94,1527.96,"Yes, everybody is deciding to add an addition on their house. That seems so",0.39000000000010004,5.019999999999982,0,False,False,14
+356,5f98aeb71f6d0e1cec74defb,1527.24,1537.36,"so because they use some marble for countertops at the local places we talked to and things like that, it's just yeah it's 4 to 5 months out, it's crazy.",-0.7200000000000273,10.11999999999989,0,False,True,33
+357,59296fb2e8a7ff000163f033,1537.74,1563.84,"Mhm, yep. That's what we're finding here to like, if you want to get lumber like in Buffalo, you think second biggest city in the state, right? You can't get it, you can't get any, you can get some, but like if you want something specific, you're not going to probably get that. You know, you a lot of what those specifics are gone and they're out of certain types. So I imagine it's the same with that because I guess like everybody is doing construction stuff right now. Yeah,",0.38000000000010914,26.09999999999991,1,False,False,97
+358,5f98aeb71f6d0e1cec74defb,1564.24,1569.06,"Yeah, it's kind of crazy that so much construction is going on. It's",0.40000000000009095,4.819999999999936,0,False,False,15
+359,59296fb2e8a7ff000163f033,1569.94,1571.04,"yeah, people are",0.8800000000001091,1.099999999999909,0,False,False,3
+360,5f98aeb71f6d0e1cec74defb,1571.04,1571.27,okay.,0.0,0.2300000000000182,0,False,False,1
+361,59296fb2e8a7ff000163f033,1571.04,1572.08,bored between,-0.2300000000000182,1.0399999999999636,0,False,True,2
+362,5f98aeb71f6d0e1cec74defb,1572.04,1572.46,Mhm.,-0.03999999999996362,0.42000000000007276,0,False,True,1
+363,59296fb2e8a7ff000163f033,1572.08,1573.45,that all sales.,-0.38000000000010914,1.3700000000001182,0,False,True,3
+364,5f98aeb71f6d0e1cec74defb,1574.84,1575.31,"Yeah,",1.3899999999998727,0.4700000000000273,0,False,False,1
+365,59296fb2e8a7ff000163f033,1574.94,1575.56,Like,-0.36999999999989086,0.6199999999998909,0,False,True,1
+366,5f98aeb71f6d0e1cec74defb,1575.31,1576.85,I don't get it. But uh,-0.25,1.5399999999999636,0,False,True,7
+367,59296fb2e8a7ff000163f033,1577.44,1577.71,there's,0.5900000000001455,0.2699999999999818,0,False,False,2
+368,5f98aeb71f6d0e1cec74defb,1577.54,1578.35,uh,-0.17000000000007276,0.8099999999999454,0,False,True,1
+369,59296fb2e8a7ff000163f033,1577.71,1597.19,"this dude, the town I grew up and he used to be a teacher, he taught me like tech when I was back in high school right? And he opened a liquor store, he retired from that. And I guess he sold within like two weeks after this first started he sold more than he did in three years in two weeks to",-0.6399999999998727,19.480000000000018,1,False,True,63
+370,5f98aeb71f6d0e1cec74defb,1597.14,1597.67,Yeah.,-0.049999999999954525,0.5299999999999727,0,False,True,1
+371,59296fb2e8a7ff000163f033,1597.19,1601.36,give you an idea like it was just like everybody just wanted alcohol like,-0.4800000000000182,4.169999999999845,0,False,True,14
+372,5f98aeb71f6d0e1cec74defb,1601.34,1601.76,Mhm.,-0.01999999999998181,0.42000000000007276,0,False,True,1
+373,59296fb2e8a7ff000163f033,1601.36,1613.16,when your first shot in and that's all they were doing like building projects like you couldn't get lumber at Home Depot and you couldn't get alcohol because he had to like shit more in. And he sold that much and he,-0.40000000000009095,11.800000000000182,0,False,True,45
+374,5f98aeb71f6d0e1cec74defb,1613.14,1613.34,Yeah.,-0.01999999999998181,0.1999999999998181,0,False,True,1
+375,59296fb2e8a7ff000163f033,1613.16,1624.67,said like you were just coming in and anything he had they were just buying because at that point that you probably didn't have what they wanted and he like was selling out of almost everything. Like the shelves are pretty bad. Yeah.,-0.1799999999998363,11.509999999999991,0,False,True,44
+376,5f98aeb71f6d0e1cec74defb,1624.64,1625.3,"Yeah, that's",-0.029999999999972715,0.6599999999998545,0,False,True,3
+377,59296fb2e8a7ff000163f033,1625.14,1625.34,Yeah.,-0.15999999999985448,0.1999999999998181,0,False,True,1
+378,5f98aeb71f6d0e1cec74defb,1625.3,1636.45,"great. Yeah, I saw that in Mexico because they banned the sale of alcohol early on in the pandemic and basically we're just lines in front of the Costco's in Mexico just for",-0.03999999999996362,11.150000000000091,0,False,True,35
+379,59296fb2e8a7ff000163f033,1636.44,1636.67,Oh.,-0.009999999999990905,0.2300000000000182,0,False,True,1
+380,5f98aeb71f6d0e1cec74defb,1636.45,1640.46,"hours and hours, people just trying to buy it before the deadline.",-0.22000000000002728,4.009999999999991,0,False,True,12
+381,59296fb2e8a7ff000163f033,1640.54,1642.32,Oh man,0.07999999999992724,1.7799999999999727,0,False,False,2
+382,5f98aeb71f6d0e1cec74defb,1641.74,1642.15,Uh huh.,-0.5799999999999272,0.41000000000008185,0,False,True,2
+383,59296fb2e8a7ff000163f033,1642.33,1644.17,that's crazy. I didn't know they did that.,0.1799999999998363,1.8400000000001455,0,False,False,10
+384,5f98aeb71f6d0e1cec74defb,1644.44,1644.71,"Yeah,",0.2699999999999818,0.2699999999999818,0,False,False,1
+385,59296fb2e8a7ff000163f033,1644.64,1645.06,All,-0.06999999999993634,0.4199999999998454,0,False,True,1
+386,5f98aeb71f6d0e1cec74defb,1644.71,1645.28,they shut down,-0.34999999999990905,0.5699999999999363,0,False,True,3
+387,59296fb2e8a7ff000163f033,1645.06,1645.56,right man.,-0.22000000000002728,0.5,0,False,True,2
+388,5f98aeb71f6d0e1cec74defb,1645.37,1647.46,production for like a month.,-0.19000000000005457,2.0900000000001455,0,False,True,5
+389,59296fb2e8a7ff000163f033,1647.94,1651.17,Yeah I hear you all right man. I got to run,0.4800000000000182,3.230000000000018,0,False,False,11
+390,5f98aeb71f6d0e1cec74defb,1651.34,1651.86,Yeah.,0.16999999999984539,0.5199999999999818,0,False,False,1
+391,59296fb2e8a7ff000163f033,1651.64,1651.96,well,-0.2199999999997999,0.31999999999993634,0,False,True,1
+392,5f98aeb71f6d0e1cec74defb,1651.86,1652.66,Here.,-0.10000000000013642,0.8000000000001819,0,False,True,1
+393,59296fb2e8a7ff000163f033,1652.44,1655.43,but when your time though but you taught me a lot about what you do. It was cool,-0.22000000000002728,2.990000000000009,0,False,True,18
+394,5f98aeb71f6d0e1cec74defb,1655.43,1655.84,Okay.,0.0,0.4099999999998545,0,False,False,1
+395,59296fb2e8a7ff000163f033,1655.43,1656.76,man. Mhm.,-0.4099999999998545,1.3299999999999272,0,False,True,2
+396,5f98aeb71f6d0e1cec74defb,1656.44,1657.67,All right here.,-0.31999999999993634,1.2300000000000182,0,False,True,3

@@ -1,0 +1,646 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5f482b0da1cde52de45f174c,1.94,167.46,"Oh, mm hmm. Yeah. Mhm. Mhm. Uh huh. Mhm. Yeah. Okay. Yeah. Yeah. Okay. Oh. Mhm uh Yeah. Back. Mhm. Mhm Oh yeah. Yeah. Mhm. Mhm. Mhm. Mhm. Yeah. Mhm. Yeah. Uh huh. Yeah. Yeah. Yeah. Okay. Okay. Yeah. Mhm. Mhm. Okay. Yeah. Yeah. Mhm. Mhm. Mhm.",,165.52,0,False,False,47
+1,5f57120cba207c18f058a62b,168.54,169.4,Okay. Yes.,1.079999999999984,0.8600000000000136,0,False,False,2
+2,5f482b0da1cde52de45f174c,170.54,173.96,Yeah. Okay. Time.,1.1399999999999864,3.420000000000016,0,False,False,3
+3,5f57120cba207c18f058a62b,173.94,175.76,"Hello, How are you",-0.020000000000010232,1.8199999999999932,0,False,True,4
+4,5f482b0da1cde52de45f174c,175.54,177.96,Okay. And you?,-0.21999999999999886,2.420000000000016,1,True,True,3
+5,5f57120cba207c18f058a62b,178.14,179.25,doing? Good.,0.1799999999999784,1.1100000000000136,1,False,False,2
+6,5f482b0da1cde52de45f174c,179.54,183.16,"Yeah. All right. Um Hi, nice to meet you.",0.28999999999999204,3.6200000000000045,0,False,False,9
+7,5f57120cba207c18f058a62b,183.44,185.26,"Would you? I'm Sarah,",0.28000000000000114,1.8199999999999932,1,False,False,5
+8,5f482b0da1cde52de45f174c,185.44,188.04,"I'm Sarah, you're Sarah.",0.18000000000000682,2.5999999999999943,0,False,False,6
+9,5f57120cba207c18f058a62b,187.74,188.96,"yes,",-0.29999999999998295,1.2199999999999989,0,False,True,1
+10,5f482b0da1cde52de45f174c,188.94,192.06,"Hi, I'm drugs. Um",-0.020000000000010232,3.1200000000000045,0,False,True,5
+11,5f57120cba207c18f058a62b,190.54,193.04,"Yeah, yeah,",-1.5200000000000102,2.5,0,False,True,2
+12,5f482b0da1cde52de45f174c,193.44,195.14,can I ask what part of the country,0.4000000000000057,1.6999999999999886,0,False,False,8
+13,5f57120cba207c18f058a62b,194.94,195.45,you have?,-0.19999999999998863,0.5099999999999909,1,True,True,2
+14,5f482b0da1cde52de45f174c,195.14,196.31,you're from or,-0.3100000000000023,1.170000000000016,0,False,True,4
+15,5f57120cba207c18f058a62b,195.94,197.38,"Yeah,",-0.37000000000000455,1.4399999999999977,0,False,True,1
+16,5f482b0da1cde52de45f174c,196.32,197.46,sitting here in the US,-1.0600000000000023,1.1400000000000148,0,False,True,5
+17,5f57120cba207c18f058a62b,197.39,199.73,I'm in Virgin. I'm in Virginia.,-0.0700000000000216,2.3400000000000034,0,False,True,8
+18,5f482b0da1cde52de45f174c,199.64,200.26,Virginia?,-0.09000000000000341,0.6200000000000045,1,True,True,1
+19,5f57120cba207c18f058a62b,199.74,207.38,"Um, so I think we're technically classified as the South, but I always thought it was like mid atlantic. Doesn't really feel too much like",-0.5199999999999818,7.639999999999986,0,False,True,27
+20,5f482b0da1cde52de45f174c,207.24,207.45,"Oh,",-0.13999999999998636,0.20999999999997954,0,False,True,1
+21,5f57120cba207c18f058a62b,207.38,208.65,the south. Where,-0.06999999999999318,1.2700000000000102,0,False,True,3
+22,5f482b0da1cde52de45f174c,208.54,209.05,okay.,-0.11000000000001364,0.5100000000000193,0,False,True,1
+23,5f57120cba207c18f058a62b,208.65,209.55,are you at?,-0.4000000000000057,0.9000000000000057,1,True,True,3
+24,5f482b0da1cde52de45f174c,209.44,211.45,I am over in California.,-0.11000000000001364,2.009999999999991,0,False,True,5
+25,5f57120cba207c18f058a62b,211.84,212.93,"Oh, nice",0.3900000000000148,1.0900000000000034,0,False,False,2
+26,5f482b0da1cde52de45f174c,212.54,213.58,Yeah. North,-0.3900000000000148,1.0400000000000205,0,False,True,2
+27,5f57120cba207c18f058a62b,213.46,213.96,little.,-0.12000000000000455,0.5,0,False,True,1
+28,5f482b0da1cde52de45f174c,213.58,214.96,Carolina's difference. Yeah.,-0.37999999999999545,1.3799999999999955,0,False,True,4
+29,5f57120cba207c18f058a62b,215.14,218.16,"Yeah. What, what time is it there for you guys?",0.1799999999999784,3.0200000000000102,1,True,False,10
+30,5f482b0da1cde52de45f174c,217.34,218.56,It is 803,-0.8199999999999932,1.2199999999999989,0,False,True,3
+31,5f57120cba207c18f058a62b,218.54,221.73,Okay. It's 11 03 for us.,-0.020000000000010232,3.1899999999999977,0,False,True,7
+32,5f482b0da1cde52de45f174c,221.54,222.16,Mhm.,-0.18999999999999773,0.6200000000000045,0,False,True,1
+33,5f57120cba207c18f058a62b,221.81,223.96,So yeah.,-0.3499999999999943,2.1500000000000057,0,False,True,2
+34,5f482b0da1cde52de45f174c,223.84,224.04,Yeah.,-0.12000000000000455,0.19999999999998863,0,False,True,1
+35,5f57120cba207c18f058a62b,224.44,226.96,"Is this your, is this your first time doing one of these?",0.4000000000000057,2.5200000000000102,1,True,False,12
+36,5f482b0da1cde52de45f174c,226.94,228.13,"Uh No, this",-0.020000000000010232,1.1899999999999977,0,False,True,3
+37,5f57120cba207c18f058a62b,227.94,228.26,No.,-0.18999999999999773,0.3199999999999932,0,False,True,1
+38,5f482b0da1cde52de45f174c,228.13,231.96,"is my fourth time, I think.",-0.12999999999999545,3.8300000000000125,0,False,True,6
+39,5f57120cba207c18f058a62b,231.64,237.66,"Oh my gosh, This is, this is technically my second, but the last time the other person didn't show up.",-0.3200000000000216,6.02000000000001,0,False,True,21
+40,5f482b0da1cde52de45f174c,237.34,238.66,Sure. Okay.,-0.3199999999999932,1.3199999999999932,0,False,True,2
+41,5f57120cba207c18f058a62b,238.34,241.06,"Yeah. So I was like, oh, thank but yeah.",-0.3199999999999932,2.719999999999999,0,False,True,9
+42,5f482b0da1cde52de45f174c,241.14,249.06,Yeah. I've had some pretty interesting conversations from people on here. The first time was a teacher from north Carolina.,0.07999999999998408,7.920000000000016,0,False,False,21
+43,5f57120cba207c18f058a62b,249.34,249.85,"Oh, cool.",0.28000000000000114,0.5099999999999909,0,False,False,2
+44,5f482b0da1cde52de45f174c,249.64,250.26,"Um,",-0.21000000000000796,0.6200000000000045,0,False,True,1
+45,5f57120cba207c18f058a62b,249.85,250.36,Cool.,-0.4099999999999966,0.5100000000000193,0,False,True,1
+46,5f482b0da1cde52de45f174c,250.64,255.26,"He was a really nice guy, gave me some life advice with his experience.",0.2799999999999727,4.6200000000000045,0,False,False,14
+47,5f57120cba207c18f058a62b,255.44,255.82,That's,0.18000000000000682,0.37999999999999545,0,False,False,2
+48,5f482b0da1cde52de45f174c,255.64,255.96,That,-0.18000000000000682,0.3200000000000216,0,False,True,1
+49,5f57120cba207c18f058a62b,255.82,256.1,off,-0.14000000000001478,0.28000000000002956,0,False,True,1
+50,5f482b0da1cde52de45f174c,255.96,256.22,"was, that",-0.14000000000001478,0.2600000000000193,0,False,True,2
+51,5f57120cba207c18f058a62b,256.1,256.46,now.,-0.12000000000000455,0.3599999999999568,0,False,True,1
+52,5f482b0da1cde52de45f174c,256.22,265.86,"was a really fun one, in my opinion. Um Second one was a, it was a new mom from uh Denver, that's right, Denver",-0.23999999999995225,9.639999999999986,0,False,True,25
+53,5f57120cba207c18f058a62b,266.07,266.66,Okay.,0.20999999999997954,0.5900000000000318,0,False,False,1
+54,5f482b0da1cde52de45f174c,266.84,274.58,yeah and the third one was like an ex veteran from Alaska. He was living,0.17999999999994998,7.740000000000009,0,False,False,15
+55,5f57120cba207c18f058a62b,274.54,274.95,Yeah.,-0.03999999999996362,0.40999999999996817,0,False,True,1
+56,5f482b0da1cde52de45f174c,274.58,275.75,"there then, so. Yeah.",-0.37000000000000455,1.170000000000016,0,False,True,4
+57,5f57120cba207c18f058a62b,275.84,280.23,"That's super cool. That's like so many people from like across the country, Like that's kind of cool",0.08999999999997499,4.390000000000043,0,False,False,21
+58,5f482b0da1cde52de45f174c,280.24,280.86,Yeah.,0.009999999999990905,0.6200000000000045,0,False,False,1
+59,5f57120cba207c18f058a62b,280.24,284.15,that like there's a lot of prolific people out there. Like,-0.6200000000000045,3.909999999999968,0,False,True,12
+60,5f482b0da1cde52de45f174c,283.84,293.16,"Oh yeah, I mean you know I think it's cool. I get paid to just talk to people across the country and I think it's useful in the pandemic during this time. So that's cool.",-0.3100000000000023,9.32000000000005,0,False,True,38
+61,5f57120cba207c18f058a62b,293.24,305.57,"definitely. Yeah. I feel like pretty much all I do is like go to work and come home. So it's like nice to be able to like talk to somebody who like, you know from",0.07999999999998408,12.329999999999984,0,False,False,36
+62,5f482b0da1cde52de45f174c,305.34,306.44,Yeah.,-0.2300000000000182,1.1000000000000227,0,False,True,1
+63,5f57120cba207c18f058a62b,305.57,308.22,"somewhere else, not just like family members",-0.8700000000000045,2.650000000000034,0,False,True,7
+64,5f482b0da1cde52de45f174c,308.14,308.56,Yeah.,-0.08000000000004093,0.4200000000000159,0,False,True,1
+65,5f57120cba207c18f058a62b,308.22,308.75,or whatever,-0.339999999999975,0.5299999999999727,0,False,True,2
+66,5f482b0da1cde52de45f174c,308.57,312.73,I actually don't even go out because I'm a college student so everything is,-0.18000000000000682,4.160000000000025,0,False,True,16
+67,5f57120cba207c18f058a62b,312.64,313.45,and,-0.09000000000003183,0.8100000000000023,0,False,True,1
+68,5f482b0da1cde52de45f174c,312.73,318.37,"online right now, so yeah I do not leave my home often unfortunately.",-0.7199999999999704,5.639999999999986,0,False,True,13
+69,5f57120cba207c18f058a62b,318.34,319.16,"Oh man, that's",-0.03000000000002956,0.82000000000005,0,False,True,4
+70,5f482b0da1cde52de45f174c,319.14,319.29,Kind,-0.020000000000038654,0.1500000000000341,0,False,True,1
+71,5f57120cba207c18f058a62b,319.16,319.33,got to,-0.12999999999999545,0.16999999999995907,0,False,True,2
+72,5f482b0da1cde52de45f174c,319.29,319.35,of,-0.03999999999996362,0.060000000000002274,0,False,True,1
+73,5f57120cba207c18f058a62b,319.33,319.45,be,-0.020000000000038654,0.12000000000000455,0,False,True,1
+74,5f482b0da1cde52de45f174c,319.35,319.76,gramps.,-0.0999999999999659,0.40999999999996817,0,False,True,1
+75,5f57120cba207c18f058a62b,319.45,320.26,rough.,-0.3100000000000023,0.8100000000000023,0,False,True,1
+76,5f482b0da1cde52de45f174c,320.84,332.05,"Yeah you know I actually go to school in Canada, so I was out in another country technically you know doing my own thing and now here I am back trapped up in the old place. So",0.5799999999999841,11.210000000000036,0,False,False,37
+77,5f57120cba207c18f058a62b,332.24,337.06,"Did they send you, did they send you home? Were you there? And then they like made you leave or",0.18999999999999773,4.819999999999993,2,False,False,20
+78,5f482b0da1cde52de45f174c,337.44,341.3,"um so when the pandemic hit in March,",0.37999999999999545,3.8600000000000136,0,False,False,8
+79,5f57120cba207c18f058a62b,341.24,341.75,honey?,-0.060000000000002274,0.5099999999999909,1,True,True,1
+80,5f482b0da1cde52de45f174c,341.31,350.78,"they they said you can finish out the rest of the semester over there. Um But it was already online, so I was more or less just doing the same thing there and",-0.4399999999999977,9.46999999999997,0,False,True,33
+81,5f57120cba207c18f058a62b,350.74,351.36,Okay.,-0.03999999999996362,0.6200000000000045,0,False,True,1
+82,5f482b0da1cde52de45f174c,350.78,356.46,then after that you know I came home and there was no reason to go back because you know more rent and more,-0.5800000000000409,5.680000000000007,0,False,True,23
+83,5f57120cba207c18f058a62b,356.34,356.84,Yeah.,-0.12000000000000455,0.5,0,False,True,1
+84,5f482b0da1cde52de45f174c,356.46,357.15,costs.,-0.37999999999999545,0.6899999999999977,0,False,True,1
+85,5f57120cba207c18f058a62b,357.64,358.06,Okay.,0.4900000000000091,0.4200000000000159,0,False,False,1
+86,5f482b0da1cde52de45f174c,358.74,358.94,Yeah.,0.6800000000000068,0.19999999999998863,0,False,False,1
+87,5f57120cba207c18f058a62b,358.94,362.94,"The thing that's so, that's so rough though because I feel like going like Canada",0.0,4.0,0,False,False,17
+88,5f482b0da1cde52de45f174c,362.64,362.85,Oh,-0.30000000000001137,0.21000000000003638,0,False,True,1
+89,5f57120cba207c18f058a62b,362.94,370.17,is such a different place than it would have been really nice to have like a normal college experience in another country as well. Like that's got to,0.08999999999997499,7.230000000000018,0,False,False,29
+90,5f482b0da1cde52de45f174c,370.14,370.55,yeah.,-0.03000000000002956,0.410000000000025,0,False,True,1
+91,5f57120cba207c18f058a62b,370.17,386.46,"be rough. Like I always, I feel pretty bad for like anyone who was doing study abroad or anything, like getting to go experience something new and then like all of this happened and they just like either had to go home or they had to stay where they were and just quarantine. It's like, that's not like a great experience.",-0.37999999999999545,16.289999999999964,0,False,True,63
+92,5f482b0da1cde52de45f174c,386.54,403.06,"Yeah I have a couple of stories from that as well. Um I had a cousin who was supposed to do a year abroad in Korea and that got cancelled as well, but I had someone who did not get canceled. Uh He is a friend of mine who actually became a japanese teacher or an english teacher in Japan,",0.08000000000004093,16.519999999999982,0,False,False,60
+93,5f57120cba207c18f058a62b,403.44,404.17,Oh,0.37999999999999545,0.7300000000000182,0,False,False,1
+94,5f482b0da1cde52de45f174c,403.94,404.28,so he,-0.2300000000000182,0.339999999999975,0,False,True,2
+95,5f57120cba207c18f058a62b,404.17,404.75,yeah.,-0.1099999999999568,0.5799999999999841,0,False,True,1
+96,5f482b0da1cde52de45f174c,404.29,405.55,should go do that. Yeah.,-0.45999999999997954,1.259999999999991,0,False,True,5
+97,5f57120cba207c18f058a62b,406.14,414.26,"I was, I'm always interested when people have this job. Like I followed this girl and Tiktok who's, she's uh, she's an english teacher in spain",0.589999999999975,8.120000000000005,0,False,False,30
+98,5f482b0da1cde52de45f174c,414.04,414.55,Mhm.,-0.21999999999997044,0.5099999999999909,0,False,True,1
+99,5f57120cba207c18f058a62b,414.27,422.16,"and she's like, yeah, everyone should do this like go teach english in like a foreign country. And I was like, you know, maybe, maybe that's what I should do. Like I think that would be fun.",-0.28000000000002956,7.890000000000043,0,False,True,39
+100,5f482b0da1cde52de45f174c,423.64,432.75,"Yes. Um I'm actually you know learning japanese myself so I can't really say much, but I I can see why people would say you know at least learn like a foreign language, right?",1.4799999999999613,9.110000000000014,1,True,False,36
+101,5f57120cba207c18f058a62b,433.24,433.86,Yeah.,0.4900000000000091,0.6200000000000045,0,False,False,1
+102,5f482b0da1cde52de45f174c,433.44,438.36,"So you know, like at the very least the cultural things that implement, I think it's very cool, so",-0.4200000000000159,4.920000000000016,0,False,True,20
+103,5f57120cba207c18f058a62b,438.84,439.35,"Oh yeah,",0.47999999999996135,0.5100000000000477,0,False,False,2
+104,5f482b0da1cde52de45f174c,439.34,439.54,yeah.,-0.010000000000047748,0.20000000000004547,0,False,True,1
+105,5f57120cba207c18f058a62b,439.36,442.68,"definitely. Plus like, I don't know, Japan is one of those places",-0.18000000000000682,3.319999999999993,0,False,True,13
+106,5f482b0da1cde52de45f174c,442.64,443.06,"Right,",-0.040000000000020464,0.4200000000000159,0,False,True,1
+107,5f57120cba207c18f058a62b,442.68,444.28,I've always wanted to visit.,-0.37999999999999545,1.599999999999966,0,False,True,6
+108,5f482b0da1cde52de45f174c,444.14,444.37,I think,-0.13999999999998636,0.2300000000000182,0,False,True,2
+109,5f57120cba207c18f058a62b,444.29,444.57,It,-0.07999999999998408,0.2799999999999727,0,False,True,1
+110,5f482b0da1cde52de45f174c,444.37,444.96,it's everyone's,-0.19999999999998863,0.589999999999975,0,False,True,4
+111,5f57120cba207c18f058a62b,444.57,444.76,"just,",-0.38999999999998636,0.18999999999999773,0,False,True,1
+112,5f482b0da1cde52de45f174c,444.96,446.26,bucket list.,0.19999999999998863,1.3000000000000114,0,False,False,2
+113,5f57120cba207c18f058a62b,445.74,451.55,"it really is. They have this, they have this island there. It's like an island full of rabbits. It's",-0.5199999999999818,5.810000000000002,0,False,True,21
+114,5f482b0da1cde52de45f174c,451.54,452.02,Oh,-0.009999999999990905,0.47999999999996135,0,False,True,1
+115,5f57120cba207c18f058a62b,451.55,452.04,"like called, I",-0.46999999999997044,0.4900000000000091,0,False,True,3
+116,5f482b0da1cde52de45f174c,452.02,452.26,"yeah,",-0.020000000000038654,0.2400000000000091,0,False,True,1
+117,5f57120cba207c18f058a62b,452.04,452.3,think it's,-0.21999999999997044,0.2599999999999909,0,False,True,3
+118,5f482b0da1cde52de45f174c,452.26,452.85,"yeah,",-0.040000000000020464,0.5900000000000318,0,False,True,1
+119,5f57120cba207c18f058a62b,452.3,453.47,called Rabbit Island.,-0.5500000000000114,1.170000000000016,0,False,True,3
+120,5f482b0da1cde52de45f174c,453.34,453.79,there's,-0.1300000000000523,0.4500000000000455,0,False,True,2
+121,5f57120cba207c18f058a62b,453.48,453.85,And I really,-0.3100000000000023,0.37000000000000455,0,False,True,3
+122,5f482b0da1cde52de45f174c,453.79,454.01,another,-0.060000000000002274,0.21999999999997044,0,False,True,1
+123,5f57120cba207c18f058a62b,453.85,454.04,want to,-0.15999999999996817,0.18999999999999773,0,False,True,2
+124,5f482b0da1cde52de45f174c,454.01,454.18,one,-0.03000000000002956,0.17000000000001592,0,False,True,1
+125,5f57120cba207c18f058a62b,454.04,454.46,go,-0.13999999999998636,0.4199999999999591,0,False,True,1
+126,5f482b0da1cde52de45f174c,454.18,455.46,full of cats as well.,-0.2799999999999727,1.2799999999999727,0,False,True,5
+127,5f57120cba207c18f058a62b,455.14,457.06,a cat island.,-0.3199999999999932,1.920000000000016,0,False,True,3
+128,5f482b0da1cde52de45f174c,456.54,457.46,That is a cat island.,-0.5199999999999818,0.9199999999999591,0,False,True,5
+129,5f57120cba207c18f058a62b,457.64,459.45,"I would, yeah, I would go for a cat island and",0.18000000000000682,1.8100000000000023,0,False,False,11
+130,5f482b0da1cde52de45f174c,459.44,459.76,"Mhm,",-0.009999999999990905,0.3199999999999932,0,False,True,1
+131,5f57120cba207c18f058a62b,459.45,464.69,I like they have all these like cool um like tea cafes or like coffee shops,-0.3100000000000023,5.240000000000009,0,False,True,16
+132,5f482b0da1cde52de45f174c,464.64,465.06,mm.,-0.05000000000001137,0.4200000000000159,0,False,True,1
+133,5f57120cba207c18f058a62b,464.69,465.11,where they have,-0.37000000000000455,0.4200000000000159,0,False,True,3
+134,5f482b0da1cde52de45f174c,465.07,465.65,Yeah.,-0.040000000000020464,0.5799999999999841,0,False,True,1
+135,5f57120cba207c18f058a62b,465.11,468.13,like a cat cafe or like a rabbit cafe.,-0.5399999999999636,3.019999999999982,0,False,True,9
+136,5f482b0da1cde52de45f174c,468.04,468.15,Oh,-0.08999999999997499,0.1099999999999568,0,False,True,1
+137,5f57120cba207c18f058a62b,468.13,468.19,I,-0.01999999999998181,0.060000000000002274,0,False,True,1
+138,5f482b0da1cde52de45f174c,468.15,468.39,"yeah,",-0.040000000000020464,0.2400000000000091,0,False,True,1
+139,5f57120cba207c18f058a62b,468.19,468.7,saw Ahead,-0.19999999999998863,0.5099999999999909,0,False,True,2
+140,5f482b0da1cde52de45f174c,468.39,468.78,I heard of,-0.3100000000000023,0.38999999999998636,0,False,True,3
+141,5f57120cba207c18f058a62b,468.7,468.99,Talk,-0.07999999999998408,0.29000000000002046,0,False,True,1
+142,5f482b0da1cde52de45f174c,468.78,469.22,"these,",-0.21000000000003638,0.44000000000005457,0,False,True,1
+143,5f57120cba207c18f058a62b,468.99,469.37,one,-0.2300000000000182,0.37999999999999545,0,False,True,1
+144,5f482b0da1cde52de45f174c,469.23,469.95,"yeah,",-0.13999999999998636,0.7199999999999704,0,False,True,1
+145,5f57120cba207c18f058a62b,469.37,470.86,like those are pretty cool.,-0.5799999999999841,1.490000000000009,0,False,True,5
+146,5f482b0da1cde52de45f174c,472.14,488.06,"yeah, it depends a nice place. They really let you like explorer niches there. It was just I think just comes like out of the strong urbanization there because you know to me it's like when you were in a strong urban place you can actively search out niches, so",1.2799999999999727,15.920000000000016,0,False,False,51
+147,5f57120cba207c18f058a62b,488.04,490.65,Yeah. It seems like it seems like a place where you,-0.01999999999998181,2.609999999999957,0,False,True,11
+148,5f482b0da1cde52de45f174c,490.64,490.85,"okay,",-0.009999999999990905,0.21000000000003638,0,False,True,1
+149,5f57120cba207c18f058a62b,490.65,503.96,"can kind of like be yourself, like there's lots of communities you could go and like join and it seems kind of like open like it's not gonna be like super judgmental and people are just like living their best lives like being artistic or. Yeah.",-0.20000000000004547,13.310000000000002,0,False,True,49
+150,5f482b0da1cde52de45f174c,503.84,512.34,"uh maybe not judgmental is not the right thing because from what I know like japanese culture, they're really strict with, you know like you know, are you keeping the social order, you know, are",-0.12000000000000455,8.500000000000057,0,False,True,36
+151,5f57120cba207c18f058a62b,512.24,513.05,Okay.,-0.10000000000002274,0.8099999999999454,0,False,True,1
+152,5f482b0da1cde52de45f174c,512.34,517.55,"you keeping in line? Like that's where the whole salaryman culture comes from, Do you know about that?",-0.7099999999999227,5.209999999999923,2,True,True,19
+153,5f57120cba207c18f058a62b,517.94,519.16,I don't know about that now.,0.39000000000010004,1.2199999999999136,0,False,False,7
+154,5f482b0da1cde52de45f174c,519.24,533.22,"So there's a term in japanese, I forgot the exact word, but it basically means death by overworking. So salaryman in japan tend to say salaryman, but it applies to women too, but for",0.08000000000004093,13.980000000000018,0,False,False,35
+155,5f57120cba207c18f058a62b,533.14,533.76,Oh.,-0.08000000000004093,0.6200000000000045,0,False,True,1
+156,5f482b0da1cde52de45f174c,533.22,537.36,"short salary, media Salomon tend to like,",-0.5399999999999636,4.139999999999986,0,False,True,7
+157,5f57120cba207c18f058a62b,538.04,538.25,Mhm.,0.67999999999995,0.21000000000003638,0,False,False,1
+158,5f482b0da1cde52de45f174c,538.84,541.65,"but let's, let's say, you know, you've done your 9 to 5, right? And",0.5900000000000318,2.8099999999999454,1,False,False,17
+159,5f57120cba207c18f058a62b,541.64,542.15,Mhm.,-0.009999999999990905,0.5099999999999909,0,False,True,1
+160,5f482b0da1cde52de45f174c,541.65,546.61,"then you're ready to go home from work. But apparently, you know, it's, it's culture, it's tradition to",-0.5,4.960000000000036,0,False,True,22
+161,5f57120cba207c18f058a62b,546.34,547.14,Uh,-0.2699999999999818,0.7999999999999545,0,False,True,1
+162,5f482b0da1cde52de45f174c,546.62,547.64,wait until,-0.5199999999999818,1.0199999999999818,0,False,True,2
+163,5f57120cba207c18f058a62b,547.14,547.44,huh.,-0.5,0.3000000000000682,0,False,True,1
+164,5f482b0da1cde52de45f174c,547.64,562.86,"like everybody is ready to go home and then you go home, you're just kind of sitting there, you know, not really doing anything and maybe you're, maybe you're just, maybe they're doing something, I don't know, but like there it's pretty common to see people to work like 16 hour days just",0.1999999999999318,15.220000000000027,0,False,False,59
+165,5f57120cba207c18f058a62b,562.84,563.39,That's so,-0.01999999999998181,0.5499999999999545,0,False,True,3
+166,5f482b0da1cde52de45f174c,563.24,563.68,based,-0.14999999999997726,0.4399999999999409,0,False,True,1
+167,5f57120cba207c18f058a62b,563.39,564.46,crazy.,-0.2899999999999636,1.07000000000005,0,False,True,1
+168,5f482b0da1cde52de45f174c,563.68,584.2,"on the tradition. Yeah. And you know, people do die from it and you know, family life is just kind of shoved to the side. It's a very secondary thing for a lot of people. It's changing now sincerely resting it. But it's definitely still there. Uh there's a term to do the companies that do this too. I believe it's called Black Companies. So the company",-0.7800000000000864,20.520000000000095,0,False,True,72
+169,5f57120cba207c18f058a62b,584.04,584.55,Mhm.,-0.16000000000008185,0.5099999999999909,0,False,True,1
+170,5f482b0da1cde52de45f174c,584.2,589.16,"is black. They overwork your workers. You know, they do those kind of things. You know,",-0.34999999999990905,4.959999999999923,0,False,True,16
+171,5f57120cba207c18f058a62b,589.64,595.18,Is it like any industry or is it like business or finance or like just,0.4800000000000182,5.539999999999964,0,False,False,15
+172,5f482b0da1cde52de45f174c,594.84,595.29,I,-0.33999999999991815,0.4499999999999318,0,False,True,1
+173,5f57120cba207c18f058a62b,595.18,595.85,anything,-0.11000000000001364,0.6700000000000728,0,False,True,1
+174,5f482b0da1cde52de45f174c,595.29,606.95,"think it is any industry. I I know for sure at least like the finance, the construction and the anime industry. I can think of like I know there are companies that do this for sure.",-0.5600000000000591,11.660000000000082,0,False,True,36
+175,5f57120cba207c18f058a62b,607.94,609.08,that's,0.9900000000000091,1.1399999999999864,0,False,False,2
+176,5f482b0da1cde52de45f174c,608.04,608.36,Yeah.,-1.0400000000000773,0.32000000000005,0,False,True,1
+177,5f57120cba207c18f058a62b,609.08,629.04,"got to be like so much, I could probably only do that for like maybe a week at a time because I I feel like he would lose a lot of like your productivity and your creativity and then you would just be like working but not producing things that are like good, like you would just be focused on like how long can I work instead of like how good can I produce something or like",0.7200000000000273,19.959999999999923,0,False,False,77
+178,5f482b0da1cde52de45f174c,628.74,629.19,"No. Yeah,",-0.2999999999999545,0.4500000000000455,0,False,True,2
+179,5f57120cba207c18f058a62b,629.05,629.28,how,-0.14000000000010004,0.2300000000000182,0,False,True,1
+180,5f482b0da1cde52de45f174c,629.19,629.78,I,-0.08999999999991815,0.5899999999999181,0,False,True,1
+181,5f57120cba207c18f058a62b,629.28,629.8,creative can,-0.5,0.5199999999999818,0,False,True,2
+182,5f482b0da1cde52de45f174c,629.78,629.84,I,-0.01999999999998181,0.06000000000005912,0,False,True,1
+183,5f57120cba207c18f058a62b,629.8,629.87,I,-0.04000000000007731,0.07000000000005002,0,False,True,1
+184,5f482b0da1cde52de45f174c,629.84,630.27,definitely,-0.029999999999972715,0.42999999999995,0,False,True,1
+185,5f57120cba207c18f058a62b,629.87,630.66,be?,-0.39999999999997726,0.7899999999999636,1,True,True,1
+186,5f482b0da1cde52de45f174c,630.27,641.25,agree. Um it's not just depends. I think there's a lot of like asian countries that do this well. Uh in china there is the because it was the 996 or something. I think it,-0.38999999999998636,10.980000000000018,0,False,True,37
+187,5f57120cba207c18f058a62b,641.24,641.45,Okay.,-0.009999999999990905,0.21000000000003638,0,False,True,1
+188,5f482b0da1cde52de45f174c,641.25,647.75,"was, you work nine our work from nine AM to nine PM six days a week. That's like a thing that they're tech companies do.",-0.20000000000004547,6.5,0,False,True,27
+189,5f57120cba207c18f058a62b,647.94,649.86,"Oh my god, it's",0.19000000000005457,1.919999999999959,0,False,False,5
+190,5f482b0da1cde52de45f174c,649.74,650.15,Yeah.,-0.12000000000000455,0.40999999999996817,0,False,True,1
+191,5f57120cba207c18f058a62b,649.86,656.06,just how do you have time to like go and enjoy life? Like they're just working,-0.2899999999999636,6.199999999999932,1,False,True,17
+192,5f482b0da1cde52de45f174c,656.04,683.04,"I think, you know someone who is asian and like grew up in this culture. I, I mean obviously I'm, you know, Americanized as well. So I, I don't see all of that, but like there's, there's a really strong emphasis on like, not so much, I don't know how to describe. It's not quite patriarchy, but like you should, you know, supply for the whole supply for the group, supply for your family specifically. And money, money is really important. So that's why, you know,",-0.01999999999998181,27.0,0,False,True,93
+193,5f57120cba207c18f058a62b,682.64,683.06,right?,-0.39999999999997726,0.4199999999999591,1,True,True,1
+194,5f482b0da1cde52de45f174c,683.05,692.36,"chinese people tend to be really good savers because they really focused on that. Um Yeah, I think that's just, you know, part of where that comes from. So",-0.009999999999990905,9.31000000000006,0,False,True,30
+195,5f57120cba207c18f058a62b,693.54,698.16,"That's good, it's good to know then his hat right?",1.17999999999995,4.6200000000000045,1,True,False,12
+196,5f482b0da1cde52de45f174c,699.34,702.25,"it's tough. But uh,",1.1800000000000637,2.909999999999968,0,False,False,5
+197,5f57120cba207c18f058a62b,702.64,703.05,Yeah.,0.38999999999998636,0.40999999999996817,0,False,False,1
+198,5f482b0da1cde52de45f174c,702.74,705.35,I'm glad to be here and not in that condition. So,-0.30999999999994543,2.6100000000000136,0,False,True,12
+199,5f57120cba207c18f058a62b,705.64,714.95,Yeah definitely you know? Mhm.,0.2899999999999636,9.31000000000006,1,False,False,5
+200,5f482b0da1cde52de45f174c,716.34,719.25,"he said, you follow a Tiktok er, um,",1.3899999999999864,2.909999999999968,0,False,False,8
+201,5f57120cba207c18f058a62b,720.04,741.72,"Yeah. Yeah I felt well felt a lot of two doctors but like I don't know not like influences or anything, just kind of like cool people that I see. Like I follow like this one girl has like she lives on like a goat farm and then I like follow the girl who is a teacher in spain. Um I don't know, I just kind of follow people who like are doing like fun, interesting",0.7899999999999636,21.680000000000064,0,False,False,78
+202,5f482b0da1cde52de45f174c,741.34,742.08,doing interesting,-0.37999999999999545,0.7400000000000091,0,False,True,2
+203,5f57120cba207c18f058a62b,741.72,742.13,things I,-0.36000000000001364,0.40999999999996817,0,False,True,2
+204,5f482b0da1cde52de45f174c,742.08,742.34,things.,-0.049999999999954525,0.2599999999999909,0,False,True,1
+205,5f57120cba207c18f058a62b,742.13,742.36,"like,",-0.21000000000003638,0.2300000000000182,0,False,True,1
+206,5f482b0da1cde52de45f174c,742.34,743.16,Yeah.,-0.01999999999998181,0.8199999999999363,0,False,True,1
+207,5f57120cba207c18f058a62b,743.24,756.14,"yeah, like I want to see like how do other people live, like what are they doing? Like, I don't know, I'm not really into like, I guess pop, I guess not really like the pop culture things or like, I don't know, I get a lot of cosplay on",0.08000000000004093,12.899999999999977,1,False,False,53
+208,5f482b0da1cde52de45f174c,755.84,756.88,"Okay,",-0.2999999999999545,1.0399999999999636,0,False,True,1
+209,5f57120cba207c18f058a62b,756.15,757.13,on Tiktok,-0.7300000000000182,0.9800000000000182,0,False,True,2
+210,5f482b0da1cde52de45f174c,756.89,757.46,that's cool.,-0.2400000000000091,0.57000000000005,0,False,True,3
+211,5f57120cba207c18f058a62b,757.14,758.57,and so it's kind of,-0.32000000000005,1.4300000000000637,0,False,True,6
+212,5f482b0da1cde52de45f174c,758.55,758.82,Okay.,-0.020000000000095497,0.2700000000000955,0,False,True,1
+213,5f57120cba207c18f058a62b,758.57,768.06,cool because I really like people are so creative and they make like amazing costumes and like they seem like they have a lot of fun. So it's like maybe like one day I'll do that. But,-0.25,9.489999999999895,0,False,True,39
+214,5f482b0da1cde52de45f174c,768.24,774.06,"Yeah, I'm not much of a Tiktok person, but I think I got a similar kind of fix on Youtube. So,",0.18000000000006366,5.819999999999936,0,False,False,22
+215,5f57120cba207c18f058a62b,773.84,775.06,Oh yeah.,-0.2199999999999136,1.2199999999999136,0,False,True,2
+216,5f482b0da1cde52de45f174c,774.54,781.13,"uh, yeah, I follow some really weird things. Like there's this dude who talks about city planning, I find that interesting for",-0.5199999999999818,6.590000000000032,0,False,True,23
+217,5f57120cba207c18f058a62b,781.04,781.76,Oh.,-0.09000000000003183,0.7200000000000273,0,False,True,1
+218,5f482b0da1cde52de45f174c,781.13,783.55,"some reason, I don't know. Uh,",-0.6299999999999955,2.419999999999959,0,False,True,7
+219,5f57120cba207c18f058a62b,783.04,783.36,Mhm.,-0.5099999999999909,0.32000000000005,0,False,True,1
+220,5f482b0da1cde52de45f174c,784.04,799.09,"you know, well, since we're on the subject of like Asian Japan, I know there's this guy named chris broad abroad in Japan. I watched as tours around Japan. Um, there's also this dude who just lives on a farm in Vermont, I don't know, it's interesting",0.67999999999995,15.050000000000068,0,False,False,52
+221,5f57120cba207c18f058a62b,798.84,799.05,It,-0.25,0.2099999999999227,0,False,True,1
+222,5f482b0da1cde52de45f174c,799.09,801.26,apparently.,0.04000000000007731,2.169999999999959,0,False,False,1
+223,5f57120cba207c18f058a62b,800.54,806.7,"I like, I like, I've never been a youtube person like besides like, like I watch music videos or like a",-0.7200000000000273,6.160000000000082,0,False,True,22
+224,5f482b0da1cde52de45f174c,806.64,807.15,Mm,-0.06000000000005912,0.5099999999999909,0,False,True,1
+225,5f57120cba207c18f058a62b,806.7,831.67,"funny video, but I've never like, I guess I never really got into, or like wasn't exposed to like the like vlogging lifestyle or like when people would have like those informative videos, like I never like consistently watch like a person. So like maybe that's maybe I should like look and see kind of like not the like Tiktok like short videos, but like if there was someone who is, you know, videotaping like what",-0.4499999999999318,24.969999999999914,0,False,True,79
+226,5f482b0da1cde52de45f174c,831.54,831.75,it's,-0.12999999999999545,0.21000000000003638,0,False,True,2
+227,5f57120cba207c18f058a62b,831.67,832.06,"they're,",-0.08000000000004093,0.38999999999998636,0,False,True,2
+228,5f482b0da1cde52de45f174c,831.75,832.56,"been longer,",-0.30999999999994543,0.8099999999999454,0,False,True,2
+229,5f57120cba207c18f058a62b,832.74,833.26,"yeah, like",0.18000000000006366,0.5199999999999818,0,False,False,2
+230,5f482b0da1cde52de45f174c,833.24,833.32,you,-0.01999999999998181,0.08000000000004093,0,False,True,1
+231,5f57120cba207c18f058a62b,833.26,833.41,what,-0.06000000000005912,0.14999999999997726,0,False,True,1
+232,5f482b0da1cde52de45f174c,833.32,833.45,know?,-0.08999999999991815,0.12999999999999545,1,True,True,1
+233,5f57120cba207c18f058a62b,833.41,839.63,they're doing or like you get more like more information and like can kind of keep up with their lives like that be kind of fun. I,-0.04000000000007731,6.220000000000027,0,False,True,28
+234,5f482b0da1cde52de45f174c,839.54,840.05,"Well,",-0.09000000000003183,0.5099999999999909,0,False,True,1
+235,5f57120cba207c18f058a62b,839.64,841.46,haven't really gotten into that. But,-0.40999999999996817,1.82000000000005,0,False,True,7
+236,5f482b0da1cde52de45f174c,841.24,845.12,"um, I think it just like topics. I'm not really much of a walking I either, you know, like,",-0.22000000000002728,3.8799999999999955,0,False,True,20
+237,5f57120cba207c18f058a62b,844.84,845.35,okay.,-0.2799999999999727,0.5099999999999909,0,False,True,1
+238,5f482b0da1cde52de45f174c,845.13,850.0,"I think, I think for the sole reason we're like just a camera looking like, hey guys,",-0.22000000000002728,4.8700000000000045,0,False,True,18
+239,5f57120cba207c18f058a62b,849.54,852.68,You,-0.4600000000000364,3.1399999999999864,0,False,True,1
+240,5f482b0da1cde52de45f174c,850.07,852.8,they were gonna do things I don't,-2.6099999999999,2.7299999999999045,0,False,True,9
+241,5f57120cba207c18f058a62b,852.68,852.85,"know,",-0.12000000000000455,0.17000000000007276,0,False,True,1
+242,5f482b0da1cde52de45f174c,852.8,852.88,"know,",-0.05000000000006821,0.08000000000004093,0,False,True,1
+243,5f57120cba207c18f058a62b,852.85,852.95,you,-0.029999999999972715,0.10000000000002274,0,False,True,1
+244,5f482b0da1cde52de45f174c,852.89,853.2,I,-0.06000000000005912,0.3100000000000591,0,False,True,1
+245,5f57120cba207c18f058a62b,852.95,853.22,don't like,-0.25,0.2699999999999818,0,False,True,3
+246,5f482b0da1cde52de45f174c,853.21,853.45,can't,-0.009999999999990905,0.2400000000000091,0,False,True,2
+247,5f57120cba207c18f058a62b,853.22,853.71,"the, you",-0.2300000000000182,0.4900000000000091,0,False,True,2
+248,5f482b0da1cde52de45f174c,853.45,853.76,people for,-0.2599999999999909,0.30999999999994543,0,False,True,2
+249,5f57120cba207c18f058a62b,853.71,853.81,"know,",-0.049999999999954525,0.09999999999990905,0,False,True,1
+250,5f482b0da1cde52de45f174c,853.76,854.06,them,-0.049999999999954525,0.2999999999999545,0,False,True,1
+251,5f57120cba207c18f058a62b,853.81,861.96,"like the unboxing videos where people just have like boxes, little stuff in front of them. They're like, look at this cool thing I got and I'm like, oh wow. Like,",-0.25,8.150000000000091,0,False,True,33
+252,5f482b0da1cde52de45f174c,862.44,866.46,"unboxing is okay unless you know, like shaking the camera.",0.4800000000000182,4.019999999999982,0,False,False,10
+253,5f57120cba207c18f058a62b,866.54,867.04,"yeah,",0.07999999999992724,0.5,0,False,False,1
+254,5f482b0da1cde52de45f174c,866.94,868.18,"I don't know,",-0.09999999999990905,1.2399999999998954,0,False,True,4
+255,5f57120cba207c18f058a62b,868.14,868.46,man.,-0.03999999999996362,0.32000000000005,0,False,True,1
+256,5f482b0da1cde52de45f174c,868.19,871.35,I get motions like really easily so,-0.2699999999999818,3.159999999999968,0,False,True,7
+257,5f57120cba207c18f058a62b,870.64,873.36,"Yeah. Because I guess like I,",-0.7100000000000364,2.7200000000000273,0,False,True,6
+258,5f482b0da1cde52de45f174c,873.74,873.85,you,0.37999999999999545,0.11000000000001364,0,False,False,1
+259,5f57120cba207c18f058a62b,873.84,873.92,I,-0.009999999999990905,0.07999999999992724,0,False,True,1
+260,5f482b0da1cde52de45f174c,873.85,873.95,"know,",-0.06999999999993634,0.10000000000002274,0,False,True,1
+261,5f57120cba207c18f058a62b,873.92,900.86,"never like, I know like a lot of people like my age, they watch like the makeup vlogs or like, I don't know, a lot of my friends would watch like the mommy bloggers, but I always thought that was kind of weird because I was like, I don't want to like I'm gonna like know how people are raising their kids or whatever like that. Like that's not really interesting to me. And I also feel like it's weird because your kids are being filmed all the time and it's like, what are they like they're gonna grow up and be like, oh my gosh, my whole life was on the internet, like everyone could see what I was doing",-0.030000000000086402,26.940000000000055,0,False,True,130
+262,5f482b0da1cde52de45f174c,901.44,913.25,"Yeah, my sister used to watch this like korean baby show where they would just take it as a korean show and they just filmed babies for like, you know, an hour each week and just posted on",0.5800000000000409,11.809999999999945,0,False,False,38
+263,5f57120cba207c18f058a62b,913.24,913.63,just,-0.009999999999990905,0.38999999999998636,0,False,True,1
+264,5f482b0da1cde52de45f174c,913.26,913.86,"like,",-0.37000000000000455,0.6000000000000227,0,False,True,1
+265,5f57120cba207c18f058a62b,913.63,914.87,"doing their thing, just",-0.2300000000000182,1.240000000000009,0,False,True,4
+266,5f482b0da1cde52de45f174c,914.64,915.35,yeah.,-0.2300000000000182,0.7100000000000364,0,False,True,1
+267,5f57120cba207c18f058a62b,914.88,916.75,whatever they're doing,-0.4700000000000273,1.8700000000000045,0,False,True,4
+268,5f482b0da1cde52de45f174c,916.34,928.76,"And when, whenever I see for watching it all I can think of is like, God, if that were me and I saw myself, you know in 13 years just watching like millions of people watch my baby, watch me, you know, crap my pants. Like that would be",-0.40999999999996817,12.419999999999959,0,False,True,49
+269,5f57120cba207c18f058a62b,928.74,929.46,right. It's,-0.01999999999998181,0.7200000000000273,0,False,True,3
+270,5f482b0da1cde52de45f174c,929.24,929.81,paris,-0.22000000000002728,0.5699999999999363,0,False,True,1
+271,5f57120cba207c18f058a62b,929.46,930.06,like worth.,-0.34999999999990905,0.599999999999909,0,False,True,2
+272,5f482b0da1cde52de45f174c,929.81,930.76,ng yes.,-0.25,0.9500000000000455,0,False,True,2
+273,5f57120cba207c18f058a62b,930.54,942.66,"It's like worse than like America's funniest home videos where it's like, okay, well at least like if you ended up on there it was only like two minutes or whatever, but it's like if someone was videotaping you all the time, it's like oh my God, like you just grew up",-0.22000000000002728,12.120000000000005,0,False,True,57
+274,5f482b0da1cde52de45f174c,943.04,943.25,Oh,0.37999999999999545,0.21000000000003638,0,False,False,1
+275,5f57120cba207c18f058a62b,943.14,943.4,people,-0.11000000000001364,0.2599999999999909,0,False,True,1
+276,5f482b0da1cde52de45f174c,943.25,943.53,"yeah,",-0.14999999999997726,0.2799999999999727,0,False,True,1
+277,5f57120cba207c18f058a62b,943.4,943.75,watching,-0.12999999999999545,0.35000000000002274,0,False,True,1
+278,5f482b0da1cde52de45f174c,943.54,944.01,"like,",-0.21000000000003638,0.4700000000000273,0,False,True,1
+279,5f57120cba207c18f058a62b,943.75,944.06,"them,",-0.2599999999999909,0.30999999999994543,0,False,True,1
+280,5f482b0da1cde52de45f174c,944.02,949.36,"like fame is scary, especially when it like puts you in a box and then you're, you change out of that, you know?",-0.03999999999996362,5.340000000000032,1,True,True,24
+281,5f57120cba207c18f058a62b,949.44,950.26,Oh yeah and everyone,0.08000000000004093,0.8199999999999363,0,False,False,4
+282,5f482b0da1cde52de45f174c,950.24,950.56,"Yeah,",-0.01999999999998181,0.31999999999993634,0,False,True,1
+283,5f57120cba207c18f058a62b,950.26,959.16,"like freaks out because they're like oh my God you're not the same person anymore. And it's like yeah, neither is any normal person like you get to change, you can can be whatever you want to be.",-0.2999999999999545,8.899999999999977,0,False,True,41
+284,5f482b0da1cde52de45f174c,959.74,971.95,"yeah. You know, I, I appreciate what those people do, but I, I don't know if I could do any of them myself without some like kind of veil of non emit e, which is, it's possible, but I wouldn't do it.",0.5800000000000409,12.210000000000036,0,False,False,45
+285,5f57120cba207c18f058a62b,972.34,972.75,Yeah.,0.38999999999998636,0.40999999999996817,0,False,False,1
+286,5f482b0da1cde52de45f174c,975.04,975.46,Mhm.,2.2899999999999636,0.42000000000007276,0,False,False,1
+287,5f57120cba207c18f058a62b,975.44,977.15,Do you play any video games?,-0.01999999999998181,1.7099999999999227,1,True,True,6
+288,5f482b0da1cde52de45f174c,977.64,980.5,Uh do I was actually,0.4900000000000091,2.8600000000000136,0,False,False,5
+289,5f57120cba207c18f058a62b,980.24,980.66,Okay.,-0.2599999999999909,0.4199999999999591,0,False,True,1
+290,5f482b0da1cde52de45f174c,980.5,982.76,playing Minecraft right before this um,-0.15999999999996817,2.259999999999991,0,False,True,6
+291,5f57120cba207c18f058a62b,982.24,986.65,My boyfriend's playing Minecraft in the other room.,-0.5199999999999818,4.409999999999968,0,False,True,9
+292,5f482b0da1cde52de45f174c,985.94,987.64,"yeah,",-0.7099999999999227,1.6999999999999318,0,False,True,1
+293,5f57120cba207c18f058a62b,987.44,987.8,Mr,-0.1999999999999318,0.35999999999989996,0,False,True,1
+294,5f482b0da1cde52de45f174c,987.64,993.16,I don't know what's with that. It's been getting popular again recently. It always comes in these waves and comes and goes. But yeah.,-0.15999999999996817,5.519999999999982,0,False,True,27
+295,5f57120cba207c18f058a62b,993.74,1007.26,"yeah, I don't he usually plays, I don't know, he played so many games. True. What was the game you were playing before? Minecraft? Uh Valerie Valerie and he was telling Valerie before",0.5800000000000409,13.519999999999982,2,False,False,35
+296,5f482b0da1cde52de45f174c,1007.64,1008.57,Okay.,0.37999999999999545,0.9300000000000637,0,False,False,1
+297,5f57120cba207c18f058a62b,1007.74,1015.86,"um And like he and his friends and his friends, they all like all these like college friends they got into among us. So they are playing that.",-0.8300000000000409,8.120000000000005,0,False,True,28
+298,5f482b0da1cde52de45f174c,1015.24,1021.96,"Oh yeah, I was, I was among the travel to, I did try and Valerie, not much of knowledge for me, I'm more of a counterstrike person, so",-0.6200000000000045,6.720000000000027,0,False,True,29
+299,5f57120cba207c18f058a62b,1022.24,1023.97,"Yeah, he played Counter Strike a lot.",0.2799999999999727,1.7300000000000182,0,False,False,7
+300,5f482b0da1cde52de45f174c,1024.14,1024.52,"Oh yeah,",0.17000000000007276,0.37999999999988177,0,False,False,2
+301,5f57120cba207c18f058a62b,1024.34,1025.14,I haven't,-0.18000000000006366,0.8000000000001819,0,False,True,3
+302,5f482b0da1cde52de45f174c,1024.52,1025.15,I can tell,-0.6200000000001182,0.6300000000001091,0,False,True,3
+303,5f57120cba207c18f058a62b,1025.14,1025.27,seen,-0.009999999999990905,0.12999999999988177,0,False,True,1
+304,5f482b0da1cde52de45f174c,1025.16,1025.64,the same,-0.10999999999989996,0.4800000000000182,0,False,True,2
+305,5f57120cba207c18f058a62b,1025.27,1025.7,a play it in a,-0.37000000000011823,0.43000000000006366,0,False,True,5
+306,5f482b0da1cde52de45f174c,1025.64,1026.02,temperature.,-0.05999999999994543,0.37999999999988177,0,False,True,1
+307,5f57120cba207c18f058a62b,1025.7,1035.76,while beyond now. It's been Minecraft and we were I was hanging out with one of my co workers and her daughters and they are really into roadblocks.,-0.31999999999993634,10.059999999999945,0,False,True,29
+308,5f482b0da1cde52de45f174c,1035.64,1036.27,Mm,-0.11999999999989086,0.6299999999998818,0,False,True,1
+309,5f57120cba207c18f058a62b,1035.77,1040.47,Um and so then Drew was like oh I'm gonna like go into roadblocks because,-0.5,4.7000000000000455,0,False,True,17
+310,5f482b0da1cde52de45f174c,1040.44,1040.76,"Yeah,",-0.029999999999972715,0.31999999999993634,0,False,True,1
+311,5f57120cba207c18f058a62b,1040.48,1041.22,they were telling us,-0.2799999999999727,0.7400000000000091,0,False,True,4
+312,5f482b0da1cde52de45f174c,1041.14,1042.66,"Yeah,",-0.07999999999992724,1.5199999999999818,0,False,True,1
+313,5f57120cba207c18f058a62b,1041.23,1047.95,all about like this whole crazy world. I was like oh my gosh there's so many things going on there like I wouldn't even know where to start.,-1.4300000000000637,6.720000000000027,0,False,True,30
+314,5f482b0da1cde52de45f174c,1048.44,1059.45,"Yeah, it's, it's an amazing world out there when you just kind of give sandbox games, like it's hard to make them successful. But when, when they do like they",0.4900000000000091,11.009999999999991,0,False,False,33
+315,5f57120cba207c18f058a62b,1058.14,1065.67,"Yeah I like, I don't I don't really know, I don't really know much about Minecraft like what do you what do you what do you do in Minecraft like",-1.3099999999999454,7.529999999999973,0,False,True,33
+316,5f482b0da1cde52de45f174c,1065.64,1084.09,"uh so I was thinking this not too long ago and having just like done my own survival world myself, I think I can kind of explain like the thought process between on how it gets so addicting. So like so there is survival, right? Like you get, do you at least understand the gift of that? Like you know, you have popped in this world,",-0.029999999999972715,18.449999999999818,2,False,True,66
+317,5f57120cba207c18f058a62b,1083.84,1084.35,this morning?,-0.25,0.5099999999999909,1,True,True,2
+318,5f482b0da1cde52de45f174c,1084.09,1086.86,"a bunch of things are out to kill you. You know, do your best to survive, right,",-0.2599999999999909,2.769999999999982,0,False,True,17
+319,5f57120cba207c18f058a62b,1087.14,1093.88,"I didn't, I guess I never really got that aspect. I know there's like the creepers and I've heard him say spiders,",0.2800000000002001,6.740000000000009,0,False,False,25
+320,5f482b0da1cde52de45f174c,1093.84,1094.53,"spiders,",-0.040000000000190994,0.6900000000000546,0,False,True,1
+321,5f57120cba207c18f058a62b,1093.89,1094.76,"so,",-0.6399999999998727,0.8699999999998909,0,False,True,1
+322,5f482b0da1cde52de45f174c,1094.53,1096.66,"keepers, skeletons. The specifics",-0.2300000000000182,2.130000000000109,0,False,True,4
+323,5f57120cba207c18f058a62b,1096.44,1096.77,so,-0.22000000000002728,0.32999999999992724,0,False,True,1
+324,5f482b0da1cde52de45f174c,1096.66,1096.8,not,-0.10999999999989996,0.13999999999987267,0,False,True,1
+325,5f57120cba207c18f058a62b,1096.77,1097.0,"okay,",-0.029999999999972715,0.2300000000000182,0,False,True,1
+326,5f482b0da1cde52de45f174c,1096.8,1097.35,that important.,-0.20000000000004547,0.5499999999999545,0,False,True,2
+327,5f57120cba207c18f058a62b,1097.0,1097.55,school gyms.,-0.34999999999990905,0.5499999999999545,0,False,True,2
+328,5f482b0da1cde52de45f174c,1097.35,1099.36,"But there's a lot of things out to kill you, right?",-0.20000000000004547,2.009999999999991,1,True,True,12
+329,5f57120cba207c18f058a62b,1099.34,1100.17,Okay. Okay.,-0.01999999999998181,0.8300000000001546,0,False,True,2
+330,5f482b0da1cde52de45f174c,1100.24,1106.21,"So, um, you know, but then you, you build a house, you build a structure to protect yourself. And",0.06999999999993634,5.970000000000027,0,False,False,19
+331,5f57120cba207c18f058a62b,1106.04,1106.55,Okay.,-0.17000000000007276,0.5099999999999909,0,False,True,1
+332,5f482b0da1cde52de45f174c,1106.21,1117.97,"then, you know, let's say in my case, you know, I want to serve it with friends. and then there's a dude, you know who put his house 50 m away, it's like well that's kind of far and we need a trade often. So I'm going to build a railway to his house and",-0.33999999999991815,11.759999999999991,0,False,True,60
+333,5f57120cba207c18f058a62b,1117.94,1118.66,Mm,-0.029999999999972715,0.7200000000000273,0,False,True,1
+334,5f482b0da1cde52de45f174c,1117.97,1131.14,"then that takes up a lot of resources so I have to go down digging, I have to go pick up stuff and then I finally build it and then it's like you know, oh and the process that it's like you know, I need a lot of iron for this. Maybe we should build like an iron farm and you know it's like",-0.6900000000000546,13.170000000000073,0,False,True,67
+335,5f57120cba207c18f058a62b,1131.04,1131.27,"Yeah,",-0.10000000000013642,0.2300000000000182,0,False,True,1
+336,5f482b0da1cde52de45f174c,1131.14,1132.48,well I could trade with the villagers,-0.12999999999988177,1.3399999999999181,0,False,True,7
+337,5f57120cba207c18f058a62b,1132.14,1132.49,that's,-0.33999999999991815,0.34999999999990905,0,False,True,2
+338,5f482b0da1cde52de45f174c,1132.48,1132.63,but,-0.009999999999990905,0.15000000000009095,0,False,True,1
+339,5f57120cba207c18f058a62b,1132.49,1133.03,right.,-0.14000000000010004,0.5399999999999636,0,False,True,1
+340,5f482b0da1cde52de45f174c,1132.63,1134.76,"then trade the villagers, I need food,",-0.3999999999998636,2.1299999999998818,0,False,True,7
+341,5f57120cba207c18f058a62b,1134.04,1134.67,I'm good.,-0.7200000000000273,0.6300000000001091,0,False,True,3
+342,5f482b0da1cde52de45f174c,1134.76,1137.5,"you know, and it just becomes this whole mess of like things",0.08999999999991815,2.740000000000009,0,False,False,12
+343,5f57120cba207c18f058a62b,1137.24,1137.66,We're,-0.2599999999999909,0.42000000000007276,0,False,True,2
+344,5f482b0da1cde52de45f174c,1137.5,1138.06,to do,-0.16000000000008185,0.5599999999999454,0,False,True,2
+345,5f57120cba207c18f058a62b,1137.66,1139.36,on okay.,-0.3999999999998636,1.699999999999818,0,False,True,2
+346,5f482b0da1cde52de45f174c,1138.54,1146.16,"and in the meantime those people just creating random pixel art in the server, you know, of you know, random things, sands",-0.8199999999999363,7.620000000000118,0,False,True,22
+347,5f57120cba207c18f058a62b,1145.64,1146.39,"Yeah, we",-0.5199999999999818,0.75,0,False,True,2
+348,5f482b0da1cde52de45f174c,1146.17,1146.43,from,-0.22000000000002728,0.2599999999999909,0,False,True,1
+349,5f57120cba207c18f058a62b,1146.39,1146.53,got,-0.03999999999996362,0.13999999999987267,0,False,True,1
+350,5f482b0da1cde52de45f174c,1146.43,1146.66,under,-0.09999999999990905,0.2300000000000182,0,False,True,1
+351,5f57120cba207c18f058a62b,1146.53,1146.66,a,-0.13000000000010914,0.13000000000010914,0,False,True,1
+352,5f482b0da1cde52de45f174c,1146.66,1147.04,tail,0.0,0.37999999999988177,0,False,False,1
+353,5f57120cba207c18f058a62b,1146.7,1147.26,line.,-0.33999999999991815,0.5599999999999454,0,False,True,1
+354,5f482b0da1cde52de45f174c,1147.04,1148.67,or just sticks.,-0.22000000000002728,1.6300000000001091,0,False,True,3
+355,5f57120cba207c18f058a62b,1148.43,1168.26,"Okay. Yeah, I guess I guess I, I never knew like how to play those kind of games because like the only video games I've ever played were like there was like a path or there's like something you have to follow. Like I grew up playing the lego games and then I played them as an adult because like that's really all I know, I was never really good at like Battlefront or anything else that",-0.2400000000000091,19.829999999999927,0,False,True,80
+356,5f482b0da1cde52de45f174c,1168.24,1168.63,Okay.,-0.01999999999998181,0.39000000000010004,0,False,True,1
+357,5f57120cba207c18f058a62b,1168.26,1168.66,has,-0.37000000000011823,0.40000000000009095,0,False,True,1
+358,5f482b0da1cde52de45f174c,1168.63,1168.87,Yeah.,-0.029999999999972715,0.23999999999978172,0,False,True,1
+359,5f57120cba207c18f058a62b,1168.67,1168.89,like,-0.1999999999998181,0.22000000000002728,0,False,True,1
+360,5f482b0da1cde52de45f174c,1168.88,1169.46,"So,",-0.009999999999990905,0.5799999999999272,0,False,True,1
+361,5f57120cba207c18f058a62b,1168.89,1189.26,"a storyline or involves anything that more that like if a child can't play it or like a small child couldn't figure it out. I probably wouldn't be very good at it. But I like, I like the lego games and they have like, a storyline, so I was like, how does someone play it? How do you play Minecraft, like, is there a story that are you running from anything, like, do you do things or you just, like, I'm gonna play around and figure out what",-0.5699999999999363,20.36999999999989,1,False,True,93
+362,5f482b0da1cde52de45f174c,1189.14,1189.77,"uh,",-0.11999999999989086,0.6299999999998818,0,False,True,1
+363,5f57120cba207c18f058a62b,1189.26,1190.7,"you want to do, like, you create",-0.5099999999999909,1.4400000000000546,0,False,True,7
+364,5f482b0da1cde52de45f174c,1190.54,1191.35,"you,",-0.16000000000008185,0.8099999999999454,0,False,True,1
+365,5f57120cba207c18f058a62b,1190.7,1191.55,your own,-0.6499999999998636,0.849999999999909,0,False,True,2
+366,5f482b0da1cde52de45f174c,1192.14,1192.56,"yeah,",0.5900000000001455,0.4199999999998454,0,False,False,1
+367,5f57120cba207c18f058a62b,1192.14,1192.35,"ah,",-0.4199999999998454,0.209999999999809,0,False,True,1
+368,5f482b0da1cde52de45f174c,1192.57,1197.56,"your, your traps in your own, like your own needs, your own imagination.",0.22000000000002728,4.990000000000009,0,False,False,13
+369,5f57120cba207c18f058a62b,1197.74,1198.76,"okay,",0.18000000000006366,1.0199999999999818,0,False,False,1
+370,5f482b0da1cde52de45f174c,1198.04,1207.76,"Like once the ball gets rolling, you just kind of like there's more and more of things to do and more and eventually, you know, you do drop it for something else that looks more interesting. But",-0.7200000000000273,9.720000000000027,0,False,True,38
+371,5f57120cba207c18f058a62b,1207.74,1207.97,go,-0.01999999999998181,0.2300000000000182,0,False,True,1
+372,5f482b0da1cde52de45f174c,1207.77,1208.08,"you know,",-0.20000000000004547,0.30999999999994543,0,False,True,2
+373,5f57120cba207c18f058a62b,1207.97,1208.36,out,-0.10999999999989996,0.38999999999987267,0,False,True,1
+374,5f482b0da1cde52de45f174c,1208.09,1209.35,"Yeah, but",-0.2699999999999818,1.259999999999991,0,False,True,2
+375,5f57120cba207c18f058a62b,1209.34,1209.55,and,-0.009999999999990905,0.21000000000003638,0,False,True,1
+376,5f482b0da1cde52de45f174c,1209.35,1215.4,"it's okay if you're more into like RPGS like lego games, that's fine. You know, a lot of people",-0.20000000000004547,6.050000000000182,0,False,True,22
+377,5f57120cba207c18f058a62b,1215.34,1215.66,"Yeah,",-0.060000000000172804,0.3200000000001637,0,False,True,1
+378,5f482b0da1cde52de45f174c,1215.4,1217.0,like that out there and they're,-0.2599999999999909,1.599999999999909,0,False,True,7
+379,5f57120cba207c18f058a62b,1216.64,1217.17,because,-0.35999999999989996,0.5299999999999727,0,False,True,1
+380,5f482b0da1cde52de45f174c,1217.0,1217.85,all fun in their own right.,-0.17000000000007276,0.849999999999909,0,False,True,6
+381,5f57120cba207c18f058a62b,1218.34,1223.16,"yeah, they were, they were like fun to me, but I guess like, maybe I'm not like as creative",0.4900000000000091,4.820000000000164,0,False,False,20
+382,5f482b0da1cde52de45f174c,1223.04,1223.54,How,-0.12000000000011823,0.5,0,False,True,1
+383,5f57120cba207c18f058a62b,1223.16,1260.16,"of a person, so it, like, in some ways it almost stresses me out having like that open world and like, oh, you have to like, go find things to do, or like, oh, you have to like, do your own stuff. I'm like, well, I feel like I don't know what to do, whereas, like in the lego games or whatever, there's kind of like a there's a story and yes, there are side tasks and yes, there's things you can explore on your own, but like, most the time you're just following, like, okay, you go from this step to this step or you go find this and you do that, and then it just kind of like, progresses and it's like, I don't know, it gives me a sense of like, order and like, you know, you're getting through that storyline, so it's like, it makes sense, like, but",-0.37999999999988177,37.0,0,False,True,162
+384,5f482b0da1cde52de45f174c,1260.44,1261.06,mm,0.2799999999999727,0.6199999999998909,0,False,False,1
+385,5f57120cba207c18f058a62b,1260.74,1261.06,yeah.,-0.31999999999993634,0.31999999999993634,0,False,True,1
+386,5f482b0da1cde52de45f174c,1261.84,1265.05,"uh, can I give you a video game recommendation actually?",0.7799999999999727,3.2100000000000364,1,True,False,10
+387,5f57120cba207c18f058a62b,1264.74,1265.85,"Yes,",-0.30999999999994543,1.1099999999999,0,False,True,1
+388,5f482b0da1cde52de45f174c,1265.54,1270.67,"Yeah. So I, I do play some refugees myself and one of the ones that I enjoyed recently is called Katana Zero.",-0.30999999999994543,5.130000000000109,0,False,True,22
+389,5f57120cba207c18f058a62b,1271.34,1273.05,Katana zero. Okay.,0.6699999999998454,1.7100000000000364,0,False,False,3
+390,5f482b0da1cde52de45f174c,1272.44,1278.15,"Yeah, it's about this dune who basically",-0.6099999999999,5.710000000000036,0,False,True,8
+391,5f57120cba207c18f058a62b,1278.04,1278.27,Yeah.,-0.11000000000012733,0.2300000000000182,0,False,True,1
+392,5f482b0da1cde52de45f174c,1278.15,1285.76,he fought in a war and in the war they use these drugs that would make them allow them to basically like go back and forth in time. But,-0.11999999999989086,7.6099999999999,0,False,True,29
+393,5f57120cba207c18f058a62b,1285.34,1285.85,Okay.,-0.42000000000007276,0.5099999999999909,0,False,True,1
+394,5f482b0da1cde52de45f174c,1285.77,1293.86,"that drug caused an addiction and so the more you abuse it, the more things get really weird. Really necessarily violent. So are you okay with violence?",-0.07999999999992724,8.089999999999918,1,True,True,27
+395,5f57120cba207c18f058a62b,1294.14,1295.67,"Okay. Probably,",0.2800000000002001,1.5299999999999727,0,False,False,2
+396,5f482b0da1cde52de45f174c,1294.84,1296.27,Dark fantasy? Okay.,-0.8300000000001546,1.4300000000000637,1,False,True,3
+397,5f57120cba207c18f058a62b,1296.44,1297.55,"yeah, probably.",0.17000000000007276,1.1099999999999,0,False,False,2
+398,5f482b0da1cde52de45f174c,1297.44,1308.56,"It's a little bit dark. Um, but if you're okay with that, then it's got a great soundtrack. It's the fighting is really fluid. Um it's pretty easy to fall along with the story. I think so, yeah, that",-0.10999999999989996,11.11999999999989,0,False,True,44
+399,5f57120cba207c18f058a62b,1308.54,1308.96,Okay.,-0.01999999999998181,0.42000000000007276,0,False,True,1
+400,5f482b0da1cde52de45f174c,1308.56,1310.77,that takes a solid recommendation for me.,-0.40000000000009095,2.2100000000000364,0,False,True,7
+401,5f57120cba207c18f058a62b,1311.44,1316.56,Is a computer or is it like on an Xbox or PS four?,0.6700000000000728,5.119999999999891,1,True,False,13
+402,5f482b0da1cde52de45f174c,1315.44,1321.86,"I think it's on switch. It is a it is a pc game otherwise, but you can play with the controller.",-1.1199999999998909,6.419999999999845,0,False,True,22
+403,5f57120cba207c18f058a62b,1321.54,1321.96,"All right,",-0.31999999999993634,0.42000000000007276,0,False,True,2
+404,5f482b0da1cde52de45f174c,1322.44,1322.76,"Yeah,",0.4800000000000182,0.31999999999993634,0,False,False,1
+405,5f57120cba207c18f058a62b,1322.54,1325.76,"okay, okay, I'll check it out. I'll",-0.22000000000002728,3.2200000000000273,0,False,True,9
+406,5f482b0da1cde52de45f174c,1325.64,1325.96,mm.,-0.11999999999989086,0.31999999999993634,0,False,True,1
+407,5f57120cba207c18f058a62b,1325.76,1328.45,"just ask Drew, we can we can find it for me.",-0.20000000000004547,2.6900000000000546,0,False,True,11
+408,5f482b0da1cde52de45f174c,1328.34,1331.81,The short game too. So if you don't like it then you can get done with it pretty quickly.,-0.11000000000012733,3.4700000000000273,0,False,True,20
+409,5f57120cba207c18f058a62b,1332.24,1332.86,Okay.,0.43000000000006366,0.6199999999998909,0,False,False,1
+410,5f482b0da1cde52de45f174c,1333.04,1333.66,Yeah.,0.18000000000006366,0.6200000000001182,0,False,False,1
+411,5f57120cba207c18f058a62b,1333.54,1377.02,"Okay. Yeah, my boyfriend has tried to get me to like, play like, different types of games just because like, the only ones that I know about or like the lego games are like Battlefront or whatever. Um and he tried to get me to do this, this one computer game where it was like a, it was like a mystery and it's like, I forget what the name of it was, but it like dropped me in the middle of like a pirate boat or or like a boat and then I had to like figure out who like killed all these people. And it was a lot of like, like clues and like discerning things from a log and it like kind of drives me crazy because it's like, I don't know what the next step is like, I don't know if I can remember all this stuff. And then I tried to play the portal game and that",-0.12000000000011823,43.48000000000002,0,False,True,165
+412,5f482b0da1cde52de45f174c,1376.84,1379.06,Oh.,-0.18000000000006366,2.2200000000000273,0,False,True,1
+413,5f57120cba207c18f058a62b,1377.02,1388.07,"one drove me crazy. Yeah, I couldn't, I couldn't get that one. And then I tried to play, uh the one the one I do like, I like goat simulator and it looks like",-2.0399999999999636,11.049999999999955,0,False,True,36
+414,5f482b0da1cde52de45f174c,1388.04,1388.55,Oh,-0.029999999999972715,0.5099999999999909,0,False,True,1
+415,5f57120cba207c18f058a62b,1388.07,1391.13,completely like Goofy Goofy game.,-0.4800000000000182,3.060000000000173,0,False,True,5
+416,5f482b0da1cde52de45f174c,1390.84,1391.19,"no,",-0.290000000000191,0.3500000000001364,0,False,True,1
+417,5f57120cba207c18f058a62b,1391.13,1391.23,I,-0.05999999999994543,0.09999999999990905,0,False,True,1
+418,5f482b0da1cde52de45f174c,1391.19,1391.5,"no,",-0.03999999999996362,0.30999999999994543,0,False,True,1
+419,5f57120cba207c18f058a62b,1391.23,1391.67,did like,-0.2699999999999818,0.44000000000005457,0,False,True,2
+420,5f482b0da1cde52de45f174c,1391.5,1391.84,"no,",-0.17000000000007276,0.33999999999991815,0,False,True,1
+421,5f57120cba207c18f058a62b,1391.67,1391.94,that,-0.16999999999984539,0.2699999999999818,0,False,True,1
+422,5f482b0da1cde52de45f174c,1391.84,1392.18,it's,-0.10000000000013642,0.3400000000001455,0,False,True,2
+423,5f57120cba207c18f058a62b,1391.94,1392.46,though.,-0.2400000000000091,0.5199999999999818,0,False,True,1
+424,5f482b0da1cde52de45f174c,1392.18,1393.84,totally fine. I remember,-0.2799999999999727,1.6599999999998545,0,False,True,4
+425,5f57120cba207c18f058a62b,1393.44,1393.76,Yeah.,-0.3999999999998636,0.31999999999993634,0,False,True,1
+426,5f482b0da1cde52de45f174c,1393.84,1396.23,playing it before. It's fine. Nothing,0.07999999999992724,2.3900000000001,0,False,False,7
+427,5f57120cba207c18f058a62b,1396.04,1396.55,Gove.,-0.19000000000005457,0.5099999999999909,0,False,True,1
+428,5f482b0da1cde52de45f174c,1396.23,1396.86,wrong with,-0.31999999999993634,0.6299999999998818,0,False,True,2
+429,5f57120cba207c18f058a62b,1397.74,1403.56,"Yeah, I like to go simulator and I was like, that was like, that was good enough for that was good for me. I could, you know, I can handle that.",0.8800000000001091,5.819999999999936,0,False,False,31
+430,5f482b0da1cde52de45f174c,1403.74,1406.67,"nothing wrong with some wacky fun every once in a while, right?",0.18000000000006366,2.9300000000000637,1,True,False,12
+431,5f57120cba207c18f058a62b,1406.14,1424.91,"Mm Yeah. I like the little boy that I used to nanny. He was super into Minecraft and then I like told him about goat simulator and he like got into it and he was just like, he was crazy about it. I was like, oh my gosh kids eight and he's like, I'm gonna be a goat. I'm gonna like everyone, it's",-0.5299999999999727,18.769999999999982,0,False,True,69
+432,5f482b0da1cde52de45f174c,1424.64,1424.99,Oh,-0.2699999999999818,0.34999999999990905,0,False,True,1
+433,5f57120cba207c18f058a62b,1424.91,1425.56,like,-0.07999999999992724,0.6499999999998636,0,False,True,1
+434,5f482b0da1cde52de45f174c,1425.0,1428.06,my God.,-0.5599999999999454,3.0599999999999454,0,False,True,2
+435,5f57120cba207c18f058a62b,1425.74,1428.29,"don't let people in person, wow.",-2.3199999999999363,2.5499999999999545,0,False,True,7
+436,5f482b0da1cde52de45f174c,1428.84,1429.04,Yeah.,0.5499999999999545,0.20000000000004547,0,False,False,1
+437,5f57120cba207c18f058a62b,1429.24,1429.45,Mm,0.20000000000004547,0.21000000000003638,0,False,False,1
+438,5f482b0da1cde52de45f174c,1429.44,1439.7,"Oh yeah, it's amazing. You know, to see like kids and like even in adults can play the same games these days. So I",-0.009999999999990905,10.259999999999991,0,False,True,25
+439,5f57120cba207c18f058a62b,1439.64,1440.05,"Yeah,",-0.05999999999994543,0.4099999999998545,0,False,True,1
+440,5f482b0da1cde52de45f174c,1439.71,1441.17,"think, I think it's cool, you know?",-0.33999999999991815,1.4600000000000364,1,True,True,8
+441,5f57120cba207c18f058a62b,1443.14,1444.67,"I think, yeah, I think so jail",1.9700000000000273,1.5299999999999727,0,False,False,7
+442,5f482b0da1cde52de45f174c,1445.34,1445.75,Yeah.,0.6699999999998454,0.41000000000008185,0,False,False,1
+443,5f57120cba207c18f058a62b,1445.44,1452.76,"except like, I feel like the kids are like they're so they're so good at it. Like I don't remember being that good at like anything when I",-0.30999999999994543,7.319999999999936,0,False,True,31
+444,5f482b0da1cde52de45f174c,1452.74,1452.78,Uh,-0.01999999999998181,0.03999999999996362,0,False,True,1
+445,5f57120cba207c18f058a62b,1452.76,1452.91,was,-0.01999999999998181,0.15000000000009095,0,False,True,1
+446,5f482b0da1cde52de45f174c,1452.78,1452.94,huh.,-0.13000000000010914,0.16000000000008185,0,False,True,1
+447,5f57120cba207c18f058a62b,1452.91,1453.86,a kid like,-0.029999999999972715,0.9499999999998181,0,False,True,3
+448,5f482b0da1cde52de45f174c,1453.74,1457.36,Mm It's a lot easier if you grow up with it because,-0.11999999999989086,3.619999999999891,0,False,True,13
+449,5f57120cba207c18f058a62b,1457.04,1457.76,30.,-0.31999999999993634,0.7200000000000273,0,False,True,1
+450,5f482b0da1cde52de45f174c,1457.74,1465.06,"like, like that's when you're developed, like when you're growing, especially when you hit puberty is when you're starting to hit like develop your mechanical skill. Um",-0.01999999999998181,7.319999999999936,0,False,True,31
+451,5f57120cba207c18f058a62b,1464.34,1464.96,Okay.,-0.7200000000000273,0.6200000000001182,0,False,True,1
+452,5f482b0da1cde52de45f174c,1465.74,1474.84,"And like especially like if you start like if you if you're in those teenage years, like you're also developing your mind and your cycles, you can actually think strategically about some more of the competitive games. Yeah,",0.7799999999999727,9.099999999999909,0,False,False,40
+453,5f57120cba207c18f058a62b,1474.74,1475.06,What?,-0.09999999999990905,0.31999999999993634,1,True,True,1
+454,5f482b0da1cde52de45f174c,1474.84,1481.35,"I think that's why it's really easy if you start as a kid to really physically get into it,",-0.22000000000002728,6.509999999999991,0,False,True,21
+455,5f57120cba207c18f058a62b,1481.74,1482.56,Yeah,0.39000000000010004,0.8199999999999363,0,False,False,1
+456,5f482b0da1cde52de45f174c,1481.94,1482.45,like,-0.6199999999998909,0.5099999999999909,0,False,True,1
+457,5f57120cba207c18f058a62b,1482.56,1495.94,I like I don't think I ever played my first video game until I was probably like 10 or 11. But like I have two younger brothers and they had their they had like a P. S. I think we started with the PS two and then got,0.10999999999989996,13.38000000000011,0,False,False,49
+458,5f482b0da1cde52de45f174c,1495.74,1497.56,"Yeah,",-0.20000000000004547,1.8199999999999363,0,False,True,1
+459,5f57120cba207c18f058a62b,1495.95,1506.37,other gaming systems over the years and we've never really had games before that and like it was kind of like their gaming system so it's like they grew up with games and they grew up with the video games and,-1.6099999999999,10.419999999999845,0,False,True,43
+460,5f482b0da1cde52de45f174c,1506.24,1506.66,mm.,-0.12999999999988177,0.42000000000007276,0,False,True,1
+461,5f57120cba207c18f058a62b,1506.37,1516.74,I didn't really like I would play every once in a while but there was only two controllers and it was kind of like oh with my parents kind of I guess they intended for the U. Game console to be for them because,-0.290000000000191,10.370000000000118,0,False,True,45
+462,5f482b0da1cde52de45f174c,1516.64,1516.84,For,-0.09999999999990905,0.1999999999998181,0,False,True,1
+463,5f57120cba207c18f058a62b,1516.74,1517.2,like,-0.09999999999990905,0.4600000000000364,0,False,True,1
+464,5f482b0da1cde52de45f174c,1516.84,1517.24,"the boys,",-0.36000000000012733,0.40000000000009095,0,False,True,2
+465,5f57120cba207c18f058a62b,1517.21,1517.34,you,-0.029999999999972715,0.12999999999988177,0,False,True,1
+466,5f482b0da1cde52de45f174c,1517.24,1517.86,"yeah,",-0.09999999999990905,0.6199999999998909,0,False,True,1
+467,5f57120cba207c18f058a62b,1517.34,1525.56,know I like to read and like you know do do whatever I did but I was like dang I missed out like I could be a gamer but,-0.5199999999999818,8.220000000000027,0,False,True,29
+468,5f482b0da1cde52de45f174c,1525.54,1538.77,"I mean, I think reading like just being able to sit down and read is less of the common skill these days and frankly I wish I did more of it because my intention span is shorter than I would like it to be.",-0.01999999999998181,13.230000000000018,0,False,True,44
+469,5f57120cba207c18f058a62b,1539.14,1539.85,yeah,0.37000000000011823,0.709999999999809,0,False,False,1
+470,5f482b0da1cde52de45f174c,1539.24,1549.69,"Um it's getting better now that I know that in college again and doing schoolwork, so, but yeah, reading is good to do something",-0.6099999999999,10.450000000000045,0,False,True,25
+471,5f57120cba207c18f058a62b,1549.64,1549.96,thanks.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+472,5f482b0da1cde52de45f174c,1549.69,1550.79,"good too, don't forget",-0.2699999999999818,1.099999999999909,0,False,True,5
+473,5f57120cba207c18f058a62b,1550.64,1550.86,I,-0.14999999999986358,0.2199999999997999,0,False,True,1
+474,5f482b0da1cde52de45f174c,1550.79,1551.05,it.,-0.06999999999993634,0.2599999999999909,0,False,True,1
+475,5f57120cba207c18f058a62b,1550.86,1569.59,"feel like I feel like they're kind of like it's kind of the same I think video game playing and reading and other forms of entertainment like it's all it is stimulating even if you don't think it is like you're learning a story, you're learning skills like it doesn't really matter. You are using your brain when you play video games you",-0.19000000000005457,18.730000000000018,0,False,True,70
+476,5f482b0da1cde52de45f174c,1569.04,1569.46,Okay.,-0.5499999999999545,0.42000000000007276,0,False,True,1
+477,5f57120cba207c18f058a62b,1569.59,1592.49,"can imagine things you can get sucked into that world. So like if you like that more than reading, I don't think there's anything wrong with that and sometimes people just haven't found like what they enjoy to read or like there could be pressure to like, you know, like if you you have to read the classics or whatever, but like, if you're not into that then you don't have to read them. And if you prefer your entertainment to be",0.12999999999988177,22.90000000000009,0,False,False,87
+478,5f482b0da1cde52de45f174c,1592.34,1592.67,Yes.,-0.15000000000009095,0.3300000000001546,0,False,True,1
+479,5f57120cba207c18f058a62b,1592.49,1597.05,"video games or movies or television, like whatever, you do your thing. Like it's all",-0.18000000000006366,4.559999999999945,0,False,True,16
+480,5f482b0da1cde52de45f174c,1596.94,1597.17,"Yeah,",-0.10999999999989996,0.2300000000000182,0,False,True,1
+481,5f57120cba207c18f058a62b,1597.05,1597.46,good.,-0.12000000000011823,0.41000000000008185,0,False,True,1
+482,5f482b0da1cde52de45f174c,1597.74,1600.17,"it's a good point actually. Yeah, I don't think about it that way.",0.2799999999999727,2.4300000000000637,0,False,False,15
+483,5f57120cba207c18f058a62b,1600.64,1613.22,"Yeah, I was like, like I've always been into reading, but I've definitely met people like, especially when I was in college who like, they're almost like reading snobs where it's like, oh well if you're not reading like highbrow literature or",0.4700000000000273,12.579999999999927,0,False,False,47
+484,5f482b0da1cde52de45f174c,1612.74,1613.16,Mhm.,-0.4800000000000182,0.42000000000007276,0,False,True,1
+485,5f57120cba207c18f058a62b,1613.22,1614.62,you haven't read all the classics,0.05999999999994543,1.3999999999998636,0,False,False,7
+486,5f482b0da1cde52de45f174c,1614.24,1614.56,Yeah.,-0.37999999999988177,0.31999999999993634,0,False,True,1
+487,5f57120cba207c18f058a62b,1614.62,1623.95,"then like, oh, you're not really a reader and it's like, no, like if you read like that's great, like it shouldn't be a competition. Like it's just another form of entertainment or learning like,",0.05999999999994543,9.330000000000155,0,False,False,40
+488,5f482b0da1cde52de45f174c,1624.14,1624.35,Mhm.,0.19000000000005457,0.209999999999809,0,False,False,1
+489,5f57120cba207c18f058a62b,1624.34,1627.36,"you know, you can't really get keep reading, but",-0.009999999999990905,3.019999999999982,0,False,True,10
+490,5f482b0da1cde52de45f174c,1627.14,1629.06,Oh my God.,-0.2199999999997999,1.9199999999998454,0,False,True,3
+491,5f57120cba207c18f058a62b,1628.14,1632.09,they try to like,-0.9199999999998454,3.949999999999818,0,False,True,4
+492,5f482b0da1cde52de45f174c,1632.04,1632.36,Yeah.,-0.049999999999954525,0.31999999999993634,0,False,True,1
+493,5f57120cba207c18f058a62b,1632.09,1647.68,"some, I mean, some of the classics are just like, not, no, they're not relatable, but it's almost like, I mean, in a way, it is like it's not relatable. They don't deal with issues that we deal with now or they're written in a way that they are not accessible for",-0.2699999999999818,15.590000000000146,0,False,True,57
+494,5f482b0da1cde52de45f174c,1647.54,1648.05,Mhm.,-0.14000000000010004,0.5099999999999909,0,False,True,1
+495,5f57120cba207c18f058a62b,1647.68,1664.27,"everyone. Um, So it's like, I don't know, sometimes it seems like a waste of time if it's not training to you or you know, if it takes three hours to read, just like two chapters that might not be worth it when you could read, you know, something else that's more entertaining, more relevant to today.",-0.36999999999989086,16.589999999999918,0,False,True,61
+496,5f482b0da1cde52de45f174c,1664.54,1664.95,"Yeah,",0.2699999999999818,0.41000000000008185,0,False,False,1
+497,5f57120cba207c18f058a62b,1664.94,1667.27,"Um, I'm like easier to comprehend.",-0.009999999999990905,2.3299999999999272,0,False,True,7
+498,5f482b0da1cde52de45f174c,1667.04,1674.6,"I think that, you know, this is just keeping is relevant to any kind of community, right? Like that's a little bit out there, like, you know, because",-0.2300000000000182,7.559999999999945,1,False,True,29
+499,5f57120cba207c18f058a62b,1674.14,1674.76,Oh yeah.,-0.459999999999809,0.6199999999998909,0,False,True,2
+500,5f482b0da1cde52de45f174c,1674.6,1677.64,some people can't really get into it. It's like you only,-0.16000000000008185,3.040000000000191,0,False,True,13
+501,5f57120cba207c18f058a62b,1677.54,1677.86,Uh huh.,-0.10000000000013642,0.31999999999993634,0,False,True,2
+502,5f482b0da1cde52de45f174c,1677.64,1685.55,"discuss discuss these things with people who get into it. So when someone who comes into it with, like, a slightly different opinion was like, no, you're wrong, five other people",-0.2199999999997999,7.9099999999998545,0,False,True,32
+503,5f57120cba207c18f058a62b,1685.44,1685.77,Right.,-0.10999999999989996,0.32999999999992724,0,False,True,1
+504,5f482b0da1cde52de45f174c,1685.55,1686.84,told me no. Yeah.,-0.22000000000002728,1.2899999999999636,0,False,True,4
+505,5f57120cba207c18f058a62b,1686.64,1724.49,"Yeah. Oh my gosh. There's, there's gatekeeping and everything. I would see them on Tiktok were like anyone who's like into Star Wars, like it seems like any, any fandom or I mean really, anything, you could probably keep anything cars or you know, whatever. But I saw someone who was like into Star Wars and they were talking about how like, oh, it's so wrong that everyone is calling the child, which is like Baby Yoda in the Mandalorian. They're like, well, that's wrong because it happens after Iota has died. And I was like, okay, people are just calling it that because it looks easy because no one wants to call it the child. And then they were talking about like, oh, it's the Star Wars community is like so toxic. They get",-0.1999999999998181,37.84999999999991,0,False,True,142
+506,5f482b0da1cde52de45f174c,1724.34,1726.78,"Oh,",-0.15000000000009095,2.4400000000000546,0,False,True,1
+507,5f57120cba207c18f058a62b,1724.49,1731.17,"keep everything. And I was like, what? I didn't know that was a big, but like, I guess it is okay.",-2.2899999999999636,6.680000000000064,1,False,True,22
+508,5f482b0da1cde52de45f174c,1731.04,1751.98,"yeah, I think I had a similar moment because I have a friend who was really into transformers, um, collects a lot of the toys, You know, he, uh, watch a lot of movies and all that reads the book, comics and all that. He told me. He knows he knows people online to actually actively gay people who, like, watch the movies and like, get into it from that because like, oh, this is a Michael Bay movie. It's awful.",-0.13000000000010914,20.940000000000055,0,False,True,82
+509,5f57120cba207c18f058a62b,1751.94,1752.17,Mm,-0.03999999999996362,0.2300000000000182,0,False,True,1
+510,5f482b0da1cde52de45f174c,1751.98,1755.67,"You know, all of these explosions and Megan fox, like, okay,",-0.19000000000005457,3.6900000000000546,0,False,True,11
+511,5f57120cba207c18f058a62b,1755.14,1756.81,I think it's,-0.5299999999999727,1.6699999999998454,0,False,True,4
+512,5f482b0da1cde52de45f174c,1756.74,1758.17,"okay,",-0.06999999999993634,1.4300000000000637,0,False,True,1
+513,5f57120cba207c18f058a62b,1756.81,1757.45,"like, okay.",-1.3600000000001273,0.6400000000001,0,False,True,2
+514,5f482b0da1cde52de45f174c,1758.54,1759.25,that's,1.0899999999999181,0.7100000000000364,0,False,False,2
+515,5f57120cba207c18f058a62b,1758.74,1758.94,Yeah.,-0.5099999999999909,0.20000000000004547,0,False,True,1
+516,5f482b0da1cde52de45f174c,1759.25,1763.97,"true. Uh, that's fine. Yeah, I will sit here.",0.30999999999994543,4.720000000000027,0,False,False,10
+517,5f57120cba207c18f058a62b,1763.34,1763.75,Yeah.,-0.6300000000001091,0.41000000000008185,0,False,True,1
+518,5f482b0da1cde52de45f174c,1764.04,1765.67,I will enjoy it anyway.,0.2899999999999636,1.6300000000001091,0,False,False,5
+519,5f57120cba207c18f058a62b,1766.44,1794.46,"Right. And I feel like with, with some of the fandoms, like there's just there's almost too much like if you were like oh I'm really into marvel and then someone were to be like oh have you read all the comics? Oh but have you like watched every movie in every T. V. Show and every cartoon it's like there's so much to take in. Like they're like the marvel. Cinematic universe is so big. Like how could I be an expert on everything? Like how could I how could I know every single comic in every single backstory and I",0.7699999999999818,28.019999999999982,2,False,False,108
+520,5f482b0da1cde52de45f174c,1794.14,1795.2,"Yes,",-0.31999999999993634,1.0599999999999454,0,False,True,1
+521,5f57120cba207c18f058a62b,1794.46,1795.17,don't know if they,-0.7400000000000091,0.7100000000000364,0,False,True,5
+522,5f482b0da1cde52de45f174c,1795.21,1795.85,you're,0.03999999999996362,0.6399999999998727,0,False,False,2
+523,5f57120cba207c18f058a62b,1795.74,1795.95,all,-0.10999999999989996,0.21000000000003638,0,False,True,1
+524,5f482b0da1cde52de45f174c,1795.85,1796.19,you're,-0.10000000000013642,0.3400000000001455,0,False,True,2
+525,5f57120cba207c18f058a62b,1795.95,1796.36,right.,-0.2400000000000091,0.4099999999998545,0,False,True,1
+526,5f482b0da1cde52de45f174c,1796.19,1797.75,you're a fan of Spiderman name. Every,-0.16999999999984539,1.5599999999999454,0,False,True,8
+527,5f57120cba207c18f058a62b,1797.74,1798.06,Mhm.,-0.009999999999990905,0.31999999999993634,0,False,True,1
+528,5f482b0da1cde52de45f174c,1797.75,1798.55,Spider.,-0.30999999999994543,0.7999999999999545,0,False,True,1
+529,5f57120cba207c18f058a62b,1798.64,1810.17,Oh you like Spiderman? Alright what's all of peter parker's what's his whole family lineage like where did he come from? Give this whole family tree and it's like what? I don't know. Okay.,0.09000000000014552,11.529999999999973,3,False,False,39
+530,5f482b0da1cde52de45f174c,1810.44,1810.85,"Yeah,",0.2699999999999818,0.4099999999998545,0,False,False,1
+531,5f57120cba207c18f058a62b,1810.74,1811.45,Yeah.,-0.10999999999989996,0.7100000000000364,0,False,True,1
+532,5f482b0da1cde52de45f174c,1812.34,1815.84,yeah. Yeah.,0.8899999999998727,3.5,0,False,False,2
+533,5f57120cba207c18f058a62b,1816.94,1825.77,Yeah do you have anything that you're like super into like a yeah Star Wars or marvel or anything like that?,1.1000000000001364,8.829999999999927,1,True,False,22
+534,5f482b0da1cde52de45f174c,1825.54,1836.46,"Um My, let me think about that a little bit I guess. Hold on, I'm blanking on here. I I definitely",-0.2300000000000182,10.920000000000073,0,False,True,22
+535,5f57120cba207c18f058a62b,1836.24,1837.04,Yeah.,-0.22000000000002728,0.7999999999999545,0,False,True,1
+536,5f482b0da1cde52de45f174c,1836.46,1838.95,have some stuff I'm really into. I,-0.5799999999999272,2.490000000000009,0,False,True,8
+537,5f57120cba207c18f058a62b,1838.74,1839.15,Yeah.,-0.21000000000003638,0.41000000000008185,0,False,True,1
+538,5f482b0da1cde52de45f174c,1838.95,1840.95,"mean I'm more of an animal person, so",-0.20000000000004547,2.0,0,False,True,9
+539,5f57120cba207c18f058a62b,1840.94,1841.36,Okay.,-0.009999999999990905,0.4199999999998454,0,False,True,1
+540,5f482b0da1cde52de45f174c,1840.96,1850.47,"that's the kind of things I'm into. Um I I used to be like a really hardcore fan, you know, I could watch like 12, 13 episodes in a day and not feel anything now. It's kind",-0.3999999999998636,9.509999999999991,0,False,True,40
+541,5f57120cba207c18f058a62b,1850.34,1850.54,Yeah.,-0.13000000000010914,0.20000000000004547,0,False,True,1
+542,5f482b0da1cde52de45f174c,1850.47,1857.27,"of slowed down now. Like I I've been, you know, again I've been focusing more on college and work so",-0.06999999999993634,6.7999999999999545,0,False,True,22
+543,5f57120cba207c18f058a62b,1858.54,1865.56,"What kind of, what kind of animal do you watch? I've never, I don't think I've ever seen an animal before. Right.",1.2699999999999818,7.019999999999982,1,False,False,25
+544,5f482b0da1cde52de45f174c,1865.34,1875.0,I I like um it's okay. So I think I just like things with psychological elements,-0.22000000000002728,9.660000000000082,0,False,True,17
+545,5f57120cba207c18f058a62b,1874.84,1875.16,Yeah.,-0.16000000000008185,0.3200000000001637,0,False,True,1
+546,5f482b0da1cde52de45f174c,1875.0,1879.36,"I like, you know, romance dramas, those are fine. But I also like detective dramas",-0.16000000000008185,4.3599999999999,0,False,True,15
+547,5f57120cba207c18f058a62b,1879.54,1880.05,Okay.,0.18000000000006366,0.5099999999999909,0,False,False,1
+548,5f482b0da1cde52de45f174c,1880.04,1884.56,and my favorite kind of thing is when like there's,-0.009999999999990905,4.519999999999982,0,False,True,11
+549,5f57120cba207c18f058a62b,1884.24,1884.44,Yeah.,-0.31999999999993634,0.20000000000004547,0,False,True,1
+550,5f482b0da1cde52de45f174c,1884.56,1898.63,"there's a psyche battle, like, you know, like where one guy goes, all right, I'm gonna put my troops here, but then the other guy goes, aha. But I know you're gonna put your troops here, so I put them here in place of that. Another guy goes, aha. But I knew you were going to counter my troops and putting them",0.11999999999989086,14.070000000000164,0,False,False,67
+551,5f57120cba207c18f058a62b,1898.54,1900.27,Yeah.,-0.09000000000014552,1.7300000000000182,0,False,True,1
+552,5f482b0da1cde52de45f174c,1898.63,1904.86,"here. I want to do that. I put them, I use them as bait and I put them on the cliff instead that that kind of thing. You know,",-1.6399999999998727,6.229999999999791,0,False,True,29
+553,5f57120cba207c18f058a62b,1904.44,1904.95,Okay.,-0.4199999999998454,0.5099999999999909,0,False,True,1
+554,5f482b0da1cde52de45f174c,1905.44,1905.63,like,0.4900000000000091,0.19000000000005457,0,False,False,1
+555,5f57120cba207c18f058a62b,1905.44,1905.67,Yeah.,-0.19000000000005457,0.2300000000000182,0,False,True,1
+556,5f482b0da1cde52de45f174c,1905.63,1918.07,it's always unexpected. It's always putting the adrenaline in. Uh Yeah. And recently I found out that my old friend from high school actually became an animator for uh for anime. So,-0.03999999999996362,12.439999999999827,0,False,True,34
+557,5f57120cba207c18f058a62b,1917.64,1918.77,"Oh, cool.",-0.4299999999998363,1.1299999999998818,0,False,True,2
+558,5f482b0da1cde52de45f174c,1918.08,1932.46,I've been watching more action shows because of him because he recommends all of them because he specialized in like martial arts and that kind of fighting thing in animation. So I've been watching more of that office recommendations.,-0.6900000000000546,14.38000000000011,0,False,True,41
+559,5f57120cba207c18f058a62b,1933.34,1946.89,"I always here, I think the first time I was ever introduced to like what anime actually was was like when I first started college, this guy knew he watched a lot of anime and he always told me to watch Cowboy bebop. But I never did. Um, I feel",0.8799999999998818,13.550000000000182,0,False,False,50
+560,5f482b0da1cde52de45f174c,1946.74,1947.36,Right?,-0.15000000000009095,0.6199999999998909,1,True,True,1
+561,5f57120cba207c18f058a62b,1946.89,1951.35,like the closest closest thing I've ever watched an anime was poking was Pokemon and,-0.4699999999997999,4.459999999999809,0,False,True,16
+562,5f482b0da1cde52de45f174c,1951.24,1952.16,Yeah.,-0.10999999999989996,0.9200000000000728,0,False,True,1
+563,5f57120cba207c18f058a62b,1951.35,1957.17,"I only watch that like a couple of years ago. So I don't really think that, I don't know if that is like real anime or if that's like",-0.8100000000001728,5.820000000000164,0,False,True,32
+564,5f482b0da1cde52de45f174c,1957.34,1959.05,"I mean it counts, you know,",0.16999999999984539,1.7100000000000364,0,False,False,6
+565,5f57120cba207c18f058a62b,1959.14,1960.16,accounts. Okay.,0.09000000000014552,1.0199999999999818,0,False,False,2
+566,5f482b0da1cde52de45f174c,1960.44,1966.08,a funny thing enough. I actually watched Cowboy Bebop recently. I didn't like it that much. Like,0.2799999999999727,5.639999999999873,0,False,False,18
+567,5f57120cba207c18f058a62b,1965.84,1966.25,Room like,-0.2400000000000091,0.41000000000008185,0,False,True,2
+568,5f482b0da1cde52de45f174c,1966.09,1966.29,it was,-0.16000000000008185,0.20000000000004547,0,False,True,2
+569,5f57120cba207c18f058a62b,1966.25,1966.56,it.,-0.03999999999996362,0.30999999999994543,0,False,True,1
+570,5f482b0da1cde52de45f174c,1966.29,1971.55,"very, it doesn't follow very linear story. It's just kind of like episodic, you know, guide",-0.2699999999999818,5.259999999999991,0,False,True,18
+571,5f57120cba207c18f058a62b,1971.34,1971.85,Okay,-0.21000000000003638,0.5099999999999909,0,False,True,1
+572,5f482b0da1cde52de45f174c,1971.55,1978.17,"us cool things, one episode, Guide us cool the next episode and occasionally a little sprinkling, you know, little story elements here and there.",-0.2999999999999545,6.620000000000118,0,False,True,24
+573,5f57120cba207c18f058a62b,1977.84,1978.17,here.,-0.3300000000001546,0.3300000000001546,0,False,True,1
+574,5f482b0da1cde52de45f174c,1979.14,1984.61,"It's like, you know, it's cool, you know, it was a pretty decent eighties anime but at the same",0.9700000000000273,5.4699999999998,0,False,False,21
+575,5f57120cba207c18f058a62b,1984.54,1984.76,Mm,-0.06999999999993634,0.22000000000002728,0,False,True,1
+576,5f482b0da1cde52de45f174c,1984.61,1985.05,time,-0.15000000000009095,0.44000000000005457,0,False,True,1
+577,5f57120cba207c18f058a62b,1984.76,1985.35,hmm.,-0.2899999999999636,0.5899999999999181,0,False,True,1
+578,5f482b0da1cde52de45f174c,1985.06,1986.46,"it didn't catch me, you know,",-0.2899999999999636,1.400000000000091,0,False,True,7
+579,5f57120cba207c18f058a62b,1986.94,2014.35,"So like what, what makes an animate different from like another like animated show. Like I know there are some like stylistic differences. But like do the storylines, are they different? Are they like, is it more true to like live action or not live action to like a sitcom or like a show versus like a cartoon network kind of like kids focused show.",0.4800000000000182,27.409999999999854,1,False,False,65
+580,5f482b0da1cde52de45f174c,2014.14,2034.67,"I feel like it's mostly like the demographics. So with no, there are kids, you know, anime pointed out kids. But uh like cartoons tend to usually focus on kids and the ones that don't are more like comedy centric, like family Guy or Simpsons, that kind of thing.",-0.209999999999809,20.529999999999973,0,False,True,51
+581,5f57120cba207c18f058a62b,2034.84,2035.35,Mhm,0.16999999999984539,0.5099999999999909,0,False,False,1
+582,5f482b0da1cde52de45f174c,2035.64,2053.35,"Anime is like, you know, like like we mentioned before with Japan like it likes to explore niches, right? Like that's the same thing. So there's this one really famous anime called Initial D. Where it's entirely about the niche japanese sport of drifting like drifting cars.",0.290000000000191,17.70999999999981,1,False,False,50
+583,5f57120cba207c18f058a62b,2053.54,2054.74,dr Finn Cars.,0.19000000000005457,1.199999999999818,0,False,False,3
+584,5f482b0da1cde52de45f174c,2054.64,2055.23,"Yeah,",-0.09999999999990905,0.5900000000001455,0,False,True,1
+585,5f57120cba207c18f058a62b,2054.75,2055.85,Okay.,-0.4800000000000182,1.099999999999909,0,False,True,1
+586,5f482b0da1cde52de45f174c,2055.24,2061.17,it's really popular even though most of Muslims don't even know how to drive a stick shift. So,-0.6100000000001273,5.930000000000291,0,False,True,20
+587,5f57120cba207c18f058a62b,2060.74,2060.97,Mhm.,-0.43000000000029104,0.2300000000000182,0,False,True,1
+588,5f482b0da1cde52de45f174c,2061.84,2065.47,"that's that's something, you know? But I guess people into it. Um",0.8700000000003456,3.6299999999996544,1,False,False,14
+589,5f57120cba207c18f058a62b,2065.64,2066.36,Pretty fun,0.17000000000007276,0.7200000000002547,0,False,False,2
+590,5f482b0da1cde52de45f174c,2065.94,2070.15,"And the other weird things too, like there's an about basketball and then there's",-0.42000000000007276,4.210000000000036,0,False,True,16
+591,5f57120cba207c18f058a62b,2070.04,2070.19,going,-0.11000000000012733,0.15000000000009095,0,False,True,1
+592,5f482b0da1cde52de45f174c,2070.15,2070.28,an,-0.03999999999996362,0.13000000000010914,0,False,True,1
+593,5f57120cba207c18f058a62b,2070.19,2070.37,into,-0.09000000000014552,0.1799999999998363,0,False,True,1
+594,5f482b0da1cde52de45f174c,2070.28,2070.8,anime,-0.08999999999969077,0.5199999999999818,0,False,True,1
+595,5f57120cba207c18f058a62b,2070.37,2070.85,the net.,-0.43000000000029104,0.4800000000000182,0,False,True,2
+596,5f482b0da1cde52de45f174c,2070.8,2077.34,about uh you know what would happen if everybody got teleported into a game world and like it's,-0.04999999999972715,6.539999999999964,0,False,True,19
+597,5f57120cba207c18f058a62b,2076.84,2077.56,Mm.,-0.5,0.7199999999997999,0,False,True,1
+598,5f482b0da1cde52de45f174c,2077.34,2078.25,more of like,-0.2199999999997999,0.9099999999998545,0,False,True,3
+599,5f57120cba207c18f058a62b,2078.34,2078.66,Uh huh.,0.09000000000014552,0.31999999999970896,0,False,False,2
+600,5f482b0da1cde52de45f174c,2079.34,2079.66,it's more,0.680000000000291,0.31999999999970896,0,False,False,3
+601,5f57120cba207c18f058a62b,2079.64,2079.84,Yeah.,-0.01999999999998181,0.20000000000027285,0,False,True,1
+602,5f482b0da1cde52de45f174c,2079.66,2083.25,like books turned into shows and,-0.18000000000029104,3.5900000000001455,0,False,True,6
+603,5f57120cba207c18f058a62b,2082.84,2083.47,Okay.,-0.4099999999998545,0.6299999999996544,0,False,True,1
+604,5f482b0da1cde52de45f174c,2083.26,2083.97,this is a,-0.20999999999958163,0.7099999999995816,0,False,True,3
+605,5f57120cba207c18f058a62b,2083.94,2084.17,Yeah.,-0.02999999999974534,0.2300000000000182,0,False,True,1
+606,5f482b0da1cde52de45f174c,2083.97,2105.66,"pretty natural order because most of them are based off the manga or the comics, right? So yeah, of course it's going to be more like books going to shows. Uh I think that's the main difference. So when people say like, you know, do you like anime? That's not really very, you know, it's not it's not it's not a very specific question because like yeah, I like some but I hate",-0.20000000000027285,21.690000000000055,2,False,True,79
+607,5f57120cba207c18f058a62b,2105.54,2106.56,Okay.,-0.11999999999989086,1.0199999999999818,0,False,True,1
+608,5f482b0da1cde52de45f174c,2105.66,2106.94,"others. Yeah,",-0.900000000000091,1.2800000000002,0,False,True,2
+609,5f57120cba207c18f058a62b,2106.94,2107.26,Yeah.,0.0,0.3200000000001637,0,False,False,1
+610,5f482b0da1cde52de45f174c,2106.95,2111.17,it's it's more of a platform and a style rather than a genre. So,-0.3100000000004002,4.220000000000255,0,False,True,16
+611,5f57120cba207c18f058a62b,2111.54,2112.98,Okay. So,0.36999999999989086,1.4400000000000546,0,False,False,2
+612,5f482b0da1cde52de45f174c,2112.84,2113.05,"okay,",-0.13999999999987267,0.21000000000003638,0,False,True,1
+613,5f57120cba207c18f058a62b,2112.98,2118.46,you could make an anime about like anything. Like it could be anything.,-0.07000000000016371,5.480000000000018,0,False,True,13
+614,5f482b0da1cde52de45f174c,2118.84,2126.67,"there's some really weird ones out there. Yeah, for sure. There's one about like exercising, it just talks about like different exercise routines.",0.38000000000010914,7.829999999999927,0,False,False,25
+615,5f57120cba207c18f058a62b,2127.04,2127.85,Okay.,0.36999999999989086,0.8099999999999454,0,False,False,1
+616,5f482b0da1cde52de45f174c,2128.44,2134.76,"It's like it's called how heavy are the dumbbells, How heavy how heavy can you lift your dumbbells or something? You know, something like that.",0.5900000000001455,6.320000000000164,1,False,False,27
+617,5f57120cba207c18f058a62b,2135.34,2141.59,"And it's an enemy about, it's like informational. Like it's not fictional. It's informational but it's an anime style.",0.5799999999999272,6.25,0,False,False,24
+618,5f482b0da1cde52de45f174c,2141.84,2143.17,I haven't watched it actually.,0.25,1.3299999999999272,0,False,False,6
+619,5f57120cba207c18f058a62b,2143.04,2143.36,Yeah.,-0.13000000000010914,0.3200000000001637,0,False,True,1
+620,5f482b0da1cde52de45f174c,2143.17,2145.87,"I think there's some like linear plot to it, but",-0.19000000000005457,2.699999999999818,0,False,True,11
+621,5f57120cba207c18f058a62b,2145.54,2145.75,Oh,-0.32999999999992724,0.21000000000003638,0,False,True,1
+622,5f482b0da1cde52de45f174c,2145.88,2150.75,"it's it's mostly about like, you know, this is how you properly lift. You know,",0.13000000000010914,4.869999999999891,0,False,False,17
+623,5f57120cba207c18f058a62b,2150.59,2151.46,yeah.,-0.15999999999985448,0.8699999999998909,0,False,True,1
+624,5f482b0da1cde52de45f174c,2151.54,2152.09,I'm not making,0.07999999999992724,0.5500000000001819,0,False,False,4
+625,5f57120cba207c18f058a62b,2151.94,2152.47,Yeah.,-0.15000000000009095,0.5299999999997453,0,False,True,1
+626,5f482b0da1cde52de45f174c,2152.09,2152.56,this up.,-0.3799999999996544,0.4699999999997999,0,False,True,2
+627,5f57120cba207c18f058a62b,2153.04,2164.26,"I will have to like, I will have to look that up. Like maybe that will, maybe that'll get me into the anime world. Like you can find an anime about weightlifting or something.",0.4800000000000182,11.220000000000255,0,False,False,35
+628,5f482b0da1cde52de45f174c,2165.84,2166.17,"Yeah,",1.5799999999999272,0.32999999999992724,0,False,False,1
+629,5f57120cba207c18f058a62b,2166.14,2166.67,Mm,-0.03000000000020009,0.5300000000002001,0,False,True,1
+630,5f482b0da1cde52de45f174c,2166.18,2170.94,okay. I think we are done with time now,-0.49000000000023647,4.760000000000218,0,False,True,9
+631,5f57120cba207c18f058a62b,2170.84,2171.67,"Yeah,",-0.09999999999990905,0.8299999999999272,0,False,True,1
+632,5f482b0da1cde52de45f174c,2170.95,2173.06,so we can end. Uh,-0.7200000000002547,2.1100000000001273,0,False,True,5
+633,5f57120cba207c18f058a62b,2172.84,2173.67,sure.,-0.2199999999997999,0.8299999999999272,0,False,True,1
+634,5f482b0da1cde52de45f174c,2174.54,2176.55,So I'm talking to you though. There was a,0.8699999999998909,2.0100000000002183,0,False,False,10
+635,5f57120cba207c18f058a62b,2176.34,2179.61,"Yeah, it was nice to me, too. I good luck with college.",-0.21000000000003638,3.269999999999982,0,False,True,12
+636,5f482b0da1cde52de45f174c,2179.24,2180.05,thank you.,-0.3700000000003456,0.8100000000004002,0,False,True,2
+637,5f57120cba207c18f058a62b,2179.62,2189.26,"And I hope, I hope you can at least enjoy the rest of the year. I hope this kind of goes away so you can get back to Canada and a normal college experience.",-0.43000000000029104,9.640000000000327,0,False,True,34
+638,5f482b0da1cde52de45f174c,2189.44,2193.22,"Thank you so much. I don't know what your job is, but good luck with whatever",0.1799999999998363,3.7799999999997453,0,False,False,17
+639,5f57120cba207c18f058a62b,2193.14,2194.77,Thank,-0.07999999999992724,1.6300000000001091,0,False,True,1
+640,5f482b0da1cde52de45f174c,2193.22,2194.56,it is. Okay.,-1.550000000000182,1.3400000000001455,0,False,True,3
+641,5f57120cba207c18f058a62b,2194.77,2195.36,you.,0.21000000000003638,0.5900000000001455,0,False,False,1
+642,5f482b0da1cde52de45f174c,2195.74,2200.36,"And yeah, that's really refreshing. I have not had a chance to turn out like this in a long time, so",0.3799999999996544,4.620000000000346,0,False,False,22
+643,5f57120cba207c18f058a62b,2200.54,2203.66,"Yeah, it's good. It's good.",0.1799999999998363,3.119999999999891,0,False,False,7
+644,5f482b0da1cde52de45f174c,2202.94,2205.22,thank you so much.,-0.7199999999997999,2.2799999999997453,0,False,True,4

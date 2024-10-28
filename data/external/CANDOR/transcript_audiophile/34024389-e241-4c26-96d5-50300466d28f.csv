@@ -1,0 +1,658 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5cbea0b506e27c001e4c03a8,25.74,25.94,Yeah.,,0.20000000000000284,0,False,False,1
+1,5e799448fb3c7055cdee5ecd,26.54,27.26,"Hi,",0.5999999999999979,0.7200000000000024,0,False,False,1
+2,5cbea0b506e27c001e4c03a8,27.24,28.16,Hi.,-0.020000000000003126,0.9200000000000017,0,False,True,1
+3,5e799448fb3c7055cdee5ecd,27.94,29.4,I'm,-0.21999999999999886,1.4599999999999973,0,False,True,2
+4,5cbea0b506e27c001e4c03a8,28.64,29.35,"Yeah,",-0.759999999999998,0.7100000000000009,0,False,True,1
+5,5e799448fb3c7055cdee5ecd,29.4,30.06,kate,0.04999999999999716,0.6600000000000001,0,False,False,1
+6,5cbea0b506e27c001e4c03a8,30.24,33.01,"I'm laura. Hi, nice to meet you. I'm so sorry.",0.17999999999999972,2.7699999999999996,0,False,False,12
+7,5e799448fb3c7055cdee5ecd,32.64,34.76,nice to me. What's up?,-0.36999999999999744,2.1199999999999974,1,True,True,6
+8,5cbea0b506e27c001e4c03a8,34.94,36.56,Uh Nothing. What's up with you?,0.17999999999999972,1.6200000000000045,1,True,False,7
+9,5e799448fb3c7055cdee5ecd,37.14,38.15,Not too much.,0.5799999999999983,1.009999999999998,0,False,False,3
+10,5cbea0b506e27c001e4c03a8,37.74,38.06,Mhm.,-0.4099999999999966,0.3200000000000003,0,False,True,1
+11,5e799448fb3c7055cdee5ecd,38.15,38.9,Just moving,0.0899999999999963,0.75,0,False,False,2
+12,5cbea0b506e27c001e4c03a8,38.84,39.05,Mhm.,-0.05999999999999517,0.20999999999999375,0,False,True,1
+13,5e799448fb3c7055cdee5ecd,38.9,41.96,into a new apartment. So it's super like empty.,-0.14999999999999858,3.0600000000000023,0,False,True,10
+14,5cbea0b506e27c001e4c03a8,41.84,42.38,Oh,-0.11999999999999744,0.5399999999999991,0,False,True,1
+15,5e799448fb3c7055cdee5ecd,42.34,42.55,"The,",-0.03999999999999915,0.20999999999999375,0,False,True,1
+16,5cbea0b506e27c001e4c03a8,42.39,44.26,that's really cool. What did you move to?,-0.1599999999999966,1.8699999999999974,1,True,True,9
+17,5e799448fb3c7055cdee5ecd,44.54,46.66,I moved to michigan for medical school.,0.28000000000000114,2.1199999999999974,0,False,False,7
+18,5cbea0b506e27c001e4c03a8,46.84,50.76,Oh my God. Um Are excited?,0.18000000000000682,3.9199999999999946,1,True,False,6
+19,5e799448fb3c7055cdee5ecd,50.94,60.96,"I am excited. Yeah. It's gonna be crazy. Like it starts an orientation, like starts tomorrow. So it's gonna be a lot. And then classes start in a week. It's gonna be a lot of work. But",0.17999999999999972,10.020000000000003,0,False,False,43
+20,5cbea0b506e27c001e4c03a8,60.74,63.42,"Oh my God, like I'm pre med so like",-0.21999999999999886,2.6799999999999997,0,False,True,10
+21,5e799448fb3c7055cdee5ecd,63.04,63.76,"Really,",-0.38000000000000256,0.7199999999999989,0,False,True,1
+22,5cbea0b506e27c001e4c03a8,63.43,68.86,"yeah, but I'm like a junior in undergrad right now, so",-0.3299999999999983,5.43,0,False,True,12
+23,5e799448fb3c7055cdee5ecd,67.74,68.55,where do you go?,-1.1200000000000045,0.8100000000000023,1,True,True,4
+24,5cbea0b506e27c001e4c03a8,68.87,70.25,I go to U. S. F.,0.3200000000000074,1.3799999999999955,0,False,False,6
+25,5e799448fb3c7055cdee5ecd,72.04,73.47,You southern,1.7900000000000063,1.4299999999999926,0,False,False,2
+26,5cbea0b506e27c001e4c03a8,73.24,73.53,Well,-0.23000000000000398,0.29000000000000625,0,False,True,1
+27,5e799448fb3c7055cdee5ecd,73.47,74.16,floor.,-0.060000000000002274,0.6899999999999977,0,False,True,1
+28,5cbea0b506e27c001e4c03a8,73.54,74.64,yeah.,-0.6199999999999903,1.0999999999999943,0,False,True,1
+29,5e799448fb3c7055cdee5ecd,74.64,76.65,Cool. Okay. Are you in florida right now?,0.0,2.010000000000005,1,True,False,8
+30,5cbea0b506e27c001e4c03a8,76.84,81.16,"Yeah, we're just here waiting out this hurricane. I think it passed.",0.18999999999999773,4.319999999999993,0,False,False,13
+31,5e799448fb3c7055cdee5ecd,81.24,82.43,"Oh, wow. You",0.0799999999999983,1.190000000000012,0,False,False,3
+32,5cbea0b506e27c001e4c03a8,82.34,82.76,Mm.,-0.09000000000000341,0.4200000000000017,0,False,True,1
+33,5e799448fb3c7055cdee5ecd,82.43,84.06,guys are getting everything right now?,-0.3299999999999983,1.6299999999999955,1,True,True,6
+34,5cbea0b506e27c001e4c03a8,84.04,93.86,"Yeah, we had a tropical storm passed by us because it flew into the, well not flu, it went through the caribbean so it like kind of hit us last because it always does. So.",-0.01999999999999602,9.819999999999993,0,False,True,35
+35,5e799448fb3c7055cdee5ecd,94.64,95.15,Mm,0.7800000000000011,0.5100000000000051,0,False,False,1
+36,5cbea0b506e27c001e4c03a8,95.14,95.76,Yeah.,-0.010000000000005116,0.6200000000000045,0,False,True,1
+37,5e799448fb3c7055cdee5ecd,96.04,99.16,"um, and like the covid is not good there. Right?",0.28000000000000114,3.1199999999999903,1,True,False,10
+38,5cbea0b506e27c001e4c03a8,99.44,101.86,"Yeah. No, no not at all.",0.28000000000000114,2.4200000000000017,0,False,False,6
+39,5e799448fb3c7055cdee5ecd,102.54,104.55,Is your area like hard hit?,0.6800000000000068,2.009999999999991,1,True,False,6
+40,5cbea0b506e27c001e4c03a8,105.34,109.54,Um So I don't,0.7900000000000063,4.200000000000003,0,False,False,5
+41,5e799448fb3c7055cdee5ecd,109.54,109.74,Yeah.,0.0,0.19999999999998863,0,False,False,1
+42,5cbea0b506e27c001e4c03a8,109.55,114.36,know like specific areas that are harder hit. I live in like a more affluent,-0.18999999999999773,4.810000000000002,0,False,True,15
+43,5e799448fb3c7055cdee5ecd,113.74,113.94,Yeah.,-0.6200000000000045,0.20000000000000284,0,False,True,1
+44,5cbea0b506e27c001e4c03a8,114.74,126.46,"ish area, so I'm assuming we're gonna be okay afterwards. But I think more harder hit areas are like areas that are like further up north, like more rural florida.",0.7999999999999972,11.719999999999999,0,False,False,33
+45,5e799448fb3c7055cdee5ecd,126.74,127.93,"Oh,",0.28000000000000114,1.190000000000012,0,False,False,1
+46,5cbea0b506e27c001e4c03a8,126.94,128.55,"Because yeah,",-0.9900000000000091,1.6100000000000136,0,False,True,2
+47,5e799448fb3c7055cdee5ecd,128.09,128.56,together.,-0.46000000000000796,0.46999999999999886,0,False,True,1
+48,5cbea0b506e27c001e4c03a8,129.44,135.76,because of how the health care works up there and how the politics generally works up there. So,0.8799999999999955,6.319999999999993,0,False,False,18
+49,5e799448fb3c7055cdee5ecd,136.54,139.15,Is it like more conservative up there,0.7800000000000011,2.6100000000000136,0,False,False,7
+50,5cbea0b506e27c001e4c03a8,139.14,147.0,"yeah, if you around north florida, that area around Georgia and Alabama and all those places, it's a lot more conservative and",-0.010000000000019327,7.860000000000014,0,False,True,23
+51,5e799448fb3c7055cdee5ecd,146.54,147.26,from experience.,-0.46000000000000796,0.7199999999999989,0,False,True,2
+52,5cbea0b506e27c001e4c03a8,147.01,149.85,"Travis more southern, it gets a lot more liberal.",-0.25,2.8400000000000034,0,False,True,9
+53,5e799448fb3c7055cdee5ecd,150.04,150.81,So people are,0.18999999999999773,0.7700000000000102,0,False,False,3
+54,5cbea0b506e27c001e4c03a8,150.74,150.95,Mm,-0.06999999999999318,0.20999999999997954,0,False,True,1
+55,5e799448fb3c7055cdee5ecd,150.81,153.46,masked there and stuff like that. The team were seriously.,-0.13999999999998636,2.6500000000000057,0,False,True,10
+56,5cbea0b506e27c001e4c03a8,153.94,154.82,"um Yes,",0.47999999999998977,0.8799999999999955,0,False,False,2
+57,5e799448fb3c7055cdee5ecd,154.64,154.83,Mm,-0.18000000000000682,0.19000000000002615,0,False,True,1
+58,5cbea0b506e27c001e4c03a8,154.83,155.43,we,0.0,0.5999999999999943,0,False,False,1
+59,5e799448fb3c7055cdee5ecd,154.83,155.26,hmm.,-0.5999999999999943,0.4299999999999784,0,False,True,1
+60,5cbea0b506e27c001e4c03a8,155.43,168.22,"were masked down here um around my school area, it's mandatory. Uh so we're pretty safe. But like if you travel in different areas, like my friend recently traveled to Kentucky and",0.17000000000001592,12.789999999999992,0,False,False,34
+61,5e799448fb3c7055cdee5ecd,168.04,168.36,Yeah.,-0.18000000000000682,0.3200000000000216,0,False,True,1
+62,5cbea0b506e27c001e4c03a8,168.22,172.36,she was like there was no one wearing a mask and she was like terrified. And I was like,-0.14000000000001478,4.140000000000015,0,False,True,19
+63,5e799448fb3c7055cdee5ecd,171.64,172.86,But you're insane.,-0.7200000000000273,1.2200000000000273,0,False,True,4
+64,5cbea0b506e27c001e4c03a8,173.14,173.55,yeah,0.2799999999999727,0.410000000000025,0,False,False,1
+65,5e799448fb3c7055cdee5ecd,173.24,186.35,"Wow. I heard the same thing. Like, like I'm from massachusetts so like everyone's really serious there. But like I was talking to someone from Ohio and he said like nobody there were his masks and like nobody in this town more of them. And like, you wouldn't even know like covid is a threat there. It's crazy.",-0.3100000000000023,13.109999999999985,0,False,True,62
+66,5cbea0b506e27c001e4c03a8,187.14,193.02,I've seen the maps that show like where Covid is actively happening in like,0.789999999999992,5.880000000000024,0,False,False,15
+67,5e799448fb3c7055cdee5ecd,192.84,193.35,Mhm,-0.18000000000000682,0.5099999999999909,0,False,True,1
+68,5cbea0b506e27c001e4c03a8,193.02,201.96,the worst cases and it's really concentrated on the east coast right now. Like more populist places and like the middle of the country hasn't been hit yet.,-0.3299999999999841,8.939999999999998,0,False,True,30
+69,5e799448fb3c7055cdee5ecd,202.14,202.65,"No,",0.1799999999999784,0.5100000000000193,0,False,False,1
+70,5cbea0b506e27c001e4c03a8,202.34,219.16,"I feel that's why they're being more lax about it now, but I feel like as this progress is they're gonna get harder hit, but also like I'm from new york originally, so when you said massachusetts, I was like Q because I've been to boston a couple of times, but that's kind of it.",-0.3100000000000023,16.819999999999993,0,False,True,62
+71,5e799448fb3c7055cdee5ecd,219.54,219.93,"Well,",0.37999999999999545,0.3900000000000148,0,False,False,1
+72,5cbea0b506e27c001e4c03a8,219.74,219.94,Yeah.,-0.18999999999999773,0.19999999999998863,0,False,True,1
+73,5e799448fb3c7055cdee5ecd,219.93,222.62,"new york is very similar. Like the, you know, people",-0.009999999999990905,2.6899999999999977,0,False,True,10
+74,5cbea0b506e27c001e4c03a8,222.34,222.55,Mhm.,-0.28000000000000114,0.21000000000000796,0,False,True,1
+75,5e799448fb3c7055cdee5ecd,222.62,244.16,"are like mostly progressive and stuff like liberal and like at least they, I mean now the Northeast has like, um, like for massachusetts, you can like, you have to quarantine 14 days if you're not from like new york or like New England and New Jersey. So it's like everyone else except like that little section of the country because like they're doing so well, but they took it seriously. It's good.",0.06999999999999318,21.539999999999992,0,False,False,77
+76,5cbea0b506e27c001e4c03a8,244.24,266.35,"Yeah, I remember when I started in like, new york was really hard hit and it was getting really scary up there. Um So I'm glad they took it seriously, I feel like the more populous states are going to get it worse obviously because more populous. Um But I'm kind of waiting for like things that hit the fan over here because we're going back to school, like Wisma.",0.0800000000000125,22.110000000000014,0,False,False,73
+77,5e799448fb3c7055cdee5ecd,266.04,267.09,Yeah.,-0.3100000000000023,1.0499999999999545,0,False,True,1
+78,5cbea0b506e27c001e4c03a8,266.84,267.55,"Yeah,",-0.25,0.7100000000000364,0,False,True,1
+79,5e799448fb3c7055cdee5ecd,267.1,268.95,How's that gonna work,-0.44999999999998863,1.849999999999966,0,False,True,6
+80,5cbea0b506e27c001e4c03a8,269.54,272.13,so it depends on your institution to,0.5900000000000318,2.589999999999975,0,False,False,7
+81,5e799448fb3c7055cdee5ecd,271.94,272.36,all right,-0.18999999999999773,0.4200000000000159,0,False,True,2
+82,5cbea0b506e27c001e4c03a8,272.13,302.68,"move because we have a lot of florida state schools down here, so um my school is part of the florida state school program because the public florida school and they've come up with a plan, it seems pretty comprehensive. Like we had to get tested for. We go back on campus, we're going to have restricted areas. We're gonna be required to um stay in our dorm rooms. We're not going to have that many in person classes if you can avoid it. So we're doing so we have like a bunch of restrictions to keep us safe if people",-0.2300000000000182,30.55000000000001,0,False,True,107
+83,5e799448fb3c7055cdee5ecd,302.44,302.86,And,-0.2400000000000091,0.4200000000000159,0,False,True,1
+84,5cbea0b506e27c001e4c03a8,302.68,310.28,"call them. But some schools like my sister, she's starting high school this year. She's going to be an online school. Come",-0.18000000000000682,7.599999999999966,0,False,True,24
+85,5e799448fb3c7055cdee5ecd,310.04,310.37,for high,-0.23999999999995225,0.3299999999999841,0,False,True,2
+86,5cbea0b506e27c001e4c03a8,310.28,310.46,on.,-0.09000000000003183,0.18000000000000682,0,False,True,1
+87,5e799448fb3c7055cdee5ecd,310.37,311.06,school?,-0.08999999999997499,0.6899999999999977,1,True,True,1
+88,5cbea0b506e27c001e4c03a8,311.14,312.06,Yeah.,0.07999999999998408,0.9200000000000159,0,False,False,1
+89,5e799448fb3c7055cdee5ecd,311.84,313.25,"Oh, that's so weird.",-0.22000000000002728,1.410000000000025,0,False,True,5
+90,5cbea0b506e27c001e4c03a8,313.44,321.26,All of my siblings are starting new new schools and they're like my brother starting middle school and he's starting in high school and they're like it's gonna be online.,0.18999999999999773,7.819999999999993,0,False,False,35
+91,5e799448fb3c7055cdee5ecd,321.74,322.55,Hmm.,0.4800000000000182,0.8100000000000023,0,False,False,1
+92,5cbea0b506e27c001e4c03a8,322.04,322.24,Yeah.,-0.5099999999999909,0.19999999999998863,0,False,True,1
+93,5e799448fb3c7055cdee5ecd,322.56,328.76,"I wonder how little work out. It's just like a different, I don't know, it's so different from when we were in high school and like",0.3199999999999932,6.199999999999989,0,False,False,29
+94,5cbea0b506e27c001e4c03a8,328.84,330.12,It's,0.07999999999998408,1.2800000000000296,0,False,False,2
+95,5e799448fb3c7055cdee5ecd,330.04,330.27,you,-0.07999999999998408,0.22999999999996135,0,False,True,1
+96,5cbea0b506e27c001e4c03a8,330.12,330.76,really,-0.14999999999997726,0.6399999999999864,0,False,True,1
+97,5e799448fb3c7055cdee5ecd,330.27,331.96,with your friends.,-0.4900000000000091,1.6899999999999977,0,False,True,3
+98,5cbea0b506e27c001e4c03a8,332.04,335.66,I couldn't even imagine. But how do you get by starting medical online?,0.08000000000004093,3.6200000000000045,1,True,False,14
+99,5e799448fb3c7055cdee5ecd,336.44,348.4,Um It's gonna be weird to like they also honestly told as much information like it is online. But I think we have anatomy. I mean anatomy is important. You know like your you need real people in front of you. But I think they're like being so,0.7799999999999727,11.95999999999998,0,False,False,51
+100,5cbea0b506e27c001e4c03a8,348.14,348.35,Right.,-0.2599999999999909,0.21000000000003638,0,False,True,1
+101,5e799448fb3c7055cdee5ecd,348.4,366.2,"safe about and they said like if you don't wear mask, you get kicked off campus and like being really serious. But it's gonna be weird. It's nice like not having to go to class at eight a.m. But also like you really need an ad in me and like it's hard making friends if you're not from the area and I'm like no one can hang out so we'll see",0.049999999999954525,17.80000000000001,0,False,False,79
+102,5cbea0b506e27c001e4c03a8,366.14,366.34,Yeah.,-0.060000000000002274,0.19999999999998863,0,False,True,1
+103,5e799448fb3c7055cdee5ecd,366.2,367.46,what happens.,-0.13999999999998636,1.259999999999991,0,False,True,2
+104,5cbea0b506e27c001e4c03a8,366.94,373.01,Well hopefully you'll make some zoom friends like and look at the average for you. How much,-0.5199999999999818,6.069999999999993,0,False,True,18
+105,5e799448fb3c7055cdee5ecd,372.74,372.94,Yeah.,-0.2699999999999818,0.19999999999998863,0,False,True,1
+106,5cbea0b506e27c001e4c03a8,373.02,375.75,"good thing or bad thing, depending how if you bought the bodies.",0.07999999999998408,2.730000000000018,0,False,False,12
+107,5e799448fb3c7055cdee5ecd,376.04,378.64,I guess I mean it's just like a traditional thing though. You know,0.29000000000002046,2.599999999999966,0,False,False,14
+108,5cbea0b506e27c001e4c03a8,378.54,378.86,Yeah.,-0.0999999999999659,0.3199999999999932,0,False,True,1
+109,5e799448fb3c7055cdee5ecd,378.64,382.85,like everyone has their like cadaver like white coat ceremony.,-0.22000000000002728,4.210000000000036,0,False,True,10
+110,5cbea0b506e27c001e4c03a8,382.34,384.95,Mhm. Oh you know how white coat ceremony this year?,-0.5100000000000477,2.6100000000000136,1,True,True,10
+111,5e799448fb3c7055cdee5ecd,385.04,405.35,"It got postponed a year, which is better than being canceled. But it's like it's a big thing you always look forward to and now it's just like we start orientation tomorrow and like we had to go separate like socially distanced too. Like everyone in different time slot to get like our laptops and stuff. But I mean like at least people live in this apartment complex and we've been hanging out but like you can really see anyone other than that.",0.09000000000003183,20.310000000000002,0,False,False,87
+112,5cbea0b506e27c001e4c03a8,405.14,420.56,"That's nice. I know like certain people who have graduated, who are starting my school or who started mental last year and being pre med like I know like this is not these are not topics to be taught online on a screen.",-0.21000000000003638,15.420000000000016,0,False,True,44
+113,5e799448fb3c7055cdee5ecd,419.64,420.15,"Mhm,",-0.9200000000000159,0.5099999999999909,0,False,True,1
+114,5cbea0b506e27c001e4c03a8,420.57,422.45,Like I'm doing physics this semester,0.4200000000000159,1.8799999999999955,0,False,False,7
+115,5e799448fb3c7055cdee5ecd,422.64,423.26,mm hmm.,0.18999999999999773,0.6200000000000045,0,False,False,2
+116,5cbea0b506e27c001e4c03a8,422.84,428.47,and I'm not looking forward to it. My friends took it before me and they were not having it. It was,-0.4200000000000159,5.630000000000052,0,False,True,22
+117,5e799448fb3c7055cdee5ecd,428.44,428.76,"Yeah,",-0.03000000000002956,0.3199999999999932,0,False,True,1
+118,5cbea0b506e27c001e4c03a8,428.47,430.36,not fun for them at all.,-0.2899999999999636,1.8899999999999864,0,False,True,6
+119,5e799448fb3c7055cdee5ecd,430.94,433.17,physics is awful. I'm so sorry.,0.5799999999999841,2.230000000000018,0,False,False,7
+120,5cbea0b506e27c001e4c03a8,433.14,434.96,Ox.,-0.03000000000002956,1.8199999999999932,0,False,True,1
+121,5e799448fb3c7055cdee5ecd,433.18,438.66,"Which is um electrics, what's it called? E. And M. Or is it like mechanical?",-1.7799999999999727,5.480000000000018,2,True,True,16
+122,5cbea0b506e27c001e4c03a8,439.24,442.86,Um I have actually no idea. I'm doing physics one.,0.5799999999999841,3.6200000000000045,0,False,False,11
+123,5e799448fb3c7055cdee5ecd,443.04,443.38,Also?,0.18000000000000682,0.339999999999975,1,True,False,1
+124,5cbea0b506e27c001e4c03a8,443.34,443.54,Yeah.,-0.040000000000020464,0.20000000000004547,0,False,True,1
+125,5e799448fb3c7055cdee5ecd,443.38,444.75,Probably mechanical physics.,-0.160000000000025,1.3700000000000045,0,False,True,3
+126,5cbea0b506e27c001e4c03a8,444.24,452.86,Yeah. It probably isn't. Chemical physics. Thank God I'm not doing technical but I'm doing physics one and its outer based this for um because I refuse to take calculus,-0.5099999999999909,8.620000000000005,0,False,True,33
+127,5e799448fb3c7055cdee5ecd,452.74,455.46,"I'm good. You yeah,",-0.12000000000000455,2.7199999999999704,0,False,True,5
+128,5cbea0b506e27c001e4c03a8,454.04,478.96,"well, it wasn't worth it for me, like I'm good enough at math, but like the stress and like the extra time putting it off wasn't worth it for me. So I'm taking it this master and I didn't take it during the summer because I said I'm not like a, like I'm a chemistry person, like I did my best in my chemistry courses and physics does not sound fun for me.",-1.419999999999959,24.91999999999996,0,False,True,80
+129,5e799448fb3c7055cdee5ecd,479.44,484.26,"it's not if your chemistry person, believe me, I was too in physics is brutal. But you'll get through it.",0.4800000000000182,4.819999999999993,0,False,False,22
+130,5cbea0b506e27c001e4c03a8,484.44,503.14,"Oh, okay, I hope I will cause I'm really, I started it. My friend, she had her give me her give me her like power points from perfect of class and I got to like Chapter three and I was like, I'm not, I'm not here for this, I",0.18000000000000682,18.69999999999999,0,False,False,52
+131,5e799448fb3c7055cdee5ecd,502.94,503.36,You think,-0.19999999999998863,0.4200000000000159,0,False,True,2
+132,5cbea0b506e27c001e4c03a8,503.14,504.16,don't want to do this,-0.22000000000002728,1.0200000000000387,0,False,True,6
+133,5e799448fb3c7055cdee5ecd,504.14,508.36,"we just gotta get through it and get that like A or B. And then you're good,",-0.020000000000038654,4.220000000000027,0,False,True,19
+134,5cbea0b506e27c001e4c03a8,508.84,509.95,a lot.,0.47999999999996135,1.1100000000000136,0,False,False,2
+135,5e799448fb3c7055cdee5ecd,509.54,516.59,but you're you're you're definitely smart enough to do if you're like a chemistry major and everything. It's just it's like not as cool and intuitive as,-0.40999999999996817,7.050000000000011,0,False,True,33
+136,5cbea0b506e27c001e4c03a8,516.54,516.75,What?,-0.05000000000006821,0.21000000000003638,1,True,True,1
+137,5e799448fb3c7055cdee5ecd,516.59,522.76,"chemistry, if that's your thing, but like obviously you're smart enough to do it so you can get through it, but just do a lot of practice problems.",-0.15999999999996817,6.169999999999959,0,False,True,30
+138,5cbea0b506e27c001e4c03a8,523.04,525.36,"Yes, but I'm actually not akin major,",0.2799999999999727,2.32000000000005,0,False,False,8
+139,5e799448fb3c7055cdee5ecd,525.14,525.46,"Mhm,",-0.22000000000002728,0.32000000000005,0,False,True,1
+140,5cbea0b506e27c001e4c03a8,525.36,526.96,I'm a psych major because,-0.10000000000002274,1.6000000000000227,0,False,True,6
+141,5e799448fb3c7055cdee5ecd,526.74,527.46,mm hmm.,-0.22000000000002728,0.7200000000000273,0,False,True,2
+142,5cbea0b506e27c001e4c03a8,527.34,528.45,I just like,-0.12000000000000455,1.1100000000000136,0,False,True,3
+143,5e799448fb3c7055cdee5ecd,528.14,528.35,Mhm.,-0.3100000000000591,0.21000000000003638,0,False,True,1
+144,5cbea0b506e27c001e4c03a8,529.44,540.36,"the globe on chemistry and like science teachers at my school is like very brutal. Like all my friends just be stressed all the time. Like I took biochem last semester and I got to be,",1.0900000000000318,10.919999999999959,0,False,False,36
+145,5e799448fb3c7055cdee5ecd,540.34,541.45,It's hard.,-0.01999999999998181,1.1100000000000136,0,False,True,3
+146,5cbea0b506e27c001e4c03a8,541.74,551.83,"Yeah, so I just prefer cam like I got pretty good grades during my kIM. Um and I like, I really appreciate it cause that chemistry is like math, but",0.2899999999999636,10.090000000000032,0,False,False,30
+147,5e799448fb3c7055cdee5ecd,551.74,552.16,Mhm.,-0.09000000000003183,0.4199999999999591,0,False,True,1
+148,5cbea0b506e27c001e4c03a8,551.83,555.66,with like we're problems was kind of like fun for me,-0.32999999999992724,3.8299999999999272,0,False,True,12
+149,5e799448fb3c7055cdee5ecd,555.04,556.15,"Any sense,",-0.6200000000000045,1.1100000000000136,0,False,True,2
+150,5cbea0b506e27c001e4c03a8,556.44,563.27,"by was not it for me and everyone's like pie also easy and I hated it. Oh my God, I want",0.2900000000000773,6.829999999999927,0,False,False,22
+151,5e799448fb3c7055cdee5ecd,563.04,563.35,is it,-0.2300000000000182,0.3100000000000591,0,False,True,2
+152,5cbea0b506e27c001e4c03a8,563.27,563.41,to,-0.08000000000004093,0.13999999999998636,0,False,True,1
+153,5e799448fb3c7055cdee5ecd,563.35,563.57,just,-0.05999999999994543,0.22000000000002728,0,False,True,1
+154,5cbea0b506e27c001e4c03a8,563.42,563.66,tell,-0.15000000000009095,0.2400000000000091,0,False,True,1
+155,5e799448fb3c7055cdee5ecd,563.58,566.06,how can you hate it? Do you think it was boring?,-0.07999999999992724,2.4799999999999045,2,True,True,11
+156,5cbea0b506e27c001e4c03a8,566.74,580.36,"so I did a bad thing. I chose my bio one teacher and I was like, I don't know what was wrong with me, I chose the wrong teacher essentially because like there's a way that their types of teachers that I like vibe with",0.6800000000000637,13.620000000000005,0,False,False,47
+157,5e799448fb3c7055cdee5ecd,580.74,580.94,Mm,0.37999999999999545,0.20000000000004547,0,False,False,1
+158,5cbea0b506e27c001e4c03a8,580.94,581.77,this,0.0,0.8299999999999272,0,False,False,1
+159,5e799448fb3c7055cdee5ecd,580.94,581.36,hmm.,-0.8299999999999272,0.4199999999999591,0,False,True,1
+160,5cbea0b506e27c001e4c03a8,581.77,587.17,man was so what we're gonna do is I'm gonna lecture you and you have to read it all the notes and,0.40999999999996817,5.399999999999977,0,False,False,26
+161,5e799448fb3c7055cdee5ecd,587.14,587.35,Mhm.,-0.029999999999972715,0.21000000000003638,0,False,True,1
+162,5cbea0b506e27c001e4c03a8,587.17,597.06,"then you have to realize your notes and then you'll come to class, your teeth exam and if you do everything I said you will pass and I was like, so it's this text is useless.",-0.18000000000006366,9.889999999999986,0,False,True,38
+163,5e799448fb3c7055cdee5ecd,596.84,597.05,Mhm.,-0.2199999999999136,0.2099999999999227,0,False,True,1
+164,5cbea0b506e27c001e4c03a8,597.64,601.05,"I just, I just have to sit here and listen to you in this cramped",0.5900000000000318,3.409999999999968,0,False,False,15
+165,5e799448fb3c7055cdee5ecd,600.44,600.65,Mhm.,-0.6099999999999,0.2099999999999227,0,False,True,1
+166,5cbea0b506e27c001e4c03a8,601.05,601.52,like four,0.39999999999997726,0.4700000000000273,0,False,False,2
+167,5e799448fb3c7055cdee5ecd,601.44,602.06,Mhm.,-0.07999999999992724,0.6199999999998909,0,False,True,1
+168,5cbea0b506e27c001e4c03a8,601.52,616.89,"by four room for like hours on end and I would fall asleep in his class and it was just a train wreck. I still passed though. And then for bio too, it was just like, I just, well in the first two exams and I was like, it's a lot of stuff to remember. And",-0.5399999999999636,15.370000000000005,0,False,True,57
+169,5e799448fb3c7055cdee5ecd,616.84,617.64,"Yeah,",-0.049999999999954525,0.7999999999999545,0,False,True,1
+170,5cbea0b506e27c001e4c03a8,616.89,624.66,"then the last two exams are kind of hard, but like I just find bio like, like it's just there and I had to take it.",-0.75,7.769999999999982,0,False,True,27
+171,5e799448fb3c7055cdee5ecd,624.94,632.56,"it's just the professors that sometimes they can make it so boring, like when they just read from the power point the whole time. But like in context, it's really interesting",0.2800000000000864,7.619999999999891,0,False,False,33
+172,5cbea0b506e27c001e4c03a8,632.84,642.95,"Yes. By own contact is fun. But no, they were high power points from textbook company like",0.2800000000000864,10.110000000000014,0,False,False,17
+173,5e799448fb3c7055cdee5ecd,642.04,644.32,mind if it,-0.9100000000000819,2.2800000000000864,0,False,True,3
+174,5cbea0b506e27c001e4c03a8,642.96,643.86,hour and a half.,-1.3600000000000136,0.8999999999999773,0,False,True,4
+175,5e799448fb3c7055cdee5ecd,644.32,644.48,was,0.4600000000000364,0.15999999999996817,0,False,False,1
+176,5cbea0b506e27c001e4c03a8,644.44,644.65,Right?,-0.03999999999996362,0.2099999999999227,1,True,True,1
+177,5e799448fb3c7055cdee5ecd,644.48,648.42,"so boring, she was just she was shut off the lights to make it even worse. And she",-0.16999999999995907,3.939999999999941,0,False,True,18
+178,5cbea0b506e27c001e4c03a8,648.34,648.55,No,-0.07999999999992724,0.2099999999999227,0,False,True,1
+179,5e799448fb3c7055cdee5ecd,648.42,651.55,would read the textbook power point on class.,-0.12999999999999545,3.1299999999999955,0,False,True,8
+180,5cbea0b506e27c001e4c03a8,651.94,655.36,shelling of the light is really cruel because that that means I'm gonna fall asleep,0.39000000000010004,3.419999999999959,0,False,False,17
+181,5e799448fb3c7055cdee5ecd,655.34,660.26,"Exactly. Yeah. You're not only actively engaged or anything, like it's so hard,",-0.01999999999998181,4.919999999999959,0,False,True,15
+182,5cbea0b506e27c001e4c03a8,660.44,660.82,and,0.18000000000006366,0.37999999999999545,0,False,False,1
+183,5e799448fb3c7055cdee5ecd,660.74,661.06,right?,-0.08000000000004093,0.31999999999993634,1,True,True,1
+184,5cbea0b506e27c001e4c03a8,660.82,669.95,I'm not a loud person either. Like I am a lecture person. Like I took anatomy in high school I think three times just as it was fun for me.,-0.2399999999998954,9.129999999999995,0,False,True,31
+185,5e799448fb3c7055cdee5ecd,670.04,671.86,You've been taken out of me three times.,0.08999999999991815,1.82000000000005,0,False,False,9
+186,5cbea0b506e27c001e4c03a8,671.74,676.95,"So I took regular anatomy. I think I took No, I think I took honors anatomy",-0.12000000000000455,5.210000000000036,0,False,True,16
+187,5e799448fb3c7055cdee5ecd,676.94,677.26,Mhm.,-0.009999999999990905,0.31999999999993634,0,False,True,1
+188,5cbea0b506e27c001e4c03a8,676.95,680.47,and then I took a not anatomy dual enrollment. I'm,-0.30999999999994543,3.519999999999982,0,False,True,11
+189,5e799448fb3c7055cdee5ecd,680.44,681.25,"Okay,",-0.029999999999972715,0.8099999999999454,0,False,True,1
+190,5cbea0b506e27c001e4c03a8,680.47,681.97,at another time. But,-0.7799999999999727,1.5,0,False,True,4
+191,5e799448fb3c7055cdee5ecd,681.84,682.28,like,-0.12999999999999545,0.4399999999999409,0,False,True,1
+192,5cbea0b506e27c001e4c03a8,681.97,682.36,yeah.,-0.30999999999994543,0.38999999999998636,0,False,True,1
+193,5e799448fb3c7055cdee5ecd,682.29,684.26,a P and adam.,-0.07000000000005002,1.9700000000000273,0,False,True,4
+194,5cbea0b506e27c001e4c03a8,684.44,690.3,"Yeah. So it's kind of like a P. But I guess I didn't take the exam, so thank God A people",0.18000000000006366,5.8599999999999,0,False,False,23
+195,5e799448fb3c7055cdee5ecd,689.94,690.26,Mhm.,-0.35999999999989996,0.31999999999993634,0,False,True,1
+196,5cbea0b506e27c001e4c03a8,690.3,704.35,"were like so tough, but I took it twice and like I was stumbling through lab, but I got an A. In a lecture. So I'm not, I'm not a live person at all. Yeah.",0.03999999999996362,14.050000000000068,0,False,False,37
+197,5e799448fb3c7055cdee5ecd,704.14,709.15,"But at least med schools mostly lecture and stuff, so if you want to do that will probably be golden.",-0.21000000000003638,5.009999999999991,0,False,True,20
+198,5cbea0b506e27c001e4c03a8,709.14,712.5,Yeah. I just like labs. They scare me,-0.009999999999990905,3.3600000000000136,0,False,True,8
+199,5e799448fb3c7055cdee5ecd,712.04,712.46,Mhm.,-0.4600000000000364,0.42000000000007276,0,False,True,1
+200,5cbea0b506e27c001e4c03a8,712.51,720.95,and there has to be standing for like an hour and a half and it's just like if you get it wrong. So,0.049999999999954525,8.440000000000055,0,False,False,24
+201,5e799448fb3c7055cdee5ecd,720.64,723.96,Uh Did you ever take the organic chemistry lab,-0.3100000000000591,3.32000000000005,0,False,True,9
+202,5cbea0b506e27c001e4c03a8,723.84,725.16,"yes, I did.",-0.12000000000000455,1.3199999999999363,0,False,True,3
+203,5e799448fb3c7055cdee5ecd,725.24,729.65,"Brenda lambs? Like really long them? And we're like three, like 33 hour levs per week.",0.08000000000004093,4.409999999999968,2,False,False,17
+204,5cbea0b506e27c001e4c03a8,730.74,754.71,"I never, we never left before like, so we had like a long time period, like our school over books are labs, so we have a lot of time to get everything finished. We were never gone before, like an hour. Like we would stay there almost the entire time. We got out early once. And that was because we were like making essential oil and I was super easy, but",1.0900000000000318,23.970000000000027,0,False,False,71
+205,5e799448fb3c7055cdee5ecd,754.64,755.06,Mhm,-0.07000000000005002,0.4199999999999591,0,False,True,1
+206,5cbea0b506e27c001e4c03a8,754.71,760.26,"we would always just sit there for two hours on our feet by the time we left, like you're handsome like latex,",-0.34999999999990905,5.5499999999999545,0,False,True,23
+207,5e799448fb3c7055cdee5ecd,760.44,761.06,Uh huh.,0.18000000000006366,0.6199999999998909,0,False,False,2
+208,5cbea0b506e27c001e4c03a8,761.34,761.71,you're,0.2800000000000864,0.37000000000000455,0,False,False,2
+209,5e799448fb3c7055cdee5ecd,761.44,761.76,Mhm,-0.2699999999999818,0.31999999999993634,0,False,True,1
+210,5cbea0b506e27c001e4c03a8,761.71,765.45,tired of reading through the mat with your goggles on.,-0.049999999999954525,3.740000000000009,0,False,True,10
+211,5e799448fb3c7055cdee5ecd,765.84,766.64,Oh yeah.,0.38999999999998636,0.7999999999999545,0,False,False,2
+212,5cbea0b506e27c001e4c03a8,766.14,766.95,Mhm.,-0.5,0.8100000000000591,0,False,True,1
+213,5e799448fb3c7055cdee5ecd,767.44,771.55,You always smell like acid tone and like all these different things like all the time.,0.4900000000000091,4.1099999999999,0,False,False,16
+214,5cbea0b506e27c001e4c03a8,771.74,774.17,And like I'm pretty brave in the lab because I know like,0.19000000000005457,2.42999999999995,0,False,False,13
+215,5e799448fb3c7055cdee5ecd,774.14,774.46,Mhm.,-0.029999999999972715,0.32000000000005,0,False,True,1
+216,5cbea0b506e27c001e4c03a8,774.17,776.37,nothing and they're going to kill me usually.,-0.2900000000000773,2.2000000000000455,0,False,True,9
+217,5e799448fb3c7055cdee5ecd,776.14,776.46,It's,-0.2300000000000182,0.32000000000005,0,False,True,2
+218,5cbea0b506e27c001e4c03a8,776.38,781.76,"So like I just smell of aspirin, all chemicals. I was like great.",-0.08000000000004093,5.3799999999999955,0,False,True,13
+219,5e799448fb3c7055cdee5ecd,781.94,784.45,Uh huh. This,0.18000000000006366,2.509999999999991,0,False,False,3
+220,5cbea0b506e27c001e4c03a8,787.84,788.16,Yeah.,3.3899999999999864,0.31999999999993634,0,False,False,1
+221,5e799448fb3c7055cdee5ecd,788.24,790.46,"to freeze up. You guys,",0.08000000000004093,2.2200000000000273,0,False,False,5
+222,5cbea0b506e27c001e4c03a8,790.24,791.16,Yeah.,-0.22000000000002728,0.9199999999999591,0,False,True,1
+223,5e799448fb3c7055cdee5ecd,792.04,794.29,"sorry, my wife is not the best.",0.8799999999999955,2.25,0,False,False,7
+224,5cbea0b506e27c001e4c03a8,794.74,797.76,Well you just moved into a new apartment so like that's not your fault.,0.4500000000000455,3.019999999999982,0,False,False,15
+225,5e799448fb3c7055cdee5ecd,798.04,801.45,"Mm. Actually, wait, is it all weird for you?",0.2799999999999727,3.410000000000082,1,True,False,9
+226,5cbea0b506e27c001e4c03a8,801.54,803.06,"Uh No, isn't he?",0.08999999999991815,1.5199999999999818,1,True,False,5
+227,5e799448fb3c7055cdee5ecd,804.64,807.55,Have you done this before? Like this study thing?,1.580000000000041,2.909999999999968,2,True,False,9
+228,5cbea0b506e27c001e4c03a8,808.04,811.92,Yeah. Like I was really born. My friend recommended the site. So I,0.4900000000000091,3.8799999999999955,0,False,False,13
+229,5e799448fb3c7055cdee5ecd,811.84,812.25,Yeah.,-0.07999999999992724,0.40999999999996817,0,False,True,1
+230,5cbea0b506e27c001e4c03a8,811.92,818.54,"started like, um students in june because like I was home because of quarantine.",-0.3300000000000409,6.6200000000000045,0,False,True,14
+231,5e799448fb3c7055cdee5ecd,817.84,819.06,Yeah.,-0.6999999999999318,1.2199999999999136,0,False,True,1
+232,5cbea0b506e27c001e4c03a8,818.55,819.76,What government before?,-0.5099999999999909,1.2100000000000364,1,True,True,3
+233,5e799448fb3c7055cdee5ecd,820.74,822.56,Like you did the talking to someone.,0.9800000000000182,1.8199999999999363,0,False,False,7
+234,5cbea0b506e27c001e4c03a8,822.44,822.94,Yeah.,-0.11999999999989086,0.5,0,False,True,1
+235,5e799448fb3c7055cdee5ecd,823.24,828.46,Did it have like any problems come up during it like that. Like I mean minds like weird. But,0.2999999999999545,5.220000000000027,0,False,False,19
+236,5cbea0b506e27c001e4c03a8,828.84,848.56,"Then there's like minor technical issues. Um The last one was pretty okay. He was he like used to break up and skip a little bit, But that was like, like the extent of it. So you just finished your like 25 minutes and then you kind of exit out and then you answer a few questions and they give you your money. Like pretty pretty seriously.",0.37999999999999545,19.719999999999914,0,False,False,68
+237,5e799448fb3c7055cdee5ecd,849.64,874.06,it is interesting though because like I did this once before and the lady was like super like she's done a ton of them and she was also like a like a researcher and she was actually a doctor before but then she went to research and I'm like we started with like a lot of issues and she said that the scientists can do that on purpose to see like how do you react to it? I thought that was really interesting because they're like mine was just kind of messed up but I wonder like it might have been even messing with it. Yeah,1.080000000000041,24.41999999999996,1,False,False,109
+238,5cbea0b506e27c001e4c03a8,873.84,874.89,I wonder,-0.2199999999999136,1.0499999999999545,0,False,True,2
+239,5e799448fb3c7055cdee5ecd,874.84,875.46,awesome.,-0.049999999999954525,0.6200000000000045,0,False,True,1
+240,5cbea0b506e27c001e4c03a8,874.89,878.66,what you think of my reaction is. I just look at the camera like a little confused.,-0.57000000000005,3.769999999999982,0,False,True,17
+241,5e799448fb3c7055cdee5ecd,878.84,880.2,You're,0.18000000000006366,1.3600000000000136,0,False,False,2
+242,5cbea0b506e27c001e4c03a8,879.34,879.58,Well,-0.8600000000000136,0.2400000000000091,0,False,True,1
+243,5e799448fb3c7055cdee5ecd,880.2,891.93,"like your normal for you. But she also said like we had all these things in common, like she was a doctor before and like I'm going to med school and like um we love animals, like all these things like you're you're pre-med",0.6200000000000045,11.729999999999905,0,False,False,48
+244,5cbea0b506e27c001e4c03a8,891.54,891.75,mm,-0.38999999999998636,0.21000000000003638,0,False,True,1
+245,5e799448fb3c7055cdee5ecd,891.93,918.25,"like obviously like we're both young, we have stuff in common, but she said like they match you that way on purpose sometimes and there's like some fundamental difference and it's so interesting because um I think that's what like she mentioned, that's what they like try to achieve. Like they say all these people like have all the same things except one thing is like really really different religion or politics usually. And like when when I talked to this lady like we were very like opposite politically. So kind of interesting.",0.17999999999994998,26.32000000000005,0,False,False,98
+246,5cbea0b506e27c001e4c03a8,918.84,924.27,I wonder what my my thing was with. My thing is with you because my last partner,0.5900000000000318,5.42999999999995,0,False,False,17
+247,5e799448fb3c7055cdee5ecd,924.04,924.36,Mhm.,-0.2300000000000182,0.32000000000005,0,False,True,1
+248,5cbea0b506e27c001e4c03a8,924.28,939.97,um we're like pretty far essentially because he was like male and he was like why? And he lived somewhere like in the south. But I think in the south or on the other hand of the country like All the way over there. But we talked about like the,-0.08000000000004093,15.690000000000055,1,False,True,51
+249,5e799448fb3c7055cdee5ecd,939.94,940.15,Mhm,-0.029999999999972715,0.2099999999999227,0,False,True,1
+250,5cbea0b506e27c001e4c03a8,939.97,943.26,virus and how it's affecting everything for like 25 minutes.,-0.17999999999994998,3.2899999999999636,0,False,True,11
+251,5e799448fb3c7055cdee5ecd,943.64,945.65,Oh you didn't get into like the other stuff,0.37999999999999545,2.009999999999991,0,False,False,10
+252,5cbea0b506e27c001e4c03a8,945.94,946.45,Can.,0.2900000000000773,0.5099999999999909,0,False,False,1
+253,5e799448fb3c7055cdee5ecd,946.04,948.56,like the politics like religion and stuff.,-0.41000000000008185,2.519999999999982,0,False,True,7
+254,5cbea0b506e27c001e4c03a8,948.74,964.15,Uh No we just talked about how like different things are affecting us like that we notice because of the virus. Because I have like things plan that I wanted to do like over summer and during spring they just got 100% canceled.,0.18000000000006366,15.409999999999968,0,False,False,43
+255,5e799448fb3c7055cdee5ecd,963.84,964.56,Mhm,-0.30999999999994543,0.7199999999999136,0,False,True,1
+256,5cbea0b506e27c001e4c03a8,964.16,982.06,And I was thinking about how different people are affected that we don't really think about like um the thing I wanted to do was like I paid for this concert with my friends and my first concert and I was super excited and the ticket was like medium lee expensive and then why not cancelled? Not cancelled postponed?,-0.39999999999997726,17.899999999999977,2,True,True,60
+257,5e799448fb3c7055cdee5ecd,982.24,983.35,The concert was,0.18000000000006366,1.1100000000000136,0,False,False,3
+258,5cbea0b506e27c001e4c03a8,983.44,985.06,I was going to BTS concert.,0.09000000000003183,1.6199999999998909,0,False,False,6
+259,5e799448fb3c7055cdee5ecd,985.84,988.66,oh cool. My friends like obsessed with them,0.7800000000000864,2.8199999999999363,0,False,False,8
+260,5cbea0b506e27c001e4c03a8,988.14,1008.57,"Yes, I love them too. But like I was going to the BDS concert. I literally I give him a ticket was so hard and then there was $300 ticket. Now sometimes you go and then they were like so coronavirus, we're going to meet you later and like we've been waiting for dates since they canceled. Since they postponed it",-0.5199999999999818,20.430000000000064,0,False,True,64
+261,5e799448fb3c7055cdee5ecd,1009.14,1009.34,so,0.5699999999999363,0.20000000000004547,0,False,False,1
+262,5cbea0b506e27c001e4c03a8,1009.34,1009.57,mm,0.0,0.2300000000000182,0,False,False,1
+263,5e799448fb3c7055cdee5ecd,1009.34,1010.64,you don't get your money back or anything.,-0.2300000000000182,1.2999999999999545,0,False,True,9
+264,5cbea0b506e27c001e4c03a8,1010.64,1010.85,mhm.,0.0,0.21000000000003638,0,False,False,1
+265,5e799448fb3c7055cdee5ecd,1010.64,1013.35,It's just like hoping that in the future they'll find,-0.21000000000003638,2.7100000000000364,0,False,True,12
+266,5cbea0b506e27c001e4c03a8,1013.24,1013.57,In,-0.11000000000001364,0.3300000000000409,0,False,True,1
+267,5e799448fb3c7055cdee5ecd,1013.35,1013.76,something else.,-0.22000000000002728,0.40999999999996817,0,False,True,2
+268,5cbea0b506e27c001e4c03a8,1014.24,1019.85,if they cancel it we get our money back but since it's postponed and we're waiting for dates um it's not a problem.,0.4800000000000182,5.610000000000014,0,False,False,26
+269,5e799448fb3c7055cdee5ecd,1020.34,1025.26,"But too bad because like, you don't know I mean no one knows like when things will be okay again, you know,",0.4900000000000091,4.919999999999959,0,False,False,23
+270,5cbea0b506e27c001e4c03a8,1025.64,1029.27,And the way that it's looking it's not looking promising.,0.38000000000010914,3.6299999999998818,0,False,False,12
+271,5e799448fb3c7055cdee5ecd,1029.64,1042.96,"for anyone, I feel like it's like in massachusetts were doing amazingly and now the cases are going to like they're starting to rise again probably because people are like being idiots and they're all coming to Cape Cod in boston like vacation but",0.37000000000011823,13.319999999999936,0,False,False,47
+272,5cbea0b506e27c001e4c03a8,1043.14,1059.83,People are really sad about missing out on their summer and I understand who's calling me. Yes Francine said you have five minutes to get your Broccoli. Tell her ticket. Thank you. Exactly. That's my brother. My sister.,0.18000000000006366,16.689999999999827,0,False,False,40
+273,5e799448fb3c7055cdee5ecd,1059.64,1060.17,True.,-0.1899999999998272,0.5299999999999727,0,False,True,1
+274,5cbea0b506e27c001e4c03a8,1059.84,1068.51,Okay. Um Yeah people are missing their summers and I feel bad for them but like I'd rather not like miss out on life. Like,-0.3300000000001546,8.670000000000073,0,False,True,26
+275,5e799448fb3c7055cdee5ecd,1068.44,1068.67,Mhm,-0.06999999999993634,0.2300000000000182,0,False,True,1
+276,5cbea0b506e27c001e4c03a8,1068.52,1088.55,my friends have been like attitude is playing. Do you want to you know Go ahead. No like my own friend put this on my on her stories the other day about this lady who um in order to fully recovered from Covid should get a lung transplant and she got a double lung transplant.,-0.15000000000009095,20.029999999999973,0,False,True,55
+277,5e799448fb3c7055cdee5ecd,1088.74,1089.46,wow.,0.19000000000005457,0.7200000000000273,0,False,False,1
+278,5cbea0b506e27c001e4c03a8,1088.94,1092.96,Mhm. Those are rare. Those are hard to come by. And,-0.5199999999999818,4.019999999999982,0,False,True,11
+279,5e799448fb3c7055cdee5ecd,1092.64,1093.65,"Yeah, burger good. Yeah.",-0.31999999999993634,1.009999999999991,0,False,True,4
+280,5cbea0b506e27c001e4c03a8,1094.34,1109.26,"yeah like doctors normally don't transport lungs like like to learn transplants, but she had to get it and that people are coming back after surviving Covid with asthma and lung disorders. So I was like, you know what? Maybe the park isn't worth it.",0.6899999999998272,14.920000000000073,1,False,False,47
+281,5e799448fb3c7055cdee5ecd,1109.54,1146.96,"Yeah. It's like you could trade like you're a summer and that sucks but like it's making things better. Like you're safe or you can like put yourself and everyone else you're risking it's way better to be safe. We even had this patient and she was 96 in the er and she um she had like a chest X ray before she had Covid and it was like for something else and then she had it, she tested positive was asymptomatic. So she never even knew she had except she tested positive and then she had a chest X ray after and she had scarring all over her lungs and she never even had symptoms. It was really scared like all these people walking around you probably had and didn't know and like we don't know what what like what damage is done.",0.2799999999999727,37.42000000000007,0,False,False,152
+282,5cbea0b506e27c001e4c03a8,1147.34,1158.67,"I'm petrified of picking up the virus. Like, I'm not I'm not concerned about what happens to me. Like, I'm not afraid of dying, I'm afraid of what happens if I don't die.",0.37999999999988177,11.330000000000155,0,False,False,39
+283,5e799448fb3c7055cdee5ecd,1159.14,1159.46,No.,0.4700000000000273,0.31999999999993634,0,False,False,1
+284,5cbea0b506e27c001e4c03a8,1159.24,1178.91,"Because I've never had long. I'm pretty I'm pretty much healthy. Like I've never had long issues. I've never had asthma. I've never had like, any, like, very like, pressing medical issue. So I don't want to pick up on now. And since this is such a new disease, like, I remember when we were being told not to wear mask in",-0.22000000000002728,19.670000000000073,0,False,True,69
+285,5e799448fb3c7055cdee5ecd,1178.84,1179.67,Yeah,-0.07000000000016371,0.8300000000001546,0,False,True,1
+286,5cbea0b506e27c001e4c03a8,1178.91,1197.96,order to give them for like the sick and the doctors and now everyone has to wear one. So I'm not and the quarantine is fine and dandy for me because I'm an introvert is fine. This is how I usually am anyway. But like I don't feel like being quarantined in the box. 14 days. So,-0.7599999999999909,19.049999999999955,0,False,True,60
+287,5e799448fb3c7055cdee5ecd,1198.94,1199.47,we wouldn't,0.9800000000000182,0.5299999999999727,0,False,False,3
+288,5cbea0b506e27c001e4c03a8,1199.34,1199.55,mm,-0.13000000000010914,0.21000000000003638,0,False,True,1
+289,5e799448fb3c7055cdee5ecd,1199.47,1200.86,be in quarantine,-0.07999999999992724,1.3899999999998727,0,False,True,3
+290,5cbea0b506e27c001e4c03a8,1200.84,1210.69,"So my university, one of the stipulations were going back to school is if you catch covid or if you contract it you have to go into isolation for 14",-0.01999999999998181,9.850000000000136,0,False,True,30
+291,5e799448fb3c7055cdee5ecd,1210.34,1211.66,wow.,-0.3500000000001364,1.3200000000001637,0,False,True,1
+292,5cbea0b506e27c001e4c03a8,1210.69,1211.86,days. Yeah.,-0.9700000000000273,1.1699999999998454,0,False,True,2
+293,5e799448fb3c7055cdee5ecd,1212.24,1218.17,Yeah that would be awful. I feel like college isn't even worth it at this point. Just so different. So miserable.,0.38000000000010914,5.930000000000064,0,False,False,22
+294,5cbea0b506e27c001e4c03a8,1218.04,1223.98,Yeah. Honestly the reason I'm going back is I can't,-0.13000000000010914,5.940000000000055,0,False,True,12
+295,5e799448fb3c7055cdee5ecd,1223.94,1224.17,Mhm.,-0.03999999999996362,0.2300000000000182,0,False,True,1
+296,5cbea0b506e27c001e4c03a8,1223.99,1235.87,"do at home remote learning. Like it's a lot harder for me, especially with like um the way that my house is set up so I just want to go back just so I can focus on my studies. Like I need",-0.18000000000006366,11.879999999999882,0,False,True,43
+297,5e799448fb3c7055cdee5ecd,1235.84,1236.34,Yeah.,-0.029999999999972715,0.5,0,False,True,1
+298,5cbea0b506e27c001e4c03a8,1235.87,1237.17,a place.,-0.4700000000000273,1.300000000000182,0,False,True,2
+299,5e799448fb3c7055cdee5ecd,1237.84,1240.96,Are you living with people who are like mature and responsible at least?,0.6699999999998454,3.1200000000001182,1,True,False,13
+300,5cbea0b506e27c001e4c03a8,1240.74,1242.96,Oh yeah no no one's leaving the house.,-0.22000000000002728,2.2200000000000273,0,False,True,9
+301,5e799448fb3c7055cdee5ecd,1243.64,1244.56,Oh good. Okay.,0.6800000000000637,0.9199999999998454,0,False,False,3
+302,5cbea0b506e27c001e4c03a8,1244.54,1245.35,Absolutely not,-0.01999999999998181,0.8099999999999454,0,False,True,2
+303,5e799448fb3c7055cdee5ecd,1245.44,1247.45,I mean like when you go to college?,0.09000000000014552,2.009999999999991,1,True,False,8
+304,5cbea0b506e27c001e4c03a8,1247.54,1255.23,when I go to college. So I don't know actually because I still do dorms because I prefer them. So,0.08999999999991815,7.690000000000055,0,False,False,21
+305,5e799448fb3c7055cdee5ecd,1254.74,1255.27,Mhm.,-0.4900000000000091,0.5299999999999727,0,False,True,1
+306,5cbea0b506e27c001e4c03a8,1255.23,1271.96,"I had him in my room mate, hopefully she's like as concerned as I am, but all of my friends that I I go to college with their like staying inside to my knowledge and hopefully my really the same or you kind of like forced to stay inside because there's nothing to do anymore.",-0.03999999999996362,16.730000000000018,0,False,True,57
+307,5e799448fb3c7055cdee5ecd,1272.24,1272.61,Yeah,0.2799999999999727,0.36999999999989086,0,False,False,1
+308,5cbea0b506e27c001e4c03a8,1272.34,1272.76,Nothing.,-0.2699999999999818,0.42000000000007276,0,False,True,1
+309,5e799448fb3c7055cdee5ecd,1272.62,1289.66,my college was like that to us looking at their like the things they have in place and it looks so miserable like I mean for my college I graduated from but you get one been to move in with because if they say like everyone go home you just pack up your one bit and go home. But like I went with two carloads like that would be so awful. And,-0.14000000000010004,17.04000000000019,0,False,True,72
+310,5cbea0b506e27c001e4c03a8,1289.54,1289.89,Mm,-0.12000000000011823,0.3500000000001364,0,False,True,1
+311,5e799448fb3c7055cdee5ecd,1289.66,1302.67,"then um do you like get tested when you go tested all the time? Um like you can't leave camp as well as mandatory, like no visitors and your residence hall or anything like it. I'm sure yours is the like the same but it sounds so miserable.",-0.2300000000000182,13.009999999999991,1,False,True,50
+312,5cbea0b506e27c001e4c03a8,1302.94,1324.05,"So our schools being kind of lenient now that I've heard that like we're we just have to sign up for different moving days and we're not allowed visitors but hope, thank God this semester I want to live in the same like building as my friend because we're always in each other's drums anyway, so we lived across the hall from each other so",0.2699999999999818,21.1099999999999,0,False,False,70
+313,5e799448fb3c7055cdee5ecd,1323.34,1324.66,Oh thank god.,-0.7100000000000364,1.3200000000001637,0,False,True,3
+314,5cbea0b506e27c001e4c03a8,1324.06,1338.77,we get to bypass that rule. Um but we're not allowed visitors were allowed to leave campus but we do have to get tested before we go back to campus and I'm not looking forward to it. Not looking forward to those swabs out.,-0.6000000000001364,14.710000000000036,0,False,True,46
+315,5e799448fb3c7055cdee5ecd,1338.04,1344.55,Mhm. I hope by then they have like the Saliva one or something because it looks so painful,-0.7300000000000182,6.509999999999991,0,False,True,18
+316,5cbea0b506e27c001e4c03a8,1344.64,1347.08,"They don't want it. They don't care. Like we said, like,",0.09000000000014552,2.439999999999827,0,False,False,13
+317,5e799448fb3c7055cdee5ecd,1346.94,1347.27,and,-0.13999999999987267,0.32999999999992724,0,False,True,1
+318,5cbea0b506e27c001e4c03a8,1347.09,1356.77,"we won't accept anything else besides a pcr. And I was like, because I really didn't want to take it, like I'll get my blood drawn instead and I hate getting blood drawn.",-0.18000000000006366,9.680000000000064,0,False,True,36
+319,5e799448fb3c7055cdee5ecd,1358.24,1361.96,"you should you should get an antibody test. So just out of curiosity,",1.4700000000000273,3.7200000000000273,0,False,False,13
+320,5cbea0b506e27c001e4c03a8,1363.14,1380.22,"I might get one honestly because I would hate to be asymptomatic. But like I, one of someone in my house recently got tested and they came up negative and like I have been in contact with them. So that that makes me pretty optimistic for my results. So it's",1.1800000000000637,17.079999999999927,0,False,False,51
+321,5e799448fb3c7055cdee5ecd,1380.04,1380.22,like,-0.18000000000006366,0.18000000000006366,0,False,True,1
+322,5cbea0b506e27c001e4c03a8,1380.22,1380.36,not,0.0,0.13999999999987267,0,False,False,1
+323,5e799448fb3c7055cdee5ecd,1380.22,1382.77,they were negative antibodies or like negative test.,-0.13999999999987267,2.5499999999999545,0,False,True,8
+324,5cbea0b506e27c001e4c03a8,1382.64,1385.06,they had a negative PcR test.,-0.12999999999988177,2.4199999999998454,0,False,True,6
+325,5e799448fb3c7055cdee5ecd,1385.54,1386.77,"Okay,",0.4800000000000182,1.2300000000000182,0,False,False,1
+326,5cbea0b506e27c001e4c03a8,1385.64,1387.17,"What about the it's like this,",-1.1299999999998818,1.5299999999999727,0,False,True,7
+327,5e799448fb3c7055cdee5ecd,1387.74,1391.64,it always feels good when some of your clothes will test negative so you know like you're pretty,0.5699999999999363,3.900000000000091,0,False,False,19
+328,5cbea0b506e27c001e4c03a8,1391.44,1392.15,but most,-0.20000000000004547,0.7100000000000364,0,False,True,2
+329,5e799448fb3c7055cdee5ecd,1391.64,1392.17,much.,-0.5099999999999909,0.5299999999999727,0,False,True,1
+330,5cbea0b506e27c001e4c03a8,1392.16,1393.36,likely. Okay.,-0.009999999999990905,1.199999999999818,0,False,True,2
+331,5e799448fb3c7055cdee5ecd,1394.04,1395.35,Mhm. Mhm.,0.6800000000000637,1.3099999999999454,0,False,False,2
+332,5cbea0b506e27c001e4c03a8,1395.34,1395.66,Yeah.,-0.009999999999990905,0.3200000000001637,0,False,True,1
+333,5e799448fb3c7055cdee5ecd,1395.94,1396.61,Yeah good,0.2799999999999727,0.6699999999998454,0,False,False,2
+334,5cbea0b506e27c001e4c03a8,1396.34,1396.62,How,-0.2699999999999818,0.2799999999999727,0,False,True,1
+335,5e799448fb3c7055cdee5ecd,1396.61,1397.05,luck.,-0.009999999999990905,0.44000000000005457,0,False,True,1
+336,5cbea0b506e27c001e4c03a8,1396.62,1399.34,"about you? Does anyone like around you,",-0.43000000000006366,2.7200000000000273,1,False,True,7
+337,5e799448fb3c7055cdee5ecd,1399.14,1399.34,Yeah.,-0.1999999999998181,0.1999999999998181,0,False,True,1
+338,5cbea0b506e27c001e4c03a8,1400.34,1404.36,did they get tested? Are they like positive? Do you know anyone who's like kind of suffering with covid,1.0,4.019999999999982,2,False,False,20
+339,5e799448fb3c7055cdee5ecd,1404.94,1419.21,"Um One of my friends back home was a nurse who got it early on and she was fine and then my friend um we think he got because his roommates, a nurse, he like got antibody positive but he didn't have symptoms but my friend and the purple toes which is really weird. Um",0.5800000000001546,14.269999999999982,0,False,False,56
+340,5cbea0b506e27c001e4c03a8,1419.04,1419.39,people,-0.17000000000007276,0.3500000000001364,0,False,True,1
+341,5e799448fb3c7055cdee5ecd,1419.21,1419.49,And,-0.18000000000006366,0.2799999999999727,0,False,True,1
+342,5cbea0b506e27c001e4c03a8,1419.39,1419.73,telling,-0.09999999999990905,0.33999999999991815,0,False,True,1
+343,5e799448fb3c7055cdee5ecd,1419.49,1419.85,the,-0.2400000000000091,0.35999999999989996,0,False,True,1
+344,5cbea0b506e27c001e4c03a8,1419.73,1420.17,us?,-0.11999999999989086,0.44000000000005457,1,True,True,1
+345,5e799448fb3c7055cdee5ecd,1420.54,1445.67,"but he also had like a sore throat and like a mild cough, it was like really mild and here like I'm just I just moved here two days ago so like I don't really know many people but yeah I don't know anyone personally except I worked in the er too, so like I knew a few people and then they is so interesting like someone I was talking to here, she worked in California and lived there and she said they had covid in november, like they found that out and so I think it was here very, very early",0.36999999999989086,25.13000000000011,0,False,False,105
+346,5cbea0b506e27c001e4c03a8,1445.84,1446.05,Mm,0.16999999999984539,0.21000000000003638,0,False,False,1
+347,5e799448fb3c7055cdee5ecd,1446.04,1447.38,and like people,-0.009999999999990905,1.3400000000001455,0,False,True,3
+348,5cbea0b506e27c001e4c03a8,1446.64,1447.06,Right.,-0.7400000000000091,0.4199999999998454,0,False,True,1
+349,5e799448fb3c7055cdee5ecd,1447.39,1467.77,"in the er it was really bad flu season but like everyone got vaccinated and they still got the flu or the test was negative for the flu and we were just like, oh you know, it happens like the test is faulty or whatever but now they're saying I think that was like a lot of covid mixed in and we just had no idea it was in like february so it was really early. Mhm",0.3300000000001546,20.37999999999988,0,False,False,78
+350,5cbea0b506e27c001e4c03a8,1467.74,1472.06,Oh my God. This mortgage board of like covid symptoms. It's like not fun at all.,-0.029999999999972715,4.319999999999936,0,False,True,17
+351,5e799448fb3c7055cdee5ecd,1472.04,1474.86,"Yeah, it's just everybody's system like kidneys",-0.01999999999998181,2.8199999999999363,0,False,True,9
+352,5cbea0b506e27c001e4c03a8,1474.44,1474.72,"Well,",-0.4199999999998454,0.2799999999999727,0,False,True,1
+353,5e799448fb3c7055cdee5ecd,1474.86,1477.47,"bringing heart like, I don't know.",0.13999999999987267,2.6100000000001273,0,False,False,7
+354,5cbea0b506e27c001e4c03a8,1477.34,1477.91,The,-0.13000000000010914,0.5700000000001637,0,False,True,1
+355,5e799448fb3c7055cdee5ecd,1477.48,1478.55,Pancreas,-0.43000000000006366,1.0699999999999363,0,False,True,1
+356,5cbea0b506e27c001e4c03a8,1477.92,1483.27,"Loss of Face one Scares Me. Yes, I might. Do you want,",-0.6299999999998818,5.349999999999909,0,False,True,12
+357,5e799448fb3c7055cdee5ecd,1483.04,1483.36,Oh,-0.2300000000000182,0.31999999999993634,0,False,True,1
+358,5cbea0b506e27c001e4c03a8,1483.28,1487.5,she said maybe for me. Thank you. Okay. Alright.,-0.07999999999992724,4.220000000000027,0,False,True,9
+359,5e799448fb3c7055cdee5ecd,1487.24,1487.44,yeah.,-0.2599999999999909,0.20000000000004547,0,False,True,1
+360,5cbea0b506e27c001e4c03a8,1487.51,1489.03,"I'm sorry. Uh,",0.06999999999993634,1.5199999999999818,0,False,False,4
+361,5e799448fb3c7055cdee5ecd,1488.94,1489.36,Okay.,-0.08999999999991815,0.4199999999998454,0,False,True,1
+362,5cbea0b506e27c001e4c03a8,1489.04,1504.17,"you know, like the lost, like certain covid symptoms are like really scared of me and like all of my friends got sick like late last year. Earlier this year. Like my friend caught a really bad flu. Like she was like, she couldn't move.",-0.31999999999993634,15.13000000000011,0,False,True,46
+363,5e799448fb3c7055cdee5ecd,1503.54,1503.86,Mhm.,-0.6300000000001091,0.31999999999993634,0,False,True,1
+364,5cbea0b506e27c001e4c03a8,1504.64,1527.51,"Um, like her body hurt. Like she was like in a lot of pain and that I got a little bit sick, but like I'm anemic. So I get like these weird colds when I'm, I don't feel like it sound like a cold, like I sound like a viral, a viral thing to you, but if I stay too close to the air conditioner for too long, I feel like a little stuffy for a few days. So",0.7800000000002001,22.86999999999989,0,False,False,82
+365,5e799448fb3c7055cdee5ecd,1527.34,1527.96,Uh huh.,-0.17000000000007276,0.6200000000001182,0,False,True,2
+366,5cbea0b506e27c001e4c03a8,1527.51,1530.67,"I've got that and then my friend got sick like all of us got sick,",-0.4500000000000455,3.160000000000082,0,False,True,16
+367,5e799448fb3c7055cdee5ecd,1531.04,1535.17,"It could have honestly been covid, you should get antibodies and see if you're positive.",0.36999999999989086,4.130000000000109,0,False,False,16
+368,5cbea0b506e27c001e4c03a8,1539.04,1540.56,she's frozen. Okay.,3.869999999999891,1.5199999999999818,0,False,False,4
+369,5e799448fb3c7055cdee5ecd,1541.64,1544.56,Okay. Okay. Better.,1.0800000000001546,2.9199999999998454,0,False,False,3
+370,5cbea0b506e27c001e4c03a8,1544.44,1547.3,Yes. I actually,-0.11999999999989086,2.8599999999999,0,False,True,3
+371,5e799448fb3c7055cdee5ecd,1546.84,1547.34,Yeah.,-0.4600000000000364,0.5,0,False,True,1
+372,5cbea0b506e27c001e4c03a8,1547.31,1551.76,I can get my hands on line. I should try to get my aunt twice tested.,-0.029999999999972715,4.4500000000000455,0,False,True,16
+373,5e799448fb3c7055cdee5ecd,1553.44,1558.74,Yeah. I saw one on one like I think it was expensive but now more insurance companies are like covering it and there was one,1.6800000000000637,5.2999999999999545,0,False,False,25
+374,5cbea0b506e27c001e4c03a8,1558.54,1558.74,We,-0.20000000000004547,0.20000000000004547,0,False,True,1
+375,5e799448fb3c7055cdee5ecd,1558.74,1558.94,like,0.0,0.20000000000004547,0,False,False,1
+376,5cbea0b506e27c001e4c03a8,1558.75,1559.17,want.,-0.19000000000005457,0.42000000000007276,0,False,True,1
+377,5e799448fb3c7055cdee5ecd,1558.94,1565.26,Lab Corps if you ordered online is $10 and then you just go to like a whatever request or whatever and get drawn.,-0.2300000000000182,6.319999999999936,0,False,True,24
+378,5cbea0b506e27c001e4c03a8,1566.64,1567.4,It's,1.3800000000001091,0.7599999999999909,0,False,False,2
+379,5e799448fb3c7055cdee5ecd,1567.24,1567.48,Yeah.,-0.16000000000008185,0.2400000000000091,0,False,True,1
+380,5cbea0b506e27c001e4c03a8,1567.4,1567.77,"not,",-0.07999999999992724,0.36999999999989086,0,False,True,1
+381,5e799448fb3c7055cdee5ecd,1567.49,1569.46,When you're not so interesting.,-0.2799999999999727,1.9700000000000273,0,False,True,6
+382,5cbea0b506e27c001e4c03a8,1569.94,1571.05,it was,0.4800000000000182,1.1099999999999,0,False,False,2
+383,5e799448fb3c7055cdee5ecd,1570.84,1571.16,Yeah.,-0.21000000000003638,0.3200000000001637,0,False,True,1
+384,5cbea0b506e27c001e4c03a8,1571.44,1597.06,for me it was like a mild cold. Like it was like a regular one. But I don't know because I I was really scared of being asymptomatic because I get kind of sick and I am in contact with a few people because of my work. I volunteered at Moffett and I volunteered at that hospital for up until like they told us to stop coming.,0.2799999999999727,25.61999999999989,0,False,False,68
+385,5e799448fb3c7055cdee5ecd,1597.44,1598.06,Mhm.,0.38000000000010914,0.6199999999998909,0,False,False,1
+386,5cbea0b506e27c001e4c03a8,1597.74,1604.85,"I was in contact with a lot of people email, it's like a cancer hospital, like I wasn't afraid because I was like, I'm more dangerous to them than they are to me.",-0.31999999999993634,7.1099999999999,0,False,True,36
+387,5e799448fb3c7055cdee5ecd,1605.14,1605.94,Yeah.,0.290000000000191,0.7999999999999545,0,False,False,1
+388,5cbea0b506e27c001e4c03a8,1605.54,1609.05,"I still could have come in contact with someone and not known. So,",-0.40000000000009095,3.509999999999991,0,False,True,13
+389,5e799448fb3c7055cdee5ecd,1609.54,1617.76,Yeah. I wonder if it was in California and probably boston and new york like so early. Like did a hit florida really early too or was it just like later that it's hitting everyone else?,0.4900000000000091,8.220000000000027,1,True,False,37
+390,5cbea0b506e27c001e4c03a8,1617.94,1621.06,so we were watching new york get hit.,0.18000000000006366,3.119999999999891,0,False,False,8
+391,5e799448fb3c7055cdee5ecd,1621.04,1621.27,Mhm.,-0.01999999999998181,0.2300000000000182,0,False,True,1
+392,5cbea0b506e27c001e4c03a8,1621.44,1626.55,So it came to us later because we were I was forced to move out of my dorm in March.,0.17000000000007276,5.1099999999999,0,False,False,20
+393,5e799448fb3c7055cdee5ecd,1626.54,1627.17,Mhm.,-0.009999999999990905,0.6300000000001091,0,False,True,1
+394,5cbea0b506e27c001e4c03a8,1626.56,1639.86,"I was seeing Covid happened to new york, like when we got it um are teachers thought so we got during our spring break, which my spring break was like a week later than everyone else is. So",-0.6100000000001273,13.299999999999955,0,False,True,38
+395,5e799448fb3c7055cdee5ecd,1639.24,1639.86,Mhm.,-0.6199999999998909,0.6199999999998909,0,False,True,1
+396,5cbea0b506e27c001e4c03a8,1640.64,1651.35,"I thought everyone was done with their spring break, but we got it, we were forced to move out of our dorms that spring break and we thought we were going to be back in school in two weeks and then we weren't.",0.7800000000002001,10.709999999999809,0,False,False,44
+397,5e799448fb3c7055cdee5ecd,1651.74,1657.85,Remember everyone thought that like they thought they were just like oh after a spring break you know it'll be normal again and like after spring break,0.39000000000010004,6.1099999999999,0,False,False,28
+398,5cbea0b506e27c001e4c03a8,1657.64,1658.1,And he,-0.209999999999809,0.459999999999809,0,False,True,2
+399,5e799448fb3c7055cdee5ecd,1657.85,1658.49,just no,-0.25,0.6400000000001,0,False,True,2
+400,5cbea0b506e27c001e4c03a8,1658.27,1658.56,has.,-0.22000000000002728,0.2899999999999636,0,False,True,1
+401,5e799448fb3c7055cdee5ecd,1658.49,1660.67,one went back. It's insane.,-0.06999999999993634,2.1800000000000637,0,False,True,6
+402,5cbea0b506e27c001e4c03a8,1660.74,1671.23,"Yeah, So because I was sitting biochem and he was like, I don't want to put you all on online school. And it was horrible because he wanted to maintain like our integrity for exams. And",0.06999999999993634,10.490000000000009,0,False,False,37
+403,5e799448fb3c7055cdee5ecd,1670.74,1671.27,Mm.,-0.4900000000000091,0.5299999999999727,0,False,True,1
+404,5cbea0b506e27c001e4c03a8,1671.23,1676.27,"we were just given the, hey, we're going to be online for the rest of the semester.",-0.03999999999996362,5.039999999999964,0,False,True,18
+405,5e799448fb3c7055cdee5ecd,1676.54,1678.94,Mhm. How was it online? It was it hard,0.2699999999999818,2.400000000000091,1,False,False,9
+406,5cbea0b506e27c001e4c03a8,1678.94,1679.03,Uh,0.0,0.08999999999991815,0,False,False,1
+407,5e799448fb3c7055cdee5ecd,1678.94,1679.05,to,-0.08999999999991815,0.10999999999989996,0,False,True,1
+408,5cbea0b506e27c001e4c03a8,1679.03,1679.65,huh.,-0.01999999999998181,0.6200000000001182,0,False,True,1
+409,5e799448fb3c7055cdee5ecd,1679.05,1680.77,like pay attention?,-0.6000000000001364,1.7200000000000273,1,True,True,3
+410,5cbea0b506e27c001e4c03a8,1681.34,1688.77,"So for biochemistry, the way that he tries to be online was we didn't do soon. Thank God because",0.5699999999999363,7.430000000000064,0,False,False,20
+411,5e799448fb3c7055cdee5ecd,1688.64,1689.06,Mm,-0.12999999999988177,0.4199999999998454,0,False,True,1
+412,5cbea0b506e27c001e4c03a8,1688.78,1690.85,I don't wake up early enough to do zooms.,-0.2799999999999727,2.0699999999999363,0,False,True,10
+413,5e799448fb3c7055cdee5ecd,1691.34,1691.55,Sure,0.4900000000000091,0.21000000000003638,0,False,False,1
+414,5cbea0b506e27c001e4c03a8,1691.54,1697.22,"Um, he narrated his power banks and",-0.009999999999990905,5.680000000000064,0,False,True,7
+415,5e799448fb3c7055cdee5ecd,1697.17,1698.67,bra,-0.049999999999954525,1.5,0,False,True,1
+416,5cbea0b506e27c001e4c03a8,1697.22,1699.57,"they're like, exactly that because they're",-1.4500000000000455,2.349999999999909,0,False,True,8
+417,5e799448fb3c7055cdee5ecd,1699.54,1700.04,what,-0.029999999999972715,0.5,0,False,True,1
+418,5cbea0b506e27c001e4c03a8,1699.57,1709.06,"like 100 slide power point. And we're just sitting there listening to him and taking notes on the slides. And that was like my numbing, right?",-0.4700000000000273,9.490000000000009,1,True,True,27
+419,5e799448fb3c7055cdee5ecd,1708.84,1714.77,you couldn't even look at him like in person or anything to stay awake. Like you're just sounds terrible.,-0.22000000000002728,5.930000000000064,0,False,True,21
+420,5cbea0b506e27c001e4c03a8,1715.34,1718.55,And then I was speaking in genetics and by him at the same time,0.5699999999999363,3.2100000000000364,0,False,False,14
+421,5e799448fb3c7055cdee5ecd,1718.44,1718.76,Yeah.,-0.10999999999989996,0.31999999999993634,0,False,True,1
+422,5cbea0b506e27c001e4c03a8,1718.56,1720.67,because I thought it would be smart and it wasn't.,-0.20000000000004547,2.1100000000001273,0,False,True,11
+423,5e799448fb3c7055cdee5ecd,1720.94,1721.86,Mhm.,0.2699999999999818,0.9199999999998454,0,False,False,1
+424,5cbea0b506e27c001e4c03a8,1721.74,1730.86,"Um, so both of my teachers just narrated their slides and I would just sit there for days on end, just taking notes on the slides and it was not fun at all.",-0.11999999999989086,9.11999999999989,0,False,True,33
+425,5e799448fb3c7055cdee5ecd,1732.24,1736.53,I came and genetics at the same time genetics was like a snoozefest,1.3800000000001091,4.289999999999964,0,False,False,13
+426,5cbea0b506e27c001e4c03a8,1735.54,1735.77,And,-0.9900000000000091,0.2300000000000182,0,False,True,1
+427,5e799448fb3c7055cdee5ecd,1736.53,1738.56,sometimes at least in my school.,0.7599999999999909,2.0299999999999727,0,False,False,6
+428,5cbea0b506e27c001e4c03a8,1738.74,1760.46,"I remember I was like, I refuse to fail genetics and I would read the textbook and the textbook was fine, but like, I would just sit there and like, this is boring. I thought it's really more like, I think we're going to get into like, altering genes. How did how to tell me where you can have blue eyes or brown eyes? And we're just sitting there like, So Darwin in 18, months of the Figure eight.",0.18000000000006366,21.720000000000027,1,False,False,82
+429,5e799448fb3c7055cdee5ecd,1760.64,1762.26,That's why you learned about.,0.18000000000006366,1.6199999999998909,0,False,False,6
+430,5cbea0b506e27c001e4c03a8,1762.14,1783.66,"We learned a lot of Darwin and length jeans and things and like disorders. Like I want to get into the disorders, I can get like that mutations. We got like 12 of them. And then we're just learning about like link jeans and crossing over and things like that and recombination. We did like a quick my toast this review for",-0.11999999999989086,21.519999999999982,0,False,True,63
+431,5e799448fb3c7055cdee5ecd,1783.64,1784.06,Mhm.,-0.01999999999998181,0.4199999999998454,0,False,True,1
+432,5cbea0b506e27c001e4c03a8,1783.66,1785.72,"like, so",-0.3999999999998636,2.0599999999999454,0,False,True,2
+433,5e799448fb3c7055cdee5ecd,1785.44,1785.67,Yeah.,-0.2799999999999727,0.2300000000000182,0,False,True,1
+434,5cbea0b506e27c001e4c03a8,1785.72,1793.95,"like, we didn't get exciting things I was looking for. We got a lot of boring kind of history kind of mask. It's very interesting.",0.049999999999954525,8.230000000000018,0,False,False,27
+435,5e799448fb3c7055cdee5ecd,1794.34,1799.26,That's too bad though. But hopefully we're in med school and then you can learn all about all the cool stuff.,0.38999999999987267,4.920000000000073,0,False,False,23
+436,5cbea0b506e27c001e4c03a8,1799.24,1804.36,"Yeah. Do you know what, what you want to be? Like what your specialty is? Like, what are you like cleaning too?",-0.01999999999998181,5.119999999999891,3,True,True,22
+437,5e799448fb3c7055cdee5ecd,1805.04,1811.66,Um I really like emergency but I've worked in the air for six years. I really liked it. But that's really all I know except dermatology which is really boring,0.6800000000000637,6.620000000000118,0,False,False,32
+438,5cbea0b506e27c001e4c03a8,1811.44,1811.76,Oh.,-0.22000000000002728,0.31999999999993634,0,False,True,1
+439,5e799448fb3c7055cdee5ecd,1811.66,1813.47,but so it's cool. Like everyone,-0.09999999999990905,1.8099999999999454,0,False,True,7
+440,5cbea0b506e27c001e4c03a8,1813.34,1813.55,Mhm.,-0.13000000000010914,0.21000000000003638,0,False,True,1
+441,5e799448fb3c7055cdee5ecd,1813.47,1817.86,changes because like I don't I don't really know anything before compared to what we will know.,-0.07999999999992724,4.389999999999873,0,False,True,19
+442,5cbea0b506e27c001e4c03a8,1818.04,1818.45,Remember,0.18000000000006366,0.41000000000008185,0,False,False,1
+443,5e799448fb3c7055cdee5ecd,1818.24,1818.65,Yeah.,-0.21000000000003638,0.41000000000008185,0,False,True,1
+444,5cbea0b506e27c001e4c03a8,1818.49,1820.26,be some boring to me.,-0.16000000000008185,1.7699999999999818,0,False,True,5
+445,5e799448fb3c7055cdee5ecd,1820.84,1821.09,You,0.5799999999999272,0.25,0,False,False,1
+446,5cbea0b506e27c001e4c03a8,1820.94,1821.27,Oh,-0.14999999999986358,0.32999999999992724,0,False,True,1
+447,5e799448fb3c7055cdee5ecd,1821.09,1822.27,think it is worrying too?,-0.18000000000006366,1.1800000000000637,1,True,True,5
+448,5cbea0b506e27c001e4c03a8,1822.34,1843.14,"no, I don't think it's worrying because like, I have like picked like three things that I would want to do for like my supposed to my specialty like so far and like top of psychiatry because like, that's why I started wanting to be a doctor again. And then Derm is like second because of like the lifestyle, like the ease of life. And then third",0.06999999999993634,20.800000000000182,0,False,False,70
+449,5e799448fb3c7055cdee5ecd,1843.04,1843.66,Yeah.,-0.10000000000013642,0.6200000000001182,0,False,True,1
+450,5cbea0b506e27c001e4c03a8,1843.14,1844.36,is like Dino.,-0.5199999999999818,1.2199999999998,0,False,True,3
+451,5e799448fb3c7055cdee5ecd,1845.14,1850.36,Gunnel sounds cool and they do it's cool. They do surgery and they do like office visits and stuff.,0.7800000000002001,5.2199999999998,0,False,False,20
+452,5cbea0b506e27c001e4c03a8,1850.74,1855.86,"Yeah, I'm not afraid of like the birthing videos and watch them all the time. Like this is fun.",0.38000000000010914,5.119999999999891,0,False,False,20
+453,5e799448fb3c7055cdee5ecd,1856.74,1878.48,"Yeah maybe you like it sounds really intent, like emergencies intense, You get like adrenaline but I think that one you would too but it's like less often but it sounds really interesting but Durham is just like it's all molds and like it's all age spots and it's like the same thing over and over and over and over again and the lifestyle is good. But like those lights off for a lot of things, you just have to immerse yourself in it. Are you applying to med school like when",0.8800000000001091,21.74000000000001,0,False,False,96
+454,5cbea0b506e27c001e4c03a8,1878.44,1878.67,Mhm.,-0.03999999999996362,0.2300000000000182,0,False,True,1
+455,5e799448fb3c7055cdee5ecd,1878.48,1879.67,you're a senior?,-0.19000000000005457,1.1900000000000546,1,True,True,4
+456,5cbea0b506e27c001e4c03a8,1879.84,1886.41,"Honestly, at this point when I get to it I get to it like I think I might take a gap year but that's",0.16999999999984539,6.570000000000164,0,False,False,25
+457,5e799448fb3c7055cdee5ecd,1886.24,1886.67,It's good.,-0.17000000000007276,0.43000000000006366,0,False,True,3
+458,5cbea0b506e27c001e4c03a8,1886.41,1887.18,more research,-0.2599999999999909,0.7699999999999818,0,False,True,2
+459,5e799448fb3c7055cdee5ecd,1886.68,1886.95,Yeah.,-0.5,0.2699999999999818,0,False,True,1
+460,5cbea0b506e27c001e4c03a8,1887.18,1906.18,"because like I don't feel like physically able to handle it like mentally and like I'm a I'm graduating really early so especially for florida, like I'm A year younger than everyone in my grade essentially because of like how my birthday is Florida.",0.2300000000000182,19.0,0,False,False,48
+461,5e799448fb3c7055cdee5ecd,1904.84,1905.35,Mm.,-1.3400000000001455,0.5099999999999909,0,False,True,1
+462,5cbea0b506e27c001e4c03a8,1906.19,1918.08,"If I had started school in Florida, I wouldn't have been able to graduate at 18, 17. Like I did because I didn't skip any grades but my birthday is late and I was born in 2000 so I'm younger",0.8400000000001455,11.889999999999873,0,False,False,43
+463,5e799448fb3c7055cdee5ecd,1917.94,1918.17,Yeah,-0.13999999999987267,0.2300000000000182,0,False,True,1
+464,5cbea0b506e27c001e4c03a8,1918.08,1924.95,"than everyone in my grade. Um I graduated kind of early, I did a lot of ap classes, so I'm graduating even earlier",-0.09000000000014552,6.870000000000118,0,False,True,24
+465,5e799448fb3c7055cdee5ecd,1925.14,1925.44,they're gonna,0.19000000000005457,0.2999999999999545,0,False,False,4
+466,5cbea0b506e27c001e4c03a8,1925.34,1925.67,or,-0.10000000000013642,0.3300000000001546,0,False,True,1
+467,5e799448fb3c7055cdee5ecd,1925.44,1927.66,be like two years younger than everyone else.,-0.2300000000000182,2.2200000000000273,0,False,True,8
+468,5cbea0b506e27c001e4c03a8,1928.14,1929.46,"Yeah, kind of.",0.4800000000000182,1.3199999999999363,0,False,False,3
+469,5e799448fb3c7055cdee5ecd,1929.34,1930.56,Yeah.,-0.12000000000011823,1.2200000000000273,0,False,True,1
+470,5cbea0b506e27c001e4c03a8,1931.44,1940.56,"So like I'm doing this like super early and I don't feel like I'm capable of doing medical, especially like Mexico and coronavirus, I wonder that",0.8800000000001091,9.11999999999989,0,False,False,29
+471,5e799448fb3c7055cdee5ecd,1940.54,1954.85,"Oh yeah most people are honestly older too. Like I'm I took one gap here and I'm like the younger one here, like there are a couple of people who came right out of college and like a lot of people in their late 20s are married and like a couple of kids. It's really weird. But",-0.01999999999998181,14.309999999999945,0,False,True,60
+472,5cbea0b506e27c001e4c03a8,1954.34,1960.27,"what's so weird. Like people like are married and like they're an undergrad with me. I'm just like, people are getting married",-0.5099999999999909,5.930000000000064,0,False,True,25
+473,5e799448fb3c7055cdee5ecd,1960.44,1979.85,"wow, that's, I can't imagine it's just, we're in different stages of life I guess. But like in med school, I mean, yeah, it would be like really, really young. So it's good to get a little more experience and like take a couple years off and some people like say, oh, I like this better and I don't want to go to med school. Some people like, yeah, hate research. I want to be a doctor for sure. So",0.17000000000007276,19.409999999999854,0,False,False,86
+474,5cbea0b506e27c001e4c03a8,1979.64,1980.36,mm,-0.209999999999809,0.7199999999997999,0,False,True,1
+475,5e799448fb3c7055cdee5ecd,1979.94,1981.17,is definitely beneficial.,-0.4199999999998454,1.2300000000000182,0,False,True,3
+476,5cbea0b506e27c001e4c03a8,1981.34,1996.76,"I'm not a research person, but like, I just want to cultivate myself and cultivate my skills. Like I can be a little awkward and talking to people. So I want to like even myself out maybe more well rounded and like doing all the medical requirements in undergrad is so stressful,",0.16999999999984539,15.420000000000073,0,False,False,53
+477,5e799448fb3c7055cdee5ecd,1996.94,1997.56,Mm hmm.,0.18000000000006366,0.6199999999998909,0,False,False,2
+478,5cbea0b506e27c001e4c03a8,1997.74,2017.18,"like getting volunteering hours, getting research hours and getting teachers to vouch for you. And I'm just like, this is a lot and I'm just trying to pass for boot camp and like, you're just putting the weight of the world on my shoulders. So I think I might want to take a year out maybe do like teaching America like,",0.18000000000006366,19.440000000000055,0,False,False,64
+479,5e799448fb3c7055cdee5ecd,2016.34,2017.26,Yeah.,-0.8400000000001455,0.9200000000000728,0,False,True,1
+480,5cbea0b506e27c001e4c03a8,2017.37,2018.51,but,0.10999999999989996,1.1400000000001,0,False,False,1
+481,5e799448fb3c7055cdee5ecd,2018.14,2018.67,Okay.,-0.36999999999989086,0.5299999999999727,0,False,True,1
+482,5cbea0b506e27c001e4c03a8,2018.52,2022.26,"no one's teaching America anymore, we're taking through zoom. So",-0.15000000000009095,3.740000000000009,0,False,True,12
+483,5e799448fb3c7055cdee5ecd,2022.24,2038.56,"Yeah. And like you could, I mean some people do Fulbright, I don't know if you've heard of that, but that's really cool. It's like really good for um, if you before med school. But yeah, that'd be good. Just like you have your away from the stress and then you like reset a little bit and you'll still be like 22 so it's good for you.",-0.01999999999998181,16.319999999999936,0,False,True,74
+484,5cbea0b506e27c001e4c03a8,2038.64,2046.17,"yeah, I kind of wanted to um I think to me work because Mexico is like hell expensive",0.08000000000015461,7.529999999999973,0,False,False,18
+485,5e799448fb3c7055cdee5ecd,2045.64,2046.27,Mhm,-0.5299999999999727,0.6299999999998818,0,False,True,1
+486,5cbea0b506e27c001e4c03a8,2046.18,2051.75,"and not always concerned me, it's like how do you live while you're not able to work technically?",-0.08999999999991815,5.569999999999936,1,True,True,20
+487,5e799448fb3c7055cdee5ecd,2051.54,2054.04,"loans, savings",-0.21000000000003638,2.5,0,False,True,2
+488,5cbea0b506e27c001e4c03a8,2053.24,2053.75,Well,-0.8000000000001819,0.5100000000002183,0,False,True,1
+489,5e799448fb3c7055cdee5ecd,2054.04,2055.05,and loans.,0.2899999999999636,1.0100000000002183,0,False,False,2
+490,5cbea0b506e27c001e4c03a8,2055.04,2060.82,yeah. Oh I can't wait to look at my loan balance and just see.,-0.010000000000218279,5.7800000000002,0,False,True,15
+491,5e799448fb3c7055cdee5ecd,2060.84,2062.46,I'm not looking at it it's,0.01999999999998181,1.6199999999998909,0,False,False,8
+492,5cbea0b506e27c001e4c03a8,2062.14,2062.67,Yeah.,-0.3200000000001637,0.5300000000002001,0,False,True,1
+493,5e799448fb3c7055cdee5ecd,2062.46,2065.27,very soon. Uh,-0.21000000000003638,2.8099999999999454,0,False,True,3
+494,5cbea0b506e27c001e4c03a8,2065.14,2065.56,Oh,-0.13000000000010914,0.42000000000007276,0,False,True,1
+495,5e799448fb3c7055cdee5ecd,2065.28,2068.06,"But it'll work, it'll be worth it one day you know?",-0.27999999999974534,2.7799999999997453,1,True,True,13
+496,5cbea0b506e27c001e4c03a8,2067.64,2080.36,"well and like people talk a lot about like how you're like, you miss years of your life because you're spending it in med school while people are starting. But you know what, I've always kind of been like a late bloomer so I'm okay with it. I live",-0.42000000000007276,12.720000000000255,0,False,True,53
+497,5e799448fb3c7055cdee5ecd,2080.14,2082.13,Yeah and you're doing the coolest thing ever.,-0.22000000000025466,1.9900000000002365,0,False,True,9
+498,5cbea0b506e27c001e4c03a8,2082.04,2082.35,it,-0.09000000000014552,0.30999999999994543,0,False,True,1
+499,5e799448fb3c7055cdee5ecd,2082.13,2098.97,"Like in the er they would tell me like you put a chest tube in a patient, you save their life and like your friends are like at an office job like sitting at their desk all daily doing calculations or whatever and you literally put a tube in someone's chest, massage their heart to make it like start being like that's pretty crazy. It sounds so worth it.",-0.2199999999997999,16.83999999999969,0,False,True,71
+500,5cbea0b506e27c001e4c03a8,2099.24,2103.26,"yeah, if I didn't you, I wanted to trauma er because like",0.2699999999999818,4.020000000000437,0,False,False,13
+501,5e799448fb3c7055cdee5ecd,2102.74,2103.46,Mm,-0.5200000000004366,0.7200000000002547,0,False,True,1
+502,5cbea0b506e27c001e4c03a8,2103.64,2118.78,"I like adrenaline, like I have an issue, like, I can't, like I did um a shadowing of like a year before and I was like, so this is the worst place ever, and like, I kind of was tempted to say it's really quiet in here because that's when",0.1799999999998363,15.140000000000327,0,False,False,53
+503,5e799448fb3c7055cdee5ecd,2118.74,2118.78,I,-0.04000000000041837,0.04000000000041837,0,False,True,1
+504,5cbea0b506e27c001e4c03a8,2118.78,2119.47,everything,0.0,0.6899999999995998,0,False,False,1
+505,5e799448fb3c7055cdee5ecd,2118.79,2119.93,never,-0.6799999999998363,1.1399999999998727,0,False,True,1
+506,5cbea0b506e27c001e4c03a8,2119.48,2120.17,like.,-0.4499999999998181,0.6900000000000546,0,False,True,1
+507,5e799448fb3c7055cdee5ecd,2119.93,2121.47,said the word.,-0.24000000000023647,1.5399999999999636,0,False,True,3
+508,5cbea0b506e27c001e4c03a8,2121.14,2123.5,"Yes, but",-0.32999999999992724,2.3600000000001273,0,False,True,2
+509,5e799448fb3c7055cdee5ecd,2123.24,2123.47,Mhm.,-0.2600000000002183,0.2300000000000182,0,False,True,1
+510,5cbea0b506e27c001e4c03a8,2123.5,2135.56,"like, I think I'm gonna enjoy this, like, I really like helping people and like, local office jobs for me and all of our office spaces and workspaces are changing anyway. So",0.03000000000020009,12.059999999999945,0,False,False,34
+511,5e799448fb3c7055cdee5ecd,2136.14,2138.36,Yes. Only we work from home now.,0.5799999999999272,2.2200000000002547,0,False,False,7
+512,5cbea0b506e27c001e4c03a8,2138.34,2142.96,"yeah, this is like the most they will jump out there because everyone's always going to need a doctor.",-0.01999999999998181,4.619999999999891,0,False,True,20
+513,5e799448fb3c7055cdee5ecd,2143.44,2150.55,"That's what they always say. Yeah and then like certain doctors, like robots can never replace. So. And also like people don't want robots. They want humans.",0.4800000000000182,7.110000000000127,0,False,False,29
+514,5cbea0b506e27c001e4c03a8,2151.64,2155.75,"Yeah, so you're always a media nurse shows me a doctor. So",1.0899999999996908,4.110000000000127,0,False,False,13
+515,5e799448fb3c7055cdee5ecd,2156.24,2159.35,"Yeah, engineers. Maybe they'll be like automating fun.",0.4899999999997817,3.1100000000001273,0,False,False,9
+516,5cbea0b506e27c001e4c03a8,2159.04,2162.96,"imagine working on the thing that replaces you, that's",-0.30999999999994543,3.9200000000000728,0,False,True,10
+517,5e799448fb3c7055cdee5ecd,2163.63,2170.16,"A lot of people that like if you go in Panera now they have like the automated, like the thing you order like there ever was just automating everything.",0.6700000000000728,6.529999999999745,0,False,False,29
+518,5cbea0b506e27c001e4c03a8,2170.13,2175.28,that's me. I'm a person who uses the automated versus talking to someone because I'm,-0.02999999999974534,5.150000000000091,0,False,True,18
+519,5e799448fb3c7055cdee5ecd,2175.03,2175.53,Yeah.,-0.25,0.5,0,False,True,1
+520,5cbea0b506e27c001e4c03a8,2175.29,2177.35,"like, please.",-0.24000000000023647,2.0599999999999454,0,False,True,2
+521,5e799448fb3c7055cdee5ecd,2177.43,2183.04,"It's easier like, you know. Yeah. You don't have social contact. It's so nice. But it's replacing jobs.",0.07999999999992724,5.610000000000127,0,False,False,22
+522,5cbea0b506e27c001e4c03a8,2183.13,2200.35,"It is, and like, I understand that my debate teacher, you see this to us, um it might be replacing jobs, but what what happens is it makes way for more high paying jobs and better jobs for others because you're cutting out something that was so minuscule, you know what,",0.09000000000014552,17.2199999999998,0,False,False,52
+523,5e799448fb3c7055cdee5ecd,2200.13,2200.66,Mm hmm.,-0.2199999999997999,0.5299999999997453,0,False,True,2
+524,5cbea0b506e27c001e4c03a8,2200.93,2204.55,"you know, I don't referring to like service shops is minuscule, but",0.2699999999999818,3.6200000000003456,0,False,False,13
+525,5e799448fb3c7055cdee5ecd,2203.93,2204.16,Yeah.,-0.6200000000003456,0.2300000000000182,0,False,True,1
+526,5cbea0b506e27c001e4c03a8,2205.03,2208.05,"I just wonder like what is this open and what this is close,",0.8700000000003456,3.019999999999982,0,False,False,13
+527,5e799448fb3c7055cdee5ecd,2208.43,2223.96,"Yeah. Because maybe it opens things for like people who have like more education or like they have the like, I don't know if they were born lucky or something. But then like people who weren't born with the same resources. Like they can't get the jobs and then like that it's just not equal. It's like perpetuating inequality kind of.",0.3799999999996544,15.5300000000002,0,False,False,66
+528,5cbea0b506e27c001e4c03a8,2224.93,2236.46,"It's so hard to get a degree. Like I just think about it. Like I got really lucky, I'm down here in florida. We have a scholarship jin",0.9699999999997999,11.5300000000002,0,False,False,30
+529,5e799448fb3c7055cdee5ecd,2236.33,2236.75,Oh,-0.13000000000010914,0.42000000000007276,0,False,True,1
+530,5cbea0b506e27c001e4c03a8,2237.03,2237.74,tuition.,0.2800000000002001,0.7099999999995816,0,False,False,1
+531,5e799448fb3c7055cdee5ecd,2237.73,2238.23,yeah.,-0.009999999999763531,0.5,0,False,True,1
+532,5cbea0b506e27c001e4c03a8,2237.74,2239.55,"Humans are insane,",-0.49000000000023647,1.8100000000004002,0,False,True,3
+533,5e799448fb3c7055cdee5ecd,2239.33,2239.75,Mhm.,-0.22000000000025466,0.42000000000007276,0,False,True,1
+534,5cbea0b506e27c001e4c03a8,2239.93,2244.46,"like they're not, they're pretty low for college and for florida, but like it's crazy.",0.1799999999998363,4.5300000000002,0,False,False,18
+535,5e799448fb3c7055cdee5ecd,2246.13,2263.16,"It's still crazy. And our parents and my parents said like they could work during college like summers and paper all of it and like my college cause like $65,000 a year. Like maybe working in the summer you make like $3,000, But it's not easy.",1.6700000000000728,17.029999999999745,0,False,False,50
+536,5cbea0b506e27c001e4c03a8,2263.53,2271.83,"No, not at all. Like room board is room board is honestly more expensive than my tuition most of the time. Like my tuition.",0.3700000000003456,8.299999999999727,0,False,False,24
+537,5e799448fb3c7055cdee5ecd,2271.33,2272.05,Oh really?,-0.5,0.7200000000002547,1,True,True,2
+538,5cbea0b506e27c001e4c03a8,2271.84,2279.78,Yeah because like um my tuition for like the state of florida is pretty cheap. It's like 8000 When,-0.21000000000003638,7.940000000000055,0,False,True,20
+539,5e799448fb3c7055cdee5ecd,2279.23,2279.65,Mm,-0.5500000000001819,0.42000000000007276,0,False,True,1
+540,5cbea0b506e27c001e4c03a8,2279.79,2289.04,"living on campus and then eating on campus and then they protect us and everything else that it adds a lot. Usually like cost of attendance like 26,000.",0.13999999999987267,9.25,0,False,False,28
+541,5e799448fb3c7055cdee5ecd,2289.52,2291.34,They rip you off so hard.,0.4800000000000182,1.8200000000001637,0,False,False,6
+542,5cbea0b506e27c001e4c03a8,2291.22,2299.04,"Yeah. My friends and I used to get sick from the dining hall food and we're just like, we paid so much for like, it's insane",-0.12000000000034561,7.820000000000164,0,False,True,28
+543,5e799448fb3c7055cdee5ecd,2299.42,2304.84,"It's awful to, it's not healthy. It's all like Greece and like garbage. Mine was so bad too. It's just inedible.",0.38000000000010914,5.420000000000073,0,False,False,25
+544,5cbea0b506e27c001e4c03a8,2304.82,2310.25,"everyday pizza, everyday pizza because it's the only thing that can, you don't eat and it's like won't make you sick.",-0.01999999999998181,5.429999999999836,0,False,True,25
+545,5e799448fb3c7055cdee5ecd,2310.52,2321.34,Mm that's not good ours with recycling if there was like two and a one day would be like 200 pizza the next day or like Mac and Cheese Pizza. It was nasty. But that's when you learn to cook for yourself.,0.2699999999999818,10.820000000000164,0,False,False,44
+546,5cbea0b506e27c001e4c03a8,2323.12,2328.82,"Oh yeah, definitely. I've been cooking a lot since I've been home and like I'm going back",1.7799999999997453,5.700000000000273,0,False,False,20
+547,5e799448fb3c7055cdee5ecd,2328.62,2328.95,Mhm.,-0.20000000000027285,0.32999999999992724,0,False,True,1
+548,5cbea0b506e27c001e4c03a8,2328.82,2332.45,"to cooking more when I go back on campus, so let's make fun for me.",-0.1299999999996544,3.6299999999996544,0,False,True,16
+549,5e799448fb3c7055cdee5ecd,2332.82,2338.84,"Yeah, it's such a good skill to have it. It's just like fun and relaxing and you can eat a lot healthier and like it can be delicious too.",0.3700000000003456,6.019999999999982,0,False,False,31
+550,5cbea0b506e27c001e4c03a8,2339.32,2343.03,So I'm excited for not,0.4800000000000182,3.7100000000000364,0,False,False,6
+551,5e799448fb3c7055cdee5ecd,2343.62,2343.83,Mm,0.5899999999996908,0.21000000000003638,0,False,False,1
+552,5cbea0b506e27c001e4c03a8,2344.22,2352.65,"honestly, I'm excited just to see how this works. Like I've been telling my dad like I'm just excited to see what coronavirus life is. Like. Honestly.",0.38999999999987267,8.430000000000291,0,False,False,30
+553,5e799448fb3c7055cdee5ecd,2353.02,2362.35,because we're I mean this hasn't happened before like ever. So it's really interesting to live and especially being like medical areas when there's a pandemic,0.36999999999989086,9.329999999999927,0,False,False,30
+554,5cbea0b506e27c001e4c03a8,2362.22,2362.64,God.,-0.13000000000010914,0.42000000000007276,0,False,True,1
+555,5e799448fb3c7055cdee5ecd,2362.48,2363.14,we'll see.,-0.15999999999985448,0.6599999999998545,0,False,True,3
+556,5cbea0b506e27c001e4c03a8,2363.52,2367.15,Yeah. And my school is like super. I don't know if this happens for every,0.38000000000010914,3.630000000000109,0,False,False,16
+557,5e799448fb3c7055cdee5ecd,2366.52,2367.65,Mhm.,-0.6300000000001091,1.1300000000001091,0,False,True,1
+558,5cbea0b506e27c001e4c03a8,2367.16,2373.45,"school, like we're pretty big. We have 12 three",-0.49000000000023647,6.289999999999964,0,False,True,10
+559,5e799448fb3c7055cdee5ecd,2373.72,2374.04,Mhm.,0.2699999999999818,0.3200000000001637,0,False,False,1
+560,5cbea0b506e27c001e4c03a8,2376.82,2381.14,"whole hospital's on campus. So we have a Children's hospital, we have a cancer hospital.",2.7800000000002,4.319999999999709,0,False,False,17
+561,5e799448fb3c7055cdee5ecd,2380.72,2380.95,Yeah,-0.42000000000007276,0.2300000000000182,0,False,True,1
+562,5cbea0b506e27c001e4c03a8,2381.15,2387.18,And then we have um another hospital. So,0.20000000000027285,6.029999999999745,0,False,False,8
+563,5e799448fb3c7055cdee5ecd,2386.92,2387.75,on campus.,-0.25999999999976353,0.8299999999999272,0,False,True,2
+564,5cbea0b506e27c001e4c03a8,2387.18,2395.84,we have three copies. Yeah. There are like the outskirts of tips of campus. But the school bus will take you there and it's like all the rest of property.,-0.5700000000001637,8.66000000000031,0,False,True,31
+565,5e799448fb3c7055cdee5ecd,2396.22,2399.34,Oh Let's Wait 1st. Are they all for students?,0.3799999999996544,3.1200000000003456,1,True,False,10
+566,5cbea0b506e27c001e4c03a8,2400.01,2402.64,So you,0.6700000000000728,2.6299999999996544,0,False,False,2
+567,5e799448fb3c7055cdee5ecd,2402.11,2402.52,Uh huh.,-0.5299999999997453,0.4099999999998545,0,False,True,2
+568,5cbea0b506e27c001e4c03a8,2403.31,2414.4,"could go there. I'm pretty sure. But they're teaching hospital. Actually, I don't know they're teaching hospitals but they're all like hospitals. We have Shriners on",0.7899999999999636,11.090000000000146,0,False,False,31
+569,5e799448fb3c7055cdee5ecd,2414.31,2414.52,Mhm,-0.09000000000014552,0.21000000000003638,0,False,True,1
+570,5cbea0b506e27c001e4c03a8,2414.4,2423.14,campus and then we have um model which is a cancer hospital. And we have a hospital off campus which could go to a student.,-0.11999999999989086,8.739999999999782,0,False,True,25
+571,5e799448fb3c7055cdee5ecd,2424.91,2425.33,mm.,1.7699999999999818,0.42000000000007276,0,False,False,1
+572,5cbea0b506e27c001e4c03a8,2425.01,2434.64,"But that's like, I don't I've never heard of anyone going to on campus hospitals, but we do have three of them. I'm forgetting the other one. I think it's a I institute, which I like that",-0.31999999999970896,9.629999999999654,0,False,True,42
+573,5e799448fb3c7055cdee5ecd,2435.01,2438.24,"Oh that's crazy though wow, my school was tiny,",0.3700000000003456,3.2299999999995634,0,False,False,10
+574,5cbea0b506e27c001e4c03a8,2438.71,2440.83,it's florida. There's a lot of space.,0.47000000000025466,2.119999999999891,0,False,False,9
+575,5e799448fb3c7055cdee5ecd,2441.31,2454.77,that's true. Yeah florida sounds like a wild place. There's this girl from florida here and she was saying how like you can't let your baby like go down near the river or else an alligator could eat it and they're like pythons and,0.4800000000000182,13.460000000000036,0,False,False,48
+576,5cbea0b506e27c001e4c03a8,2454.71,2455.51,"Yeah,",-0.05999999999994543,0.8000000000001819,0,False,True,1
+577,5e799448fb3c7055cdee5ecd,2454.78,2458.02,"all these crazy like monkeys, I don't know but monkeys in florida.",-0.7300000000000182,3.2399999999997817,0,False,True,13
+578,5cbea0b506e27c001e4c03a8,2458.11,2461.66,we have a really big iguanas and iguanas and stuff.,0.09000000000014552,3.549999999999727,0,False,False,10
+579,5e799448fb3c7055cdee5ecd,2461.61,2461.82,Mhm.,-0.04999999999972715,0.21000000000003638,0,False,True,1
+580,5cbea0b506e27c001e4c03a8,2461.67,2472.11,"And then there are a lot of, there's a lot of water here. Like you know how you have like a regular suburban community and like massachusetts and it's like just houses. So",-0.15000000000009095,10.440000000000055,0,False,True,35
+581,5e799448fb3c7055cdee5ecd,2471.31,2471.82,Mhm.,-0.8000000000001819,0.5100000000002183,0,False,True,1
+582,5cbea0b506e27c001e4c03a8,2472.11,2480.33,"for us, um if you drive um behind any housing complex or if you drive alongside the road you'll see like water.",0.2899999999999636,8.2199999999998,0,False,False,23
+583,5e799448fb3c7055cdee5ecd,2481.11,2481.59,Oh,0.7800000000002001,0.4800000000000182,0,False,False,1
+584,5cbea0b506e27c001e4c03a8,2481.31,2481.73,So like,-0.2800000000002001,0.42000000000007276,0,False,True,2
+585,5e799448fb3c7055cdee5ecd,2481.6,2482.13,really?,-0.13000000000010914,0.5300000000002001,1,True,True,1
+586,5cbea0b506e27c001e4c03a8,2482.21,2483.53,Yeah. So.,0.07999999999992724,1.3200000000001637,0,False,False,2
+587,5e799448fb3c7055cdee5ecd,2483.01,2484.14,Is that work?,-0.5199999999999818,1.1299999999996544,1,True,True,3
+588,5cbea0b506e27c001e4c03a8,2484.31,2484.81,Yeah.,0.17000000000007276,0.5,0,False,False,1
+589,5e799448fb3c7055cdee5ecd,2484.71,2486.63,That's why there are so many alligators,-0.09999999999990905,1.9200000000000728,0,False,True,8
+590,5cbea0b506e27c001e4c03a8,2486.51,2489.55,"Yeah, because there's a lot of place for them to be. So we have",-0.11999999999989086,3.0399999999999636,0,False,True,15
+591,5e799448fb3c7055cdee5ecd,2489.41,2489.83,from.,-0.14000000000032742,0.42000000000007276,0,False,True,1
+592,5cbea0b506e27c001e4c03a8,2489.55,2495.14,a lot of water. Like even there's areas by our roads where it's like alligator warnings.,-0.27999999999974534,5.589999999999691,0,False,True,18
+593,5e799448fb3c7055cdee5ecd,2495.31,2496.63,Whoa.,0.17000000000007276,1.3200000000001637,0,False,False,1
+594,5cbea0b506e27c001e4c03a8,2498.31,2504.42,"Arab waters and lakes and swamps and stuff. So yeah, we",1.6799999999998363,6.110000000000127,0,False,False,11
+595,5e799448fb3c7055cdee5ecd,2504.41,2504.57,So,-0.010000000000218279,0.16000000000030923,0,False,True,1
+596,5cbea0b506e27c001e4c03a8,2504.42,2504.74,have a lot,-0.15000000000009095,0.31999999999970896,0,False,True,3
+597,5e799448fb3c7055cdee5ecd,2504.57,2504.81,you can,-0.169999999999618,0.23999999999978172,0,False,True,2
+598,5cbea0b506e27c001e4c03a8,2504.74,2505.53,of,-0.07000000000016371,0.7900000000004184,0,False,True,1
+599,5e799448fb3c7055cdee5ecd,2504.81,2505.64,go,-0.7200000000002547,0.8299999999999272,0,False,True,1
+600,5cbea0b506e27c001e4c03a8,2506.71,2512.64,we can go swimming but not in there. Those are the dirtiest water you'll ever see. You don't want to go there right?,1.0700000000001637,5.929999999999836,1,True,False,25
+601,5e799448fb3c7055cdee5ecd,2512.41,2515.6,right so you just can you only go in like pools,-0.2300000000000182,3.1900000000000546,0,False,True,11
+602,5cbea0b506e27c001e4c03a8,2515.51,2515.74,"Yeah,",-0.08999999999969077,0.22999999999956344,0,False,True,1
+603,5e799448fb3c7055cdee5ecd,2515.61,2516.64,or in the ocean?,-0.1299999999996544,1.0299999999997453,1,True,True,4
+604,5cbea0b506e27c001e4c03a8,2516.51,2521.01,pools. Ocean. Some people do swim in those places. I don't recommend it. It's not,-0.1299999999996544,4.5,0,False,True,17
+605,5e799448fb3c7055cdee5ecd,2521.0,2521.23,Yeah.,-0.010000000000218279,0.2300000000000182,0,False,True,1
+606,5cbea0b506e27c001e4c03a8,2521.02,2525.24,"proof, but everyone loves our beach. We know because",-0.21000000000003638,4.2199999999998,0,False,True,9
+607,5e799448fb3c7055cdee5ecd,2525.0,2525.23,Mhm,-0.23999999999978172,0.2300000000000182,0,False,True,1
+608,5cbea0b506e27c001e4c03a8,2525.24,2526.22,they're still there.,0.009999999999763531,0.9800000000000182,0,False,False,4
+609,5e799448fb3c7055cdee5ecd,2527.2,2532.51,"yep. They're still crowded like sardines in the beach,",0.9800000000000182,5.3100000000004,0,False,False,10
+610,5cbea0b506e27c001e4c03a8,2531.9,2539.31,I've never loved the beach enough to risk my health. Like all the sand and like I can kind of slim but not really.,-0.6100000000001273,7.4099999999998545,0,False,True,25
+611,5e799448fb3c7055cdee5ecd,2540.3,2541.74,it's just hot and boring.,0.9900000000002365,1.4399999999995998,0,False,False,6
+612,5cbea0b506e27c001e4c03a8,2541.2,2541.43,Yeah.,-0.5399999999999636,0.2300000000000182,0,False,True,1
+613,5e799448fb3c7055cdee5ecd,2541.74,2543.23,It's not good for your skin.,0.30999999999994543,1.4900000000002365,0,False,False,7
+614,5cbea0b506e27c001e4c03a8,2543.3,2550.52,"No, not at all. And like I forget that you're supposed to put sunscreen on very regularly. So not good for me at all.",0.07000000000016371,7.2199999999998,0,False,False,25
+615,5e799448fb3c7055cdee5ecd,2551.0,2557.51,"Yeah be careful. They're working in dermatology, you learn to wear sunscreen and like he's the all the bad things that can happen to anyone.",0.4800000000000182,6.510000000000218,0,False,False,27
+616,5cbea0b506e27c001e4c03a8,2557.3,2558.95,I'm just,-0.21000000000003638,1.6499999999996362,0,False,True,3
+617,5e799448fb3c7055cdee5ecd,2558.2,2558.43,Mhm,-0.75,0.2300000000000182,0,False,True,1
+618,5cbea0b506e27c001e4c03a8,2558.96,2565.45,like I'm super into my skincare which is why I love dermatology but like I ran out of sunscreen and I was like I'm,0.5300000000002001,6.489999999999782,0,False,False,26
+619,5e799448fb3c7055cdee5ecd,2565.0,2565.23,mm.,-0.4499999999998181,0.2300000000000182,0,False,True,1
+620,5cbea0b506e27c001e4c03a8,2565.45,2568.02,not leaving to get a new one. So I'm just,0.2199999999997999,2.5700000000001637,0,False,False,11
+621,5e799448fb3c7055cdee5ecd,2567.6,2568.92,So you work every day?,-0.42000000000007276,1.3200000000001637,1,True,True,5
+622,5cbea0b506e27c001e4c03a8,2569.5,2576.04,um you're supposed to wear it every day because if the sun can to you then if you can see that from the second to you so you,0.5799999999999272,6.539999999999964,0,False,False,29
+623,5e799448fb3c7055cdee5ecd,2576.0,2577.01,Yeah,-0.03999999999996362,1.0100000000002183,0,False,True,1
+624,5cbea0b506e27c001e4c03a8,2576.04,2592.42,"can you can get UV damage in your house. Like people say to wear it even if you're in your car. But like I have my book my blinds drawn every day and I kind of stay in my room and even like outside like our blinds are, I feel like I feel pretty safe. So",-0.9700000000002547,16.38000000000011,0,False,True,57
+625,5e799448fb3c7055cdee5ecd,2592.6,2607.23,mm. Yeah it's fine and said like I mean I like I wear it every day too because especially driving like you get a lot of damage you don't know about but like it's really good you agree with like you do that because I didn't even learn till I worked in that clinic and like you're you're gonna have no wrinkles because you wear sunscreen every day.,0.1799999999998363,14.63000000000011,0,False,False,75
+626,5cbea0b506e27c001e4c03a8,2607.2,2609.23,"yeah, I guess on early,",-0.03000000000020009,2.0300000000002,0,False,True,5
+627,5e799448fb3c7055cdee5ecd,2609.9,2612.4,Yeah exactly it's good. I'm,0.6700000000000728,2.5,0,False,False,7
+628,5cbea0b506e27c001e4c03a8,2612.3,2612.51,well,-0.09999999999990905,0.21000000000003638,0,False,True,1
+629,5e799448fb3c7055cdee5ecd,2612.4,2617.82,gonna I got ahead because I head out because I have so much to do before orientation at 8:00. AM.,-0.11000000000012733,5.420000000000073,0,False,True,21
+630,5cbea0b506e27c001e4c03a8,2617.7,2618.81,"oh it's okay,",-0.12000000000034561,1.1100000000001273,0,False,True,4
+631,5e799448fb3c7055cdee5ecd,2618.5,2618.73,Yeah.,-0.30999999999994543,0.2300000000000182,0,False,True,1
+632,5cbea0b506e27c001e4c03a8,2618.82,2624.02,you'll be fine. Orientation is a just welcoming and you don't have to get up that early so you'll be fine.,0.09000000000014552,5.199999999999818,0,False,False,24
+633,5e799448fb3c7055cdee5ecd,2624.8,2626.42,eight a.m.,0.7800000000002001,1.6199999999998909,0,False,False,2
+634,5cbea0b506e27c001e4c03a8,2626.7,2629.75,Okay. I used to love getting for idiom when I can,0.27999999999974534,3.050000000000182,0,False,False,11
+635,5e799448fb3c7055cdee5ecd,2629.7,2629.93,Mm.,-0.0500000000001819,0.2300000000000182,0,False,True,1
+636,5cbea0b506e27c001e4c03a8,2629.76,2633.23,"manage it, so I don't get like to upset at it,",-0.169999999999618,3.4699999999998,0,False,True,12
+637,5e799448fb3c7055cdee5ecd,2633.2,2633.52,Mhm.,-0.03000000000020009,0.3200000000001637,0,False,True,1
+638,5cbea0b506e27c001e4c03a8,2634.1,2634.71,but I,0.5799999999999272,0.6100000000001273,0,False,False,2
+639,5e799448fb3c7055cdee5ecd,2634.6,2634.81,Well,-0.11000000000012733,0.21000000000003638,0,False,True,1
+640,5cbea0b506e27c001e4c03a8,2634.71,2644.11,"just want to tell you since like it's oh my God, you can't even see it, it's 9 40 43. So if you like when I stopped talking to me like I think we're leaving our limit.",-0.09999999999990905,9.400000000000091,0,False,True,41
+641,5e799448fb3c7055cdee5ecd,2644.7,2646.92,okay so that was very so fast.,0.5899999999996908,2.2200000000002547,0,False,False,7
+642,5cbea0b506e27c001e4c03a8,2646.6,2650.11,"Yeah, I noticed. I was like, Oh, it's 9:30. She had to sell her,",-0.3200000000001637,3.5100000000002183,0,False,True,15
+643,5e799448fb3c7055cdee5ecd,2651.0,2653.43,Well it was it was good talking to you. I just,0.8899999999998727,2.4299999999998363,0,False,False,11
+644,5cbea0b506e27c001e4c03a8,2653.3,2654.11,wow.,-0.1299999999996544,0.8099999999999454,0,False,True,1
+645,5e799448fb3c7055cdee5ecd,2653.43,2657.05,want to do it. So it's like prepared for tomorrow anyway. But,-0.680000000000291,3.6200000000003456,0,False,True,13
+646,5cbea0b506e27c001e4c03a8,2656.5,2657.05,"Yeah,",-0.5500000000001819,0.5500000000001819,0,False,True,1
+647,5e799448fb3c7055cdee5ecd,2657.06,2657.61,it would have been,0.009999999999763531,0.5500000000001819,0,False,False,4
+648,5cbea0b506e27c001e4c03a8,2657.38,2657.86,smith,-0.2300000000000182,0.4800000000000182,0,False,True,1
+649,5e799448fb3c7055cdee5ecd,2657.61,2658.62,student.,-0.25,1.0099999999997635,0,False,True,1
+650,5cbea0b506e27c001e4c03a8,2657.87,2659.02,for your great,-0.75,1.150000000000091,0,False,True,3
+651,5e799448fb3c7055cdee5ecd,2659.4,2663.32,"Thank you. Good luck to you. I hope you get in somewhere. Maybe you'll end up here, you know?",0.38000000000010914,3.9200000000000728,1,True,False,20
+652,5cbea0b506e27c001e4c03a8,2663.5,2665.42,maybe.,0.1799999999998363,1.9200000000000728,0,False,False,1
+653,5e799448fb3c7055cdee5ecd,2664.8,2670.23,"Yeah. Good luck. Real good. And you seem very intelligent, very passionate about it. So it'll be good.",-0.6199999999998909,5.429999999999836,0,False,True,19
+654,5cbea0b506e27c001e4c03a8,2670.0,2672.36,Thank you so much. Good luck. I found your,-0.2300000000000182,2.3600000000001273,0,False,True,9
+655,5e799448fb3c7055cdee5ecd,2672.1,2672.49,Thank,-0.2600000000002183,0.38999999999987267,0,False,True,1
+656,5cbea0b506e27c001e4c03a8,2672.37,2673.16,region.,-0.11999999999989086,0.7899999999999636,0,False,True,1

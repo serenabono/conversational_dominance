@@ -1,0 +1,341 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5d98077e74f4a002ea9a8c40,9.14,10.95,Hello? Hello?,,1.8099999999999987,2,True,False,2
+1,5edacd8bca520571d4c0402f,32.94,33.19,years,21.99,0.25,0,False,False,1
+2,5d98077e74f4a002ea9a8c40,33.14,34.31,"Hello,",-0.04999999999999716,1.1700000000000017,0,False,True,1
+3,5edacd8bca520571d4c0402f,33.19,33.45,"ago,",-1.1200000000000045,0.2600000000000051,0,False,True,1
+4,5d98077e74f4a002ea9a8c40,34.31,36.05,how are you?,0.8599999999999994,1.7399999999999949,1,True,False,3
+5,5edacd8bca520571d4c0402f,35.34,36.94,"I'm doing all right. Yeah,",-0.7099999999999937,1.5999999999999943,0,False,True,6
+6,5d98077e74f4a002ea9a8c40,36.84,38.25,"I'm good, thank you.",-0.09999999999999432,1.4099999999999966,0,False,True,5
+7,5edacd8bca520571d4c0402f,40.04,44.56,"so I I uh sort of a stopwatch here on the side, so",1.7899999999999991,4.520000000000003,0,False,False,13
+8,5d98077e74f4a002ea9a8c40,44.64,45.56,Perfect.,0.0799999999999983,0.9200000000000017,0,False,False,1
+9,5edacd8bca520571d4c0402f,45.44,46.16,I mean,-0.12000000000000455,0.7199999999999989,0,False,True,2
+10,5d98077e74f4a002ea9a8c40,46.44,49.19,I tend to run a little over sometimes.,0.28000000000000114,2.75,0,False,False,8
+11,5edacd8bca520571d4c0402f,48.74,49.96,Mhm.,-0.44999999999999574,1.2199999999999989,0,False,True,1
+12,5d98077e74f4a002ea9a8c40,49.2,50.96,Have you ever done this before?,-0.759999999999998,1.759999999999998,1,True,True,6
+13,5edacd8bca520571d4c0402f,50.74,54.36,"Yeah, I did this one other time during the last time they had a month or so ago.",-0.21999999999999886,3.6199999999999974,0,False,True,18
+14,5d98077e74f4a002ea9a8c40,55.34,61.95,"I did this one other time after you do this one, you get an opportunity to do another one",0.980000000000004,6.609999999999999,0,False,False,19
+15,5edacd8bca520571d4c0402f,61.84,62.05,Okay.,-0.10999999999999943,0.20999999999999375,0,False,True,1
+16,5d98077e74f4a002ea9a8c40,62.34,62.62,and,0.29000000000000625,0.27999999999999403,0,False,False,1
+17,5edacd8bca520571d4c0402f,62.54,63.26,Okay.,-0.0799999999999983,0.7199999999999989,0,False,True,1
+18,5d98077e74f4a002ea9a8c40,62.62,68.96,I think you're up to four times. It's actually really fun. So this is like my second time doing this.,-0.6400000000000006,6.339999999999996,0,False,True,22
+19,5edacd8bca520571d4c0402f,69.04,73.96,"Yeah, I'm like yeah, it's my second time to yeah, I liked it. It's pretty easy. $15.",0.0800000000000125,4.9199999999999875,0,False,False,21
+20,5d98077e74f4a002ea9a8c40,74.34,75.91,Yeah. And you get to meet someone,0.38000000000000966,1.5699999999999932,0,False,False,7
+21,5edacd8bca520571d4c0402f,75.84,76.05,Mhm.,-0.06999999999999318,0.20999999999999375,0,False,True,1
+22,5d98077e74f4a002ea9a8c40,75.91,76.81,"new, but",-0.14000000000000057,0.9000000000000057,0,False,True,2
+23,5edacd8bca520571d4c0402f,76.64,77.14,"Yeah,",-0.1700000000000017,0.5,0,False,True,1
+24,5d98077e74f4a002ea9a8c40,76.82,77.76,where are you from?,-0.3200000000000074,0.9400000000000119,1,True,True,4
+25,5edacd8bca520571d4c0402f,78.04,81.76,I'm from California bay area near san Francisco.,0.28000000000000114,3.719999999999999,0,False,False,9
+26,5d98077e74f4a002ea9a8c40,82.04,83.95,"Okay, I'm from Pittsburgh.",0.28000000000000114,1.9099999999999966,0,False,False,5
+27,5edacd8bca520571d4c0402f,84.34,85.15,Okay.,0.39000000000000057,0.8100000000000023,0,False,False,1
+28,5d98077e74f4a002ea9a8c40,85.74,90.15,How have things changed since you've been like throughout Covid and everything?,0.5899999999999892,4.410000000000011,1,True,False,13
+29,5edacd8bca520571d4c0402f,90.04,94.06,"Yeah, good question. I mean at first",-0.10999999999999943,4.019999999999996,0,False,True,7
+30,5d98077e74f4a002ea9a8c40,93.94,94.15,Right?,-0.12000000000000455,0.21000000000000796,1,True,True,1
+31,5edacd8bca520571d4c0402f,94.06,126.36,"we locked down, I think we're in like March, we locked down before a lot of other states did. So at first it was a lot more restrictive but we've opened and closed a lot like reopened, like Jim's reopened and closed hair salons opening close. But it really depends what county you're in because they're more like rural counties up north are pretty much opening up and they're fine, but all like near san Francisco and South were still pretty lockdown, but it hasn't been super restrictive because like I work in an office building, I've still been able to do that",-0.09000000000000341,32.3,0,False,True,111
+32,5d98077e74f4a002ea9a8c40,126.74,127.55,"Oh, wow,",0.37999999999999545,0.8100000000000023,0,False,False,2
+33,5edacd8bca520571d4c0402f,127.54,143.06,"and the social distance and everything, we've all been fine but like in restaurants take out and previously restaurants where we could eat outside if they were social distance I haven't, but you can but",-0.009999999999990905,15.519999999999996,0,False,True,37
+34,5d98077e74f4a002ea9a8c40,143.34,148.04,pennsylvania is all over the place with this. They can't decide if they want to reopen,0.28000000000000114,4.699999999999989,0,False,False,17
+35,5edacd8bca520571d4c0402f,147.44,147.95,mhm.,-0.5999999999999943,0.5099999999999909,0,False,True,1
+36,5d98077e74f4a002ea9a8c40,148.04,155.37,"or if they want to stay closed. Um, we had a gym that was like reopened and closed. I'm going through a really bad, like divorce right now.",0.09000000000000341,7.3300000000000125,0,False,False,29
+37,5edacd8bca520571d4c0402f,155.34,155.96,Mhm.,-0.030000000000001137,0.6200000000000045,0,False,True,1
+38,5d98077e74f4a002ea9a8c40,155.38,163.44,"So my outlet is going to the gym and when it closed down I was like, oh my gosh, I don't know what to do with myself. So I started picking up like reading",-0.5800000000000125,8.060000000000002,0,False,True,35
+39,5edacd8bca520571d4c0402f,163.34,163.55,Mhm.,-0.09999999999999432,0.21000000000000796,0,False,True,1
+40,5d98077e74f4a002ea9a8c40,163.44,167.88,"books and everything through amazon of course, because the book stores are closed,",-0.11000000000001364,4.439999999999998,0,False,True,13
+41,5edacd8bca520571d4c0402f,167.84,168.35,Mhm.,-0.03999999999999204,0.5099999999999909,0,False,True,1
+42,5d98077e74f4a002ea9a8c40,167.89,179.09,"pretty much everything here is closed and there's not really much you can do, but stay at home. I mean Target and everything is open like the grocery stores, but",-0.46000000000000796,11.200000000000017,0,False,True,31
+43,5edacd8bca520571d4c0402f,178.84,179.35,"Mhm,",-0.25,0.5099999999999909,0,False,True,1
+44,5d98077e74f4a002ea9a8c40,179.1,182.26,"I mean you get in and you get out, but there's not much else to do here,",-0.25,3.1599999999999966,0,False,True,18
+45,5edacd8bca520571d4c0402f,182.64,185.86,"mm hmm. Oh yeah, I'm sorry to hear that. But",0.37999999999999545,3.2200000000000273,0,False,False,11
+46,5d98077e74f4a002ea9a8c40,185.44,186.36,it's okay.,-0.4200000000000159,0.9200000000000159,0,False,True,3
+47,5edacd8bca520571d4c0402f,186.64,196.23,"yeah, our because for us, the gyms near where I am, they opened, they were going to open, trying to think like first week I think like the last week",0.2799999999999727,9.590000000000003,0,False,False,30
+48,5d98077e74f4a002ea9a8c40,196.14,196.35,Right.,-0.09000000000000341,0.21000000000000796,0,False,True,1
+49,5edacd8bca520571d4c0402f,196.23,202.24,of june they were supposed to open and then the day before the governor put my county on like a list,-0.12000000000000455,6.010000000000019,0,False,True,21
+50,5d98077e74f4a002ea9a8c40,202.24,202.75,Mhm.,0.0,0.5099999999999909,0,False,False,1
+51,5edacd8bca520571d4c0402f,202.25,216.75,"on like a more restricted list so then they before they even open then they three closed it again. Well hypothetically I could go to a different county if I wanted to but I've been just working out at home and stuff, exercising going for runs, but",-0.5,14.5,0,False,True,48
+52,5d98077e74f4a002ea9a8c40,216.04,219.75,"That's a really good outlet for me that I've found. Like, especially",-0.710000000000008,3.710000000000008,0,False,True,14
+53,5edacd8bca520571d4c0402f,219.44,219.64,yeah.,-0.3100000000000023,0.19999999999998863,0,False,True,1
+54,5d98077e74f4a002ea9a8c40,219.75,221.95,like reading and everything. Um,0.11000000000001364,2.1999999999999886,0,False,False,5
+55,5edacd8bca520571d4c0402f,221.54,222.05,Mhm.,-0.4099999999999966,0.5100000000000193,0,False,True,1
+56,5d98077e74f4a002ea9a8c40,222.44,229.85,"I was we have two kids together too, so I'm trying to balance like myself, I'm trying to balance the days that I get my kids and",0.38999999999998636,7.409999999999997,0,False,False,29
+57,5edacd8bca520571d4c0402f,229.84,230.04,Yeah.,-0.009999999999990905,0.19999999999998863,0,False,True,1
+58,5d98077e74f4a002ea9a8c40,230.24,234.52,"it's just a really rough situation. And then on top of that, like our breakup",0.20000000000001705,4.280000000000001,0,False,False,16
+59,5edacd8bca520571d4c0402f,234.24,235.05,Mhm.,-0.28000000000000114,0.8100000000000023,0,False,True,1
+60,5d98077e74f4a002ea9a8c40,234.52,235.55,was so bad. I got,-0.5300000000000011,1.0300000000000011,0,False,True,5
+61,5edacd8bca520571d4c0402f,235.54,235.96,Mhm,-0.010000000000019327,0.4200000000000159,0,False,True,1
+62,5d98077e74f4a002ea9a8c40,235.55,237.05,myself into legal trouble,-0.4099999999999966,1.5,0,False,True,4
+63,5edacd8bca520571d4c0402f,236.74,237.7,Oh,-0.3100000000000023,0.9599999999999795,0,False,True,1
+64,5d98077e74f4a002ea9a8c40,237.54,238.28,because,-0.1599999999999966,0.7400000000000091,0,False,True,1
+65,5edacd8bca520571d4c0402f,237.71,238.56,well.,-0.5699999999999932,0.8499999999999943,0,False,True,1
+66,5d98077e74f4a002ea9a8c40,238.29,241.92,"yeah, I got really mad when we split and",-0.27000000000001023,3.6299999999999955,0,False,True,9
+67,5edacd8bca520571d4c0402f,241.24,241.66,Um,-0.6799999999999784,0.4199999999999875,0,False,True,1
+68,5d98077e74f4a002ea9a8c40,241.93,247.28,"um now I have to go to court and I'm like so anxious about it, but you know, I'm just",0.27000000000001023,5.349999999999994,0,False,False,22
+69,5edacd8bca520571d4c0402f,247.24,247.75,Mhm.,-0.03999999999999204,0.5099999999999909,0,False,True,1
+70,5d98077e74f4a002ea9a8c40,247.28,248.76,taking it one day at a time.,-0.46999999999999886,1.4799999999999898,0,False,True,7
+71,5edacd8bca520571d4c0402f,249.84,268.2,"That's good. Yeah, it does seem like, I mean like it's so even, I mean I guess it's like the new normal because it's been like six months or whatever, but it's still, it's so weird like not being able to go anywhere and having to like pre hand sanitizer and I go out and wear a mask. You have to remember like don't like touch my face or don't touch",1.0800000000000125,18.359999999999985,0,False,False,79
+72,5d98077e74f4a002ea9a8c40,267.94,268.65,"Yeah,",-0.2599999999999909,0.7099999999999795,0,False,True,1
+73,5edacd8bca520571d4c0402f,268.2,269.86,the mask and then my face or whatever.,-0.44999999999998863,1.660000000000025,0,False,True,8
+74,5d98077e74f4a002ea9a8c40,270.14,274.83,"I don't know if you're like religious or not, but this is like really scary, like this is my",0.2799999999999727,4.689999999999998,0,False,False,21
+75,5edacd8bca520571d4c0402f,274.34,274.66,Mhm.,-0.4900000000000091,0.32000000000005,0,False,True,1
+76,5d98077e74f4a002ea9a8c40,274.83,275.77,"kids growing up,",0.16999999999995907,0.9399999999999977,0,False,False,3
+77,5edacd8bca520571d4c0402f,275.74,276.06,Mhm.,-0.029999999999972715,0.3199999999999932,0,False,True,1
+78,5d98077e74f4a002ea9a8c40,275.77,283.46,this isn't anything like what I would have expected them to grow up and I never would have expected to be afraid to even take my kids to the park.,-0.29000000000002046,7.689999999999998,0,False,True,31
+79,5edacd8bca520571d4c0402f,284.64,292.44,"Yeah, I agree. It's definitely like um because I mean you hear about this happening like more developing countries",1.1800000000000068,7.800000000000011,0,False,False,20
+80,5d98077e74f4a002ea9a8c40,292.34,292.85,Mhm.,-0.10000000000002274,0.5100000000000477,0,False,True,1
+81,5edacd8bca520571d4c0402f,292.45,304.26,"or like in china this happens with stars and mar other viruses. But it's like you never really think about it happening here in this country, but then now it's like everywhere so everyone is dealing with it. Mm.",-0.4000000000000341,11.810000000000002,0,False,True,41
+82,5d98077e74f4a002ea9a8c40,304.14,312.45,"But surprisingly we got hit the worst and now it's still, I feel like it's still like out of control, we just went to north Carolina a couple, like it was about",-0.12000000000000455,8.310000000000002,0,False,True,34
+83,5edacd8bca520571d4c0402f,312.34,312.76,Mhm.,-0.11000000000001364,0.4200000000000159,0,False,True,1
+84,5d98077e74f4a002ea9a8c40,312.45,323.76,"a month ago and then as soon as we came back, there was a travel ban and pennsylvania is one of those states to where like there's travel bans, people won't let us because it hasn't really hit full force",-0.3100000000000023,11.310000000000002,0,False,True,43
+85,5edacd8bca520571d4c0402f,324.04,324.46,Mhm.,0.28000000000002956,0.4199999999999591,0,False,False,1
+86,5d98077e74f4a002ea9a8c40,324.14,330.56,"here in pennsylvania yet, but it's coming up our way and as it's coming up our way more and more states don't want us to come.",-0.3199999999999932,6.420000000000016,0,False,True,29
+87,5edacd8bca520571d4c0402f,331.64,357.76,"Okay. Yeah, I know I I know I have a couple of friends that like part of their families in Oregon, part of the family lives here and they fortunately able to go back and forth. Um So they're not stuck in one of the one of the states but I think I don't think we're actually that's about a couple people have taken flights like for work, they have an essential service job where they have to fly",1.079999999999984,26.120000000000005,0,False,False,83
+88,5d98077e74f4a002ea9a8c40,357.64,357.92,Oh,-0.12000000000000455,0.28000000000002956,0,False,True,1
+89,5edacd8bca520571d4c0402f,357.77,358.09,and,-0.1500000000000341,0.3199999999999932,0,False,True,1
+90,5d98077e74f4a002ea9a8c40,357.92,358.48,"my goodness,",-0.16999999999995907,0.5600000000000023,0,False,True,2
+91,5edacd8bca520571d4c0402f,358.09,372.86,they've said it's got its there's so few people flying and it's almost safer now because they're on an airplane. You know it's like you're the only person in your row because there's so few people there so there's like no one around you because the flights are so,-0.3900000000000432,14.770000000000039,0,False,True,58
+92,5d98077e74f4a002ea9a8c40,373.14,373.67,the tickets,0.2799999999999727,0.5300000000000296,0,False,False,2
+93,5edacd8bca520571d4c0402f,373.44,374.16,expires.,-0.2300000000000182,0.7200000000000273,0,False,True,1
+94,5d98077e74f4a002ea9a8c40,373.67,374.95,are expensive,-0.4900000000000091,1.2799999999999727,0,False,True,2
+95,5edacd8bca520571d4c0402f,374.94,376.76,Yeah.,-0.009999999999990905,1.8199999999999932,0,False,True,1
+96,5d98077e74f4a002ea9a8c40,374.95,383.48,"still though. And my mom, she's a big cruiser. She has like the Emeralds that are sure whatever where she gets free cruises every year and",-1.8100000000000023,8.53000000000003,0,False,True,27
+97,5edacd8bca520571d4c0402f,383.14,383.46,Mhm.,-0.34000000000003183,0.3199999999999932,0,False,True,1
+98,5d98077e74f4a002ea9a8c40,383.48,389.0,"she's been trying to book them and as she's booking them like further in advance, they keep getting canceled and they keep getting",0.020000000000038654,5.519999999999982,0,False,False,25
+99,5edacd8bca520571d4c0402f,388.94,389.01,Uh,-0.060000000000002274,0.06999999999999318,0,False,True,1
+100,5d98077e74f4a002ea9a8c40,389.0,389.86,canceled.,-0.009999999999990905,0.8600000000000136,0,False,True,1
+101,5edacd8bca520571d4c0402f,389.01,389.26,huh.,-0.8500000000000227,0.25,0,False,True,1
+102,5d98077e74f4a002ea9a8c40,389.87,391.56,So now that was her outlet,0.6100000000000136,1.6899999999999977,0,False,False,6
+103,5edacd8bca520571d4c0402f,391.84,392.04,Yeah.,0.2799999999999727,0.20000000000004547,0,False,False,1
+104,5d98077e74f4a002ea9a8c40,392.04,392.68,"of like,",0.0,0.6399999999999864,0,False,False,2
+105,5edacd8bca520571d4c0402f,392.44,392.86,One.,-0.2400000000000091,0.4200000000000159,0,False,True,1
+106,5d98077e74f4a002ea9a8c40,392.68,403.05,"you know, getting away because my step dad had committed suicide a couple years ago and her outlet was just going away to different places in different countries now she can't even do that.",-0.18000000000000682,10.370000000000005,0,False,True,35
+107,5edacd8bca520571d4c0402f,403.54,406.48,"Mhm. Oh yes, brutal. I know",0.4900000000000091,2.9399999999999977,0,False,False,6
+108,5d98077e74f4a002ea9a8c40,406.24,406.44,Yeah.,-0.2400000000000091,0.19999999999998863,0,False,True,1
+109,5edacd8bca520571d4c0402f,406.48,417.75,"like my kind of way to de stress them out. What has always been like, I like to like exercising especially playing basketball, my friend and I would play basketball, which you obviously can't do now.",0.040000000000020464,11.269999999999982,0,False,False,37
+110,5d98077e74f4a002ea9a8c40,417.54,418.16,Yeah.,-0.20999999999997954,0.6200000000000045,0,False,True,1
+111,5edacd8bca520571d4c0402f,417.76,432.76,"But I've been I've been going to high school near where I live that has open court that's outside and there's never, there's never anyone there. So I've been just shooting hoops myself to kind of get some of that as well, but it's not the same, but it's working enough. Yeah.",-0.4000000000000341,15.0,0,False,True,60
+112,5d98077e74f4a002ea9a8c40,432.34,439.66,"What else do you do to distress? Like I'll just give you some insight. I probably shouldn't tell you this because I mean,",-0.4200000000000159,7.32000000000005,1,False,True,25
+113,5edacd8bca520571d4c0402f,439.34,439.66,Yeah.,-0.32000000000005,0.32000000000005,0,False,True,1
+114,5d98077e74f4a002ea9a8c40,439.67,440.19,but I mean,0.009999999999990905,0.5199999999999818,0,False,False,3
+115,5edacd8bca520571d4c0402f,440.04,440.46,Mhm.,-0.14999999999997726,0.4199999999999591,0,False,True,1
+116,5d98077e74f4a002ea9a8c40,440.19,441.89,"it's an open book, right? We",-0.2699999999999818,1.6999999999999886,1,False,True,7
+117,5edacd8bca520571d4c0402f,441.74,442.24,Yeah.,-0.14999999999997726,0.5,0,False,True,1
+118,5d98077e74f4a002ea9a8c40,441.89,446.71,"probably won't talk again. Um I recently was diagnosed with bipolar,",-0.35000000000002274,4.819999999999993,0,False,True,12
+119,5edacd8bca520571d4c0402f,446.64,447.06,Mhm.,-0.06999999999999318,0.4200000000000159,0,False,True,1
+120,5d98077e74f4a002ea9a8c40,446.71,448.71,so I've been trying to read up on it,-0.35000000000002274,2.0,0,False,True,10
+121,5edacd8bca520571d4c0402f,448.44,449.66,Mhm.,-0.2699999999999818,1.2200000000000273,0,False,True,1
+122,5d98077e74f4a002ea9a8c40,448.72,450.3,and I've just been trying to,-0.9399999999999977,1.579999999999984,0,False,True,7
+123,5edacd8bca520571d4c0402f,450.24,450.45,Mhm.,-0.060000000000002274,0.20999999999997954,0,False,True,1
+124,5d98077e74f4a002ea9a8c40,450.3,451.49,like go with emotions,-0.14999999999997726,1.1899999999999977,0,False,True,4
+125,5edacd8bca520571d4c0402f,450.84,451.76,Mhm.,-0.6500000000000341,0.9200000000000159,0,False,True,1
+126,5d98077e74f4a002ea9a8c40,451.49,452.95,"and be more self aware,",-0.2699999999999818,1.4599999999999795,0,False,True,5
+127,5edacd8bca520571d4c0402f,452.44,452.65,Mhm.,-0.5099999999999909,0.20999999999997954,0,False,True,1
+128,5d98077e74f4a002ea9a8c40,453.44,454.06,"but like,",0.7900000000000205,0.6200000000000045,0,False,False,2
+129,5edacd8bca520571d4c0402f,453.74,454.06,"Yeah,",-0.3199999999999932,0.3199999999999932,0,False,True,1
+130,5d98077e74f4a002ea9a8c40,454.64,456.09,"because everything is closed, it's",0.5799999999999841,1.4499999999999886,0,False,False,6
+131,5edacd8bca520571d4c0402f,456.04,456.18,mm,-0.049999999999954525,0.13999999999998636,0,False,True,1
+132,5d98077e74f4a002ea9a8c40,456.09,456.24,so,-0.09000000000003183,0.1500000000000341,0,False,True,1
+133,5edacd8bca520571d4c0402f,456.18,456.85,"hmm,",-0.060000000000002274,0.6700000000000159,0,False,True,1
+134,5d98077e74f4a002ea9a8c40,456.24,461.16,"hard for me to find that outlet and stick to it besides the gym, but that's not even certain.",-0.6100000000000136,4.920000000000016,0,False,True,20
+135,5edacd8bca520571d4c0402f,461.04,461.18,mm,-0.12000000000000455,0.13999999999998636,0,False,True,1
+136,5d98077e74f4a002ea9a8c40,461.16,461.33,"So,",-0.01999999999998181,0.16999999999995907,0,False,True,1
+137,5edacd8bca520571d4c0402f,461.18,461.46,hmm.,-0.14999999999997726,0.2799999999999727,0,False,True,1
+138,5d98077e74f4a002ea9a8c40,461.33,463.45,"like, what would you recommend",-0.12999999999999545,2.1200000000000045,0,False,True,5
+139,5edacd8bca520571d4c0402f,463.34,463.66,"Yeah,",-0.11000000000001364,0.32000000000005,0,False,True,1
+140,5d98077e74f4a002ea9a8c40,463.46,464.26,that I do?,-0.20000000000004547,0.8000000000000114,1,True,True,3
+141,5edacd8bca520571d4c0402f,466.04,484.57,"that's a good question. Um Oh no, I'm thinking in my women experience, I mean, I think just any exercise in general is good just when you look at the hormones and drugs that your brain releases when you exercise",1.7800000000000296,18.529999999999973,0,False,False,42
+142,5d98077e74f4a002ea9a8c40,484.44,484.86,Mhm.,-0.12999999999999545,0.4200000000000159,0,False,True,1
+143,5edacd8bca520571d4c0402f,484.58,521.05,"the dopamine or whatever. Um It's always helpful. I know I have a couple, I have one friends that's like bipolar and he uh the doctors really wanted him to exercise and go on. Um like even I was just like walking like long walks because that helps, especially when a little bit of a chance, they said like a little bit uh instead of being stuck in home, like constantly being able to go for walks um and social distance, obviously staying safe helped him a little bit because it's give them a little bit of a change, but",-0.28000000000002956,36.46999999999997,0,False,True,103
+144,5d98077e74f4a002ea9a8c40,521.64,532.08,"How does he, is he like able to live a normal life? Because this is also new to me and I'm going through a divorce at the same time and I just feel like I'm like so scared right now, you know,",0.5900000000000318,10.440000000000055,1,False,False,44
+145,5edacd8bca520571d4c0402f,531.94,532.15,Right.,-0.13999999999998636,0.2099999999999227,0,False,True,1
+146,5d98077e74f4a002ea9a8c40,532.08,532.55,and I just,-0.06999999999993634,0.4699999999999136,0,False,True,3
+147,5edacd8bca520571d4c0402f,532.54,533.05,Mhm.,-0.009999999999990905,0.5099999999999909,0,False,True,1
+148,5d98077e74f4a002ea9a8c40,532.55,535.26,feel like I'm by myself in this battle.,-0.5,2.7100000000000364,0,False,True,9
+149,5edacd8bca520571d4c0402f,535.64,547.56,"He's younger, he's like, He's like 19, but he didn't he never he didn't know about her start getting treatment for it until like a couple years ago,",0.37999999999999545,11.919999999999959,0,False,False,33
+150,5d98077e74f4a002ea9a8c40,547.44,547.76,Um,-0.11999999999989086,0.31999999999993634,0,False,True,1
+151,5edacd8bca520571d4c0402f,548.04,555.62,"so he's kind of where he's always kind of suffered from it, but they never she's never really gonna help to recently. So right now they're in the kind of trial stage, we're",0.2799999999999727,7.580000000000041,0,False,False,39
+152,5d98077e74f4a002ea9a8c40,555.54,556.05,"okay,",-0.08000000000004093,0.5099999999999909,0,False,True,1
+153,5edacd8bca520571d4c0402f,555.62,582.66,"trying different medications and somewhere in some, like sometimes it's fine or sometimes the dosage will be too high and he'll be kind of just like no emotion and some of the dosage is too low and he's too up and down, but so we're still kind of in that trial stage, but I've heard his family's talked about how the doctors expected eventually, they'll figure out the dosage and he'll figure out a routine that it will make it easier. So there sometimes when he's good and sometimes when it isn't, but",-0.42999999999995,27.039999999999964,0,False,True,103
+154,5d98077e74f4a002ea9a8c40,582.74,587.64,"I feel like I'm in that I'm in that trial Phase two just because it's like,",0.08000000000004093,4.899999999999977,0,False,False,19
+155,5edacd8bca520571d4c0402f,587.54,588.26,mm,-0.10000000000002274,0.7200000000000273,0,False,True,1
+156,5d98077e74f4a002ea9a8c40,587.64,593.06,"so recent have a diagnosis and I actually was in a psych ward for it. I'm a veteran to,",-0.6200000000000045,5.419999999999959,0,False,True,20
+157,5edacd8bca520571d4c0402f,593.34,594.06,"okay,",0.2800000000000864,0.7199999999999136,0,False,False,1
+158,5d98077e74f4a002ea9a8c40,593.54,601.06,"so I don't know if that might have contributed to it. I was in the marines and you know, that was the most stressful job I've ever had.",-0.5199999999999818,7.519999999999982,0,False,True,30
+159,5edacd8bca520571d4c0402f,601.14,601.55,I can,0.08000000000004093,0.40999999999996817,0,False,False,2
+160,5d98077e74f4a002ea9a8c40,601.44,601.68,Yeah.,-0.10999999999989996,0.2399999999998954,0,False,True,1
+161,5edacd8bca520571d4c0402f,601.55,602.36,imagine.,-0.12999999999999545,0.8100000000000591,0,False,True,1
+162,5d98077e74f4a002ea9a8c40,602.54,610.53,"Yeah, I'm only 24, but I'm 100% rate of disability because before it was like PTSD, so I'm not",0.17999999999994998,7.990000000000009,0,False,False,22
+163,5edacd8bca520571d4c0402f,610.34,610.85,"Mhm,",-0.18999999999994088,0.5099999999999909,0,False,True,1
+164,5d98077e74f4a002ea9a8c40,610.53,614.55,"able to actually be in the workforce anymore. So I do this stuff like on the side,",-0.32000000000005,4.019999999999982,0,False,True,17
+165,5edacd8bca520571d4c0402f,614.74,615.25,mhm.,0.19000000000005457,0.5099999999999909,0,False,False,1
+166,5d98077e74f4a002ea9a8c40,615.04,640.26,"you know, just to supplement my income and I don't know if like the military has anything to do with that or if that could have been the cause, but it's just really difficult. I mean like dealing with it and this is also new to me and I just feel alone and I'm trying to figure it out. Have you ever had anything like where you've had something really difficult, but you just managed a way to find through, like college or anything?",-0.21000000000003638,25.220000000000027,1,True,True,88
+167,5edacd8bca520571d4c0402f,641.04,671.56,"Yeah, I mean kind of, I mean my life hasn't been, it's, I'm pretty young, I'm only 20 my life has not been as challenging and I haven't experienced as much as what you have, but I just know, yeah, you know, it's a good question. I know I'm a religious person, so I um a kind of one thing that has helped my anxiety is kind of like reading the bible and praying and that sort of thing. I don't know if you really, that's one thing that's kind of helped me. I know it's helped my friend a lot too,",0.7799999999999727,30.519999999999982,0,False,False,113
+168,5d98077e74f4a002ea9a8c40,672.04,672.2,I'm,0.4800000000000182,0.16000000000008185,0,False,False,2
+169,5edacd8bca520571d4c0402f,672.14,672.42,she's,-0.06000000000005912,0.2799999999999727,0,False,True,2
+170,5d98077e74f4a002ea9a8c40,672.2,672.63,definitely,-0.2199999999999136,0.42999999999995,0,False,True,1
+171,5edacd8bca520571d4c0402f,672.42,672.76,done,-0.21000000000003638,0.34000000000003183,0,False,True,1
+172,5d98077e74f4a002ea9a8c40,672.63,673.89,religious. Yeah. I have,-0.12999999999999545,1.259999999999991,0,False,True,4
+173,5edacd8bca520571d4c0402f,673.74,674.46,"okay,",-0.14999999999997726,0.7200000000000273,0,False,True,1
+174,5d98077e74f4a002ea9a8c40,673.89,675.76,the bible right here on my nightstand.,-0.57000000000005,1.8700000000000045,0,False,True,7
+175,5edacd8bca520571d4c0402f,675.64,703.58,"okay. But yeah, and I will say like one thing for him is that before he knew he was, that my friend was diagnosed with it, he was very like, he's one of like, he he was always a little bit off like socially, he's really kind of socially distant, didn't really like talking to new people or whatever and so it's well he wasn't as",-0.12000000000000455,27.940000000000055,0,False,True,71
+176,5d98077e74f4a002ea9a8c40,703.04,703.25,No.,-0.5400000000000773,0.21000000000003638,0,False,True,1
+177,5edacd8bca520571d4c0402f,703.59,711.77,"like social, whereas I feel like like with you, just my first impression you seem a little bit more social, a little more like socially functional um",0.34000000000003183,8.17999999999995,0,False,False,27
+178,5d98077e74f4a002ea9a8c40,711.44,712.24,"Yeah,",-0.32999999999992724,0.7999999999999545,0,False,True,1
+179,5edacd8bca520571d4c0402f,711.77,713.25,like talking with people.,-0.4700000000000273,1.4800000000000182,0,False,True,4
+180,5d98077e74f4a002ea9a8c40,713.14,713.55,"Yeah,",-0.11000000000001364,0.40999999999996817,0,False,True,1
+181,5edacd8bca520571d4c0402f,713.26,721.26,"So I imagine it wouldn't be like as bad as it hit him because he already kind of had pre existing problems before he knew about it, but.",-0.2899999999999636,8.0,0,False,True,29
+182,5d98077e74f4a002ea9a8c40,721.54,724.35,"minus like the manic phase, the problem",0.2799999999999727,2.810000000000059,0,False,False,7
+183,5edacd8bca520571d4c0402f,724.04,724.25,Right.,-0.3100000000000591,0.21000000000003638,0,False,True,1
+184,5d98077e74f4a002ea9a8c40,724.35,725.17,was my manic,0.10000000000002274,0.8199999999999363,0,False,False,3
+185,5edacd8bca520571d4c0402f,725.14,725.46,"Mhm,",-0.029999999999972715,0.32000000000005,0,False,True,1
+186,5d98077e74f4a002ea9a8c40,725.17,730.49,"phase 10. It just like, I don't know, infested",-0.2900000000000773,5.32000000000005,0,False,True,10
+187,5edacd8bca520571d4c0402f,730.24,730.56,mm.,-0.25,0.31999999999993634,0,False,True,1
+188,5d98077e74f4a002ea9a8c40,730.49,731.01,me,-0.06999999999993634,0.5199999999999818,0,False,True,1
+189,5edacd8bca520571d4c0402f,730.94,731.15,Mhm.,-0.06999999999993634,0.2099999999999227,0,False,True,1
+190,5d98077e74f4a002ea9a8c40,731.05,754.95,"and I wasn't sleeping and I would stay up for like three or four days at a time and I wouldn't get tired and no one could. No, no one like the signs were there, but no one knew what it was until I had that mental breakdown. And then I had to go to a psych ward to get better and to find out the meds that would work for me. But it was just so scary because all these symptoms and these signs were here, But no one picked up on it.",-0.10000000000002274,23.90000000000009,0,False,True,96
+191,5edacd8bca520571d4c0402f,755.54,800.66,"Mhm. Yeah, I know with him he had a similar issue where like he had trouble sleeping or he would wake up with like almost like occasionally he wakes like he couldn't fall asleep, we fall asleep at like like super like he'd be in there for hours in bed or then occasionally wake up at night terrors or whatever. But once he started getting medical treatment and he stayed he went to some hospitals overnight and stuff and they monitored him. And then once I figured out some of the medical dosages, he hasn't had those same problems at all where he's sleeping fine. Yeah. Yeah, he doesn't have any night terrorists, so they've been able to work out all that stuff. So it definitely seems like there is like salt lake, so he found some good treatment options for him. And if have you, have you gotten your sleep? Have you, is your sleeping a little bit better now?",0.5899999999999181,45.120000000000005,2,True,False,167
+192,5d98077e74f4a002ea9a8c40,801.04,807.16,"Oh, before I I forced myself to sleep. Now before I wasn't really disciplined in my sleep",0.37999999999999545,6.1200000000000045,0,False,False,18
+193,5edacd8bca520571d4c0402f,807.44,807.95,Mhm.,0.2800000000000864,0.5099999999999909,0,False,False,1
+194,5d98077e74f4a002ea9a8c40,807.64,826.54,"And it was always unpredictable, which is really bad for my kids too because I was a primary caregiver and my husband was at work from like 12 to 12 because he works in Amazon and he's a manager, so he would be gone all day and then by the time he would get back I would still be up and full of energy. But now",-0.3100000000000591,18.899999999999977,0,False,True,67
+195,5edacd8bca520571d4c0402f,826.14,826.56,Mhm.,-0.39999999999997726,0.4199999999999591,0,False,True,1
+196,5d98077e74f4a002ea9a8c40,826.54,831.85,"I want to discipline myself to where I don't go to bed, pass 11 o'clock",-0.01999999999998181,5.310000000000059,0,False,True,16
+197,5edacd8bca520571d4c0402f,833.04,833.76,Okay.,1.1899999999999409,0.7200000000000273,0,False,False,1
+198,5d98077e74f4a002ea9a8c40,834.44,838.55,and before I was just kind of like sporadic and I would just sleep when I wanted to.,0.6800000000000637,4.1099999999999,0,False,False,18
+199,5edacd8bca520571d4c0402f,839.44,849.69,"Yeah, I know me. When quarantine started, I figured I wanted to kind of instill a routine and I keep a routine since routine. So I've been trying to wake up at 6 30 every morning,",0.8900000000001,10.25,0,False,False,37
+200,5d98077e74f4a002ea9a8c40,849.64,849.81,Oh,-0.05000000000006821,0.16999999999995907,0,False,True,1
+201,5edacd8bca520571d4c0402f,849.7,849.95,go,-0.10999999999989996,0.25,0,False,True,1
+202,5d98077e74f4a002ea9a8c40,849.81,849.96,my,-0.14000000000010004,0.15000000000009095,0,False,True,1
+203,5edacd8bca520571d4c0402f,849.95,850.05,to,-0.009999999999990905,0.09999999999990905,0,False,True,1
+204,5d98077e74f4a002ea9a8c40,849.96,850.45,goodness.,-0.08999999999991815,0.4900000000000091,0,False,True,1
+205,5edacd8bca520571d4c0402f,850.05,864.8,"bed like 10 30. It was a work in progress. It took, I'm kind of there now like I would say most days I I'm able to do it, but there's always a couple of days like, oh it's not today. Snooze button four times or whatever,",-0.40000000000009095,14.75,0,False,True,51
+206,5d98077e74f4a002ea9a8c40,864.34,865.35,Yeah.,-0.4599999999999227,1.009999999999991,0,False,True,1
+207,5edacd8bca520571d4c0402f,864.81,889.7,"but it's kind of work. Like the first month was brutal, like it was like not working and I kind of gave up for a couple weeks and I would try again. I've sorted on it. But one thing I found that helped me sleep because I would, I would time like when I, if I if I can get 6:30 then I need to be asleep by 10:30 for eight hours. So I would get go to bed like 9 45. And I would read for like a half hour trying to book",-0.5400000000000773,24.8900000000001,0,False,True,96
+208,5d98077e74f4a002ea9a8c40,889.54,890.05,"Okay,",-0.16000000000008185,0.5099999999999909,0,False,True,1
+209,5edacd8bca520571d4c0402f,889.7,892.56,that I liked. It would kind of relax me and tire me out a little bit,-0.34999999999990905,2.8599999999999,0,False,True,16
+210,5d98077e74f4a002ea9a8c40,893.34,895.16,what kind of books do you read?,0.7800000000000864,1.8199999999999363,1,True,False,7
+211,5edacd8bca520571d4c0402f,895.44,910.69,kind of all over the board right now. I'm reading a book called Lies. My teacher told me it's a history book and it kind of talks about how high school history textbooks have kind of an over simplified view of history. They ignore a lot of stuff history,0.2800000000000864,15.25,0,False,False,51
+212,5d98077e74f4a002ea9a8c40,910.64,910.81,"Oh,",-0.05000000000006821,0.16999999999995907,0,False,True,1
+213,5edacd8bca520571d4c0402f,910.69,910.88,and he,-0.11999999999989086,0.18999999999994088,0,False,True,2
+214,5d98077e74f4a002ea9a8c40,910.81,911.06,most,-0.07000000000005002,0.25,0,False,True,1
+215,5edacd8bca520571d4c0402f,910.88,911.19,kind,-0.17999999999994998,0.3100000000000591,0,False,True,1
+216,5d98077e74f4a002ea9a8c40,911.06,911.75,definitely.,-0.13000000000010914,0.6900000000000546,0,False,True,1
+217,5edacd8bca520571d4c0402f,911.19,929.06,"of and he kind of debunks a lot of stuff like like a lot of history books like glorify columbus Maybe not now, but this book is like 10 years old. But at once you know a lot of history books will talk about the good things Columbus did like he's but they won't talk about all the bad stuff he did or",-0.5599999999999454,17.86999999999989,0,False,True,65
+218,5d98077e74f4a002ea9a8c40,928.24,928.95,"Oh yeah,",-0.8199999999999363,0.7100000000000364,0,False,True,2
+219,5edacd8bca520571d4c0402f,929.64,954.66,"or with people like um same thing with like you know Gandhi or Woodrow Wilson, they talk about the good things they did in history textbooks perot if I them make them heroes and ignore like the bad stuff they did when reality, their jobs textbooks should just tell you the facts and the students should be able to make the the critical thinking assessments but just kind of interesting stuff like that. It's sort of just like debunks history myths kind of",0.6899999999999409,25.019999999999982,0,False,False,84
+220,5d98077e74f4a002ea9a8c40,955.04,960.82,that's really interesting. I'm reading one now um called by yourself. The fucking lily's just,0.37999999999999545,5.780000000000086,0,False,False,18
+221,5edacd8bca520571d4c0402f,960.34,960.96,Mhm,-0.4800000000000182,0.6200000000000045,0,False,True,1
+222,5d98077e74f4a002ea9a8c40,960.83,979.77,because I feel like it's so pertaining in my life and it's all my life. I don't feel like I really ever really loved myself. And because this being diagnosed with bipolar and going through a divorce is like the worst time I'm having two things dealing with at the same time. I feel like now is the time to get to know myself,-0.12999999999999545,18.93999999999994,0,False,True,68
+223,5edacd8bca520571d4c0402f,979.04,979.25,mhm.,-0.7300000000000182,0.21000000000003638,0,False,True,1
+224,5d98077e74f4a002ea9a8c40,979.78,986.51,and to love myself a little more a little better than before. Like my my time and my attention was always,0.5299999999999727,6.730000000000018,0,False,False,21
+225,5edacd8bca520571d4c0402f,986.44,986.76,Yeah.,-0.06999999999993634,0.31999999999993634,0,False,True,1
+226,5d98077e74f4a002ea9a8c40,986.51,989.6,focused on him and his career and making sure that he did,-0.25,3.090000000000032,0,False,True,12
+227,5edacd8bca520571d4c0402f,989.44,989.65,No,-0.15999999999996817,0.2099999999999227,0,False,True,1
+228,5d98077e74f4a002ea9a8c40,989.6,991.13,well and making sure my,-0.049999999999954525,1.5299999999999727,0,False,True,5
+229,5edacd8bca520571d4c0402f,991.04,991.36,um,-0.09000000000003183,0.32000000000005,0,False,True,1
+230,5d98077e74f4a002ea9a8c40,991.13,994.59,kids were good. But I'm taking this time now to really,-0.2300000000000182,3.4600000000000364,0,False,True,12
+231,5edacd8bca520571d4c0402f,994.54,994.75,Oh,-0.05000000000006821,0.21000000000003638,0,False,True,1
+232,5d98077e74f4a002ea9a8c40,994.59,995.96,"take care of myself,",-0.15999999999996817,1.3700000000000045,0,False,True,4
+233,5edacd8bca520571d4c0402f,995.64,1014.66,mm that's good to hear. It's always good to have like a balance and I feel like I mean I think a lot of people are kind of doing a similar thing where is now their home so much more often and they have more time to their self. Is there like doing more like self care more like focusing on their self,-0.32000000000005,19.019999999999982,0,False,True,65
+234,5d98077e74f4a002ea9a8c40,1014.24,1014.47,right?,-0.4199999999999591,0.2300000000000182,1,True,True,1
+235,5edacd8bca520571d4c0402f,1014.67,1017.26,especially because it's such a stressful time for a lot of people.,0.1999999999999318,2.590000000000032,0,False,False,13
+236,5d98077e74f4a002ea9a8c40,1017.44,1018.68,Oh most definitely.,0.18000000000006366,1.2399999999998954,0,False,False,3
+237,5edacd8bca520571d4c0402f,1018.64,1018.85,What?,-0.03999999999996362,0.21000000000003638,1,True,True,1
+238,5d98077e74f4a002ea9a8c40,1018.69,1026.85,"There was, I was in a focus group the other day where this lady um her husband is a small business owner and",-0.15999999999996817,8.159999999999854,0,False,True,23
+239,5edacd8bca520571d4c0402f,1026.84,1027.05,Mhm,-0.009999999999990905,0.21000000000003638,0,False,True,1
+240,5d98077e74f4a002ea9a8c40,1026.86,1036.43,they're from India and he invested all of his money in his business and his business was forced to shut down because it wasn't an essential business. And,-0.19000000000005457,9.570000000000164,0,False,True,30
+241,5edacd8bca520571d4c0402f,1036.24,1036.77,mhm,-0.19000000000005457,0.5299999999999727,0,False,True,1
+242,5d98077e74f4a002ea9a8c40,1036.43,1044.67,they were waiting and praying for this relief to come and now they're going to have to file for bankruptcy and they're gonna be out on the streets during this covid pandemic.,-0.33999999999991815,8.240000000000009,0,False,True,35
+243,5edacd8bca520571d4c0402f,1045.54,1075.27,mhm Yeah it can be tough. I know. Yeah that's brutal. Especially you think about all like the small business owners out there kind of like that or it's like you spend your you devote like all your time and resources to this business and it's like not even closing because the business didn't do well. It's like it's closing because of this like black sheep event like this virus and you couldn't like no one would have seen this coming like a couple of years ago. Mhm. It's brutal,0.8699999999998909,29.730000000000018,0,False,False,98
+244,5d98077e74f4a002ea9a8c40,1075.54,1086.5,It's just so I don't know it's just I don't think anyone saw this coming. Like even back in december when they said like the covid was present here. I,0.2699999999999818,10.960000000000036,0,False,False,34
+245,5edacd8bca520571d4c0402f,1086.34,1086.85,order.,-0.16000000000008185,0.5099999999999909,0,False,True,1
+246,5d98077e74f4a002ea9a8c40,1086.5,1101.86,don't think anybody saw the lasting impact of it. Like I don't see an end to it coming either until that vaccine. And then I saw something on facebook where people that don't take I don't know how true it is. People that don't take the vaccine will be put in jail.,-0.34999999999990905,15.3599999999999,0,False,True,57
+247,5edacd8bca520571d4c0402f,1103.44,1122.16,Who knows. I feel like I don't know if that will happen. But Well see I do think even when they do make a vaccine it's not going to be they're not going to have 300 million vaccines all at once ready to go to give to everyone. Because like I have a friend that's a nurse so he'll probably get it before I do because he's like a medical professional,1.5800000000001546,18.720000000000027,0,False,False,77
+248,5d98077e74f4a002ea9a8c40,1122.24,1122.66,Right?,0.07999999999992724,0.42000000000007276,1,True,False,1
+249,5edacd8bca520571d4c0402f,1122.64,1130.46,and then says I like I I have a part time job but I'm mostly students so I'm probably pretty and I'm young so I'm pretty low on the list,-0.01999999999998181,7.819999999999936,0,False,True,34
+250,5d98077e74f4a002ea9a8c40,1130.54,1131.05,Mhm.,0.07999999999992724,0.5099999999999909,0,False,False,1
+251,5edacd8bca520571d4c0402f,1130.94,1161.77,"So I might not get it to like 20, or whatever if they have one. But I remember when it first started, I kind of had this idea because I remember when there is like Ebola, there's two americans who got Ebola during the outbreak like years ago and then everyone was panicking then like nothing happened, it didn't really spread anywhere else and I thought they'd be kind of like the same thing but I didn't realize that people could be asymptomatic for so long and then it spread so much quicker. So I think I totally underestimated what was going to happen.",-0.10999999999989996,30.829999999999927,0,False,True,108
+252,5d98077e74f4a002ea9a8c40,1162.14,1162.55,Yeah.,0.37000000000011823,0.4099999999998545,0,False,False,1
+253,5edacd8bca520571d4c0402f,1162.14,1162.35,Oh,-0.4099999999998545,0.209999999999809,0,False,True,1
+254,5d98077e74f4a002ea9a8c40,1162.55,1164.7,I think everybody did as a nation.,0.20000000000004547,2.150000000000091,0,False,False,7
+255,5edacd8bca520571d4c0402f,1164.24,1164.44,yeah.,-0.4600000000000364,0.20000000000004547,0,False,True,1
+256,5d98077e74f4a002ea9a8c40,1164.71,1165.76,I mean being,0.2699999999999818,1.0499999999999545,0,False,False,3
+257,5edacd8bca520571d4c0402f,1165.64,1166.06,Mhm,-0.11999999999989086,0.4199999999998454,0,False,True,1
+258,5d98077e74f4a002ea9a8c40,1165.76,1172.9,"on like the military end of things though and knowing what I know about the military, I definitely see martial law coming into play because",-0.2999999999999545,7.1400000000001,0,False,True,25
+259,5edacd8bca520571d4c0402f,1172.54,1172.89,Okay.,-0.36000000000012733,0.3500000000001364,0,False,True,1
+260,5d98077e74f4a002ea9a8c40,1172.91,1175.74,people don't want to give up their rights as like american,0.01999999999998181,2.8299999999999272,0,False,False,12
+261,5edacd8bca520571d4c0402f,1175.44,1175.95,Mhm.,-0.2999999999999545,0.5099999999999909,0,False,True,1
+262,5d98077e74f4a002ea9a8c40,1175.74,1186.51,"citizens and just stay home and keep the virus you know contained. But either way I feel like it's gonna happen one way or another people, some people are gonna die. Some people aren't, some people",-0.21000000000003638,10.769999999999982,0,False,True,40
+263,5edacd8bca520571d4c0402f,1186.44,1186.95,Mhm.,-0.06999999999993634,0.5099999999999909,0,False,True,1
+264,5d98077e74f4a002ea9a8c40,1186.51,1188.55,are going to be able to fight it off. Some people aren't.,-0.44000000000005457,2.0399999999999636,0,False,True,13
+265,5edacd8bca520571d4c0402f,1189.04,1189.67,Mhm.,0.4900000000000091,0.6300000000001091,0,False,False,1
+266,5d98077e74f4a002ea9a8c40,1189.84,1190.53,But I definitely,0.16999999999984539,0.6900000000000546,0,False,False,3
+267,5edacd8bca520571d4c0402f,1190.04,1190.36,Yeah.,-0.4900000000000091,0.31999999999993634,0,False,True,1
+268,5d98077e74f4a002ea9a8c40,1190.53,1193.56,feel like martial law is coming pretty soon.,0.17000000000007276,3.0299999999999727,0,False,False,8
+269,5edacd8bca520571d4c0402f,1194.34,1228.86,"Yeah, definitely. I mean especially when you think like like all the people who like what were masks or won't social distance like I know in Los Angeles um I don't live there but like in California Los Angeles they're going to start cutting off power and water to places that have parties. So if you're throwing a house party and it gets reported they're gonna cut off your water until until apart. So people are gonna talk, cut off the power in the water until they, until you like leave the party I guess, and then they turn it back on once it's empty.",0.7799999999999727,34.51999999999998,0,False,False,113
+270,5d98077e74f4a002ea9a8c40,1230.54,1230.87,That's,1.6800000000000637,0.32999999999992724,0,False,False,2
+271,5edacd8bca520571d4c0402f,1230.84,1231.35,But,-0.029999999999972715,0.5099999999999909,0,False,True,1
+272,5d98077e74f4a002ea9a8c40,1230.87,1235.69,still really scary. That's like I feel like that's like an invasion of privacy almost. But that's,-0.4800000000000182,4.820000000000164,0,False,True,20
+273,5edacd8bca520571d4c0402f,1235.64,1236.61,"yeah,",-0.049999999999954525,0.9699999999997999,0,False,True,1
+274,5d98077e74f4a002ea9a8c40,1235.69,1236.77,still really very,-0.9199999999998454,1.0799999999999272,0,False,True,3
+275,5edacd8bca520571d4c0402f,1236.62,1254.36,"me too, because I do wonder like can they do that? Because I know like if a tenant doesn't pay rent, your landlord can't just cut off your power immediately, you have to go through like a proper eviction process. So I don't know what the legal ramifications are of the city, just like cutting power to people who don't social distance, but.",-0.15000000000009095,17.74000000000001,1,False,True,67
+276,5d98077e74f4a002ea9a8c40,1254.74,1261.74,I feel like now the government is kind of like over this and the government is just letting the states do their own thing.,0.38000000000010914,7.0,0,False,False,24
+277,5edacd8bca520571d4c0402f,1261.24,1262.46,Mhm.,-0.5,1.2200000000000273,0,False,True,1
+278,5d98077e74f4a002ea9a8c40,1261.75,1273.36,"So I wouldn't be surprised if that you know, if they do have the power to do that just because the government is kind of like, okay, we've helped you all that we can now, it's in your own hands.",-0.7100000000000364,11.6099999999999,0,False,True,43
+279,5edacd8bca520571d4c0402f,1274.04,1293.73,"Yeah, definitely. Yeah, I kind of feel like that to every state kind of his own response and then I'm assuming it's the same elsewhere, but in California seems like every county is like on a different, it's on its own different plan, like every county, there's some state direction, but they're kind of doing their own instruction um",0.6800000000000637,19.690000000000055,0,False,False,64
+280,5d98077e74f4a002ea9a8c40,1293.64,1294.05,Yeah.,-0.08999999999991815,0.4099999999998545,0,False,True,1
+281,5edacd8bca520571d4c0402f,1293.74,1295.96,"depending on where you are, it's a little bit different.",-0.30999999999994543,2.2200000000000273,0,False,True,11
+282,5d98077e74f4a002ea9a8c40,1296.74,1323.56,"Our governor is um his name is Tom Wolfe and he's horrible. He hasn't done anything at all to help the state and like he can't even decide like his left foot from his right, like he doesn't know what to do even in this pandemic. And did you also see um the relief that was coming? There's a relief package that was passed? But then like president trump signed off on the order and then they weren't even sure if it was legal.",0.7799999999999727,26.819999999999936,2,False,False,90
+283,5edacd8bca520571d4c0402f,1323.74,1327.16,"Oh yeah, trump past executive order. Because I",0.18000000000006366,3.4200000000000728,0,False,False,8
+284,5d98077e74f4a002ea9a8c40,1327.14,1327.34,Did,-0.01999999999998181,0.1999999999998181,0,False,True,1
+285,5edacd8bca520571d4c0402f,1327.16,1327.52,think,-0.1799999999998363,0.35999999999989996,0,False,True,1
+286,5d98077e74f4a002ea9a8c40,1327.34,1327.65,you see,-0.18000000000006366,0.3100000000001728,0,False,True,2
+287,5edacd8bca520571d4c0402f,1327.52,1327.85,it,-0.13000000000010914,0.32999999999992724,0,False,True,1
+288,5d98077e74f4a002ea9a8c40,1327.65,1327.95,what?,-0.1999999999998181,0.2999999999999545,1,True,True,1
+289,5edacd8bca520571d4c0402f,1327.86,1331.17,"I think it buffs, it increases unemployment benefits",-0.09000000000014552,3.310000000000173,0,False,True,8
+290,5d98077e74f4a002ea9a8c40,1331.54,1332.16,Yeah.,0.36999999999989086,0.6200000000001182,0,False,False,1
+291,5edacd8bca520571d4c0402f,1331.94,1349.61,"and then I forget there was like a and I think there's some like eviction protections that you put in there too. Well it doesn't really affect me. But yeah, there is, it is nice for those people who definitely needed that. There is some help coming. Mhm. What? It is not to get",-0.22000000000002728,17.669999999999845,1,False,True,56
+292,5d98077e74f4a002ea9a8c40,1349.44,1349.67,So,-0.16999999999984539,0.2300000000000182,0,False,True,1
+293,5edacd8bca520571d4c0402f,1349.61,1355.1,"super political, but it is like Congress couldn't come up with a deal, so he had to find an executive order. It's like",-0.060000000000172804,5.490000000000009,0,False,True,25
+294,5d98077e74f4a002ea9a8c40,1355.04,1355.54,"yeah,",-0.05999999999994543,0.5,0,False,True,1
+295,5edacd8bca520571d4c0402f,1355.1,1360.46,"this is kind of Congress's ha ha yeah, it's a little frustrating. But",-0.44000000000005457,5.360000000000127,0,False,True,15
+296,5d98077e74f4a002ea9a8c40,1360.24,1361.95,this is the way of the world now.,-0.22000000000002728,1.7100000000000364,0,False,True,8
+297,5edacd8bca520571d4c0402f,1362.34,1362.84,"yeah,",0.38999999999987267,0.5,0,False,False,1
+298,5d98077e74f4a002ea9a8c40,1363.74,1369.67,Where do you see it going? I mean next year where do you think this will be? Do you think this is like the new normal?,0.900000000000091,5.930000000000064,3,True,False,26
+299,5edacd8bca520571d4c0402f,1370.84,1412.71,"I think at least definitely the rest of this year it's normal, but I do wonder if Mhm. Because they say best case scenario, the vaccine was like, it was like, it was like 12-18 months. So that would be like February would be like 12 months, like best case scenario. And I mean, I mean, I think even if they have a vaccine in february, I think this is still going to be The norm until like late 2021. Because you need to see me enough people get vaccinated, that's up spreading. But I think we're still gonna have to wear masks and stuff probably for another at least for another year after at least another year from now,",1.1699999999998454,41.87000000000012,0,False,False,125
+300,5d98077e74f4a002ea9a8c40,1412.54,1413.17,Mhm.,-0.17000000000007276,0.6300000000001091,0,False,True,1
+301,5edacd8bca520571d4c0402f,1412.72,1415.05,maybe more. Right.,-0.4500000000000455,2.3299999999999272,0,False,True,3
+302,5d98077e74f4a002ea9a8c40,1415.44,1420.89,"I just went to go get some bureau Bradley ones just because like my face mask, I have a whole bunch, but",0.39000000000010004,5.4500000000000455,0,False,False,22
+303,5edacd8bca520571d4c0402f,1420.64,1421.06,Mhm.,-0.25,0.4199999999998454,0,False,True,1
+304,5d98077e74f4a002ea9a8c40,1420.89,1429.96,it seems like whenever I go out I always forget them. So I went out and I got these bureau Bradley ones that were really cute. So maybe I won't forget next time I go out,-0.16999999999984539,9.069999999999936,0,False,True,37
+305,5edacd8bca520571d4c0402f,1430.24,1431.26,"Okay, that's good.",0.2799999999999727,1.0199999999999818,0,False,False,4
+306,5d98077e74f4a002ea9a8c40,1431.84,1438.46,"because I won't realize it until I've gotten to the place and I'm like, oh my gosh, I have to go back to my apartment and go get my face mask.",0.5799999999999272,6.620000000000118,0,False,False,34
+307,5edacd8bca520571d4c0402f,1438.94,1445.71,"Yeah, I happen to be a lot when I first started when I leave my house and like I've got my mass, let's go back. So not normal.",0.4800000000000182,6.769999999999982,0,False,False,30
+308,5d98077e74f4a002ea9a8c40,1445.64,1446.26,Yeah.,-0.06999999999993634,0.6199999999998909,0,False,True,1
+309,5edacd8bca520571d4c0402f,1445.72,1473.04,"I have like I have a couple masks now. I'm reusable ones that I'll wash and um use alcohol or whatever to sanitize them and wash them and soak them. So I have like a masculine things. I have one mask for work of one mask. I leave the house, they want to walk or run or whatever. Have one mask for um like an extra from one of them being washed. So it's like I have like a process now. I kind of have a system. It's just",-0.5399999999999636,27.319999999999936,0,False,True,93
+310,5d98077e74f4a002ea9a8c40,1472.94,1473.27,Mhm.,-0.09999999999990905,0.32999999999992724,0,False,True,1
+311,5edacd8bca520571d4c0402f,1473.04,1474.45,making nobody easier to remember.,-0.2300000000000182,1.4100000000000819,0,False,True,5
+312,5d98077e74f4a002ea9a8c40,1474.84,1478.86,I keep one of my glove box just to make sure that I don't forget it like now.,0.38999999999987267,4.019999999999982,0,False,False,19
+313,5edacd8bca520571d4c0402f,1478.44,1479.36,That's a good idea.,-0.4199999999998454,0.9199999999998454,0,False,True,5
+314,5d98077e74f4a002ea9a8c40,1479.74,1486.2,"Yeah, most definitely. So I can just reach over. You know, I always keep a couple extra one to like with my kids.",0.38000000000010914,6.460000000000036,0,False,False,23
+315,5edacd8bca520571d4c0402f,1485.84,1486.05,Mm.,-0.36000000000012733,0.21000000000003638,0,False,True,1
+316,5d98077e74f4a002ea9a8c40,1486.21,1492.96,"I have a one year old too, so it's a little difficult. I don't like to take her anywhere just because of face mask is so dangerous.",0.16000000000008185,6.75,0,False,False,29
+317,5edacd8bca520571d4c0402f,1493.34,1513.27,"Mhm. That makes sense. I know. I definitely can imagine certainly hard to people with kids because you can't just like, I mean like for me like I can stay inside, like I can do online classes, I can play video games, I can do stuff by myself. Like when you have kids like keeping them up in a room, it's like brutal.",0.37999999999988177,19.930000000000064,0,False,False,65
+318,5d98077e74f4a002ea9a8c40,1513.64,1515.37,"Oh yeah, most definitely.",0.37000000000011823,1.7299999999997908,0,False,False,4
+319,5edacd8bca520571d4c0402f,1514.74,1514.94,Yeah.,-0.6299999999998818,0.20000000000004547,0,False,True,1
+320,5d98077e74f4a002ea9a8c40,1515.37,1521.36,"It's just like, sorry. I think",0.4299999999998363,5.990000000000009,0,False,False,7
+321,5edacd8bca520571d4c0402f,1520.84,1521.46,No.,-0.5199999999999818,0.6200000000001182,0,False,True,1
+322,5d98077e74f4a002ea9a8c40,1522.74,1524.38,I think the time is up. It's,1.2799999999999727,1.6400000000001,0,False,False,8
+323,5edacd8bca520571d4c0402f,1524.24,1524.95,Yeah.,-0.14000000000010004,0.7100000000000364,0,False,True,1
+324,5d98077e74f4a002ea9a8c40,1524.38,1525.67,4:25.,-0.5699999999999363,1.2899999999999636,0,False,True,1
+325,5edacd8bca520571d4c0402f,1525.64,1529.77,"Yeah. I think, yeah, I think we're about to hit the 25 minute mark.",-0.029999999999972715,4.129999999999882,0,False,True,15
+326,5d98077e74f4a002ea9a8c40,1530.84,1532.75,"Well, it was so nice talking to you.",1.0699999999999363,1.9100000000000819,0,False,False,8
+327,5edacd8bca520571d4c0402f,1532.64,1532.84,Yeah.,-0.10999999999989996,0.1999999999998181,0,False,True,1
+328,5d98077e74f4a002ea9a8c40,1532.75,1532.94,I,-0.08999999999991815,0.19000000000005457,0,False,True,1
+329,5edacd8bca520571d4c0402f,1532.84,1533.04,You,-0.10000000000013642,0.20000000000004547,0,False,True,1
+330,5d98077e74f4a002ea9a8c40,1532.94,1533.53,think,-0.09999999999990905,0.5899999999999181,0,False,True,1
+331,5edacd8bca520571d4c0402f,1533.04,1533.45,too.,-0.4900000000000091,0.41000000000008185,0,False,True,1
+332,5d98077e74f4a002ea9a8c40,1533.54,1539.96,"we're taking time out of your day to talk to me and um, I really appreciate, I really appreciate it and enjoy talking to you.",0.08999999999991815,6.420000000000073,0,False,False,26
+333,5edacd8bca520571d4c0402f,1540.24,1548.96,"Yeah, me too. It's nice meeting you. I hope you have a good yesterday. I hope uh you can continue to find out about what the kind of distress yourself.",0.2799999999999727,8.720000000000027,0,False,False,31
+334,5d98077e74f4a002ea9a8c40,1549.44,1549.79,Thank you,0.4800000000000182,0.34999999999990905,0,False,False,2
+335,5edacd8bca520571d4c0402f,1549.74,1550.16,So,-0.049999999999954525,0.42000000000007276,0,False,True,1
+336,5d98077e74f4a002ea9a8c40,1549.79,1554.59,so much. I hope you do as well and I wish you the best of luck with work and everything. Have a good,-0.37000000000011823,4.7999999999999545,0,False,True,23
+337,5edacd8bca520571d4c0402f,1554.44,1555.12,thank,-0.14999999999986358,0.6799999999998363,0,False,True,1
+338,5d98077e74f4a002ea9a8c40,1554.59,1555.17,day okay?,-0.5299999999999727,0.5800000000001546,1,True,True,2
+339,5edacd8bca520571d4c0402f,1555.12,1555.96,you. Goodbye.,-0.0500000000001819,0.8400000000001455,0,False,True,2

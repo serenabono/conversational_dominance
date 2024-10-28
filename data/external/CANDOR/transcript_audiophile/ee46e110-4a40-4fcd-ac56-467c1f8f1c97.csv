@@ -1,0 +1,497 @@
+turn_id,speaker,start,stop,utterance,interval,delta,questions,end_question,overlap,n_words
+0,5b5e7e643bac1d0001f9bf28,3.54,3.96,Hey.,,0.41999999999999993,0,False,False,1
+1,5f5452df72345118f58d187b,6.34,7.36,"Oh,",2.38,1.0200000000000005,0,False,False,1
+2,5b5e7e643bac1d0001f9bf28,7.74,8.29,Oh great.,0.3799999999999999,0.5499999999999989,0,False,False,2
+3,5f5452df72345118f58d187b,9.04,9.55,mhm.,0.75,0.5100000000000016,0,False,False,1
+4,5b5e7e643bac1d0001f9bf28,9.44,10.54,Uh huh.,-0.11000000000000121,1.0999999999999996,0,False,True,2
+5,5f5452df72345118f58d187b,10.34,10.66,"All right,",-0.1999999999999993,0.3200000000000003,0,False,True,2
+6,5b5e7e643bac1d0001f9bf28,11.24,13.65,Yeah hi can you hear me?,0.5800000000000001,2.41,1,True,False,6
+7,5f5452df72345118f58d187b,13.84,14.47,yes. Can you,0.1899999999999995,0.6300000000000008,0,False,False,3
+8,5b5e7e643bac1d0001f9bf28,14.44,14.64,Yeah,-0.030000000000001137,0.20000000000000107,0,False,True,1
+9,5f5452df72345118f58d187b,14.47,14.86,hear me?,-0.16999999999999993,0.3899999999999988,1,True,True,2
+10,5b5e7e643bac1d0001f9bf28,15.04,15.76,yep,0.17999999999999972,0.7200000000000006,0,False,False,1
+11,5f5452df72345118f58d187b,16.34,16.85,How are you?,0.5800000000000001,0.5100000000000016,1,True,False,3
+12,5b5e7e643bac1d0001f9bf28,16.84,18.85,not bad about yourself.,-0.010000000000001563,2.0100000000000016,0,False,True,4
+13,5f5452df72345118f58d187b,19.04,19.66,I'm great.,0.18999999999999773,0.620000000000001,0,False,False,3
+14,5b5e7e643bac1d0001f9bf28,19.34,27.96,Yeah because yeah it's a little bit so you can see my face.,-0.3200000000000003,8.620000000000001,0,False,True,14
+15,5f5452df72345118f58d187b,27.24,29.25,"Yeah, you're right behind the",-0.7200000000000024,2.0100000000000016,0,False,True,6
+16,5b5e7e643bac1d0001f9bf28,31.04,32.66,Oh the tv glare.,1.7899999999999991,1.6199999999999974,0,False,False,4
+17,5f5452df72345118f58d187b,33.24,40.06,"no, it's it's actually behind the little window that shows it shows myself in the lower left",0.5800000000000054,6.82,0,False,False,19
+18,5b5e7e643bac1d0001f9bf28,40.84,41.85,Oh yeah,0.7800000000000011,1.009999999999998,0,False,False,2
+19,5f5452df72345118f58d187b,41.94,46.86,and if I if I don't have you full screen that blocks out three quarters of your face.,0.0899999999999963,4.920000000000002,0,False,False,19
+20,5b5e7e643bac1d0001f9bf28,47.24,48.46,yeah you can you see me now,0.38000000000000256,1.2199999999999989,0,False,False,7
+21,5f5452df72345118f58d187b,49.04,51.95,"No, you gotta, you have to go to your left.",0.5799999999999983,2.9100000000000037,0,False,False,11
+22,5b5e7e643bac1d0001f9bf28,52.44,54.45,to my left like that?,0.4899999999999949,2.010000000000005,1,True,False,5
+23,5f5452df72345118f58d187b,53.94,56.85,"Yeah, there it is, yeah. God. Uh",-0.5100000000000051,2.9100000000000037,0,False,True,7
+24,5b5e7e643bac1d0001f9bf28,56.84,57.65,Okay.,-0.00999999999999801,0.8099999999999952,0,False,True,1
+25,5f5452df72345118f58d187b,56.85,56.94,huh.,-0.7999999999999972,0.0899999999999963,0,False,True,1
+26,5b5e7e643bac1d0001f9bf28,58.24,59.16,Oh,1.3000000000000043,0.9199999999999946,0,False,False,1
+27,5f5452df72345118f58d187b,58.94,59.86,Where are you from?,-0.21999999999999886,0.9200000000000017,1,True,True,4
+28,5b5e7e643bac1d0001f9bf28,61.44,66.06,um Washington state up in the mountains in the south central part of Washington,1.5799999999999983,4.6200000000000045,0,False,False,14
+29,5f5452df72345118f58d187b,65.84,66.05,And,-0.21999999999999886,0.20999999999999375,0,False,True,1
+30,5b5e7e643bac1d0001f9bf28,66.06,66.56,sort of.,0.010000000000005116,0.5,0,False,False,2
+31,5f5452df72345118f58d187b,66.44,68.36,not Spokane?,-0.12000000000000455,1.9200000000000017,1,True,True,2
+32,5b5e7e643bac1d0001f9bf28,67.54,78.64,Yeah. Um No Spokane's way east and north of here. Um Let's see who are a reference point would be. Well I don't know maybe you know the name of the town do you know White,-0.8199999999999932,11.099999999999994,0,False,True,39
+33,5f5452df72345118f58d187b,78.64,79.56,No.,0.0,0.9200000000000017,0,False,False,1
+34,5b5e7e643bac1d0001f9bf28,78.64,88.55,salmon? No probably not it's small and we're even further north and out of out of town up on Mount Adams. Um Well you know where Portland,-0.9200000000000017,9.909999999999997,1,False,True,29
+35,5f5452df72345118f58d187b,88.54,89.1,"Yes,",-0.009999999999990905,0.5599999999999881,0,False,True,1
+36,5b5e7e643bac1d0001f9bf28,88.55,95.05,is? Right yeah so about an hour east of Portland and then up north some.,-0.5499999999999972,6.5,1,False,True,15
+37,5f5452df72345118f58d187b,94.84,97.45,"okay, I see kennewick and Yakima.",-0.20999999999999375,2.6099999999999994,0,False,True,6
+38,5b5e7e643bac1d0001f9bf28,96.74,104.14,Yeah. Oh we're pretty far west of Yakima in kennewick so yeah.,-0.710000000000008,7.400000000000006,0,False,True,13
+39,5f5452df72345118f58d187b,103.64,105.76,"Okay, so",-0.5,2.1200000000000045,0,False,True,2
+40,5b5e7e643bac1d0001f9bf28,105.74,106.36,Mhm.,-0.020000000000010232,0.6200000000000045,0,False,True,1
+41,5f5452df72345118f58d187b,105.76,108.45,"you get you get pretty good snow up there and stuff,",-0.5999999999999943,2.6899999999999977,0,False,True,11
+42,5b5e7e643bac1d0001f9bf28,109.34,113.11,Oh yeah it's there's actually snow in the forecast for next weekend.,0.8900000000000006,3.769999999999996,0,False,False,14
+43,5f5452df72345118f58d187b,113.04,113.66,wow!,-0.06999999999999318,0.6199999999999903,0,False,True,1
+44,5b5e7e643bac1d0001f9bf28,113.11,133.88,So yeah it's early that's real earlier for snow. I mean I remember snow on Halloween once as a kid and maybe you know something like that once or twice. But it's unusual to get snow so early. Usually not until I mean december is normal you know sometimes in november but october is really early for snow.,-0.5499999999999972,20.769999999999996,0,False,True,61
+45,5f5452df72345118f58d187b,133.74,134.06,All right.,-0.13999999999998636,0.3199999999999932,0,False,True,2
+46,5b5e7e643bac1d0001f9bf28,133.89,140.56,So I heard it some cold air coming down from Alaska or something like that. But,-0.17000000000001592,6.670000000000016,0,False,True,16
+47,5f5452df72345118f58d187b,140.54,148.76,"I heard like puget sound and it doesn't really get that much of a winter, It's like 50 over the winter there is that sounds, that sounds right.",-0.020000000000010232,8.219999999999999,0,False,True,30
+48,5b5e7e643bac1d0001f9bf28,149.94,163.86,"yeah pretty much they're I mean they're um they're coastal so they get the pacific ocean you know the pacific ocean is such a huge ocean, it's just the temperature is pretty constant all year. So the air they get off of it is about the same temperature",1.1800000000000068,13.920000000000016,0,False,False,52
+49,5f5452df72345118f58d187b,163.44,163.76,Mm.,-0.4200000000000159,0.3199999999999932,0,False,True,1
+50,5b5e7e643bac1d0001f9bf28,164.34,188.63,"you know so it keeps it just keeps the temperature a lot more um temperate, you know kind of constant and so yeah and then but then once you get while they were up in the mountains and be once you get um we're not quite east of the cascades were like right on the cusp. But especially once you get east of the cascades the temperatures are much more extreme. So you get real winters and hot",0.5800000000000125,24.289999999999992,0,False,False,79
+51,5f5452df72345118f58d187b,188.54,188.74,"Yeah,",-0.09000000000000341,0.20000000000001705,0,False,True,1
+52,5b5e7e643bac1d0001f9bf28,188.63,189.36,summers,-0.11000000000001364,0.7300000000000182,0,False,True,1
+53,5f5452df72345118f58d187b,189.34,189.76,"mm,",-0.020000000000010232,0.4199999999999875,0,False,True,1
+54,5b5e7e643bac1d0001f9bf28,190.34,216.07,"you get actual things. But because you don't you know it's um I guess the air is drier, it's just a whole different climate once you get used to the mountains because there's a whole range shadow effect to right So the mountain, you know, you know rain shadow the mountains block the rain so the rain stays on the west part of the state and then you go east and it's it's dry especially right, you know near the east side of the mountains.",0.5800000000000125,25.72999999999999,0,False,False,91
+55,5f5452df72345118f58d187b,215.94,216.1,mm,-0.12999999999999545,0.1599999999999966,0,False,True,1
+56,5b5e7e643bac1d0001f9bf28,216.07,216.36,But,-0.030000000000001137,0.29000000000002046,0,False,True,1
+57,5f5452df72345118f58d187b,216.1,220.15,"hmm, wow, what was the name of the town again,",-0.2600000000000193,4.050000000000011,0,False,True,10
+58,5b5e7e643bac1d0001f9bf28,221.64,224.09,"um white Salmon is the, probably the closest",1.4899999999999807,2.450000000000017,0,False,False,8
+59,5f5452df72345118f58d187b,223.74,224.24,whites?,-0.3499999999999943,0.5,1,True,True,1
+60,5b5e7e643bac1d0001f9bf28,224.09,228.86,town down by the river and then trout Lake is north of us further up the mountain.,-0.15000000000000568,4.77000000000001,0,False,True,17
+61,5f5452df72345118f58d187b,228.84,232.16,"It sounds like indian names, I guess that is correct.",-0.020000000000010232,3.319999999999993,0,False,True,10
+62,5b5e7e643bac1d0001f9bf28,233.74,243.64,"Well there, I mean white Salmon is is named after a fish that that used to be plentiful. And then trout Lake is the name of, you know, like the name of a lake that's",1.5800000000000125,9.899999999999977,0,False,False,36
+63,5f5452df72345118f58d187b,243.64,243.84,"Oh,",0.0,0.20000000000001705,0,False,False,1
+64,5b5e7e643bac1d0001f9bf28,243.64,243.85,near,-0.20000000000001705,0.21000000000000796,0,False,True,1
+65,5f5452df72345118f58d187b,243.84,244.01,so,-0.009999999999990905,0.1699999999999875,0,False,True,1
+66,5b5e7e643bac1d0001f9bf28,243.85,244.05,it.,-0.1599999999999966,0.20000000000001705,0,False,True,1
+67,5f5452df72345118f58d187b,244.01,245.76,"you're right on the Columbia River,",-0.040000000000020464,1.75,0,False,True,7
+68,5b5e7e643bac1d0001f9bf28,247.44,252.32,"Yeah. And further north and but that's the town. Yeah, closer, that's the time I went to school",1.6800000000000068,4.8799999999999955,0,False,False,20
+69,5f5452df72345118f58d187b,252.24,252.66,"mm,",-0.07999999999998408,0.4199999999999875,0,False,True,1
+70,5b5e7e643bac1d0001f9bf28,252.32,252.66,in,-0.3400000000000034,0.3400000000000034,0,False,True,1
+71,5f5452df72345118f58d187b,254.04,258.26,"wow, look it seems nicer. So what elevation are you about, do you know?",1.3799999999999955,4.219999999999999,1,True,False,14
+72,5b5e7e643bac1d0001f9bf28,259.74,262.52,"um right around here, we're at about 800 ft",1.4800000000000182,2.7799999999999727,0,False,False,10
+73,5f5452df72345118f58d187b,262.34,263.87,Oh,-0.18000000000000682,1.5300000000000296,0,False,True,1
+74,5b5e7e643bac1d0001f9bf28,262.52,264.16,I think. So.,-1.3500000000000227,1.6400000000000432,0,False,True,3
+75,5f5452df72345118f58d187b,263.88,264.95,that's not why.,-0.28000000000002956,1.0699999999999932,0,False,True,4
+76,5b5e7e643bac1d0001f9bf28,264.94,280.36,"Yeah. No, it's not too high. But yeah, go go further north, the further north you get, you know, you go up on 41 it gets higher and higher. So we're, you know, we're closer to the base of the mountain, we're kind of in the the hills. But",-0.009999999999990905,15.420000000000016,0,False,True,53
+77,5f5452df72345118f58d187b,280.14,283.95,Mhm looks nice. You have a lot of salmon running down there.,-0.22000000000002728,3.8100000000000023,0,False,True,12
+78,5b5e7e643bac1d0001f9bf28,285.44,321.53,"um I mean obviously not as many as there used to be since they built the dam, the big dams on the Columbia, especially bonneville Dam, which is how they get the hydro electric power, but you know it wiped out a lot of this because the river used to just be thick with salmon. You know that's how the natives um basically made their living back in the day before white people um What they mostly lived on around here. But yeah, I mean they're still salmon definitely. Um They took out one of the dam, one of the big dams on the White Salmon River. So you get more salmon actually coming up that river now from the Columbia, out from the ocean,",1.490000000000009,36.089999999999975,0,False,False,127
+79,5f5452df72345118f58d187b,321.34,321.85,Mhm,-0.18999999999999773,0.5100000000000477,0,False,True,1
+80,5b5e7e643bac1d0001f9bf28,321.54,330.65,you know? Um So there's more than there used to be and they've they've made you know efforts to actually increase the population and bring them back. So.,-0.3100000000000023,9.109999999999957,1,False,True,31
+81,5f5452df72345118f58d187b,332.14,337.16,Oh that would be so neat. They're they're big salmon to I think artistic.,1.490000000000009,5.020000000000039,0,False,False,16
+82,5b5e7e643bac1d0001f9bf28,337.74,344.15,"Oh yeah, yeah, yeah you can still fish for salmon, you have to get a license and you can only get one a year, but",0.5799999999999841,6.409999999999968,0,False,False,25
+83,5f5452df72345118f58d187b,344.34,346.86,Are you allowed to snag salmon there?,0.18999999999999773,2.5200000000000387,1,True,False,7
+84,5b5e7e643bac1d0001f9bf28,348.44,349.55,just one year,1.579999999999984,1.1100000000000136,0,False,False,3
+85,5f5452df72345118f58d187b,349.14,349.76,"Yes,",-0.410000000000025,0.6200000000000045,0,False,True,1
+86,5b5e7e643bac1d0001f9bf28,350.34,360.88,"you have to get a license that the indians have fishing rights. They can I mean I don't know what their rights are, they can get a lot more. They can use nets and stuff. But I mean that's only fair. It's their place,",0.5799999999999841,10.54000000000002,0,False,False,47
+87,5f5452df72345118f58d187b,360.54,361.04,yeah,-0.339999999999975,0.5,0,False,True,1
+88,5b5e7e643bac1d0001f9bf28,360.88,363.96,right? You're here first.,-0.160000000000025,3.079999999999984,1,False,True,5
+89,5f5452df72345118f58d187b,364.14,371.55,"yeah like you, can you catch a man snag them or? It's yeah mhm",0.18000000000000682,7.410000000000025,1,False,False,15
+90,5b5e7e643bac1d0001f9bf28,371.44,373.99,"Uh Just fishing, I'm pretty sure.",-0.11000000000001364,2.5500000000000114,0,False,True,7
+91,5f5452df72345118f58d187b,373.94,374.45,I,-0.05000000000001137,0.5099999999999909,0,False,True,1
+92,5b5e7e643bac1d0001f9bf28,374.0,374.55,Yeah.,-0.44999999999998863,0.5500000000000114,0,False,True,1
+93,5f5452df72345118f58d187b,374.46,383.46,"went to michigan when I was younger and they could, you could fish everywhere but there are certain areas you're a lot of snag and put a big trouble for chrome with a lead weight in the middle and they snack,",-0.09000000000003183,9.0,0,False,True,42
+94,5b5e7e643bac1d0001f9bf28,383.94,384.44,Huh.,0.4800000000000182,0.5,0,False,False,1
+95,5f5452df72345118f58d187b,384.44,387.56,"it's pretty neat. You just keep cast into your your coin, you know?",0.0,3.1200000000000045,1,True,False,14
+96,5b5e7e643bac1d0001f9bf28,389.04,409.57,"Uh huh. Yeah. No, I'm pretty sure you can only fish here and even with trout anymore. I think bait has been outlawed. Maybe. I'm not like you don't quote me on that. I know we used to go bait fishing when I was a kid like worms, you know crickets, stuff like that, I'm not sure if you're even allowed to bait fish even for trout anymore. Um There's lures,",1.4800000000000182,20.529999999999973,0,False,False,77
+97,5f5452df72345118f58d187b,409.34,409.85,Really?,-0.2300000000000182,0.5100000000000477,1,True,True,1
+98,5b5e7e643bac1d0001f9bf28,409.57,417.66,"you know lures and lives and stuff. Yeah because it's you know it's um it's so much easier to just use bait, you know, you could just go in and",-0.28000000000002956,8.090000000000032,0,False,True,33
+99,5f5452df72345118f58d187b,418.24,418.74,Yeah.,0.5799999999999841,0.5,0,False,False,1
+100,5b5e7e643bac1d0001f9bf28,418.24,419.45,just,-0.5,1.2099999999999795,0,False,True,1
+101,5f5452df72345118f58d187b,419.24,419.44,"Yeah,",-0.20999999999997954,0.19999999999998863,0,False,True,1
+102,5b5e7e643bac1d0001f9bf28,419.45,421.66,get his want pretty much.,0.009999999999990905,2.2100000000000364,0,False,False,5
+103,5f5452df72345118f58d187b,420.7,424.09,I know in a way it seems like cheating. I often think that I'll,-0.9600000000000364,3.3899999999999864,0,False,True,15
+104,5b5e7e643bac1d0001f9bf28,424.04,424.55,Mhm.,-0.049999999999954525,0.5099999999999909,0,False,True,1
+105,5f5452df72345118f58d187b,424.09,427.92,fish bass with a plastic worm. You put a debate,-0.4600000000000364,3.830000000000041,0,False,True,10
+106,5b5e7e643bac1d0001f9bf28,427.74,427.93,Uh,-0.18000000000000682,0.18999999999999773,0,False,True,1
+107,5f5452df72345118f58d187b,427.92,428.14,"on,",-0.009999999999990905,0.21999999999997044,0,False,True,1
+108,5b5e7e643bac1d0001f9bf28,427.93,428.36,huh.,-0.20999999999997954,0.4300000000000068,0,False,True,1
+109,5f5452df72345118f58d187b,428.14,430.85,I mean it's should be able to get them,-0.22000000000002728,2.7100000000000364,0,False,True,10
+110,5b5e7e643bac1d0001f9bf28,430.84,431.46,Yeah.,-0.010000000000047748,0.6200000000000045,0,False,True,1
+111,5f5452df72345118f58d187b,430.85,432.95,easier to put a big meno on or something.,-0.6099999999999568,2.099999999999966,0,False,True,9
+112,5b5e7e643bac1d0001f9bf28,434.14,434.64,Yeah.,1.1899999999999977,0.5,0,False,False,1
+113,5f5452df72345118f58d187b,434.54,435.56,Yeah mm,-0.0999999999999659,1.0199999999999818,0,False,True,2
+114,5b5e7e643bac1d0001f9bf28,435.44,441.96,"Yeah you can use bait um you can use live bait down at the coast for crabs and stuff, but",-0.12000000000000455,6.519999999999982,0,False,True,20
+115,5f5452df72345118f58d187b,441.94,442.45,About,-0.01999999999998181,0.5099999999999909,0,False,True,1
+116,5b5e7e643bac1d0001f9bf28,443.14,443.86,I don't think,0.6899999999999977,0.7200000000000273,0,False,False,4
+117,5f5452df72345118f58d187b,444.24,444.61,those,0.37999999999999545,0.37000000000000455,0,False,False,1
+118,5b5e7e643bac1d0001f9bf28,444.24,444.66,go,-0.37000000000000455,0.4200000000000159,0,False,True,1
+119,5f5452df72345118f58d187b,444.61,445.16,big,-0.05000000000001137,0.5500000000000114,0,False,True,1
+120,5b5e7e643bac1d0001f9bf28,444.66,445.05,ahead.,-0.5,0.38999999999998636,0,False,True,1
+121,5f5452df72345118f58d187b,445.17,448.05,"clamp, gooey ducks or something? That's a big clamp",0.12000000000000455,2.8799999999999955,1,False,False,10
+122,5b5e7e643bac1d0001f9bf28,448.24,450.75,Yeah. Boy ducks. Yeah. Yeah.,0.18999999999999773,2.509999999999991,0,False,False,5
+123,5f5452df72345118f58d187b,450.34,450.75,Uh huh,-0.410000000000025,0.410000000000025,0,False,True,2
+124,5b5e7e643bac1d0001f9bf28,451.14,457.59,"Yeah those uh I went to college actually in Olympia, that was our college's mascot was a gooey duck.",0.38999999999998636,6.449999999999989,0,False,False,20
+125,5f5452df72345118f58d187b,457.04,457.46,mhm,-0.5499999999999545,0.4199999999999591,0,False,True,1
+126,5b5e7e643bac1d0001f9bf28,457.6,484.92,"But yeah they're mostly around the puget sound. I heard they have them all the way up in Canada, I have a buddy who lives up in Canada. But um yeah those are you know they they kind of burrow way down in the sand um there's some kind of way that they go out you know and when the tides are right, you go out and you dig them out somehow or other. But um those are, they sell for a lot of money, they like, they sell them over to Japan",0.1400000000000432,27.319999999999993,0,False,False,95
+127,5f5452df72345118f58d187b,484.24,484.45,mhm,-0.6800000000000068,0.20999999999997954,0,False,True,1
+128,5b5e7e643bac1d0001f9bf28,484.93,488.59,"asia, they're like they're worth their weight in gold over there. They really love",0.4800000000000182,3.659999999999968,0,False,False,16
+129,5f5452df72345118f58d187b,488.54,488.75,"Good,",-0.049999999999954525,0.20999999999997954,0,False,True,1
+130,5b5e7e643bac1d0001f9bf28,488.59,489.43,them. I don't know.,-0.160000000000025,0.8400000000000318,0,False,True,5
+131,5f5452df72345118f58d187b,489.34,489.54,"yeah,",-0.09000000000003183,0.20000000000004547,0,False,True,1
+132,5b5e7e643bac1d0001f9bf28,489.44,490.16,So,-0.10000000000002274,0.7200000000000273,0,False,True,1
+133,5f5452df72345118f58d187b,490.14,492.75,"might as well sell them, get the money",-0.020000000000038654,2.6100000000000136,0,False,True,8
+134,5b5e7e643bac1d0001f9bf28,491.74,496.05,yeah. Uh Yeah.,-1.009999999999991,4.310000000000002,0,False,True,3
+135,5f5452df72345118f58d187b,494.04,494.55,Bond,-2.009999999999991,0.5099999999999909,0,False,True,1
+136,5b5e7e643bac1d0001f9bf28,496.74,498.14,Um How about you? Where you,2.1899999999999977,1.3999999999999773,1,False,False,6
+137,5f5452df72345118f58d187b,498.04,498.61,Pittsburgh,-0.0999999999999659,0.5699999999999932,0,False,True,1
+138,5b5e7e643bac1d0001f9bf28,498.14,498.66,from?,-0.4700000000000273,0.5200000000000387,1,True,True,1
+139,5f5452df72345118f58d187b,498.61,499.45,pennsylvania.,-0.05000000000001137,0.839999999999975,0,False,True,1
+140,5b5e7e643bac1d0001f9bf28,500.64,501.35,"Okay. Yeah,",1.1899999999999977,0.7100000000000364,0,False,False,2
+141,5f5452df72345118f58d187b,501.34,501.67,Well,-0.010000000000047748,0.3300000000000409,0,False,True,1
+142,5b5e7e643bac1d0001f9bf28,501.35,501.74,"yeah,",-0.3199999999999932,0.38999999999998636,0,False,True,1
+143,5f5452df72345118f58d187b,501.68,503.76,a long way from you I think.,-0.060000000000002274,2.079999999999984,0,False,True,7
+144,5b5e7e643bac1d0001f9bf28,504.54,508.88,"yeah, at the end of the country just about, let me not the coast,",0.7800000000000296,4.339999999999975,0,False,False,14
+145,5f5452df72345118f58d187b,508.64,508.91,Have you,-0.2400000000000091,0.27000000000003865,0,False,True,2
+146,5b5e7e643bac1d0001f9bf28,508.88,509.15,but,-0.03000000000002956,0.2699999999999818,0,False,True,1
+147,5f5452df72345118f58d187b,508.91,510.05,ever been east?,-0.23999999999995225,1.1399999999999864,1,True,True,3
+148,5b5e7e643bac1d0001f9bf28,511.64,516.2,"yeah, I lived in michigan for six years. I mean it's not the east coast, but it's a lot closer",1.589999999999975,4.560000000000059,0,False,False,22
+149,5f5452df72345118f58d187b,516.14,516.65,"Yes,",-0.06000000000005912,0.5099999999999909,0,False,True,1
+150,5b5e7e643bac1d0001f9bf28,516.2,521.56,"to Pittsburgh. Um I lived in an arbor which is about, you know, an hour from Detroit,",-0.4499999999999318,5.3599999999999,0,False,True,17
+151,5f5452df72345118f58d187b,521.14,521.76,yeah,-0.4199999999999591,0.6200000000000045,0,False,True,1
+152,5b5e7e643bac1d0001f9bf28,522.44,522.98,40 minutes,0.6800000000000637,0.5399999999999636,0,False,False,2
+153,5f5452df72345118f58d187b,522.94,523.26,"right,",-0.03999999999996362,0.31999999999993634,0,False,True,1
+154,5b5e7e643bac1d0001f9bf28,522.98,524.46,"from the airport, hour from",-0.2799999999999727,1.4800000000000182,0,False,True,5
+155,5f5452df72345118f58d187b,524.44,524.5,I,-0.01999999999998181,0.05999999999994543,0,False,True,1
+156,5b5e7e643bac1d0001f9bf28,524.46,525.07,downtown.,-0.03999999999996362,0.6100000000000136,0,False,True,1
+157,5f5452df72345118f58d187b,524.5,529.86,have relatives in Saginaw and I went to ann arbor for michigan game once when I was out there,-0.57000000000005,5.360000000000014,0,False,True,19
+158,5b5e7e643bac1d0001f9bf28,530.84,537.05,"Uh Yeah, I only been to a mission, I only went to a michigan game once the whole time I was there, but",0.9800000000000182,6.209999999999923,0,False,False,23
+159,5f5452df72345118f58d187b,536.44,536.95,mm,-0.6099999999999,0.5099999999999909,0,False,True,1
+160,5b5e7e643bac1d0001f9bf28,537.74,569.65,"it's fun, you know? Um I'm not big on uh you know my my main sport is hockey, I'll watch some basketball too, but I don't know, football is just it kind of moves too slow for me, you know in terms of how much actual gameplay there is, it's like they play for seven seconds and it stops and then they got to sit around and talk through, you know, it's like it just kind of irritating like hockey, basketball, soccer, it's like they're actually playing the whole time, you know? It's more entertaining to watch.",0.7899999999999636,31.909999999999968,2,False,False,106
+161,5f5452df72345118f58d187b,568.84,571.07,"so exciting to watch live, you know?",-0.8099999999999454,2.230000000000018,1,True,True,7
+162,5b5e7e643bac1d0001f9bf28,572.04,576.66,"Oh yeah. Yeah. Yes. Seattle has a hockey team now,",0.9699999999999136,4.6200000000000045,0,False,False,10
+163,5f5452df72345118f58d187b,576.44,576.95,"All right,",-0.2199999999999136,0.5099999999999909,0,False,True,2
+164,5b5e7e643bac1d0001f9bf28,577.24,579.06,correct? Yeah.,0.2899999999999636,1.8199999999999363,1,False,False,2
+165,5f5452df72345118f58d187b,579.34,581.86,I didn't know that. When did that? Just this year?,0.2800000000000864,2.519999999999982,2,True,False,11
+166,5b5e7e643bac1d0001f9bf28,582.84,584.36,"Just new. Yeah,",0.9800000000000182,1.5199999999999818,0,False,False,3
+167,5f5452df72345118f58d187b,583.84,587.56,What's what's the uh what's the name rick did you say?,-0.5199999999999818,3.7199999999999136,1,True,True,14
+168,5b5e7e643bac1d0001f9bf28,588.34,593.57,the cracking K R. A K E N. Like the big sea Monster. The giant,0.7800000000000864,5.230000000000018,0,False,False,15
+169,5f5452df72345118f58d187b,593.34,593.99,Oh,-0.2300000000000182,0.6499999999999773,0,False,True,1
+170,5b5e7e643bac1d0001f9bf28,593.57,594.16,squid.,-0.4199999999999591,0.5899999999999181,0,False,True,1
+171,5f5452df72345118f58d187b,594.0,595.5,really? There,-0.15999999999996817,1.5,1,False,True,2
+172,5b5e7e643bac1d0001f9bf28,595.44,596.84,"Yeah,",-0.05999999999994543,1.3999999999999773,0,False,True,1
+173,5f5452df72345118f58d187b,595.5,599.95,"are, wow, is that an addition team or did they buy it from another city?",-1.3400000000000318,4.4500000000000455,1,True,True,15
+174,5b5e7e643bac1d0001f9bf28,601.44,604.05,it's brand new. They just they just formed it.,1.490000000000009,2.6099999999999,0,False,False,10
+175,5f5452df72345118f58d187b,603.84,604.26,"Wow,",-0.2099999999999227,0.4199999999999591,0,False,True,1
+176,5b5e7e643bac1d0001f9bf28,604.06,604.55,Yeah.,-0.20000000000004547,0.4900000000000091,0,False,True,1
+177,5f5452df72345118f58d187b,604.26,606.0,you guys have an arena and stuff,-0.2899999999999636,1.740000000000009,0,False,True,7
+178,5b5e7e643bac1d0001f9bf28,605.84,606.16,Mhm.,-0.15999999999996817,0.31999999999993634,0,False,True,1
+179,5f5452df72345118f58d187b,606.0,607.16,already up there,-0.15999999999996817,1.1599999999999682,0,False,True,3
+180,5b5e7e643bac1d0001f9bf28,608.34,617.85,"I'm not sure. I think so, I haven't looked into it, but now I'm kind of torn about who I'm going to root for, you know, if I'm gonna have to switch from the red wings or not,",1.1800000000000637,9.509999999999991,0,False,False,44
+181,5f5452df72345118f58d187b,617.54,617.86,Are.,-0.3100000000000591,0.32000000000005,0,False,True,1
+182,5b5e7e643bac1d0001f9bf28,618.54,621.66,"I mean probably don't live over there anymore, so.",0.67999999999995,3.1200000000000045,0,False,False,10
+183,5f5452df72345118f58d187b,620.54,626.28,"I got a great redwing shirt when they won the Stanley cup, I think it was a 92. My",-1.1200000000000045,5.740000000000009,0,False,True,19
+184,5b5e7e643bac1d0001f9bf28,626.14,626.28,Uh,-0.13999999999998636,0.13999999999998636,0,False,True,1
+185,5f5452df72345118f58d187b,626.28,626.56,uncle,0.0,0.2799999999999727,0,False,False,1
+186,5b5e7e643bac1d0001f9bf28,626.28,626.76,huh,-0.2799999999999727,0.4800000000000182,0,False,True,1
+187,5f5452df72345118f58d187b,626.56,633.45,"sent me a shirt. I still got it, I can bring and show it's really nice shirts. Red. It's a great shirt. Uh huh.",-0.20000000000004547,6.8900000000001,0,False,True,26
+188,5b5e7e643bac1d0001f9bf28,633.44,634.06,Mhm,-0.009999999999990905,0.6199999999998909,0,False,True,1
+189,5f5452df72345118f58d187b,634.04,637.06,That's what scotty bowman was there. They were running like crazy.,-0.01999999999998181,3.019999999999982,0,False,True,12
+190,5b5e7e643bac1d0001f9bf28,638.54,641.21,"Yeah. Yeah, they haven't won much",1.4800000000000182,2.6700000000000728,0,False,False,7
+191,5f5452df72345118f58d187b,640.34,640.96,Uh huh.,-0.8700000000000045,0.6200000000000045,0,False,True,2
+192,5b5e7e643bac1d0001f9bf28,641.22,643.76,in recent years.,0.2599999999999909,2.5399999999999636,0,False,False,3
+193,5f5452df72345118f58d187b,642.54,647.06,I like san Jose I I like the town I'd like to visit there sometime.,-1.2200000000000273,4.519999999999982,0,False,True,16
+194,5b5e7e643bac1d0001f9bf28,649.04,656.03,"Yeah, I haven't been to California much, I've been I've only been down once to southern California for a short",1.9800000000000182,6.990000000000009,0,False,False,23
+195,5f5452df72345118f58d187b,655.84,656.05,Okay.,-0.18999999999994088,0.2099999999999227,0,False,True,1
+196,5b5e7e643bac1d0001f9bf28,656.03,672.17,"while, but um I've heard you know, good things about northern California to to be equal to go down and see the redwoods and stuff like that. Um maybe need to visit the bay Area, you know Berkeley Oakland san Francisco expensive as hell to live",-0.01999999999998181,16.139999999999986,0,False,True,47
+197,5f5452df72345118f58d187b,672.14,672.76,"Yeah,",-0.029999999999972715,0.6200000000000045,0,False,True,1
+198,5b5e7e643bac1d0001f9bf28,672.17,673.65,there anymore. I mean,-0.5900000000000318,1.4800000000000182,0,False,True,4
+199,5f5452df72345118f58d187b,673.94,674.19,that's,0.2900000000000773,0.25,0,False,False,2
+200,5b5e7e643bac1d0001f9bf28,674.14,674.76,Yeah.,-0.05000000000006821,0.6200000000000045,0,False,True,1
+201,5f5452df72345118f58d187b,674.19,677.28,one of the highest in America. It's like 600 dollars,-0.5699999999999363,3.089999999999918,0,False,True,11
+202,5b5e7e643bac1d0001f9bf28,677.04,677.31,Oh,-0.2400000000000091,0.2699999999999818,0,False,True,1
+203,5f5452df72345118f58d187b,677.28,677.42,for,-0.029999999999972715,0.13999999999998636,0,False,True,1
+204,5b5e7e643bac1d0001f9bf28,677.31,677.75,"yeah,",-0.11000000000001364,0.44000000000005457,0,False,True,1
+205,5f5452df72345118f58d187b,677.42,678.25,a house or something.,-0.3300000000000409,0.8300000000000409,0,False,True,4
+206,5b5e7e643bac1d0001f9bf28,679.54,697.68,"yeah and just, I mean rent, you know out of control, I mean shit though, Portland like Portland the closest city, you know like I lived there before like 10 years ago, but I don't know how people can afford it anymore because it's not like there are jobs, there's not hardly any jobs that pay enough to live",1.2899999999999636,18.139999999999986,0,False,False,62
+207,5f5452df72345118f58d187b,697.64,697.85,Well,-0.03999999999996362,0.21000000000003638,0,False,True,1
+208,5b5e7e643bac1d0001f9bf28,697.68,714.24,there. I don't know what people do to but just the cost of living has gone up so much because you know it's like it's like the cool city now so everybody wants to move there from all out of state and stuff. So everything has just gone,-0.17000000000007276,16.56000000000006,0,False,True,51
+209,5f5452df72345118f58d187b,714.04,714.74,how,-0.20000000000004547,0.7000000000000455,0,False,True,1
+210,5b5e7e643bac1d0001f9bf28,714.24,714.74,up.,-0.5,0.5,0,False,True,1
+211,5f5452df72345118f58d187b,714.74,715.09,bad,0.0,0.35000000000002274,0,False,False,1
+212,5b5e7e643bac1d0001f9bf28,714.75,715.16,"Like,",-0.34000000000003183,0.40999999999996817,0,False,True,1
+213,5f5452df72345118f58d187b,715.09,723.45,"is it where you're at expensive wise for a house, is it all of the state or just those like uh more California? And it?",-0.06999999999993634,8.360000000000014,2,True,True,26
+214,5b5e7e643bac1d0001f9bf28,724.04,733.5,well the one of the problems is that California got expensive. So then all the California started moving up here and then they made here expensive.,0.5899999999999181,9.460000000000036,0,False,False,26
+215,5f5452df72345118f58d187b,731.34,732.14,Uh huh.,-2.159999999999968,0.7999999999999545,0,False,True,2
+216,5b5e7e643bac1d0001f9bf28,733.51,762.45,"But I mean right around here, I don't think it's terrible. You can still buy property for kind of reasonable. I don't know exactly what the cost is because I've never bought property. I'm staying with my mom right now. It's like it's a really good place to be in a pandemic, you know, middle of nowhere. But I know my brother bought some property decent sized chunk. I think it was like, I think I know they there's some figure of 180,000 but that might have also included the double what they put on it.",1.3700000000000045,28.940000000000055,0,False,False,104
+217,5f5452df72345118f58d187b,762.84,763.16,Mhm.,0.38999999999998636,0.31999999999993634,0,False,False,1
+218,5b5e7e643bac1d0001f9bf28,762.94,793.13,"I don't know, you know? So um it's it's not terrible right around here, but you go down to the gorge, like you actually go down into White Salmon, especially Hood River and it's gotten really expensive because I mean it's such a beautiful area and then it also got famous with tourists from Portland and you know, so same thing like people want to live there, drive the cost up and everything like that so and even cost of living like groceries, gas and stuff like that, you know, is more more expensive than it used",-0.2199999999999136,30.18999999999994,1,False,True,102
+219,5f5452df72345118f58d187b,792.94,793.26,Yeah,-0.18999999999994088,0.31999999999993634,0,False,True,1
+220,5b5e7e643bac1d0001f9bf28,793.13,794.35,to be. So.,-0.12999999999999545,1.2200000000000273,0,False,True,3
+221,5f5452df72345118f58d187b,794.94,795.86,extinct,0.5900000000000318,0.9199999999999591,0,False,False,1
+222,5b5e7e643bac1d0001f9bf28,796.24,798.46,Mhm. Yeah.,0.37999999999999545,2.2200000000000273,0,False,False,2
+223,5f5452df72345118f58d187b,797.34,797.55,look.,-1.1200000000000045,0.2099999999999227,0,False,True,1
+224,5b5e7e643bac1d0001f9bf28,798.47,801.45,Yeah. It's hard for the people who live here who are from here.,0.9200000000000728,2.980000000000018,0,False,False,14
+225,5f5452df72345118f58d187b,801.44,801.64,Yeah.,-0.009999999999990905,0.1999999999999318,0,False,True,1
+226,5b5e7e643bac1d0001f9bf28,801.45,813.39,You know who don't usually have those type of jobs like the people who moved in here I mean it used to just be basically timber and orchards and all that kind of stuff which it still is the timber,-0.18999999999994088,11.93999999999994,0,False,True,41
+227,5f5452df72345118f58d187b,813.14,813.35,Okay.,-0.25,0.21000000000003638,0,False,True,1
+228,5b5e7e643bac1d0001f9bf28,813.39,836.25,"industry kind of went down the toilet in the late eighties early nineties but you know there's still a lot of orchards, there's still a lot of stuff like that so it's like I mean but that's the original, not the original population but that's the population that was here, it was all farming timber orchards right so people who are still here mostly doing that which obviously doesn't pay as well as whatever the people do moving in here. Right",0.03999999999996362,22.860000000000014,0,False,False,87
+229,5f5452df72345118f58d187b,836.14,837.2,Yeah.,-0.11000000000001364,1.0600000000000591,0,False,True,1
+230,5b5e7e643bac1d0001f9bf28,836.26,837.06,so.,-0.9400000000000546,0.7999999999999545,0,False,True,1
+231,5f5452df72345118f58d187b,837.21,844.46,It's kind of mind boggling to me at Washington state. You don't think of rural like I don't know,0.15000000000009095,7.25,0,False,False,22
+232,5b5e7e643bac1d0001f9bf28,844.44,845.16,Mhm.,-0.01999999999998181,0.7199999999999136,0,False,True,1
+233,5f5452df72345118f58d187b,844.46,850.05,"you're the way you're describing, I'm picturing like dirt roads and woods and stuff like that.",-0.6999999999999318,5.589999999999918,0,False,True,19
+234,5b5e7e643bac1d0001f9bf28,850.14,850.76,Oh yeah,0.09000000000003183,0.6200000000000045,0,False,False,2
+235,5f5452df72345118f58d187b,850.94,851.56,"Okay,",0.18000000000006366,0.6199999999998909,0,False,False,1
+236,5b5e7e643bac1d0001f9bf28,851.14,867.5,"yeah well there's a highway right here but yeah you go I mean you go up you know Gifford pinchot National Forest, there's a bunch of dirt roads or if you go up up in the woods up there there's all kinds of old logging roads and dirt paths and stuff. But yeah there's definitely some dirt roads",-0.4199999999999591,16.360000000000014,0,False,True,62
+237,5f5452df72345118f58d187b,867.44,868.16,"wow,",-0.05999999999994543,0.7199999999999136,0,False,True,1
+238,5b5e7e643bac1d0001f9bf28,867.5,867.95,around.,-0.6599999999999682,0.4500000000000455,0,False,True,1
+239,5f5452df72345118f58d187b,869.14,869.37,pretty,1.1899999999999409,0.2300000000000182,0,False,False,1
+240,5b5e7e643bac1d0001f9bf28,869.24,869.86,Mhm.,-0.12999999999999545,0.6200000000000045,0,False,True,1
+241,5f5452df72345118f58d187b,869.37,870.96,"amazing. And you're,",-0.4900000000000091,1.5900000000000318,0,False,True,4
+242,5b5e7e643bac1d0001f9bf28,871.44,891.05,Well the whole yeah there's Seattle and Portland um There's a couple other you know cities and some smaller cities but once you get out of that especially once you get out of the I. Five corridor it's all pretty rural Oregon especially in Washington to you know most of the states pretty sparsely populated really. The pacific northwest.,0.4800000000000182,19.6099999999999,0,False,False,62
+243,5f5452df72345118f58d187b,890.74,893.5,"wow, that's crazy.",-0.30999999999994543,2.759999999999991,0,False,True,4
+244,5b5e7e643bac1d0001f9bf28,892.74,893.24,Yeah.,-0.7599999999999909,0.5,0,False,True,1
+245,5f5452df72345118f58d187b,893.51,894.71,It's just,0.2699999999999818,1.2000000000000455,0,False,False,3
+246,5b5e7e643bac1d0001f9bf28,894.64,895.26,Mhm.,-0.07000000000005002,0.6200000000000045,0,False,True,1
+247,5f5452df72345118f58d187b,894.72,899.46,"so your your highs in the summer, you're getting up to 85 or so.",-0.5399999999999636,4.740000000000009,0,False,True,15
+248,5b5e7e643bac1d0001f9bf28,900.14,910.36,Oh higher than that. Um Because the temperatures are pretty extreme you know for this this you know further east in Seattle. So I think the average highs are probably about 85,0.67999999999995,10.220000000000027,0,False,False,32
+249,5f5452df72345118f58d187b,909.84,910.04,"Yeah,",-0.5199999999999818,0.1999999999999318,0,False,True,1
+250,5b5e7e643bac1d0001f9bf28,910.74,917.25,you know in the summer but we do get stretches of even up to 100 you know high nineties even up,0.7000000000000455,6.509999999999991,0,False,False,21
+251,5f5452df72345118f58d187b,917.14,917.86,wow.,-0.11000000000001364,0.7200000000000273,0,False,True,1
+252,5b5e7e643bac1d0001f9bf28,917.25,919.06,to 100. Um,-0.6100000000000136,1.8099999999999454,0,False,True,3
+253,5f5452df72345118f58d187b,919.24,919.56,Mhm.,0.18000000000006366,0.31999999999993634,0,False,False,1
+254,5b5e7e643bac1d0001f9bf28,919.44,924.11,Yeah just for parts of the summary no a week or so of that high,-0.11999999999989086,4.669999999999959,0,False,True,15
+255,5f5452df72345118f58d187b,923.54,923.75,Well,-0.57000000000005,0.21000000000003638,0,False,True,1
+256,5b5e7e643bac1d0001f9bf28,924.12,927.36,and then with several of those hot stretches,0.37000000000000455,3.240000000000009,0,False,False,8
+257,5f5452df72345118f58d187b,926.64,929.96,what about your lows you're getting at twenties or not?,-0.7200000000000273,3.32000000000005,1,True,True,11
+258,5b5e7e643bac1d0001f9bf28,930.64,935.58,um And we'll get down into the teens. Um It's been known to get lower than that you know?,0.67999999999995,4.940000000000055,1,True,False,21
+259,5f5452df72345118f58d187b,935.44,935.76,Your,-0.13999999999998636,0.31999999999993634,0,False,True,1
+260,5b5e7e643bac1d0001f9bf28,935.59,936.25,Um,-0.16999999999995907,0.6599999999999682,0,False,True,1
+261,5f5452df72345118f58d187b,935.76,939.85,average winner stays like in the mid thirties or something or forties or?,-0.4900000000000091,4.090000000000032,1,True,True,13
+262,5b5e7e643bac1d0001f9bf28,940.44,956.05,No the average thirties yeah. Um Maybe twenties thirties depends on the month december. In january the coldest you know it definitely snows. So it's a it's a cold snowy winter here. I mean you know,0.5900000000000318,15.6099999999999,0,False,False,38
+263,5f5452df72345118f58d187b,955.84,957.58,"Yeah, I don't know why that borrows",-0.2099999999999227,1.740000000000009,0,False,True,8
+264,5b5e7e643bac1d0001f9bf28,957.14,957.76,where we,-0.44000000000005457,0.6200000000000045,0,False,True,2
+265,5f5452df72345118f58d187b,957.58,959.16,"my mind a little bit, you know?",-0.17999999999994998,1.5799999999999272,1,True,True,7
+266,5b5e7e643bac1d0001f9bf28,959.84,961.29,it's,0.6800000000000637,1.4499999999999318,0,False,False,2
+267,5f5452df72345118f58d187b,960.24,960.45,Right.,-1.0499999999999545,0.21000000000003638,0,False,True,1
+268,5b5e7e643bac1d0001f9bf28,961.29,982.75,"a big I mean it's a big state a big state in the big region you know it's it's got a lot of different climates and a lot of different areas and and geography and stuff I think yeah when most people think of Washington they just think of Seattle you know that's that's pretty much what people know about it, I guess. The space needle.",0.8399999999999181,21.460000000000036,0,False,False,71
+269,5f5452df72345118f58d187b,981.94,985.05,"Yeah, that's right. It's",-0.8099999999999454,3.1099999999999,0,False,True,6
+270,5b5e7e643bac1d0001f9bf28,984.34,984.96,Mhm.,-0.7099999999999227,0.6200000000000045,0,False,True,1
+271,5f5452df72345118f58d187b,985.54,985.75,and,0.5799999999999272,0.21000000000003638,0,False,False,1
+272,5b5e7e643bac1d0001f9bf28,985.64,987.56,Bill gates Boeing.,-0.11000000000001364,1.919999999999959,0,False,True,3
+273,5f5452df72345118f58d187b,988.14,999.95,"yeah, so I saw some game warden shows or something where they go out on patrol of bays and the rivers and the woods and stuff. That was kind of new",0.5800000000000409,11.81000000000006,0,False,False,31
+274,5b5e7e643bac1d0001f9bf28,999.94,1000.36,Mhm.,-0.009999999999990905,0.4199999999999591,0,False,True,1
+275,5f5452df72345118f58d187b,999.95,1007.27,"to me. Just I don't know why, I just don't picture it, you know, for Washington state like that. Strange.",-0.40999999999996817,7.319999999999936,0,False,True,22
+276,5b5e7e643bac1d0001f9bf28,1006.54,1007.16,Mhm.,-0.7300000000000182,0.6200000000000045,0,False,True,1
+277,5f5452df72345118f58d187b,1007.94,1021.78,"But uh bring it over here, you you'll get down to the mostly like in the winners of twenties and it goes up to mid eighties. We've had a lot of nineties this summer, we're right",0.7800000000000864,13.839999999999918,0,False,False,39
+278,5b5e7e643bac1d0001f9bf28,1021.74,1022.36,Um,-0.03999999999996362,0.6200000000000045,0,False,True,1
+279,5f5452df72345118f58d187b,1021.78,1024.59,all summer is fried. Well,-0.5800000000000409,2.8099999999999454,0,False,True,5
+280,5b5e7e643bac1d0001f9bf28,1024.44,1024.65,Oh,-0.14999999999986358,0.21000000000003638,0,False,True,1
+281,5f5452df72345118f58d187b,1024.59,1024.85,what?,-0.060000000000172804,0.2599999999999909,1,True,True,1
+282,5b5e7e643bac1d0001f9bf28,1024.65,1045.09,"yeah, but I mean having lived in michigan, you know that, I mean it gets the temperatures can get hot hotter here, but it's so much less humid, you know over there, it's like the humidity can be up 90% or higher and you even get into the eighties there and it's just miserable, you",-0.1999999999998181,20.439999999999827,0,False,True,58
+283,5f5452df72345118f58d187b,1044.74,1045.27,Mhm,-0.34999999999990905,0.5299999999999727,0,False,True,1
+284,5b5e7e643bac1d0001f9bf28,1045.09,1050.77,"know, because the humidity makes so much of a difference that's just muggy and sticky and",-0.18000000000006366,5.680000000000064,0,False,True,17
+285,5f5452df72345118f58d187b,1050.64,1050.85,mm.,-0.12999999999988177,0.209999999999809,0,False,True,1
+286,5b5e7e643bac1d0001f9bf28,1050.77,1060.46,"you know, it's awful. I mean if it's a dry heat, you know people, I mean people talk about it, I just didn't even realize how true it was until I went out there. You know how much difference it makes",-0.07999999999992724,9.690000000000055,0,False,True,44
+287,5f5452df72345118f58d187b,1060.94,1070.35,Yeah yeah that's pretty neat. Do you hunt and stuff around there you know?,0.4800000000000182,9.409999999999854,1,True,False,15
+288,5b5e7e643bac1d0001f9bf28,1071.14,1081.55,"my brother does. Um I never did much when a little grouse hunting when I was a teenager I go I like to go out and hunt mushrooms and pick berries and stuff, Take a lot of pictures. Um",0.790000000000191,10.409999999999854,0,False,False,39
+289,5f5452df72345118f58d187b,1080.94,1081.17,Oh,-0.6099999999999,0.2300000000000182,0,False,True,1
+290,5b5e7e643bac1d0001f9bf28,1081.56,1084.45,"I have nothing against it, I just you know, never did a lot of it fish.",0.38999999999987267,2.8900000000001,0,False,False,16
+291,5f5452df72345118f58d187b,1084.74,1085.06,wild,0.2899999999999636,0.31999999999993634,0,False,False,1
+292,5b5e7e643bac1d0001f9bf28,1084.94,1085.66,Um.,-0.11999999999989086,0.7200000000000273,0,False,True,1
+293,5f5452df72345118f58d187b,1085.06,1085.76,berries,-0.6000000000001364,0.7000000000000455,0,False,True,1
+294,5b5e7e643bac1d0001f9bf28,1086.34,1096.5,"Mhm. Yeah huckleberries, raspberries, you know blueberry, well blueberries are farmed but um my blueberries, raspberries, blackberries, that kind",0.5799999999999272,10.160000000000082,0,False,False,19
+295,5f5452df72345118f58d187b,1096.44,1096.8,wow,-0.05999999999994543,0.35999999999989996,0,False,True,1
+296,5b5e7e643bac1d0001f9bf28,1096.5,1096.96,of thing.,-0.2999999999999545,0.4600000000000364,0,False,True,2
+297,5f5452df72345118f58d187b,1096.8,1097.76,it sounds good.,-0.16000000000008185,0.9600000000000364,0,False,True,3
+298,5b5e7e643bac1d0001f9bf28,1098.54,1099.94,Yeah,0.7799999999999727,1.400000000000091,0,False,False,1
+299,5f5452df72345118f58d187b,1099.14,1102.07,Isn't knots berry farm out there somewhere?,-0.7999999999999545,2.9299999999998363,1,True,True,8
+300,5b5e7e643bac1d0001f9bf28,1103.24,1106.65,that's done in California. Yeah.,1.1700000000000728,3.410000000000082,0,False,False,6
+301,5f5452df72345118f58d187b,1105.34,1106.77,Northern California,-1.3100000000001728,1.4300000000000637,0,False,True,2
+302,5b5e7e643bac1d0001f9bf28,1108.04,1108.7,Southern.,1.2699999999999818,0.6600000000000819,0,False,False,1
+303,5f5452df72345118f58d187b,1108.44,1109.15,is it?,-0.2599999999999909,0.7100000000000364,1,True,True,2
+304,5b5e7e643bac1d0001f9bf28,1108.71,1109.17,Yeah.,-0.44000000000005457,0.4600000000000364,0,False,True,1
+305,5f5452df72345118f58d187b,1109.16,1109.67,Wow.,-0.009999999999990905,0.5099999999999909,0,False,True,1
+306,5b5e7e643bac1d0001f9bf28,1110.24,1110.77,Yeah.,0.5699999999999363,0.5299999999999727,0,False,False,1
+307,5f5452df72345118f58d187b,1111.94,1116.46,"I think they have some kind of special store restaurant don't they? Somewhere down there,",1.1700000000000728,4.519999999999982,1,False,False,16
+308,5b5e7e643bac1d0001f9bf28,1116.94,1121.45,"I don't know, I think it's even a they have some kind of a park or something, I'm not",0.4800000000000182,4.509999999999991,0,False,False,22
+309,5f5452df72345118f58d187b,1121.44,1124.26,they,-0.009999999999990905,2.8199999999999363,0,False,True,1
+310,5b5e7e643bac1d0001f9bf28,1121.45,1123.44,sure. Yeah.,-2.8099999999999454,1.990000000000009,0,False,True,2
+311,5f5452df72345118f58d187b,1124.27,1126.36,grow everything in California don't they?,0.8299999999999272,2.089999999999918,1,True,False,7
+312,5b5e7e643bac1d0001f9bf28,1127.74,1138.55,"Oh yeah, huge agricultural state, all kinds of vegetables, fruits you know and most of the country's avocados come from California, the ones that don't come from Mexico",1.3800000000001091,10.809999999999945,0,False,False,30
+313,5f5452df72345118f58d187b,1138.04,1138.55,Mm.,-0.5099999999999909,0.5099999999999909,0,False,True,1
+314,5b5e7e643bac1d0001f9bf28,1139.14,1148.86,"nuts, you know I mean they don't grow as all the corn and soybeans and stuff like they grow in the midwest but you know everything else",0.5900000000001455,9.7199999999998,0,False,False,28
+315,5f5452df72345118f58d187b,1147.94,1149.55,Yeah look.,-0.9199999999998454,1.6099999999999,0,False,True,2
+316,5b5e7e643bac1d0001f9bf28,1150.14,1167.17,"out here, it's apples and pears mostly. Uh some some cherries a little further east, some peaches, you go further eastern Washington and there's a ton of peaches, onions. Um There's a lot of agriculture in Washington too, especially in the eastern part,",0.5900000000001455,17.029999999999973,0,False,False,46
+317,5f5452df72345118f58d187b,1167.14,1167.56,Mhm.,-0.029999999999972715,0.4199999999998454,0,False,True,1
+318,5b5e7e643bac1d0001f9bf28,1168.34,1169.96,potatoes.,0.7799999999999727,1.6200000000001182,0,False,False,1
+319,5f5452df72345118f58d187b,1169.84,1179.56,That that eastern I I understand that there's uh isn't there some kind of a desert or high desert area like between Spokane and to the west something,-0.12000000000011823,9.720000000000027,0,False,True,30
+320,5b5e7e643bac1d0001f9bf28,1179.24,1180.46,Yeah. Yeah.,-0.31999999999993634,1.2200000000000273,0,False,True,2
+321,5f5452df72345118f58d187b,1180.84,1181.21,And,0.37999999999988177,0.37000000000011823,0,False,False,1
+322,5b5e7e643bac1d0001f9bf28,1180.84,1181.46,Mhm.,-0.37000000000011823,0.6200000000001182,0,False,True,1
+323,5f5452df72345118f58d187b,1181.22,1186.86,so that that agricultural area probably be wouldn't be there obviously. Right.,-0.2400000000000091,5.639999999999873,0,False,True,13
+324,5b5e7e643bac1d0001f9bf28,1187.74,1206.85,Um Not no not so much in the desert. Well the Yakima Valley is within that area and they do actually have a lot of agriculture because they irrigate from the Yakima River and the soil there is really good um They've got a lot of volcanic soil from like Mount ST helens and stuff because of all the,0.8800000000001091,19.1099999999999,0,False,False,60
+325,5f5452df72345118f58d187b,1206.84,1207.26,Mhm.,-0.009999999999990905,0.42000000000007276,0,False,True,1
+326,5b5e7e643bac1d0001f9bf28,1206.85,1241.53,"ash. Um So they gave a really good fruit around, they're you know peaches and stuff. Um A lot of you know just lots of fruit comes from the Yakima Valley. They have fruit canneries there and stuff still. Um So there is some agriculture there too. Uh But yeah that that that kind of that valley area has a lot of the orchards and stuff and quite a quite a lot around here. The Hood River Valley and Mount Adams as well. Uh huh. Where a lot",-0.41000000000008185,34.680000000000064,0,False,True,89
+327,5f5452df72345118f58d187b,1241.34,1241.62,So,-0.19000000000005457,0.2799999999999727,0,False,True,1
+328,5b5e7e643bac1d0001f9bf28,1241.53,1241.62,of,-0.08999999999991815,0.08999999999991815,0,False,True,1
+329,5f5452df72345118f58d187b,1241.62,1242.15,Canada,0.0,0.5300000000002001,0,False,False,1
+330,5b5e7e643bac1d0001f9bf28,1241.62,1242.17,it is?,-0.5300000000002001,0.5500000000001819,1,True,True,2
+331,5f5452df72345118f58d187b,1242.15,1245.51,is pretty far away and Oregon's right across the river.,-0.01999999999998181,3.3599999999999,0,False,True,11
+332,5b5e7e643bac1d0001f9bf28,1245.24,1245.65,Yeah.,-0.2699999999999818,0.41000000000008185,0,False,True,1
+333,5f5452df72345118f58d187b,1245.51,1245.86,Right.,-0.14000000000010004,0.34999999999990905,0,False,True,1
+334,5b5e7e643bac1d0001f9bf28,1247.24,1248.95,"Oh yeah, we're a lot closer to Oregon.",1.3800000000001091,1.7100000000000364,0,False,False,9
+335,5f5452df72345118f58d187b,1248.54,1248.77,Yeah,-0.41000000000008185,0.2300000000000182,0,False,True,1
+336,5b5e7e643bac1d0001f9bf28,1249.44,1251.15,"Yeah, it's about a 20 minute drive",0.6700000000000728,1.7100000000000364,0,False,False,8
+337,5f5452df72345118f58d187b,1251.14,1251.35,you,-0.009999999999990905,0.209999999999809,0,False,True,1
+338,5b5e7e643bac1d0001f9bf28,1251.15,1251.86,to Oregon.,-0.1999999999998181,0.709999999999809,0,False,True,2
+339,5f5452df72345118f58d187b,1251.35,1253.27,"spend a lot of time, they're not really",-0.5099999999999909,1.9200000000000728,0,False,True,9
+340,5b5e7e643bac1d0001f9bf28,1254.64,1259.56,"Um Yeah, a family there too. That's where we go for shopping pretty much. Um",1.3700000000001182,4.919999999999845,0,False,False,16
+341,5f5452df72345118f58d187b,1259.24,1259.77,"you have worked,",-0.31999999999993634,0.5299999999999727,0,False,True,3
+342,5b5e7e643bac1d0001f9bf28,1260.34,1284.28,"Hey that's where the big supermarkets are, cause it's a bigger town across the river. So that's where you know that's where like Safeway is where those hours to go grocery shopping, everything. Um That's where walmart is, which I hate walmart, but around here that's the only, I mean that's where you have to go to buy a lot of stuff, just everyday stuff, you know they wouldn't have in another store. Um And also it's like there's no sales tax in Oregon so it's",0.5699999999999363,23.940000000000055,0,False,False,97
+343,5f5452df72345118f58d187b,1284.24,1284.56,wow.,-0.03999999999996362,0.31999999999993634,0,False,True,1
+344,5b5e7e643bac1d0001f9bf28,1284.28,1287.46,like you know why wouldn't you shop there?,-0.2799999999999727,3.1800000000000637,1,True,True,9
+345,5f5452df72345118f58d187b,1287.04,1290.85,Yeah. Is it the gas tax over there? Is there a difference in price?,-0.42000000000007276,3.8099999999999454,2,True,True,14
+346,5b5e7e643bac1d0001f9bf28,1292.24,1301.67,"It is cheaper. Um I don't know if it's cheaper just because it's a bigger challenge or if there is less tax or what, but it does tend to be cheaper by about 20 cents per gallon or something",1.3900000000001,9.430000000000064,0,False,False,42
+347,5f5452df72345118f58d187b,1301.14,1301.56,Mm.,-0.5299999999999727,0.4199999999998454,0,False,True,1
+348,5b5e7e643bac1d0001f9bf28,1303.24,1305.67,depending on the different gas station or whatever but.,1.6800000000000637,2.4300000000000637,0,False,False,9
+349,5f5452df72345118f58d187b,1306.54,1310.46,Yeah that's pretty neat. It's really interesting,0.8699999999998909,3.9200000000000728,0,False,False,9
+350,5b5e7e643bac1d0001f9bf28,1310.34,1310.85,Mhm.,-0.12000000000011823,0.5099999999999909,0,False,True,1
+351,5f5452df72345118f58d187b,1310.46,1312.46,learning about different parts of the country,-0.38999999999987267,2.0,0,False,True,7
+352,5b5e7e643bac1d0001f9bf28,1313.84,1314.34,Yeah.,1.3799999999998818,0.5,0,False,False,1
+353,5f5452df72345118f58d187b,1315.64,1320.25,that that mountain range that just extends up from California I guess. Huh?,1.300000000000182,4.6099999999999,1,True,False,13
+354,5b5e7e643bac1d0001f9bf28,1321.74,1328.27,Um I know it goes all through Oregon and Washington and it goes it might go a little bit into Canada and yeah it goes down into California a little bit.,1.490000000000009,6.529999999999973,0,False,False,31
+355,5f5452df72345118f58d187b,1329.04,1336.77,Yeah you like the big cities out there better you like where you're at like it's more country or?,0.7699999999999818,7.730000000000018,1,True,False,21
+356,5b5e7e643bac1d0001f9bf28,1337.74,1381.11,"I like both. Um When I was growing up here I definitely wanted to live in a big city and I do prefer it in some ways, I mean it's just there's more access to more cultural stuff, it's easier to get around you know public transportation. Um There's more people to meet and stuff to do and etcetera, but I also really like it out here, you know? It's pretty it's quiet, there is its own type of stuff to do. I know a lot of people out here and um you know, there's lots of nature, I mean you can do stuff out outside and and being as an adult, there's stuff about it, you appreciate that you don't as a kid, just the quiet and the privacy and that kind of stuff,",0.9700000000000273,43.36999999999989,1,False,False,144
+357,5f5452df72345118f58d187b,1380.84,1381.17,Mhm.,-0.2699999999999818,0.3300000000001546,0,False,True,1
+358,5b5e7e643bac1d0001f9bf28,1381.12,1388.54,"you know that you don't you don't notice or care as much about when you're a kid or a teenager, you know what I mean,",-0.0500000000001819,7.420000000000073,0,False,True,28
+359,5f5452df72345118f58d187b,1388.24,1388.86,Right.,-0.2999999999999545,0.6199999999998909,0,False,True,1
+360,5b5e7e643bac1d0001f9bf28,1388.55,1389.05,like?,-0.30999999999994543,0.5,1,True,True,1
+361,5f5452df72345118f58d187b,1389.34,1390.08,How's,0.2899999999999636,0.7400000000000091,0,False,False,2
+362,5b5e7e643bac1d0001f9bf28,1389.94,1390.56,Yeah.,-0.13999999999987267,0.6199999999998909,0,False,True,1
+363,5f5452df72345118f58d187b,1390.08,1392.67,your internet? You get pretty good internet out there?,-0.4800000000000182,2.5900000000001455,2,True,True,9
+364,5b5e7e643bac1d0001f9bf28,1393.84,1402.86,"Oh yeah, because we're not so far from civilization that, you know, it's like, it's only about we're only about 12 miles from whites even from the gorge, so. Yeah, it's pretty decent.",1.1699999999998454,9.019999999999982,0,False,False,38
+365,5f5452df72345118f58d187b,1402.84,1403.77,That's good.,-0.01999999999998181,0.9300000000000637,0,False,True,3
+366,5b5e7e643bac1d0001f9bf28,1404.84,1408.17,"Mhm. Yeah,",1.0699999999999363,3.3300000000001546,0,False,False,2
+367,5f5452df72345118f58d187b,1408.04,1408.27,Right.,-0.13000000000010914,0.2300000000000182,0,False,True,1
+368,5b5e7e643bac1d0001f9bf28,1409.24,1416.09,"probably get up to about trout lake or further out in like glen wood or something and probably more of a problem. Yeah, around here it's",0.9700000000000273,6.849999999999909,0,False,False,27
+369,5f5452df72345118f58d187b,1416.04,1416.31,Yeah,-0.049999999999954525,0.2699999999999818,0,False,True,1
+370,5b5e7e643bac1d0001f9bf28,1416.09,1416.67,not bad.,-0.22000000000002728,0.5800000000001546,0,False,True,2
+371,5f5452df72345118f58d187b,1416.32,1422.05,my son he always liked cities better because they get good internet and uh wait,-0.3500000000001364,5.730000000000018,0,False,True,15
+372,5b5e7e643bac1d0001f9bf28,1421.84,1423.27,Oh yeah.,-0.21000000000003638,1.4300000000000637,0,False,True,2
+373,5f5452df72345118f58d187b,1422.44,1426.27,"you get you get little towns out in the country, you're you'll get some internet. Huh?",-0.8299999999999272,3.8299999999999272,1,True,True,18
+374,5b5e7e643bac1d0001f9bf28,1427.64,1438.86,Mhm. Yeah it depends on where you are but cell service can be a problem. The only sell company that works as Verizon so you know you have to shell out some more money but,1.3700000000001182,11.2199999999998,0,False,False,35
+375,5f5452df72345118f58d187b,1438.94,1439.45,Mm.,0.08000000000015461,0.5099999999999909,0,False,False,1
+376,5b5e7e643bac1d0001f9bf28,1441.04,1451.06,"just that's more of the topography than how far away you are. Um Just because of the mountains and the hills and stuff, I guess it gets in the way of the signals or whatever.",1.5899999999999181,10.019999999999982,0,False,False,36
+377,5f5452df72345118f58d187b,1451.54,1453.77,Mhm. Then arrest,0.4800000000000182,2.230000000000018,0,False,False,3
+378,5b5e7e643bac1d0001f9bf28,1454.24,1460.77,"But yeah and if you're driving, you know, you'll have areas where you don't get any service. So",0.4700000000000273,6.529999999999973,0,False,False,21
+379,5f5452df72345118f58d187b,1464.44,1472.77,you get uh what what's the speed limit on some of them back roads can you just take off pretty fast or they they are not limited?,3.6700000000000728,8.329999999999927,1,True,False,28
+380,5b5e7e643bac1d0001f9bf28,1473.24,1496.68,"uh well right around here I think it's it's pretty typical. I don't know exactly, I mean different, you know different parts of the road are different. Um You have to slow down around curves and stuff, but I think it's like you know 55 60 on the highway here and then I mean technically if you get up in the mountain there's nobody around so you could drive as fast as you want but you're not gonna because it's all dirt and gravel and bumpy and stuff",0.4700000000000273,23.440000000000055,0,False,False,96
+381,5f5452df72345118f58d187b,1496.54,1496.86,Yeah.,-0.14000000000010004,0.31999999999993634,0,False,True,1
+382,5b5e7e643bac1d0001f9bf28,1496.68,1501.85,so you know you don't want to wreck your car or your truck so.,-0.1799999999998363,5.169999999999845,0,False,True,15
+383,5f5452df72345118f58d187b,1501.84,1504.86,Do you have deer out there to hunt or what do you hunt?,-0.009999999999990905,3.019999999999982,1,True,True,13
+384,5b5e7e643bac1d0001f9bf28,1505.54,1508.66,Oh yeah yeah deer elk um,0.6800000000000637,3.1200000000001182,0,False,False,6
+385,5f5452df72345118f58d187b,1508.44,1508.95,Oh,-0.22000000000002728,0.5099999999999909,0,False,True,1
+386,5b5e7e643bac1d0001f9bf28,1509.44,1515.95,"I mean there's bears and Cougars and stuff, I think technically you can get a license to hunt bear you really wanted to",0.4900000000000091,6.509999999999991,0,False,False,24
+387,5f5452df72345118f58d187b,1515.34,1515.54,"yeah,",-0.6100000000001273,0.20000000000004547,0,False,True,1
+388,5b5e7e643bac1d0001f9bf28,1516.34,1523.04,um you kill a bear but uh but that's that's the main hunting is deer and elk. Yeah.,0.7999999999999545,6.7000000000000455,0,False,False,20
+389,5f5452df72345118f58d187b,1523.34,1524.27,white tailed deer?,0.2999999999999545,0.9300000000000637,1,True,False,3
+390,5b5e7e643bac1d0001f9bf28,1524.64,1525.94,Enders browse. What's,0.37000000000011823,1.2999999999999545,0,False,False,4
+391,5f5452df72345118f58d187b,1525.64,1525.97,White,-0.2999999999999545,0.32999999999992724,0,False,True,1
+392,5b5e7e643bac1d0001f9bf28,1525.94,1526.35,that?,-0.029999999999972715,0.4099999999998545,1,True,True,1
+393,5f5452df72345118f58d187b,1525.97,1526.66,tailed deer,-0.37999999999988177,0.6900000000000546,0,False,True,2
+394,5b5e7e643bac1d0001f9bf28,1528.54,1529.65,White tail and black,1.8799999999998818,1.1100000000001273,0,False,False,4
+395,5f5452df72345118f58d187b,1529.43,1529.86,all,-0.22000000000002728,0.4299999999998363,0,False,True,1
+396,5b5e7e643bac1d0001f9bf28,1529.65,1530.07,tail.,-0.209999999999809,0.4199999999998454,0,False,True,1
+397,5f5452df72345118f58d187b,1529.86,1530.38,sized,-0.21000000000003638,0.5200000000002092,0,False,True,1
+398,5b5e7e643bac1d0001f9bf28,1530.08,1530.54,Yeah.,-0.3000000000001819,0.4600000000000364,0,False,True,1
+399,5f5452df72345118f58d187b,1530.38,1532.17,area now. The,-0.15999999999985448,1.7899999999999636,0,False,True,3
+400,5b5e7e643bac1d0001f9bf28,1532.04,1532.24,Oh,-0.13000000000010914,0.20000000000004547,0,False,True,1
+401,5f5452df72345118f58d187b,1532.17,1532.65,Maryland,-0.06999999999993634,0.4800000000000182,0,False,True,1
+402,5b5e7e643bac1d0001f9bf28,1532.24,1532.66,yeah.,-0.41000000000008185,0.42000000000007276,0,False,True,1
+403,5f5452df72345118f58d187b,1532.65,1537.86,"they got these little dear I forget hair, a deer or something like that. They're real small.",-0.009999999999990905,5.209999999999809,0,False,True,18
+404,5b5e7e643bac1d0001f9bf28,1537.34,1540.06,Uh huh. Mhm.,-0.5199999999999818,2.7200000000000273,0,False,True,3
+405,5f5452df72345118f58d187b,1539.54,1546.77,"Okay. That's really nick. This is really enlightening conversation, learning about that area. It's do we need?",-0.5199999999999818,7.230000000000018,1,True,True,19
+406,5b5e7e643bac1d0001f9bf28,1548.24,1564.55,"Yeah it's fun, it's a fun, it's a fun place to live, I like it you know it's um I like the climate, you know it's it's winters aren't as hardships as the midwest and it's you know, it's nice",1.4700000000000273,16.309999999999945,0,False,False,49
+407,5f5452df72345118f58d187b,1564.14,1564.36,"Okay,",-0.4099999999998545,0.2199999999997999,0,False,True,1
+408,5b5e7e643bac1d0001f9bf28,1564.94,1569.77,or as hard as harsh michigan at least it sounds like Pittsburgh isn't quite as bad.,0.5800000000001546,4.829999999999927,0,False,False,17
+409,5f5452df72345118f58d187b,1569.44,1578.5,not quite as bad. It used to be worse now. We we probably don't get snow. It seems like three times a year or something. Used to use like 40,-0.32999999999992724,9.059999999999945,0,False,True,31
+410,5b5e7e643bac1d0001f9bf28,1578.14,1578.67,Uh huh.,-0.35999999999989996,0.5299999999999727,0,False,True,2
+411,5f5452df72345118f58d187b,1578.5,1580.16,inches a year or something. I don't know.,-0.17000000000007276,1.6600000000000819,0,False,True,9
+412,5b5e7e643bac1d0001f9bf28,1580.74,1588.96,"Well lord michigan is still crazy, it's not as bad as, you know, Wisconsin or something or Minnesota but it's it's plenty, it's plenty",0.5799999999999272,8.220000000000027,0,False,False,28
+413,5f5452df72345118f58d187b,1588.94,1589.44,Yeah.,-0.01999999999998181,0.5,0,False,True,1
+414,5b5e7e643bac1d0001f9bf28,1588.96,1592.96,"crazy when I was living there at least. Yeah,",-0.4800000000000182,4.0,0,False,True,9
+415,5f5452df72345118f58d187b,1593.84,1594.46,Yeah,0.8799999999998818,0.6200000000001182,0,False,False,1
+416,5b5e7e643bac1d0001f9bf28,1594.94,1619.88,"yeah, it's um Wisconsin, remember going up to Madison, it's it gets frigid too, I mean you get plenty of snow and ice but the temperatures to in Chicago, the thing about Chicago is is the wind and the, you know, just cuts right through you and everything and it'll get down below zero michigan, ann arbor would get down below zero sometimes too, you know you walk outside and your nose hairs, it just frees together kind",0.4800000000000182,24.940000000000055,0,False,False,81
+417,5f5452df72345118f58d187b,1619.84,1620.46,wow.,-0.040000000000190994,0.6200000000001182,0,False,True,1
+418,5b5e7e643bac1d0001f9bf28,1619.88,1625.95,"of a thing, I heard her to breathe, you get that kind of weather there down sub zero type stuff.",-0.5799999999999272,6.069999999999936,0,False,True,20
+419,5f5452df72345118f58d187b,1625.64,1631.34,Very rarely. You'll get single digits at night sometime and below zero. It's pretty,-0.30999999999994543,5.699999999999818,0,False,True,16
+420,5b5e7e643bac1d0001f9bf28,1631.14,1631.56,Mhm.,-0.1999999999998181,0.4199999999998454,0,False,True,1
+421,5f5452df72345118f58d187b,1631.34,1635.17,rare. Maybe maybe once every three years or something or,-0.22000000000002728,3.8300000000001546,0,False,True,10
+422,5b5e7e643bac1d0001f9bf28,1636.44,1639.17,Oh wow. Yeah it's pretty typical in michigan,1.2699999999999818,2.730000000000018,0,False,False,9
+423,5f5452df72345118f58d187b,1639.24,1639.45,that.,0.06999999999993634,0.21000000000003638,0,False,False,1
+424,5b5e7e643bac1d0001f9bf28,1639.64,1656.66,and you know they use feet of snow sometimes and they don't accept in downtown in ann arbor they don't um do anything about the sidewalks so you just got to try to trudge through it and you know and then there's ice and it's just you can just be miserable in the winter man like.,0.19000000000005457,17.019999999999982,0,False,False,60
+425,5f5452df72345118f58d187b,1655.94,1660.35,"We've got all those lakes up there, that's where they get dumped on by snow I guess.",-0.7200000000000273,4.4099999999998545,0,False,True,19
+426,5b5e7e643bac1d0001f9bf28,1661.74,1682.17,Yeah well I mean you get some of the weather too is that it comes from the lake effect is I think is part of what the weather comes from. Ann arbor is closest to Lake Erie. Um And then Chicago's by lake michigan of course so. No I mean the whole state is surrounded by the great lakes so no matter where you are pretty much.,1.3900000000001,20.430000000000064,0,False,False,68
+427,5f5452df72345118f58d187b,1681.64,1682.81,Yeah. When,-0.5299999999999727,1.1699999999998454,0,False,True,2
+428,5b5e7e643bac1d0001f9bf28,1682.54,1683.04,Yeah.,-0.2699999999999818,0.5,0,False,True,1
+429,5f5452df72345118f58d187b,1682.81,1696.38,"I was in michigan with my relatives we went out and like you're on fishing and it was, they had a camp up in tar wash, it's like up in that some of that mitt and I think it is, it's",-0.2300000000000182,13.570000000000164,0,False,True,44
+430,5b5e7e643bac1d0001f9bf28,1695.84,1696.46,Uh huh.,-0.540000000000191,0.6200000000001182,0,False,True,2
+431,5f5452df72345118f58d187b,1696.38,1709.03,right on the lake and then the ocean of the Great Lakes not that far away if you want to go over there. Uh huh. It's pretty interesting. We have like Lake,-0.07999999999992724,12.649999999999864,0,False,True,33
+432,5b5e7e643bac1d0001f9bf28,1708.94,1709.24,Damn,-0.08999999999991815,0.2999999999999545,0,False,True,1
+433,5f5452df72345118f58d187b,1709.03,1709.37,Erie,-0.21000000000003638,0.33999999999991815,0,False,True,1
+434,5b5e7e643bac1d0001f9bf28,1709.24,1709.57,it.,-0.12999999999988177,0.32999999999992724,0,False,True,1
+435,5f5452df72345118f58d187b,1709.37,1713.35,"up here in the town of here, you will get dumped on us. No, real bad.",-0.20000000000004547,3.980000000000018,0,False,True,16
+436,5b5e7e643bac1d0001f9bf28,1713.94,1721.17,Oh yeah yeah that lake effect. It must be. Uh Yeah you guys have Lake Erie to. It's a long one I guess.,0.5900000000001455,7.230000000000018,0,False,False,24
+437,5f5452df72345118f58d187b,1720.74,1723.06,Yeah. Goes all the way york,-0.43000000000006366,2.3199999999999363,0,False,True,6
+438,5b5e7e643bac1d0001f9bf28,1723.04,1727.05,Yeah. Uh huh.,-0.01999999999998181,4.009999999999991,0,False,True,3
+439,5f5452df72345118f58d187b,1726.54,1727.96,"Niagara River,",-0.5099999999999909,1.4200000000000728,0,False,True,2
+440,5b5e7e643bac1d0001f9bf28,1727.84,1728.77,No.,-0.12000000000011823,0.9300000000000637,0,False,True,1
+441,5f5452df72345118f58d187b,1727.97,1733.27,it connects Lake Erie and Lake Ontario. That thing is nasty. It,-0.7999999999999545,5.2999999999999545,0,False,True,12
+442,5b5e7e643bac1d0001f9bf28,1732.94,1736.06,Oh yeah. At least it doesn't catch on fire anymore.,-0.32999999999992724,3.119999999999891,0,False,True,11
+443,5f5452df72345118f58d187b,1735.64,1736.66,there is so,-0.4199999999998454,1.0199999999999818,0,False,True,3
+444,5b5e7e643bac1d0001f9bf28,1737.84,1744.06,Yeah. You ever heard about the cuyahoga River catching on fire? It did at least once just from all the chemicals in it,1.1799999999998363,6.220000000000027,1,False,False,23
+445,5f5452df72345118f58d187b,1744.04,1744.27,oh,-0.01999999999998181,0.2300000000000182,0,False,True,1
+446,5b5e7e643bac1d0001f9bf28,1744.06,1746.46,and stuff. It actually beacon flammable.,-0.21000000000003638,2.400000000000091,0,False,True,6
+447,5f5452df72345118f58d187b,1745.94,1748.96,"hyah Hoga. I said no, you",-0.5199999999999818,3.019999999999982,0,False,True,6
+448,5b5e7e643bac1d0001f9bf28,1748.14,1750.27,"Yeah. Oh Niagara,",-0.8199999999999363,2.1299999999998818,0,False,True,3
+449,5f5452df72345118f58d187b,1750.24,1750.75,you,-0.029999999999972715,0.5099999999999909,0,False,True,1
+450,5b5e7e643bac1d0001f9bf28,1750.28,1751.36,sorry misheard.,-0.4700000000000273,1.0799999999999272,0,False,True,2
+451,5f5452df72345118f58d187b,1750.75,1753.55,mean chi yoga in Ohio. Where is,-0.6099999999999,2.7999999999999545,0,False,True,7
+452,5b5e7e643bac1d0001f9bf28,1753.54,1754.16,Yeah.,-0.009999999999990905,0.6200000000001182,0,False,True,1
+453,5f5452df72345118f58d187b,1753.55,1753.96,that?,-0.6100000000001273,0.41000000000008185,1,True,True,1
+454,5b5e7e643bac1d0001f9bf28,1755.64,1756.73,Yeah cuyahoga River is in,1.6800000000000637,1.0899999999999181,0,False,False,5
+455,5f5452df72345118f58d187b,1756.64,1756.92,Is,-0.08999999999991815,0.2799999999999727,0,False,True,1
+456,5b5e7e643bac1d0001f9bf28,1756.73,1757.35,Ohio,-0.19000000000005457,0.6199999999998909,0,False,True,1
+457,5f5452df72345118f58d187b,1756.92,1760.06,that that by like warren or Toledo or youngster?,-0.4299999999998363,3.1399999999998727,1,True,True,9
+458,5b5e7e643bac1d0001f9bf28,1760.54,1761.68,I think it's by Toledo.,0.4800000000000182,1.1400000000001,0,False,False,6
+459,5f5452df72345118f58d187b,1761.54,1761.96,"However,",-0.14000000000010004,0.42000000000007276,0,False,True,1
+460,5b5e7e643bac1d0001f9bf28,1761.68,1763.17,Yeah somewhere around there.,-0.2799999999999727,1.490000000000009,0,False,True,4
+461,5f5452df72345118f58d187b,1763.04,1763.85,I didn't know what,-0.13000000000010914,0.8099999999999454,0,False,True,5
+462,5b5e7e643bac1d0001f9bf28,1764.14,1770.81,Or maybe Akron Akron Cleveland somewhere. I think it might be closer to Akron. I'm not sure,0.290000000000191,6.669999999999845,0,False,False,18
+463,5f5452df72345118f58d187b,1770.74,1771.06,Yeah.,-0.06999999999993634,0.31999999999993634,0,False,True,1
+464,5b5e7e643bac1d0001f9bf28,1770.81,1771.17,though.,-0.25,0.36000000000012733,0,False,True,1
+465,5f5452df72345118f58d187b,1771.07,1776.06,"What did it do? Get some chemicals on it? Make caught on fire, wow,",-0.10000000000013642,4.990000000000009,2,False,True,14
+466,5b5e7e643bac1d0001f9bf28,1775.44,1777.86,Yeah the river caught on fire.,-0.6199999999998909,2.4199999999998454,0,False,True,6
+467,5f5452df72345118f58d187b,1777.44,1778.66,that's crazy. Huh?,-0.4199999999998454,1.2200000000000273,1,True,True,4
+468,5b5e7e643bac1d0001f9bf28,1779.64,1785.27,Yeah. Lake Erie used to be really nasty too. From what I've heard. Just polluted.,0.9800000000000182,5.629999999999882,0,False,False,16
+469,5f5452df72345118f58d187b,1784.94,1788.5,"Yeah, they have mercury problems. I just",-0.32999999999992724,3.5599999999999454,0,False,True,7
+470,5b5e7e643bac1d0001f9bf28,1788.34,1788.96,Mhm.,-0.16000000000008185,0.6200000000001182,0,False,True,1
+471,5f5452df72345118f58d187b,1788.5,1789.16,talked to get,-0.4600000000000364,0.6600000000000819,0,False,True,3
+472,5b5e7e643bac1d0001f9bf28,1789.34,1789.8,No. Better,0.1799999999998363,0.4600000000000364,0,False,False,2
+473,5f5452df72345118f58d187b,1789.64,1790.18,a,-0.15999999999985448,0.5399999999999636,0,False,True,1
+474,5b5e7e643bac1d0001f9bf28,1789.8,1790.45,than.,-0.38000000000010914,0.650000000000091,0,False,True,1
+475,5f5452df72345118f58d187b,1790.19,1799.06,guy on here a couple nights ago. He's from indiana and you're like michigan. He said there's e coli and everything that you can't even swimming like michigan now,-0.2599999999999909,8.86999999999989,0,False,True,33
+476,5b5e7e643bac1d0001f9bf28,1800.64,1801.17,Yeah.,1.5800000000001546,0.5299999999999727,0,False,False,1
+477,5f5452df72345118f58d187b,1800.74,1806.77,"they closed the beach. You can't eat any food, any fish out of there. That's bad.",-0.43000000000006366,6.029999999999973,0,False,True,18
+478,5b5e7e643bac1d0001f9bf28,1808.14,1810.46,Yeah. Yeah.,1.3700000000001182,2.3199999999999363,0,False,False,2
+479,5f5452df72345118f58d187b,1810.14,1811.75,How do we get to this place? Huh?,-0.31999999999993634,1.6099999999999,2,True,True,8
+480,5b5e7e643bac1d0001f9bf28,1813.44,1815.27,Right.,1.6900000000000546,1.8299999999999272,0,False,False,1
+481,5f5452df72345118f58d187b,1813.84,1817.56,Mhm. Yeah.,-1.4300000000000637,3.7200000000000273,0,False,True,2
+482,5b5e7e643bac1d0001f9bf28,1818.04,1826.11,"All right well on that note I gotta take off, you got to do some stuff around the place. I gotta get back to stacking firewood and all that fun stuff",0.4800000000000182,8.069999999999936,0,False,False,33
+483,5f5452df72345118f58d187b,1825.74,1826.16,Right.,-0.36999999999989086,0.42000000000007276,0,False,True,1
+484,5b5e7e643bac1d0001f9bf28,1826.12,1826.96,before it starts.,-0.040000000000190994,0.8400000000001455,0,False,True,3
+485,5f5452df72345118f58d187b,1826.74,1827.04,Or,-0.22000000000002728,0.2999999999999545,0,False,True,1
+486,5b5e7e643bac1d0001f9bf28,1826.96,1827.85,No.,-0.07999999999992724,0.8899999999998727,0,False,True,1
+487,5f5452df72345118f58d187b,1827.04,1828.56,have fun. Nice talking to you.,-0.8099999999999454,1.5199999999999818,0,False,True,6
+488,5b5e7e643bac1d0001f9bf28,1828.54,1830.09,Yeah. Thanks. Yeah same,-0.01999999999998181,1.5499999999999545,0,False,True,4
+489,5f5452df72345118f58d187b,1829.94,1830.27,Take,-0.14999999999986358,0.32999999999992724,0,False,True,1
+490,5b5e7e643bac1d0001f9bf28,1830.09,1830.7,here.,-0.18000000000006366,0.6100000000001273,0,False,True,1
+491,5f5452df72345118f58d187b,1830.64,1830.8,"well,",-0.05999999999994543,0.15999999999985448,0,False,True,1
+492,5b5e7e643bac1d0001f9bf28,1830.71,1830.97,Take,-0.08999999999991815,0.2599999999999909,0,False,True,1
+493,5f5452df72345118f58d187b,1830.8,1831.44,Garcia,-0.17000000000007276,0.6400000000001,0,False,True,1
+494,5b5e7e643bac1d0001f9bf28,1830.97,1831.45,care.,-0.4700000000000273,0.4800000000000182,0,False,True,1
+495,5f5452df72345118f58d187b,1831.49,1832.05,you fight.,0.03999999999996362,0.5599999999999454,0,False,False,2
