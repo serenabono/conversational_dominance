@@ -1,0 +1,1054 @@
+transcript,prompt,n_utterances,speakers,response,response_utterances,response_n_lines,n_responses_match
+"[Student]: ""Miss, I have prepared a presentation on the solar system. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. So, the solar system consists of the Sun and everything that orbits around it.""
+[Teacher]: ""That's correct.""
+[Student]: ""There are eight planets in the solar system. They are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I have prepared a presentation on the solar system. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. So, the solar system consists of the Sun and everything that orbits around it.""
+[Teacher]: ""That's correct.""
+[Student]: ""There are eight planets in the solar system. They are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the Pythagorean theorem?""
+[Student]: ""Yes, I can. The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's a fundamental relation in Euclidean geometry and it's used in many areas of mathematics and physics.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the Pythagorean theorem?""
+[Student]: ""Yes, I can. The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's a fundamental relation in Euclidean geometry and it's used in many areas of mathematics and physics.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I have done some extra research on the topic of World War II. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""World War II was the deadliest conflict in human history, resulting in 70 to 85 million fatalities.""
+[Teacher]: ""That's correct.""
+[Student]: ""It involved more than 30 countries and resulted in significant changes in the world.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I have done some extra research on the topic of World War II. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""World War II was the deadliest conflict in human history, resulting in 70 to 85 million fatalities.""
+[Teacher]: ""That's correct.""
+[Student]: ""It involved more than 30 countries and resulted in significant changes in the world.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the process of photosynthesis?""
+[Student]: ""Yes, I can. Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments.""
+[Teacher]: ""That's correct.""
+[Student]: ""It involves the conversion of carbon dioxide and water into glucose and oxygen. The glucose is used by the plants for energy and growth.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the process of photosynthesis?""
+[Student]: ""Yes, I can. Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments.""
+[Teacher]: ""That's correct.""
+[Student]: ""It involves the conversion of carbon dioxide and water into glucose and oxygen. The glucose is used by the plants for energy and growth.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I have prepared a book report on 'To Kill a Mockingbird'. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. 'To Kill a Mockingbird' is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature.""
+[Teacher]: ""That's correct.""
+[Student]: ""The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I have prepared a book report on 'To Kill a Mockingbird'. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. 'To Kill a Mockingbird' is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature.""
+[Teacher]: ""That's correct.""
+[Student]: ""The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I have been studying the French Revolution and I would like to share some insights.""
+[Teacher]: ""Please, go ahead.""
+[Student]: ""The French Revolution was a period of radical political and societal change in France that lasted from 1789 until 1799.""
+[Teacher]: ""That's correct.""
+[Student]: ""It led to the end of monarchy and the rise of Napoleon Bonaparte.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I have been studying the French Revolution and I would like to share some insights.""
+[Teacher]: ""Please, go ahead.""
+[Student]: ""The French Revolution was a period of radical political and societal change in France that lasted from 1789 until 1799.""
+[Teacher]: ""That's correct.""
+[Student]: ""It led to the end of monarchy and the rise of Napoleon Bonaparte.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the concept of evolution?""
+[Student]: ""Yes, I can. Evolution is the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.""
+[Teacher]: ""That's correct.""
+[Student]: ""The theory of evolution is widely accepted among the scientific community, providing a broad explanation of the range of life forms on Earth.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of evolution?""
+[Student]: ""Yes, I can. Evolution is the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.""
+[Teacher]: ""That's correct.""
+[Student]: ""The theory of evolution is widely accepted among the scientific community, providing a broad explanation of the range of life forms on Earth.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I have done some extra research on the topic of the Civil Rights Movement. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""The Civil Rights Movement was a struggle for social justice that took place mainly during the 1950s and 1960s for Black Americans to gain equal rights under the law in the United States.""
+[Teacher]: ""That's correct.""
+[Student]: ""It was a major influence on social justice movements worldwide.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I have done some extra research on the topic of the Civil Rights Movement. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""The Civil Rights Movement was a struggle for social justice that took place mainly during the 1950s and 1960s for Black Americans to gain equal rights under the law in the United States.""
+[Teacher]: ""That's correct.""
+[Student]: ""It was a major influence on social justice movements worldwide.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the concept of gravity?""
+[Student]: ""Yes, I can. Gravity is a force by which a planet or other body draws objects toward its center.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's the force that keeps us on the ground and the planets orbiting the sun.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of gravity?""
+[Student]: ""Yes, I can. Gravity is a force by which a planet or other body draws objects toward its center.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's the force that keeps us on the ground and the planets orbiting the sun.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I have prepared a presentation on the human body. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. The human body is made up of several organ systems that work together as one unit.""
+[Teacher]: ""That's correct.""
+[Student]: ""These systems include the circulatory system, respiratory system, immune system, skeletal system, digestive system, nervous system, and more.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I have prepared a presentation on the human body. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. The human body is made up of several organ systems that work together as one unit.""
+[Teacher]: ""That's correct.""
+[Student]: ""These systems include the circulatory system, respiratory system, immune system, skeletal system, digestive system, nervous system, and more.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I have been studying the Industrial Revolution and I would like to share some insights.""
+[Teacher]: ""Please, go ahead.""
+[Student]: ""The Industrial Revolution was a period of major industrialization and innovation that took place during the late 1700s and early 1800s.""
+[Teacher]: ""That's correct.""
+[Student]: ""It began in Great Britain and quickly spread throughout the world.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I have been studying the Industrial Revolution and I would like to share some insights.""
+[Teacher]: ""Please, go ahead.""
+[Student]: ""The Industrial Revolution was a period of major industrialization and innovation that took place during the late 1700s and early 1800s.""
+[Teacher]: ""That's correct.""
+[Student]: ""It began in Great Britain and quickly spread throughout the world.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the concept of democracy?""
+[Student]: ""Yes, I can. Democracy is a system of government where the citizens exercise power by voting.""
+[Teacher]: ""That's correct.""
+[Student]: ""In a direct democracy, the citizens as a whole form a governing body and vote directly on each issue.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of democracy?""
+[Student]: ""Yes, I can. Democracy is a system of government where the citizens exercise power by voting.""
+[Teacher]: ""That's correct.""
+[Student]: ""In a direct democracy, the citizens as a whole form a governing body and vote directly on each issue.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I have done some extra research on the topic of the Cold War. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II.""
+[Teacher]: ""That's correct.""
+[Student]: ""It lasted from 1947 to 1991, and it was characterized by political and military tension, but there was no large-scale fighting directly between the two superpowers.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I have done some extra research on the topic of the Cold War. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II.""
+[Teacher]: ""That's correct.""
+[Student]: ""It lasted from 1947 to 1991, and it was characterized by political and military tension, but there was no large-scale fighting directly between the two superpowers.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the concept of climate change?""
+[Student]: ""Yes, I can. Climate change refers to significant changes in global temperatures and weather patterns over time.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's a major issue that's largely caused by human activities, such as burning fossil fuels, deforestation, and industrial processes.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of climate change?""
+[Student]: ""Yes, I can. Climate change refers to significant changes in global temperatures and weather patterns over time.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's a major issue that's largely caused by human activities, such as burning fossil fuels, deforestation, and industrial processes.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I have prepared a presentation on the Roman Empire. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. The Roman Empire was the post-Republican period of ancient Rome.""
+[Teacher]: ""That's correct.""
+[Student]: ""It had a government headed by emperors and large territorial holdings around the Mediterranean Sea in Europe, North Africa, and West Asia.""
+[Teacher]: ""Very good. Continue.""
+... (Continue in this format for 25 more interactions)
+[Student]: ""Sir, I have been studying the Renaissance period and I would like to share some insights.""
+[Teacher]: ""Please, go ahead.""
+[Student]: ""The Renaissance was a period in European history marking the transition from the Middle Ages to Modernity and covering the 15th and 16th centuries.""
+[Teacher]: ""That's correct.""
+[Student]: ""It was characterized by a renewed interest in the classical knowledge and values of ancient Greece and Rome.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 13 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I have prepared a presentation on the Roman Empire. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. The Roman Empire was the post-Republican period of ancient Rome.""
+[Teacher]: ""That's correct.""
+[Student]: ""It had a government headed by emperors and large territorial holdings around the Mediterranean Sea in Europe, North Africa, and West Asia.""
+[Teacher]: ""Very good. Continue.""
+... (Continue in this format for 25 more interactions)
+[Student]: ""Sir, I have been studying the Renaissance period and I would like to share some insights.""
+[Teacher]: ""Please, go ahead.""
+[Student]: ""The Renaissance was a period in European history marking the transition from the Middle Ages to Modernity and covering the 15th and 16th centuries.""
+[Teacher]: ""That's correct.""
+[Student]: ""It was characterized by a renewed interest in the classical knowledge and values of ancient Greece and Rome.""
+[Teacher]: ""Very good. Continue.""
+",13,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '... (Continue in this format for 25 more interactions)', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",25,False
+"[Teacher]: ""Can anyone explain the concept of quantum physics?""
+[Student]: ""Yes, I can. Quantum physics is a branch of physics that deals with phenomena on a very small scale, such as atoms and subatomic particles.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's known for its 'weird' phenomena, such as superposition and entanglement.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of quantum physics?""
+[Student]: ""Yes, I can. Quantum physics is a branch of physics that deals with phenomena on a very small scale, such as atoms and subatomic particles.""
+[Teacher]: ""That's correct.""
+[Student]: ""It's known for its 'weird' phenomena, such as superposition and entanglement.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I have done some extra research on the topic of the Enlightenment. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""The Enlightenment was an intellectual and philosophical movement that dominated the world of ideas in Europe during the 17th and 18th centuries.""
+[Teacher]: ""That's correct.""
+[Student]: ""Enlightenment thinkers sought to reform society and advance knowledge using reason and the scientific method.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I have done some extra research on the topic of the Enlightenment. Can I share it with the class?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""The Enlightenment was an intellectual and philosophical movement that dominated the world of ideas in Europe during the 17th and 18th centuries.""
+[Teacher]: ""That's correct.""
+[Student]: ""Enlightenment thinkers sought to reform society and advance knowledge using reason and the scientific method.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the concept of artificial intelligence?""
+[Student]: ""Yes, I can. Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.""
+[Teacher]: ""That's correct.""
+[Student]: ""The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.""
+[Teacher]: ""Excellent explanation.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of artificial intelligence?""
+[Student]: ""Yes, I can. Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.""
+[Teacher]: ""That's correct.""
+[Student]: ""The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.""
+[Teacher]: ""Excellent explanation.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I have prepared a presentation on the Greek mythology. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. Greek mythology is the body of myths originally told by the ancient Greeks.""
+[Teacher]: ""That's correct.""
+[Student]: ""These stories concern the origin and nature of the world, the lives and activities of deities, heroes, and mythological creatures, and the origins and significance of the ancient Greeks' own cult and ritual practices.""
+[Teacher]: ""Very good. Continue.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I have prepared a presentation on the Greek mythology. Can I present it to the class?""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""Thank you. Greek mythology is the body of myths originally told by the ancient Greeks.""
+[Teacher]: ""That's correct.""
+[Student]: ""These stories concern the origin and nature of the world, the lives and activities of deities, heroes, and mythological creatures, and the origins and significance of the ancient Greeks' own cult and ritual practices.""
+[Teacher]: ""Very good. Continue.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I've been researching the topic of climate change and its impact on global biodiversity. May I share my findings?""
+[Teacher]: ""Absolutely, we'd love to hear your insights.""
+[Student]: ""Climate change is leading to shifts in species distribution, population declines, and in some cases, extinction. For example, polar bears are losing their habitats due to melting ice caps.""
+[Teacher]: ""That's a great point. How does this impact the food chain?""
+[Student]: ""When one species is affected, it can disrupt the entire food chain. For instance, if polar bears decline, it could lead to an overpopulation of seals, their primary food source.""
+[Teacher]: ""Excellent. You've clearly done your research.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been researching the topic of climate change and its impact on global biodiversity. May I share my findings?""
+[Teacher]: ""Absolutely, we'd love to hear your insights.""
+[Student]: ""Climate change is leading to shifts in species distribution, population declines, and in some cases, extinction. For example, polar bears are losing their habitats due to melting ice caps.""
+[Teacher]: ""That's a great point. How does this impact the food chain?""
+[Student]: ""When one species is affected, it can disrupt the entire food chain. For instance, if polar bears decline, it could lead to an overpopulation of seals, their primary food source.""
+[Teacher]: ""Excellent. You've clearly done your research.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""Can anyone explain the concept of genetic engineering?""
+[Student]: ""Yes, I can. Genetic engineering is the direct manipulation of an organism's genes using biotechnology. It's a set of technologies used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel organisms.""
+[Teacher]: ""That's a comprehensive definition. Can you give us an example of its application?""
+[Student]: ""Sure, one of the most common examples is the creation of genetically modified crops, like corn and soybeans, that are resistant to pests or drought.""
+[Teacher]: ""Well done. You've explained that very well.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of genetic engineering?""
+[Student]: ""Yes, I can. Genetic engineering is the direct manipulation of an organism's genes using biotechnology. It's a set of technologies used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel organisms.""
+[Teacher]: ""That's a comprehensive definition. Can you give us an example of its application?""
+[Student]: ""Sure, one of the most common examples is the creation of genetically modified crops, like corn and soybeans, that are resistant to pests or drought.""
+[Teacher]: ""Well done. You've explained that very well.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I've been studying the concept of supply and demand in economics. Can I share my understanding?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""Supply and demand is a model of price determination in a market. It postulates that in a competitive market, the unit price for a particular good or service will vary until it settles at a point where the quantity demanded by consumers will equal the quantity supplied by producers, resulting in an economic equilibrium for price and quantity.""
+[Teacher]: ""That's correct. Can you explain how changes in supply or demand can affect this equilibrium?""
+[Student]: ""Yes, if demand increases and supply remains unchanged, a shortage occurs, leading to a higher equilibrium price. If supply increases and demand remains unchanged, a surplus occurs, leading to a lower equilibrium price.""
+[Teacher]: ""Excellent. You've clearly understood the concept.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been studying the concept of supply and demand in economics. Can I share my understanding?""
+[Teacher]: ""Of course, please go ahead.""
+[Student]: ""Supply and demand is a model of price determination in a market. It postulates that in a competitive market, the unit price for a particular good or service will vary until it settles at a point where the quantity demanded by consumers will equal the quantity supplied by producers, resulting in an economic equilibrium for price and quantity.""
+[Teacher]: ""That's correct. Can you explain how changes in supply or demand can affect this equilibrium?""
+[Student]: ""Yes, if demand increases and supply remains unchanged, a shortage occurs, leading to a higher equilibrium price. If supply increases and demand remains unchanged, a surplus occurs, leading to a lower equilibrium price.""
+[Teacher]: ""Excellent. You've clearly understood the concept.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information seeking","['Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking']",6,True
+"[Teacher]: ""Can anyone explain the concept of the water cycle?""
+[Student]: ""Yes, I can. The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. The water changes from liquid to gas in a process called evaporation, or transpiration in plants. Then it condenses, forming clouds, and falls back to the surface as precipitation.""
+[Teacher]: ""That's a good explanation. Can you tell us what role the sun plays in this cycle?""
+[Student]: ""Sure, the sun provides the energy that drives the water cycle. It causes the evaporation of water from the oceans, lakes, and other water bodies, as well as from plants.""
+[Teacher]: ""Well done. You've explained that very well.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""Can anyone explain the concept of the water cycle?""
+[Student]: ""Yes, I can. The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. The water changes from liquid to gas in a process called evaporation, or transpiration in plants. Then it condenses, forming clouds, and falls back to the surface as precipitation.""
+[Teacher]: ""That's a good explanation. Can you tell us what role the sun plays in this cycle?""
+[Student]: ""Sure, the sun provides the energy that drives the water cycle. It causes the evaporation of water from the oceans, lakes, and other water bodies, as well as from plants.""
+[Teacher]: ""Well done. You've explained that very well.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I've been researching the topic of the American Civil Rights Movement. May I share my findings?""
+[Teacher]: ""Absolutely, we'd love to hear your insights.""
+[Student]: ""The American Civil Rights Movement was a decades-long struggle by African Americans and their like-minded allies to end institutionalized racial discrimination, disenfranchisement, and racial segregation in the United States. The movement has its roots in the Reconstruction era during the late 19th century, although it made its largest legislative gains in the mid-1960s after years of direct actions and grassroots protests.""
+[Teacher]: ""That's a great summary. Can you tell us about some of the key figures in the movement?""
+[Student]: ""Certainly. Some of the key figures include Martin Luther King Jr., Rosa Parks, Malcolm X, and many others. Each played a significant role in fighting for and securing civil rights for African Americans.""
+[Teacher]: ""Excellent. You've clearly done your research.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been researching the topic of the American Civil Rights Movement. May I share my findings?""
+[Teacher]: ""Absolutely, we'd love to hear your insights.""
+[Student]: ""The American Civil Rights Movement was a decades-long struggle by African Americans and their like-minded allies to end institutionalized racial discrimination, disenfranchisement, and racial segregation in the United States. The movement has its roots in the Reconstruction era during the late 19th century, although it made its largest legislative gains in the mid-1960s after years of direct actions and grassroots protests.""
+[Teacher]: ""That's a great summary. Can you tell us about some of the key figures in the movement?""
+[Student]: ""Certainly. Some of the key figures include Martin Luther King Jr., Rosa Parks, Malcolm X, and many others. Each played a significant role in fighting for and securing civil rights for African Americans.""
+[Teacher]: ""Excellent. You've clearly done your research.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I've been studying for the upcoming exam and I have a few questions about the material. Can we discuss them?""
+[Teacher]: ""Of course, go ahead.""
+[Student]: ""Firstly, I'm having trouble understanding the concept of mitosis. Could you explain it again?""
+[Teacher]: ""Sure, mitosis is the process where a single cell divides into two identical daughter cells.""
+[Student]: ""I see, so it's a type of cell division. And what about meiosis? How is it different?""
+[Teacher]: ""Meiosis is a type of cell division that reduces the number of chromosomes in the parent cell by half and produces four gamete cells.""
+[Student]: ""Got it, so mitosis results in identical cells, while meiosis results in different cells. Thanks for clarifying.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 7 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been studying for the upcoming exam and I have a few questions about the material. Can we discuss them?""
+[Teacher]: ""Of course, go ahead.""
+[Student]: ""Firstly, I'm having trouble understanding the concept of mitosis. Could you explain it again?""
+[Teacher]: ""Sure, mitosis is the process where a single cell divides into two identical daughter cells.""
+[Student]: ""I see, so it's a type of cell division. And what about meiosis? How is it different?""
+[Teacher]: ""Meiosis is a type of cell division that reduces the number of chromosomes in the parent cell by half and produces four gamete cells.""
+[Student]: ""Got it, so mitosis results in identical cells, while meiosis results in different cells. Thanks for clarifying.""
+",7,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",7,True
+"[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed a pattern in the types of questions that are asked. Can I share my observations?""
+[Teacher]: ""Absolutely, please go ahead.""
+[Student]: ""It seems like the exam questions often focus on applying concepts rather than just recalling facts. For example, instead of asking us to define a term, the questions often ask us to use that term to solve a problem or explain a phenomenon.""
+[Teacher]: ""That's a very astute observation. You're correct that the exams are designed to test your understanding and application of the material, not just memorization.""
+[Student]: ""That's helpful to know. I'll make sure to focus on understanding the concepts deeply rather than just memorizing facts.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed a pattern in the types of questions that are asked. Can I share my observations?""
+[Teacher]: ""Absolutely, please go ahead.""
+[Student]: ""It seems like the exam questions often focus on applying concepts rather than just recalling facts. For example, instead of asking us to define a term, the questions often ask us to use that term to solve a problem or explain a phenomenon.""
+[Teacher]: ""That's a very astute observation. You're correct that the exams are designed to test your understanding and application of the material, not just memorization.""
+[Student]: ""That's helpful to know. I'll make sure to focus on understanding the concepts deeply rather than just memorizing facts.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I've been studying the material for the exam and I've come up with a study strategy. Can I share it with you and get your feedback?""
+[Teacher]: ""Of course, I'd be happy to hear it.""
+[Student]: ""I plan to review the lecture notes and textbook chapters first, then do the practice problems. After that, I'll review the solutions to the problems and make sure I understand them. Finally, I'll review the material again and do more practice problems.""
+[Teacher]: ""That sounds like a solid strategy. Just make sure to take breaks and not to cram all your studying into one session.""
+[Student]: ""I'll keep that in mind. Thanks for the feedback.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been studying the material for the exam and I've come up with a study strategy. Can I share it with you and get your feedback?""
+[Teacher]: ""Of course, I'd be happy to hear it.""
+[Student]: ""I plan to review the lecture notes and textbook chapters first, then do the practice problems. After that, I'll review the solutions to the problems and make sure I understand them. Finally, I'll review the material again and do more practice problems.""
+[Teacher]: ""That sounds like a solid strategy. Just make sure to take breaks and not to cram all your studying into one session.""
+[Student]: ""I'll keep that in mind. Thanks for the feedback.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed that I'm having trouble with a few topics. Can we go over them during office hours?""
+[Teacher]: ""Absolutely, I'd be happy to help. What topics are you struggling with?""
+[Student]: ""I'm having trouble with the concepts of supply and demand and market equilibrium. I understand the basic definitions, but I'm having trouble applying them to real-world scenarios.""
+[Teacher]: ""I see. We can definitely go over those topics during office hours. In the meantime, try to do some practice problems and see if that helps.""
+[Student]: ""I'll do that. Thanks for your help.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed that I'm having trouble with a few topics. Can we go over them during office hours?""
+[Teacher]: ""Absolutely, I'd be happy to help. What topics are you struggling with?""
+[Student]: ""I'm having trouble with the concepts of supply and demand and market equilibrium. I understand the basic definitions, but I'm having trouble applying them to real-world scenarios.""
+[Teacher]: ""I see. We can definitely go over those topics during office hours. In the meantime, try to do some practice problems and see if that helps.""
+[Student]: ""I'll do that. Thanks for your help.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I've been studying for the upcoming exam and I have a few questions about the format. Can we discuss them?""
+[Teacher]: ""Of course, go ahead.""
+[Student]: ""Will the exam be multiple choice, short answer, or a mix of both? And will there be any essay questions?""
+[Teacher]: ""The exam will be a mix of multiple choice and short answer questions. There won't be any essay questions.""
+[Student]: ""That's helpful to know. I'll make sure to prepare accordingly. Thanks for the information.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been studying for the upcoming exam and I have a few questions about the format. Can we discuss them?""
+[Teacher]: ""Of course, go ahead.""
+[Student]: ""Will the exam be multiple choice, short answer, or a mix of both? And will there be any essay questions?""
+[Teacher]: ""The exam will be a mix of multiple choice and short answer questions. There won't be any essay questions.""
+[Student]: ""That's helpful to know. I'll make sure to prepare accordingly. Thanks for the information.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed that some topics are more difficult for me than others. Can we go over them during office hours?""
+[Teacher]: ""Absolutely, I'd be happy to help. What topics are you struggling with?""
+[Student]: ""I'm having trouble with the concepts of photosynthesis and cellular respiration. I understand the basic processes, but I'm having trouble understanding the details and how they relate to each other.""
+[Teacher]: ""I see. We can definitely go over those topics during office hours. In the meantime, try to review the material and see if that helps.""
+[Student]: ""I'll do that. Thanks for your help.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed that some topics are more difficult for me than others. Can we go over them during office hours?""
+[Teacher]: ""Absolutely, I'd be happy to help. What topics are you struggling with?""
+[Student]: ""I'm having trouble with the concepts of photosynthesis and cellular respiration. I understand the basic processes, but I'm having trouble understanding the details and how they relate to each other.""
+[Teacher]: ""I see. We can definitely go over those topics during office hours. In the meantime, try to review the material and see if that helps.""
+[Student]: ""I'll do that. Thanks for your help.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I've been studying for the upcoming exam and I have a few questions about the material. Can we discuss them?""
+[Teacher]: ""Of course, go ahead.""
+[Student]: ""Firstly, I'm having trouble understanding the concept of the water cycle. Could you explain it again?""
+[Teacher]: ""Sure, the water cycle describes the continuous movement of water on, above, and below the surface of the Earth.""
+[Student]: ""I see, so it's a cycle of evaporation, condensation, and precipitation. And what role does the sun play in this cycle?""
+[Teacher]: ""The sun provides the energy that drives the water cycle. It causes the evaporation of water from the oceans, lakes, and other water bodies.""
+[Student]: ""Got it, so the sun drives the water cycle. Thanks for clarifying.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 7 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been studying for the upcoming exam and I have a few questions about the material. Can we discuss them?""
+[Teacher]: ""Of course, go ahead.""
+[Student]: ""Firstly, I'm having trouble understanding the concept of the water cycle. Could you explain it again?""
+[Teacher]: ""Sure, the water cycle describes the continuous movement of water on, above, and below the surface of the Earth.""
+[Student]: ""I see, so it's a cycle of evaporation, condensation, and precipitation. And what role does the sun play in this cycle?""
+[Teacher]: ""The sun provides the energy that drives the water cycle. It causes the evaporation of water from the oceans, lakes, and other water bodies.""
+[Student]: ""Got it, so the sun drives the water cycle. Thanks for clarifying.""
+",7,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",7,True
+"[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed a pattern in the types of questions that are asked. Can I share my observations?""
+[Teacher]: ""Absolutely, please go ahead.""
+[Student]: ""It seems like the exam questions often focus on understanding and interpreting graphs and data, rather than just recalling facts. For example, instead of asking us to define a term, the questions often ask us to interpret a graph or data set using that term.""
+[Teacher]: ""That's a very astute observation. You're correct that the exams are designed to test your understanding and interpretation of the material, not just memorization.""
+[Student]: ""That's helpful to know. I'll make sure to focus on understanding and interpreting graphs and data.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed a pattern in the types of questions that are asked. Can I share my observations?""
+[Teacher]: ""Absolutely, please go ahead.""
+[Student]: ""It seems like the exam questions often focus on understanding and interpreting graphs and data, rather than just recalling facts. For example, instead of asking us to define a term, the questions often ask us to interpret a graph or data set using that term.""
+[Teacher]: ""That's a very astute observation. You're correct that the exams are designed to test your understanding and interpretation of the material, not just memorization.""
+[Student]: ""That's helpful to know. I'll make sure to focus on understanding and interpreting graphs and data.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I've been studying the material for the exam and I've come up with a study strategy. Can I share it with you and get your feedback?""
+[Teacher]: ""Of course, I'd be happy to hear it.""
+[Student]: ""I plan to review the lecture notes and textbook chapters first, then do the practice problems. After that, I'll review the solutions to the problems and make sure I understand them. Finally, I'll review the material again and do more practice problems.""
+[Teacher]: ""That sounds like a solid strategy. Just make sure to take breaks and not to cram all your studying into one session.""
+[Student]: ""I'll keep that in mind. Thanks for the feedback.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been studying the material for the exam and I've come up with a study strategy. Can I share it with you and get your feedback?""
+[Teacher]: ""Of course, I'd be happy to hear it.""
+[Student]: ""I plan to review the lecture notes and textbook chapters first, then do the practice problems. After that, I'll review the solutions to the problems and make sure I understand them. Finally, I'll review the material again and do more practice problems.""
+[Teacher]: ""That sounds like a solid strategy. Just make sure to take breaks and not to cram all your studying into one session.""
+[Student]: ""I'll keep that in mind. Thanks for the feedback.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed that I'm having trouble with a few topics. Can we go over them during office hours?""
+[Teacher]: ""Absolutely, I'd be happy to help. What topics are you struggling with?""
+[Student]: ""I'm having trouble with the concepts of evolution and natural selection. I understand the basic definitions, but I'm having trouble understanding the details and how they relate to each other.""
+[Teacher]: ""I see. We can definitely go over those topics during office hours. In the meantime, try to review the material and see if that helps.""
+[Student]: ""I'll do that. Thanks for your help.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been reviewing the material for the exam and I've noticed that I'm having trouble with a few topics. Can we go over them during office hours?""
+[Teacher]: ""Absolutely, I'd be happy to help. What topics are you struggling with?""
+[Student]: ""I'm having trouble with the concepts of evolution and natural selection. I understand the basic definitions, but I'm having trouble understanding the details and how they relate to each other.""
+[Teacher]: ""I see. We can definitely go over those topics during office hours. In the meantime, try to review the material and see if that helps.""
+[Student]: ""I'll do that. Thanks for your help.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I want to discuss my academic goals for this semester. I aim to improve my grades in Mathematics and Science.""
+[Teacher]: ""That's a good goal. How do you plan to achieve it?""
+[Student]: ""I plan to devote more time to these subjects and solve more practice problems. I also plan to attend extra classes if necessary.""
+[Teacher]: ""That sounds like a good plan. Remember, consistency is key. Keep me updated on your progress.""
+[Student]: ""Sure, sir. Thank you for your guidance.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I want to discuss my academic goals for this semester. I aim to improve my grades in Mathematics and Science.""
+[Teacher]: ""That's a good goal. How do you plan to achieve it?""
+[Student]: ""I plan to devote more time to these subjects and solve more practice problems. I also plan to attend extra classes if necessary.""
+[Teacher]: ""That sounds like a good plan. Remember, consistency is key. Keep me updated on your progress.""
+[Student]: ""Sure, sir. Thank you for your guidance.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, we've been working on our group project and we have some ideas we'd like to discuss.""
+[Teacher]: ""Sure, I'd love to hear them.""
+[Student]: ""We're thinking of creating an interactive website for our history project. It will have timelines, maps, and quizzes.""
+[Teacher]: ""That sounds like a great idea. It's important to ensure the information is accurate and well-researched.""
+[Student]: ""Absolutely, we've divided the research work among ourselves. We'll also have a peer-review process to double-check the information.""
+[Teacher]: ""Excellent. I look forward to seeing your project.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, we've been working on our group project and we have some ideas we'd like to discuss.""
+[Teacher]: ""Sure, I'd love to hear them.""
+[Student]: ""We're thinking of creating an interactive website for our history project. It will have timelines, maps, and quizzes.""
+[Teacher]: ""That sounds like a great idea. It's important to ensure the information is accurate and well-researched.""
+[Student]: ""Absolutely, we've divided the research work among ourselves. We'll also have a peer-review process to double-check the information.""
+[Teacher]: ""Excellent. I look forward to seeing your project.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I'm really interested in the topic we discussed today. Could you recommend some additional resources or readings?""
+[Teacher]: ""Absolutely, I'm glad you're interested. You can start with 'A Brief History of Time' by Stephen Hawking. It's a great book for understanding the basics of cosmology.""
+[Student]: ""Thank you, Miss. I'll definitely check it out.""
+[Teacher]: ""You're welcome. Happy reading!""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 4 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I'm really interested in the topic we discussed today. Could you recommend some additional resources or readings?""
+[Teacher]: ""Absolutely, I'm glad you're interested. You can start with 'A Brief History of Time' by Stephen Hawking. It's a great book for understanding the basics of cosmology.""
+[Student]: ""Thank you, Miss. I'll definitely check it out.""
+[Teacher]: ""You're welcome. Happy reading!""
+",4,"['[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving']",4,True
+"[Teacher]: ""In today's digital age, integrating technology in education is crucial. Any thoughts on how we can do this?""
+[Student]: ""We could use online platforms for discussions and assignments. It would also be helpful to have online resources for self-study.""
+[Teacher]: ""Those are great suggestions. We'll definitely consider them.""
+[Student]: ""Thank you, Miss. I believe it would enhance our learning experience.""
+[Teacher]: ""I agree. Thank you for your input.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 5 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Teacher]: ""In today's digital age, integrating technology in education is crucial. Any thoughts on how we can do this?""
+[Student]: ""We could use online platforms for discussions and assignments. It would also be helpful to have online resources for self-study.""
+[Teacher]: ""Those are great suggestions. We'll definitely consider them.""
+[Student]: ""Thank you, Miss. I believe it would enhance our learning experience.""
+[Teacher]: ""I agree. Thank you for your input.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, for our art project, we're thinking of creating a mural that represents our school's values. What do you think?""
+[Teacher]: ""That sounds like a wonderful idea. It's important to plan it well and ensure everyone in the group contributes.""
+[Student]: ""Absolutely, we've already started planning. We're excited to start working on it.""
+[Teacher]: ""I'm excited to see the final result. Good luck!""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 4 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, for our art project, we're thinking of creating a mural that represents our school's values. What do you think?""
+[Teacher]: ""That sounds like a wonderful idea. It's important to plan it well and ensure everyone in the group contributes.""
+[Student]: ""Absolutely, we've already started planning. We're excited to start working on it.""
+[Teacher]: ""I'm excited to see the final result. Good luck!""
+",4,"['[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving']",4,True
+"[Student]: ""The guest speaker session was really insightful. I learned a lot about entrepreneurship.""
+[Teacher]: ""I'm glad you found it useful. What were your key takeaways?""
+[Student]: ""The speaker emphasized the importance of resilience and innovation in entrepreneurship. He also shared his own experiences which were very inspiring.""
+[Teacher]: ""Those are great takeaways. Remember, learning is not confined to the classroom. There's a lot we can learn from people's experiences.""
+[Student]: ""Absolutely, sir. I look forward to more such sessions.""
+[Teacher]: ""I'm glad to hear that. We'll definitely plan more such sessions.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""The guest speaker session was really insightful. I learned a lot about entrepreneurship.""
+[Teacher]: ""I'm glad you found it useful. What were your key takeaways?""
+[Student]: ""The speaker emphasized the importance of resilience and innovation in entrepreneurship. He also shared his own experiences which were very inspiring.""
+[Teacher]: ""Those are great takeaways. Remember, learning is not confined to the classroom. There's a lot we can learn from people's experiences.""
+[Student]: ""Absolutely, sir. I look forward to more such sessions.""
+[Teacher]: ""I'm glad to hear that. We'll definitely plan more such sessions.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I've been thinking about how to revise for the upcoming exams. I have a few strategies in mind.""
+[Teacher]: ""That's great. What are your strategies?""
+[Student]: ""Firstly, I plan to review the lecture notes and highlight the key points. Then, I'll create flashcards for important concepts and use them for active recall.""
+[Teacher]: ""That sounds like a good plan.""
+[Student]: ""I also plan to do practice problems to apply what I've learned. And finally, I'll review past exam papers to understand the format and types of questions.""
+[Teacher]: ""Excellent. That's a comprehensive revision strategy.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been thinking about how to revise for the upcoming exams. I have a few strategies in mind.""
+[Teacher]: ""That's great. What are your strategies?""
+[Student]: ""Firstly, I plan to review the lecture notes and highlight the key points. Then, I'll create flashcards for important concepts and use them for active recall.""
+[Teacher]: ""That sounds like a good plan.""
+[Student]: ""I also plan to do practice problems to apply what I've learned. And finally, I'll review past exam papers to understand the format and types of questions.""
+[Teacher]: ""Excellent. That's a comprehensive revision strategy.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I've been trying to participate more in class. I've been asking questions and contributing to discussions.""
+[Teacher]: ""Yes, I've noticed that. You're doing well.""
+[Student]: ""I've also been trying to help my classmates when they have doubts. And I've been sharing relevant articles and resources in our class group.""
+[Teacher]: ""That's excellent. Keep it up.""
+[Student]: ""I'll also try to present more in class. I think it will help me improve my public speaking skills.""
+[Teacher]: ""That's a great idea. I look forward to your presentations.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been trying to participate more in class. I've been asking questions and contributing to discussions.""
+[Teacher]: ""Yes, I've noticed that. You're doing well.""
+[Student]: ""I've also been trying to help my classmates when they have doubts. And I've been sharing relevant articles and resources in our class group.""
+[Teacher]: ""That's excellent. Keep it up.""
+[Student]: ""I'll also try to present more in class. I think it will help me improve my public speaking skills.""
+[Teacher]: ""That's a great idea. I look forward to your presentations.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, we're having some conflicts in our group project. We've been trying to resolve them but we could use some guidance.""
+[Teacher]: ""What are the conflicts about?""
+[Student]: ""We have different ideas about how to approach the project. Some of us want to focus on the theoretical aspects while others want to focus on the practical aspects.""
+[Teacher]: ""I see. What have you tried so far?""
+[Student]: ""We've tried discussing our ideas and finding a middle ground. But we haven't been able to reach a consensus.""
+[Teacher]: ""Have you considered dividing the project into parts and assigning each part based on the members' interests?""
+[Student]: ""That's a good idea. We'll try that. Thank you, sir.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 7 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, we're having some conflicts in our group project. We've been trying to resolve them but we could use some guidance.""
+[Teacher]: ""What are the conflicts about?""
+[Student]: ""We have different ideas about how to approach the project. Some of us want to focus on the theoretical aspects while others want to focus on the practical aspects.""
+[Teacher]: ""I see. What have you tried so far?""
+[Student]: ""We've tried discussing our ideas and finding a middle ground. But we haven't been able to reach a consensus.""
+[Teacher]: ""Have you considered dividing the project into parts and assigning each part based on the members' interests?""
+[Student]: ""That's a good idea. We'll try that. Thank you, sir.""
+",7,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",7,True
+"[Student]: ""Miss, the field trip to the museum was really informative. I learned a lot about ancient civilizations.""
+[Teacher]: ""I'm glad you found it useful. What was your favorite part?""
+[Student]: ""I particularly enjoyed the exhibit on Egyptian civilization. The artifacts were fascinating and the information provided was very detailed.""
+[Teacher]: ""That's great. Did you learn anything new?""
+[Student]: ""Yes, I learned about their writing system, hieroglyphics, and their religious beliefs. It was interesting to see how advanced their civilization was.""
+[Teacher]: ""That's excellent. I'm glad you learned so much.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, the field trip to the museum was really informative. I learned a lot about ancient civilizations.""
+[Teacher]: ""I'm glad you found it useful. What was your favorite part?""
+[Student]: ""I particularly enjoyed the exhibit on Egyptian civilization. The artifacts were fascinating and the information provided was very detailed.""
+[Teacher]: ""That's great. Did you learn anything new?""
+[Student]: ""Yes, I learned about their writing system, hieroglyphics, and their religious beliefs. It was interesting to see how advanced their civilization was.""
+[Teacher]: ""That's excellent. I'm glad you learned so much.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I've been thinking about my learning plan. I believe I need to focus more on practical applications.""
+[Teacher]: ""That's a good observation. How do you plan to do that?""
+[Student]: ""I plan to do more projects and hands-on activities. I believe it will help me understand the concepts better.""
+[Teacher]: ""That sounds like a good plan.""
+[Student]: ""I also plan to participate in coding competitions. It will give me a chance to apply what I've learned and also learn from others.""
+[Teacher]: ""Excellent. That's a comprehensive learning plan.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been thinking about my learning plan. I believe I need to focus more on practical applications.""
+[Teacher]: ""That's a good observation. How do you plan to do that?""
+[Student]: ""I plan to do more projects and hands-on activities. I believe it will help me understand the concepts better.""
+[Teacher]: ""That sounds like a good plan.""
+[Student]: ""I also plan to participate in coding competitions. It will give me a chance to apply what I've learned and also learn from others.""
+[Teacher]: ""Excellent. That's a comprehensive learning plan.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I've been reading about cultural sensitivity. I think it's important to respect and understand different cultures.""
+[Teacher]: ""That's very true. How do you plan to practice it?""
+[Student]: ""I plan to read more about different cultures and their customs. I also plan to interact with people from different cultures to understand their perspectives.""
+[Teacher]: ""That's a great initiative.""
+[Student]: ""I also think we should have more discussions about cultural sensitivity in class. It will help us understand and respect each other's cultures.""
+[Teacher]: ""That's a great idea. We'll definitely do that.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I've been reading about cultural sensitivity. I think it's important to respect and understand different cultures.""
+[Teacher]: ""That's very true. How do you plan to practice it?""
+[Student]: ""I plan to read more about different cultures and their customs. I also plan to interact with people from different cultures to understand their perspectives.""
+[Teacher]: ""That's a great initiative.""
+[Student]: ""I also think we should have more discussions about cultural sensitivity in class. It will help us understand and respect each other's cultures.""
+[Teacher]: ""That's a great idea. We'll definitely do that.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I've been thinking about getting involved in community projects. I believe it will help me develop my skills and also contribute to the community.""
+[Teacher]: ""That's a great idea. What kind of projects are you interested in?""
+[Student]: ""I'm interested in environmental projects. I would like to contribute to initiatives that aim to protect and preserve the environment.""
+[Teacher]: ""That's commendable. How do you plan to get involved?""
+[Student]: ""I plan to join a local environmental group. They organize clean-up drives and tree planting activities. I believe it will be a good learning experience.""
+[Teacher]: ""That's excellent. I'm sure you'll learn a lot and also make a positive impact.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I've been thinking about getting involved in community projects. I believe it will help me develop my skills and also contribute to the community.""
+[Teacher]: ""That's a great idea. What kind of projects are you interested in?""
+[Student]: ""I'm interested in environmental projects. I would like to contribute to initiatives that aim to protect and preserve the environment.""
+[Teacher]: ""That's commendable. How do you plan to get involved?""
+[Student]: ""I plan to join a local environmental group. They organize clean-up drives and tree planting activities. I believe it will be a good learning experience.""
+[Teacher]: ""That's excellent. I'm sure you'll learn a lot and also make a positive impact.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I would like to discuss my performance in the last test. I feel I could have done better.""
+[Teacher]: ""Sure, let's discuss. Where do you think you went wrong?""
+[Student]: ""I think I didn't manage my time well. I spent too much time on a few questions and didn't have enough time for the rest.""
+[Teacher]: ""That's a common issue. You need to practice more to improve your time management skills.""
+[Student]: ""Yes, I will do that. Also, I found some questions confusing. Can we go over them?""
+[Teacher]: ""Of course. Let's go through them.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I would like to discuss my performance in the last test. I feel I could have done better.""
+[Teacher]: ""Sure, let's discuss. Where do you think you went wrong?""
+[Student]: ""I think I didn't manage my time well. I spent too much time on a few questions and didn't have enough time for the rest.""
+[Teacher]: ""That's a common issue. You need to practice more to improve your time management skills.""
+[Student]: ""Yes, I will do that. Also, I found some questions confusing. Can we go over them?""
+[Teacher]: ""Of course. Let's go through them.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving']",6,True
+"[Student]: ""Miss, I need some advice on selecting my courses for the next semester.""
+[Teacher]: ""Sure, what are your interests?""
+[Student]: ""I'm interested in computer science and mathematics. I'm considering taking advanced courses in these subjects.""
+[Teacher]: ""That sounds like a good plan. Do you have any specific courses in mind?""
+[Student]: ""I'm thinking about 'Data Structures and Algorithms' and 'Calculus III'. What do you think?""
+[Teacher]: ""Those are excellent choices. They will certainly help you in your future studies.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I need some advice on selecting my courses for the next semester.""
+[Teacher]: ""Sure, what are your interests?""
+[Student]: ""I'm interested in computer science and mathematics. I'm considering taking advanced courses in these subjects.""
+[Teacher]: ""That sounds like a good plan. Do you have any specific courses in mind?""
+[Student]: ""I'm thinking about 'Data Structures and Algorithms' and 'Calculus III'. What do you think?""
+[Teacher]: ""Those are excellent choices. They will certainly help you in your future studies.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information seeking
+Information giving
+Information seeking
+Information seeking
+Information giving","['Information seeking', 'Information seeking', 'Information giving', 'Information seeking', 'Information seeking', 'Information giving']",6,True
+"[Student]: ""Sir, I'm having some issues with the online learning platform. I can't access the course materials.""
+[Teacher]: ""I see. Have you tried logging out and logging back in?""
+[Student]: ""Yes, I have. But the problem persists. I also tried using a different browser, but that didn't help either.""
+[Teacher]: ""Alright. Let's try to troubleshoot the issue together.""
+[Student]: ""Thank you, sir. I appreciate your help.""
+[Teacher]: ""You're welcome. Let's start by checking your internet connection.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I'm having some issues with the online learning platform. I can't access the course materials.""
+[Teacher]: ""I see. Have you tried logging out and logging back in?""
+[Student]: ""Yes, I have. But the problem persists. I also tried using a different browser, but that didn't help either.""
+[Teacher]: ""Alright. Let's try to troubleshoot the issue together.""
+[Student]: ""Thank you, sir. I appreciate your help.""
+[Teacher]: ""You're welcome. Let's start by checking your internet connection.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving']",6,True
+"[Student]: ""Miss, I found the guest lecture on climate change very enlightening.""
+[Teacher]: ""I'm glad to hear that. What were your key takeaways?""
+[Student]: ""The lecturer emphasized the urgency of the situation and the need for immediate action. He also discussed various ways in which we can contribute to mitigating climate change.""
+[Teacher]: ""That's correct. It's important for everyone to do their part.""
+[Student]: ""Yes, I agree. I'm thinking about starting a climate action club in our school. What do you think?""
+[Teacher]: ""That's a wonderful idea. I fully support it.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I found the guest lecture on climate change very enlightening.""
+[Teacher]: ""I'm glad to hear that. What were your key takeaways?""
+[Student]: ""The lecturer emphasized the urgency of the situation and the need for immediate action. He also discussed various ways in which we can contribute to mitigating climate change.""
+[Teacher]: ""That's correct. It's important for everyone to do their part.""
+[Student]: ""Yes, I agree. I'm thinking about starting a climate action club in our school. What do you think?""
+[Teacher]: ""That's a wonderful idea. I fully support it.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving']",6,True
+"[Student]: ""Sir, I'm considering forming a study group for our math class. I believe it would be beneficial for collaborative learning.""
+[Teacher]: ""That's a great idea. Study groups can be very effective.""
+[Student]: ""I'm glad you think so. I was thinking about inviting 4-5 classmates who are serious about their studies. We can meet twice a week to discuss the topics covered in class.""
+[Teacher]: ""That sounds like a good plan. Make sure everyone gets a chance to contribute.""
+[Student]: ""Yes, sir. I will ensure that. Thank you for your support.""
+[Teacher]: ""You're welcome. Good luck with your study group.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I'm considering forming a study group for our math class. I believe it would be beneficial for collaborative learning.""
+[Teacher]: ""That's a great idea. Study groups can be very effective.""
+[Student]: ""I'm glad you think so. I was thinking about inviting 4-5 classmates who are serious about their studies. We can meet twice a week to discuss the topics covered in class.""
+[Teacher]: ""That sounds like a good plan. Make sure everyone gets a chance to contribute.""
+[Student]: ""Yes, sir. I will ensure that. Thank you for your support.""
+[Teacher]: ""You're welcome. Good luck with your study group.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I'm interested in getting involved in extracurricular activities. Can you suggest some opportunities?""
+[Teacher]: ""Sure. What are your interests?""
+[Student]: ""I'm interested in sports, music, and community service. I believe these activities can help me develop my skills and broaden my horizons.""
+[Teacher]: ""That's true. You can join the school's sports teams, music clubs, or volunteer for community service.""
+[Student]: ""Thank you, Miss. I will explore these options.""
+[Teacher]: ""You're welcome. I'm sure you'll find something you enjoy.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I'm interested in getting involved in extracurricular activities. Can you suggest some opportunities?""
+[Teacher]: ""Sure. What are your interests?""
+[Student]: ""I'm interested in sports, music, and community service. I believe these activities can help me develop my skills and broaden my horizons.""
+[Teacher]: ""That's true. You can join the school's sports teams, music clubs, or volunteer for community service.""
+[Student]: ""Thank you, Miss. I will explore these options.""
+[Teacher]: ""You're welcome. I'm sure you'll find something you enjoy.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I'm planning to do a research project on artificial intelligence. Can you provide some guidance?""
+[Teacher]: ""Of course. What's your research question?""
+[Student]: ""I want to explore the impact of artificial intelligence on job displacement. I believe it's a relevant and important topic.""
+[Teacher]: ""That's a very interesting topic. You can start by reviewing the existing literature on the subject.""
+[Student]: ""Yes, sir. I will do that. Thank you for your guidance.""
+[Teacher]: ""You're welcome. Good luck with your research.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I'm planning to do a research project on artificial intelligence. Can you provide some guidance?""
+[Teacher]: ""Of course. What's your research question?""
+[Student]: ""I want to explore the impact of artificial intelligence on job displacement. I believe it's a relevant and important topic.""
+[Teacher]: ""That's a very interesting topic. You can start by reviewing the existing literature on the subject.""
+[Student]: ""Yes, sir. I will do that. Thank you for your guidance.""
+[Teacher]: ""You're welcome. Good luck with your research.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I'm feeling a bit overwhelmed with all the assignments and tests. I could use some motivation.""
+[Teacher]: ""I understand. It's normal to feel overwhelmed at times. Remember, it's okay to take breaks and ask for help when you need it.""
+[Student]: ""Thank you, Miss. I will keep that in mind. I will also try to manage my time better and prioritize my tasks.""
+[Teacher]: ""That's a good strategy. You can do this. I believe in you.""
+[Student]: ""Thank you, Miss. Your words are very encouraging.""
+[Teacher]: ""You're welcome. Don't hesitate to reach out if you need any help.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I'm feeling a bit overwhelmed with all the assignments and tests. I could use some motivation.""
+[Teacher]: ""I understand. It's normal to feel overwhelmed at times. Remember, it's okay to take breaks and ask for help when you need it.""
+[Student]: ""Thank you, Miss. I will keep that in mind. I will also try to manage my time better and prioritize my tasks.""
+[Teacher]: ""That's a good strategy. You can do this. I believe in you.""
+[Student]: ""Thank you, Miss. Your words are very encouraging.""
+[Teacher]: ""You're welcome. Don't hesitate to reach out if you need any help.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I believe peer collaboration can enhance our learning experience. Can we incorporate it in our assignments or projects?""
+[Teacher]: ""That's a good suggestion. Collaborative learning can be very beneficial.""
+[Student]: ""I'm glad you think so. We can form small groups and work together on assignments or projects. This will allow us to learn from each other and develop our teamwork skills.""
+[Teacher]: ""That sounds like a good plan. I will consider it.""
+[Student]: ""Thank you, sir. I believe it will be a positive change.""
+[Teacher]: ""You're welcome. I appreciate your initiative.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Sir, I believe peer collaboration can enhance our learning experience. Can we incorporate it in our assignments or projects?""
+[Teacher]: ""That's a good suggestion. Collaborative learning can be very beneficial.""
+[Student]: ""I'm glad you think so. We can form small groups and work together on assignments or projects. This will allow us to learn from each other and develop our teamwork skills.""
+[Teacher]: ""That sounds like a good plan. I will consider it.""
+[Student]: ""Thank you, sir. I believe it will be a positive change.""
+[Teacher]: ""You're welcome. I appreciate your initiative.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Miss, I found the career development workshop very informative. I have some questions, though.""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""You mentioned the importance of internships. How can we find internships that align with our career goals?""
+[Teacher]: ""You can start by researching companies in your field of interest. Look for internship opportunities on their websites or on job portals.""
+[Student]: ""Thank you, Miss. I will do that. Also, can you provide some tips on writing a good resume?""
+[Teacher]: ""Of course. A good resume should be concise, well-organized, and tailored to the job you're applying for.""","For each of the following sentences, Is the sentence information giving or information seeking? Respond with 6 lines with only ""Information giving"" or ""Information seeking"" on every line -
+
+[Student]: ""Miss, I found the career development workshop very informative. I have some questions, though.""
+[Teacher]: ""Sure, go ahead.""
+[Student]: ""You mentioned the importance of internships. How can we find internships that align with our career goals?""
+[Teacher]: ""You can start by researching companies in your field of interest. Look for internship opportunities on their websites or on job portals.""
+[Student]: ""Thank you, Miss. I will do that. Also, can you provide some tips on writing a good resume?""
+[Teacher]: ""Of course. A good resume should be concise, well-organized, and tailored to the job you're applying for.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving","['Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving']",6,True

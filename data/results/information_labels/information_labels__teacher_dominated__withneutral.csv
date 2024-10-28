@@ -1,0 +1,1160 @@
+transcript,prompt,n_utterances,speakers,response,response_utterances,response_n_lines,n_responses_match
+"[Teacher]: ""Good morning, John. Did you complete your homework?""
+[Student]: ""Yes, I did.""
+[Teacher]: ""Great! Can you show it to me?""
+[Student]: ""Sure, here it is.""
+[Teacher]: ""Well done, John. Keep up the good work.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Good morning, John. Did you complete your homework?""
+[Student]: ""Yes, I did.""
+[Teacher]: ""Great! Can you show it to me?""
+[Student]: ""Sure, here it is.""
+[Teacher]: ""Well done, John. Keep up the good work.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Student]: ""I have a question about the assignment.""
+[Teacher]: ""Sure, what's your question?""
+[Student]: ""I don't understand this part.""
+[Teacher]: ""Let me explain it to you.""
+[Student]: ""Okay, I understand now. Thank you.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I have a question about the assignment.""
+[Teacher]: ""Sure, what's your question?""
+[Student]: ""I don't understand this part.""
+[Teacher]: ""Let me explain it to you.""
+[Student]: ""Okay, I understand now. Thank you.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class. Open your books to page 34.""
+[Student]: ""Okay.""
+[Teacher]: ""Today, we will learn about the solar system.""
+[Student]: ""Sounds interesting.""
+[Teacher]: ""Let's start with the sun.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class. Open your books to page 34.""
+[Student]: ""Okay.""
+[Teacher]: ""Today, we will learn about the solar system.""
+[Student]: ""Sounds interesting.""
+[Teacher]: ""Let's start with the sun.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this problem.""
+[Teacher]: ""Let's go through it together.""
+[Student]: ""I'm still not getting it.""
+[Teacher]: ""Don't worry. Let's try a different approach.""
+[Student]: ""That makes sense. Thanks for your help.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this problem.""
+[Teacher]: ""Let's go through it together.""
+[Student]: ""I'm still not getting it.""
+[Teacher]: ""Don't worry. Let's try a different approach.""
+[Student]: ""That makes sense. Thanks for your help.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today, we will have a quiz. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Good. Let's start.""
+[Student]: ""Okay.""
+[Teacher]: ""First question, what is the capital of France?""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today, we will have a quiz. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Good. Let's start.""
+[Student]: ""Okay.""
+[Teacher]: ""First question, what is the capital of France?""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information seeking","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information seeking']",5,True
+"[Teacher]: ""We will be starting a new chapter today. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Good. Let's start with the basics.""
+[Student]: ""Okay.""
+[Teacher]: ""The chapter is about photosynthesis.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""We will be starting a new chapter today. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Good. Let's start with the basics.""
+[Student]: ""Okay.""
+[Teacher]: ""The chapter is about photosynthesis.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I didn't understand the homework.""
+[Teacher]: ""Let's go over it together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the instructions.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I didn't understand the homework.""
+[Teacher]: ""Let's go over it together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the instructions.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the civil war. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""The civil war was a pivotal moment in our history.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the civil war. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""The civil war was a pivotal moment in our history.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the water cycle. Can you tell me what you remember?""
+[Student]: ""The water cycle involves evaporation, condensation, and precipitation.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the water cycle. Can you tell me what you remember?""
+[Student]: ""The water cycle involves evaporation, condensation, and precipitation.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information seeking
+Information giving
+Neutral","['Information giving', 'Neutral', 'Information seeking', 'Information giving', 'Neutral']",5,True
+"[Teacher]: ""Today we will be discussing the concept of gravity. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Gravity is a force that attracts two objects towards each other.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of gravity. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Gravity is a force that attracts two objects towards each other.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this math problem.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's simplify the equation.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this math problem.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's simplify the equation.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of democracy. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Democracy is a form of government where the people have the power to choose their leaders.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of democracy. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Democracy is a form of government where the people have the power to choose their leaders.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of photosynthesis. Can you tell me what you remember?""
+[Student]: ""Photosynthesis is the process by which green plants make their own food using sunlight.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of photosynthesis. Can you tell me what you remember?""
+[Student]: ""Photosynthesis is the process by which green plants make their own food using sunlight.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information seeking
+Information giving
+Information giving","['Information giving', 'Neutral', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of evolution. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Evolution is the process by which species of organisms undergo change over time.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of evolution. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Evolution is the process by which species of organisms undergo change over time.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this history question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the context of the question.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this history question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the context of the question.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of climate change. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Climate change refers to long-term changes in temperature and typical weather patterns in a place.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of climate change. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Climate change refers to long-term changes in temperature and typical weather patterns in a place.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of democracy. Can you tell me what you remember?""
+[Student]: ""Democracy is a form of government where the people have the power to choose their leaders.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of democracy. Can you tell me what you remember?""
+[Student]: ""Democracy is a form of government where the people have the power to choose their leaders.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Information seeking
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Information seeking', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of ecosystems. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of ecosystems. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this geography question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the context of the question.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this geography question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the context of the question.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of human rights. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Human rights are the basic rights and freedoms to which all individuals are entitled.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of human rights. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Human rights are the basic rights and freedoms to which all individuals are entitled.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of evolution. Can you tell me what you remember?""
+[Student]: ""Evolution is the process by which species of organisms undergo change over time.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of evolution. Can you tell me what you remember?""
+[Student]: ""Evolution is the process by which species of organisms undergo change over time.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Information seeking
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Information seeking', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of biodiversity. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Biodiversity refers to the variety of life on Earth, including the variety within and between species and within and between ecosystems.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of biodiversity. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Biodiversity refers to the variety of life on Earth, including the variety within and between species and within and between ecosystems.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this science question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the context of the question.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this science question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the context of the question.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of globalization. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Globalization is the process by which businesses or other organizations develop international influence or start operating on an international scale.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of globalization. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Globalization is the process by which businesses or other organizations develop international influence or start operating on an international scale.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of human rights. Can you tell me what you remember?""
+[Student]: ""Human rights are the basic rights and freedoms to which all individuals are entitled.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of human rights. Can you tell me what you remember?""
+[Student]: ""Human rights are the basic rights and freedoms to which all individuals are entitled.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Information seeking
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Information seeking', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of renewable energy. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Renewable energy is energy that is collected from renewable resources, which are naturally replenished on a human timescale.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of renewable energy. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Renewable energy is energy that is collected from renewable resources, which are naturally replenished on a human timescale.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Neutral
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this physics problem.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the formula.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this physics problem.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the formula.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of sustainability. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Sustainability is the ability to exist constantly.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of sustainability. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Sustainability is the ability to exist constantly.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of biodiversity. Can you tell me what you remember?""
+[Student]: ""Biodiversity refers to the variety of life on Earth, including the variety within and between species and within and between ecosystems.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of biodiversity. Can you tell me what you remember?""
+[Student]: ""Biodiversity refers to the variety of life on Earth, including the variety within and between species and within and between ecosystems.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Neutral
+Information seeking
+Information giving
+Information giving
+Neutral","['Neutral', 'Information seeking', 'Information giving', 'Information giving', 'Neutral']",5,True
+"[Teacher]: ""Today we will be discussing the concept of algebra. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of algebra. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this chemistry question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the periodic table.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this chemistry question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the periodic table.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of democracy. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Democracy is a form of government where the people have the power to choose their leaders.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of democracy. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Democracy is a form of government where the people have the power to choose their leaders.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of globalization. Can you tell me what you remember?""
+[Student]: ""Globalization is the process by which businesses or other organizations develop international influence or start operating on an international scale.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of globalization. Can you tell me what you remember?""
+[Student]: ""Globalization is the process by which businesses or other organizations develop international influence or start operating on an international scale.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Neutral
+Information giving
+Information giving
+Neutral","['Information seeking', 'Neutral', 'Information giving', 'Information giving', 'Neutral']",5,True
+"[Teacher]: ""Today we will be discussing the concept of geometry. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Geometry is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of geometry. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Geometry is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this biology question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the cell structure.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this biology question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the cell structure.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Neutral
+Information giving
+Information giving
+Information giving","['Information seeking', 'Neutral', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of literature. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Literature is a term used to describe written and sometimes spoken material.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of literature. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Literature is a term used to describe written and sometimes spoken material.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of algebra. Can you tell me what you remember?""
+[Student]: ""Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of algebra. Can you tell me what you remember?""
+[Student]: ""Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Information seeking
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Information seeking', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of trigonometry. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Trigonometry is a branch of mathematics that studies relationships involving lengths and angles of triangles.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of trigonometry. Are you ready?""
+[Student]: ""Yes, I am.""
+[Teacher]: ""Great, let's start with the definition.""
+[Student]: ""Okay.""
+[Teacher]: ""Trigonometry is a branch of mathematics that studies relationships involving lengths and angles of triangles.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""I'm having trouble with this English question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the grammar rules.""
+[Student]: ""Oh, I see where I went wrong.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""I'm having trouble with this English question.""
+[Teacher]: ""Let's break it down together.""
+[Student]: ""That would be helpful.""
+[Teacher]: ""First, let's look at the grammar rules.""
+[Student]: ""Oh, I see where I went wrong.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today we will be discussing the concept of economics. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Economics is a social science concerned with the production, distribution, and consumption of goods and services.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today we will be discussing the concept of economics. Any questions before we start?""
+[Student]: ""No, I'm ready.""
+[Teacher]: ""Great, let's begin.""
+[Student]: ""Okay.""
+[Teacher]: ""Economics is a social science concerned with the production, distribution, and consumption of goods and services.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information giving
+Neutral
+Information giving","['Information giving', 'Neutral', 'Information giving', 'Neutral', 'Information giving']",5,True
+"[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Can we go over the last chapter again? I'm a bit confused.""
+[Teacher]: ""Of course, let's review it together.""
+[Student]: ""Thank you.""
+[Teacher]: ""Let's start from the beginning.""
+[Student]: ""That makes it clearer.""
+",5,"['[Student]', '[Teacher]', '[Student]', '[Teacher]']","Information seeking
+Information giving
+Neutral
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Neutral', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of geometry. Can you tell me what you remember?""
+[Student]: ""Geometry is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's start the class with a quick recap of yesterday's lesson.""
+[Student]: ""Sure.""
+[Teacher]: ""We discussed the concept of geometry. Can you tell me what you remember?""
+[Student]: ""Geometry is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.""
+[Teacher]: ""Excellent! Let's move on to today's lesson.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Neutral
+Information seeking
+Information giving
+Neutral","['Information giving', 'Neutral', 'Information seeking', 'Information giving', 'Neutral']",5,True
+"[Student]: ""Sir, I didn't understand the concept of gravitational force that we discussed in the last class. Can you explain it again?""
+[Teacher]: ""Sure. Gravitational force is the force that attracts two bodies towards each other. Every object in the universe experiences this force due to its mass.""
+[Student]: ""So, does it mean that the heavier the object, the stronger the gravitational force?""
+[Teacher]: ""Yes, that's correct. The gravitational force is directly proportional to the mass of the objects and inversely proportional to the square of the distance between them.""
+[Student]: ""I see. That makes sense. Thank you, sir.""
+[Teacher]: ""You're welcome. Any other doubts?""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 6 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Sir, I didn't understand the concept of gravitational force that we discussed in the last class. Can you explain it again?""
+[Teacher]: ""Sure. Gravitational force is the force that attracts two bodies towards each other. Every object in the universe experiences this force due to its mass.""
+[Student]: ""So, does it mean that the heavier the object, the stronger the gravitational force?""
+[Teacher]: ""Yes, that's correct. The gravitational force is directly proportional to the mass of the objects and inversely proportional to the square of the distance between them.""
+[Student]: ""I see. That makes sense. Thank you, sir.""
+[Teacher]: ""You're welcome. Any other doubts?""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving
+Information seeking","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information seeking']",6,True
+"[Teacher]: ""I've reviewed your assignment, and I have some feedback. You've done a good job overall, but there are a few areas where you could improve.""
+[Student]: ""I appreciate your feedback, sir. Could you please elaborate on the areas I need to improve?""
+[Teacher]: ""Sure. In the second question, you didn't provide enough evidence to support your argument. Also, your conclusion could be more concise.""
+[Student]: ""I understand. I'll work on these areas. Thank you for your feedback.""
+[Teacher]: ""You're welcome. Keep up the good work.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""I've reviewed your assignment, and I have some feedback. You've done a good job overall, but there are a few areas where you could improve.""
+[Student]: ""I appreciate your feedback, sir. Could you please elaborate on the areas I need to improve?""
+[Teacher]: ""Sure. In the second question, you didn't provide enough evidence to support your argument. Also, your conclusion could be more concise.""
+[Student]: ""I understand. I'll work on these areas. Thank you for your feedback.""
+[Teacher]: ""You're welcome. Keep up the good work.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Miss, I'm having trouble solving this math problem. Can you help me?""
+[Teacher]: ""Of course. Let's go through it together. What part are you struggling with?""
+[Student]: ""I'm not sure how to start the problem. I understand the concept, but I'm having trouble applying it.""
+[Teacher]: ""Alright. Let's break it down step by step. First, let's identify what the problem is asking for.""
+[Student]: ""That makes sense. I think I understand now. Thank you, Miss.""
+[Teacher]: ""You're welcome. Don't hesitate to ask if you have more doubts.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 6 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Miss, I'm having trouble solving this math problem. Can you help me?""
+[Teacher]: ""Of course. Let's go through it together. What part are you struggling with?""
+[Student]: ""I'm not sure how to start the problem. I understand the concept, but I'm having trouble applying it.""
+[Teacher]: ""Alright. Let's break it down step by step. First, let's identify what the problem is asking for.""
+[Student]: ""That makes sense. I think I understand now. Thank you, Miss.""
+[Teacher]: ""You're welcome. Don't hesitate to ask if you have more doubts.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Student]: ""Sir, I'm interested in pursuing a career in computer science. Can you provide some guidance?""
+[Teacher]: ""Sure. Computer science is a vast field with numerous opportunities. You could consider areas like software development, data science, artificial intelligence, and cybersecurity.""
+[Student]: ""I'm particularly interested in artificial intelligence. What courses should I take to pursue a career in this field?""
+[Teacher]: ""You should focus on courses related to machine learning, neural networks, and natural language processing. Also, having a strong foundation in mathematics and programming is crucial.""
+[Student]: ""Thank you, sir. That was helpful.""
+[Teacher]: ""You're welcome. Feel free to ask if you have more questions.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 6 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Sir, I'm interested in pursuing a career in computer science. Can you provide some guidance?""
+[Teacher]: ""Sure. Computer science is a vast field with numerous opportunities. You could consider areas like software development, data science, artificial intelligence, and cybersecurity.""
+[Student]: ""I'm particularly interested in artificial intelligence. What courses should I take to pursue a career in this field?""
+[Teacher]: ""You should focus on courses related to machine learning, neural networks, and natural language processing. Also, having a strong foundation in mathematics and programming is crucial.""
+[Student]: ""Thank you, sir. That was helpful.""
+[Teacher]: ""You're welcome. Feel free to ask if you have more questions.""
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",6,True
+"[Teacher]: ""With exams approaching, it's important to have a good study plan. Any thoughts on how you plan to prepare?""
+[Student]: ""I plan to revise all the chapters thoroughly and solve previous year question papers. I'll also focus on my weak areas.""
+[Teacher]: ""That's a good strategy. Remember to take breaks and not to cram all the information at once. Consistent study is more effective.""
+[Student]: ""Thank you for the advice, sir. I'll keep that in mind.""
+[Teacher]: ""You're welcome. All the best for your exams.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""With exams approaching, it's important to have a good study plan. Any thoughts on how you plan to prepare?""
+[Student]: ""I plan to revise all the chapters thoroughly and solve previous year question papers. I'll also focus on my weak areas.""
+[Teacher]: ""That's a good strategy. Remember to take breaks and not to cram all the information at once. Consistent study is more effective.""
+[Student]: ""Thank you for the advice, sir. I'll keep that in mind.""
+[Teacher]: ""You're welcome. All the best for your exams.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Effective time management is crucial for academic success. Have you thought about how you plan your study time?""
+[Student]: ""I try to study for a few hours every day after school. But sometimes, I find it hard to stick to my schedule.""
+[Teacher]: ""It's important to have a realistic schedule. Also, remember to allocate time for relaxation and hobbies. This will help you avoid burnout.""
+[Student]: ""That makes sense. I'll try to balance my study and leisure time better. Thank you, Miss.""
+[Teacher]: ""You're welcome. Remember, it's about working smarter, not harder.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Effective time management is crucial for academic success. Have you thought about how you plan your study time?""
+[Student]: ""I try to study for a few hours every day after school. But sometimes, I find it hard to stick to my schedule.""
+[Teacher]: ""It's important to have a realistic schedule. Also, remember to allocate time for relaxation and hobbies. This will help you avoid burnout.""
+[Student]: ""That makes sense. I'll try to balance my study and leisure time better. Thank you, Miss.""
+[Teacher]: ""You're welcome. Remember, it's about working smarter, not harder.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Today, we're going to explore the topic of climate change. Instead of a lecture, I want you to ask questions and explore the topic in-depth.""
+[Student]: ""That sounds interesting. I've always wondered why the polar ice caps are melting at such a fast rate.""
+[Teacher]: ""Great question. It's mainly due to the increase in global temperatures. Can you think of why the temperatures are rising?""
+[Student]: ""Is it because of the increase in greenhouse gases like carbon dioxide in the atmosphere?""
+[Teacher]: ""Exactly. Now, let's delve deeper into this issue.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Today, we're going to explore the topic of climate change. Instead of a lecture, I want you to ask questions and explore the topic in-depth.""
+[Student]: ""That sounds interesting. I've always wondered why the polar ice caps are melting at such a fast rate.""
+[Teacher]: ""Great question. It's mainly due to the increase in global temperatures. Can you think of why the temperatures are rising?""
+[Student]: ""Is it because of the increase in greenhouse gases like carbon dioxide in the atmosphere?""
+[Teacher]: ""Exactly. Now, let's delve deeper into this issue.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving']",5,True
+"[Teacher]: ""I've noticed that you've been disrupting the class quite often. It's important to respect the learning environment.""
+[Student]: ""I apologize, sir. I didn't realize I was causing a disturbance.""
+[Teacher]: ""It's important to be aware of our actions and how they affect others. Let's try to maintain a conducive environment for learning.""
+[Student]: ""I understand, sir. I'll make sure to behave appropriately in the future.""
+[Teacher]: ""Thank you. I appreciate your understanding.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""I've noticed that you've been disrupting the class quite often. It's important to respect the learning environment.""
+[Student]: ""I apologize, sir. I didn't realize I was causing a disturbance.""
+[Teacher]: ""It's important to be aware of our actions and how they affect others. Let's try to maintain a conducive environment for learning.""
+[Student]: ""I understand, sir. I'll make sure to behave appropriately in the future.""
+[Teacher]: ""Thank you. I appreciate your understanding.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information seeking
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Information giving']",5,True
+"[Student]: ""Sir, I've been facing some personal challenges recently and it's affecting my academic performance.""
+[Teacher]: ""I'm sorry to hear that. It's important to remember that it's okay to seek help. Have you considered speaking to a counselor?""
+[Student]: ""I haven't, but I'll consider it. Thank you for your understanding, sir.""
+[Teacher]: ""You're welcome. Remember, we're here to support you.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 4 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Sir, I've been facing some personal challenges recently and it's affecting my academic performance.""
+[Teacher]: ""I'm sorry to hear that. It's important to remember that it's okay to seek help. Have you considered speaking to a counselor?""
+[Student]: ""I haven't, but I'll consider it. Thank you for your understanding, sir.""
+[Teacher]: ""You're welcome. Remember, we're here to support you.""
+",4,"['[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving']",4,True
+"[Teacher]: ""I've noticed you have a keen interest in literature. Have you thought about exploring this interest further?""
+[Student]: ""I love reading, but I'm not sure how to explore it further.""
+[Teacher]: ""You could consider joining a book club or even starting a blog to review books. It could be a great way to nurture your interest.""
+[Student]: ""That sounds interesting. I'll definitely consider it. Thank you, Miss.""
+[Teacher]: ""You're welcome. I'm sure you'll do great.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""I've noticed you have a keen interest in literature. Have you thought about exploring this interest further?""
+[Student]: ""I love reading, but I'm not sure how to explore it further.""
+[Teacher]: ""You could consider joining a book club or even starting a blog to review books. It could be a great way to nurture your interest.""
+[Student]: ""That sounds interesting. I'll definitely consider it. Thank you, Miss.""
+[Teacher]: ""You're welcome. I'm sure you'll do great.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Working in a group can be challenging but it's a great opportunity to learn from each other. How's your group project going?""
+[Student]: ""We're making progress, but sometimes it's hard to coordinate with everyone.""
+[Teacher]: ""It's important to have clear communication and assign roles based on each member's strengths. This can help improve your group dynamics.""
+[Student]: ""That's a good idea. We'll try that. Thank you, sir.""
+[Teacher]: ""You're welcome. Good luck with your project.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Working in a group can be challenging but it's a great opportunity to learn from each other. How's your group project going?""
+[Student]: ""We're making progress, but sometimes it's hard to coordinate with everyone.""
+[Teacher]: ""It's important to have clear communication and assign roles based on each member's strengths. This can help improve your group dynamics.""
+[Student]: ""That's a good idea. We'll try that. Thank you, sir.""
+[Teacher]: ""You're welcome. Good luck with your project.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Student]: ""Sir, I'm not happy with my exam results. I was expecting to do better.""
+[Teacher]: ""I understand your disappointment. Let's go through your paper and see where you can improve.""
+[Student]: ""That would be helpful. Thank you, sir.""
+[Teacher]: ""You're welcome. Remember, it's not about the marks, but about understanding the concepts.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 4 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Sir, I'm not happy with my exam results. I was expecting to do better.""
+[Teacher]: ""I understand your disappointment. Let's go through your paper and see where you can improve.""
+[Student]: ""That would be helpful. Thank you, sir.""
+[Teacher]: ""You're welcome. Remember, it's not about the marks, but about understanding the concepts.""
+",4,"['[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving","['Information seeking', 'Information giving', 'Information seeking', 'Information giving']",4,True
+"[Teacher]: ""Everyone has a unique learning style. Some people learn better by listening, while others learn better by doing. Have you thought about what works best for you?""
+[Student]: ""I think I learn better by doing. Practical assignments and experiments help me understand concepts better.""
+[Teacher]: ""That's great. It's important to understand your learning style to make the most of your study time.""
+[Student]: ""I agree. Thank you for your guidance, sir.""
+[Teacher]: ""You're welcome. Happy learning!""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Everyone has a unique learning style. Some people learn better by listening, while others learn better by doing. Have you thought about what works best for you?""
+[Student]: ""I think I learn better by doing. Practical assignments and experiments help me understand concepts better.""
+[Teacher]: ""That's great. It's important to understand your learning style to make the most of your study time.""
+[Student]: ""I agree. Thank you for your guidance, sir.""
+[Teacher]: ""You're welcome. Happy learning!""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""Understanding the real-world application of a subject can enhance its relevance. Can anyone give an example of how we use algebra in our daily lives?""
+[Student]: ""We use algebra when we calculate distances or when we manage our finances.""
+[Teacher]: ""Exactly. Understanding the practical application of a subject can make it more interesting.""
+[Student]: ""I agree, sir. It makes the subject more relatable.""
+[Teacher]: ""Absolutely. Let's try to relate our subjects to real-world scenarios whenever we can.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Understanding the real-world application of a subject can enhance its relevance. Can anyone give an example of how we use algebra in our daily lives?""
+[Student]: ""We use algebra when we calculate distances or when we manage our finances.""
+[Teacher]: ""Exactly. Understanding the practical application of a subject can make it more interesting.""
+[Student]: ""I agree, sir. It makes the subject more relatable.""
+[Teacher]: ""Absolutely. Let's try to relate our subjects to real-world scenarios whenever we can.""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information giving
+Information giving
+Information giving","['Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",5,True
+"[Teacher]: ""To revise effectively, you need to understand your learning style. Some people learn better by reading, others by listening or doing.""
+[Student]: ""I think I learn better by doing. How can I revise this way?""
+[Teacher]: ""You can use active learning techniques. For example, you can solve problems, create flashcards, or teach the material to someone else.""
+[Student]: ""That sounds helpful. I'll try these techniques. Thank you, sir.""
+[Teacher]: ""I've noticed that you're not participating much in class. Is there a reason for this?""
+[Student]: ""I'm not confident in my answers. I'm afraid I might say something wrong.""
+[Teacher]: ""Remember, it's okay to make mistakes. That's how we learn. I encourage you to participate more. It will help you understand the material better.""
+[Student]: ""I'll try to participate more. Thank you for your advice, Miss.""
+[Student]: ""Sir, we're having some conflicts in our group project. We can't agree on the direction of the project.""
+[Teacher]: ""Conflicts are common in group projects. The key is to communicate effectively. Listen to each other's ideas and try to find a compromise.""
+[Student]: ""We'll try that. Thank you, sir.""
+[Teacher]: ""Let's reflect on our field trip. What did you learn from it?""
+[Student]: ""I learned a lot about the local ecosystem. It was interesting to see the concepts we learned in class applied in real life.""
+[Teacher]: ""That's great. Field trips are a valuable learning experience. They provide a practical perspective on the material we cover in class.""
+[Teacher]: ""Let's create an individualized learning plan for you. What areas do you feel you need to improve in?""
+[Student]: ""I'm struggling with math. I find it difficult to understand the concepts.""
+[Teacher]: ""We can focus on math in your learning plan. We'll start with the basics and gradually move to more complex concepts. We'll also include regular assessments to track your progress.""
+[Student]: ""That sounds helpful. Thank you, Miss.""
+[Teacher]: ""In our diverse classroom, it's important to be culturally sensitive. Can anyone tell me what that means?""
+[Student]: ""It means respecting and appreciating differences in cultures.""
+[Teacher]: ""That's correct. It's about understanding and accepting that people have different cultural backgrounds and experiences.""
+[Teacher]: ""I encourage you to get involved in community projects. It's a great way to apply what you learn in class and make a positive impact.""
+[Student]: ""I'm interested in environmental projects. Are there any opportunities in our community?""
+[Teacher]: ""Yes, there are several environmental projects. I'll provide you with more information.""
+[Student]: ""Sir, I'm looking for internships but I'm not sure where to start.""
+[Teacher]: ""Firstly, identify your areas of interest. Then, research companies that align with those interests.""
+[Student]: ""I'm interested in software development. But I'm not sure how to approach these companies.""
+[Teacher]: ""Start by tailoring your resume to highlight your skills in software development. Then, write a compelling cover letter explaining why you're interested in the company and how you can contribute.""
+[Student]: ""That sounds helpful. What about the interview process?""
+[Teacher]: ""Prepare by researching common interview questions. Practice your answers but remember to be yourself during the interview.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 37 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""To revise effectively, you need to understand your learning style. Some people learn better by reading, others by listening or doing.""
+[Student]: ""I think I learn better by doing. How can I revise this way?""
+[Teacher]: ""You can use active learning techniques. For example, you can solve problems, create flashcards, or teach the material to someone else.""
+[Student]: ""That sounds helpful. I'll try these techniques. Thank you, sir.""
+[Teacher]: ""I've noticed that you're not participating much in class. Is there a reason for this?""
+[Student]: ""I'm not confident in my answers. I'm afraid I might say something wrong.""
+[Teacher]: ""Remember, it's okay to make mistakes. That's how we learn. I encourage you to participate more. It will help you understand the material better.""
+[Student]: ""I'll try to participate more. Thank you for your advice, Miss.""
+[Student]: ""Sir, we're having some conflicts in our group project. We can't agree on the direction of the project.""
+[Teacher]: ""Conflicts are common in group projects. The key is to communicate effectively. Listen to each other's ideas and try to find a compromise.""
+[Student]: ""We'll try that. Thank you, sir.""
+[Teacher]: ""Let's reflect on our field trip. What did you learn from it?""
+[Student]: ""I learned a lot about the local ecosystem. It was interesting to see the concepts we learned in class applied in real life.""
+[Teacher]: ""That's great. Field trips are a valuable learning experience. They provide a practical perspective on the material we cover in class.""
+[Teacher]: ""Let's create an individualized learning plan for you. What areas do you feel you need to improve in?""
+[Student]: ""I'm struggling with math. I find it difficult to understand the concepts.""
+[Teacher]: ""We can focus on math in your learning plan. We'll start with the basics and gradually move to more complex concepts. We'll also include regular assessments to track your progress.""
+[Student]: ""That sounds helpful. Thank you, Miss.""
+[Teacher]: ""In our diverse classroom, it's important to be culturally sensitive. Can anyone tell me what that means?""
+[Student]: ""It means respecting and appreciating differences in cultures.""
+[Teacher]: ""That's correct. It's about understanding and accepting that people have different cultural backgrounds and experiences.""
+[Teacher]: ""I encourage you to get involved in community projects. It's a great way to apply what you learn in class and make a positive impact.""
+[Student]: ""I'm interested in environmental projects. Are there any opportunities in our community?""
+[Teacher]: ""Yes, there are several environmental projects. I'll provide you with more information.""
+[Student]: ""Sir, I'm looking for internships but I'm not sure where to start.""
+[Teacher]: ""Firstly, identify your areas of interest. Then, research companies that align with those interests.""
+[Student]: ""I'm interested in software development. But I'm not sure how to approach these companies.""
+[Teacher]: ""Start by tailoring your resume to highlight your skills in software development. Then, write a compelling cover letter explaining why you're interested in the company and how you can contribute.""
+[Student]: ""That sounds helpful. What about the interview process?""
+[Teacher]: ""Prepare by researching common interview questions. Practice your answers but remember to be yourself during the interview.""
+",37,"['[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information giving
+Information seeking
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving
+Information giving","['Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving', 'Information giving']",37,True
+"[Teacher]: ""Let's discuss some ethical dilemmas related to our course. For instance, consider the use of AI in decision-making. What are your thoughts?""
+[Student]: ""While AI can make decisions faster and more accurately, it might not consider ethical implications.""
+[Teacher]: ""That's a valid point. AI might not consider fairness, privacy, and other ethical issues. What can be done to address this?""
+[Student]: ""We could incorporate ethical guidelines into the AI's decision-making process.""
+[Teacher]: ""Excellent. That's one possible solution. Any other thoughts?""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 5 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Teacher]: ""Let's discuss some ethical dilemmas related to our course. For instance, consider the use of AI in decision-making. What are your thoughts?""
+[Student]: ""While AI can make decisions faster and more accurately, it might not consider ethical implications.""
+[Teacher]: ""That's a valid point. AI might not consider fairness, privacy, and other ethical issues. What can be done to address this?""
+[Student]: ""We could incorporate ethical guidelines into the AI's decision-making process.""
+[Teacher]: ""Excellent. That's one possible solution. Any other thoughts?""
+",5,"['[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information giving
+Information seeking
+Information giving
+Information seeking
+Information seeking","['Information giving', 'Information seeking', 'Information giving', 'Information seeking', 'Neutral']",5,True
+"[Student]: ""Miss, I'm feeling stressed about the upcoming exams. I'm not sure how to manage it.""
+[Teacher]: ""It's normal to feel stressed before exams. But there are ways to manage it. Firstly, create a study schedule. This will help you stay organized and reduce anxiety.""
+[Student]: ""I have a schedule but I still feel overwhelmed.""
+[Teacher]: ""In that case, try some relaxation techniques like deep breathing or meditation. Also, make sure to take breaks and get enough sleep.""
+[Student]: ""I'll try that. Thank you, Miss.""","For each of the following sentences, Is the sentence information giving, information seeking or neutral? Respond with 6 lines with only ""Information giving"", ""Information seeking"" or ""Neutral"" on every line -
+
+[Student]: ""Miss, I'm feeling stressed about the upcoming exams. I'm not sure how to manage it.""
+[Teacher]: ""It's normal to feel stressed before exams. But there are ways to manage it. Firstly, create a study schedule. This will help you stay organized and reduce anxiety.""
+[Student]: ""I have a schedule but I still feel overwhelmed.""
+[Teacher]: ""In that case, try some relaxation techniques like deep breathing or meditation. Also, make sure to take breaks and get enough sleep.""
+[Student]: ""I'll try that. Thank you, Miss.""
+
+",6,"['[Student]', '[Teacher]', '[Student]', '[Teacher]', '[Student]']","Information seeking
+Information giving
+Information seeking
+Information giving
+Information giving
+Neutral","['Information seeking', 'Information giving', 'Information seeking', 'Information giving', 'Information giving', 'Neutral']",6,True
