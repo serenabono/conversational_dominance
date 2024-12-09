@@ -413,7 +413,7 @@ def compute_bins(zero_pos, tokenizer, content, t_u, bin_width):
 
 import glob 
 
-def compute_dominance_ppl(tokenizer, dataset,labels_path, perplexity_scores, time_field, bin_width, start_of_sentence=" "):
+def compute_dominance_ppl(tokenizer, dataset, labels_path, perplexity_scores, time_field, bin_width, start_of_sentence=" "):
     
     print("Computing dominance perplexity")
     dominance_p = {}
