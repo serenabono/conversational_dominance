@@ -529,3 +529,234 @@ def compute_graph_perplexity(tokenizer, tokens, p1, p2, matches, pattern = '<(SP
     plt.suptitle("Per-Word Perplexity across the Dataset", fontsize=30)
     plt.legend()
     plt.show()
+
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.stats
+import plotly
+import plotly.io as pio
+pio.renderers.default = 'iframe'
+import plotly.express as px
+plotly.offline.init_notebook_mode(connected=True)
+import seaborn as sns
+
+cmp = 'algae'
+def correlation_heatmap(y_cols, x_cols, full_data):
+    '''
+    Uses scipy.stats.spearmanr function
+    Params:
+    y_cols, x_cols: sets of column titles (strings)
+    full_data: pandas dataframe that includes all columns listed in y_cols, x_cols
+    Returns:
+    corr: Spearman correlation coefficient matrix (y_cols = rows, x_cols = cols of matrix)
+    fig_corr: annotated plotly heatmap of coefficients
+    p: Spearman p-value matrix
+    fig_p: annotated plotly heatmap of p-values
+    '''
+    cols = y_cols+x_cols
+    all_correlations = scipy.stats.spearmanr(full_data[cols], nan_policy='omit')
+    corr = all_correlations.correlation[:len(y_cols), -len(x_cols):]
+    corr = pd.DataFrame(corr)
+    corr.columns = x_cols
+    corr.index = y_cols
+
+    p = all_correlations.pvalue[:len(y_cols), -len(x_cols):]
+    p = pd.DataFrame(p)
+    p.columns = x_cols
+    p.index = y_cols
+    
+    fig_corr = px.imshow(corr, text_auto=True, aspect='auto', color_continuous_scale='agsunset')
+    fig_r2 = px.imshow(corr**2, text_auto=True, aspect='auto', color_continuous_scale='agsunset')
+    fig_p = px.imshow(p, text_auto=True, aspect='auto', color_continuous_scale='gray_r')
+
+    return corr, fig_corr, p, fig_p, fig_r2
+
+def compute_dominance_per_spk(perplexity):
+    prev_idx_pp = 0
+    tokens_ids_per_sentence = np.cumsum([t.size(0) for t in token_list])
+    dialog = [tokenizer.decode(token, skip_special_tokens=True) for token in token_list]
+    all_values = []
+    ppls_p_spk={}
+    for idx, match in enumerate(matches):
+        if match not in ppls_p_spk:
+            ppls_p_spk[match] = []
+        for px in range(len(token_list[idx])):
+            fin_idx = px + np.sum([len(l) for l in token_list[:idx]], dtype=int)
+            ppls_p_spk[match].append(perplexity[fin_idx])
+    return ppls_p_spk
+
+
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy.stats import gaussian_kde
+
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy.stats import gaussian_kde
+
+def rolling_kde_heatmap_with_turns(
+    ppls,
+    token_list,
+    window_size=50,
+    step=10,
+    bandwidth=0.5,
+    vmin=None,
+    vmax=None,
+    title="[SPK]",
+):
+    """
+    Plots a rolling KDE heatmap over token-level perplexities and marks turn boundaries.
+    Optionally returns the KDE densities array.
+
+    Args:
+        ppls (List[float]): Flattened token-level perplexities.
+        token_list (List[Tensor]): List of per-turn token tensors.
+        window_size (int): Window size for KDE.
+        step (int): Step size for moving window.
+        bandwidth (float): Bandwidth for Gaussian KDE.
+        vmin, vmax: Color limits for the heatmap.
+        title (str): Title string.
+        return_densities (bool): If True, return the densities matrix.
+
+    Returns:
+        If return_densities=True, returns the (n_windows x n_bins) KDE matrix.
+    """
+    ppls = np.array(ppls)
+    xs = np.linspace(0, np.nanmax(ppls), 100)
+    densities = []
+
+    for i in range(0, len(ppls) - window_size, step):
+        window = ppls[i:i + window_size]
+        if np.isnan(window).any():
+            densities.append(np.zeros_like(xs))  # pad with zeros for alignment
+        else:
+            kde = gaussian_kde(window, bw_method=bandwidth)
+            densities.append(kde(xs))
+
+    densities = np.array(densities)
+
+    # Compute actual token indices of turn ends
+    turn_boundaries_token_idx = np.cumsum([len(tok) for tok in token_list])[:-1]
+    x_bins = np.arange(0, len(ppls) - window_size, step)
+    turn_boundaries_bins = [np.searchsorted(x_bins, tb) for tb in turn_boundaries_token_idx]
+    unique_turn_bins = sorted(set(turn_boundaries_bins))
+
+    # Plot
+    plt.figure(figsize=(12, 5))
+    ax = sns.heatmap(
+        densities.T,
+        xticklabels=step,
+        yticklabels=False,
+        cmap="viridis",
+        cbar=True,
+        vmin=vmin,
+        vmax=vmax
+    )
+
+    for xb in unique_turn_bins:
+        ax.axvline(x=xb, color='white', linestyle='--', linewidth=0.5, alpha=0.7)
+
+    plt.title(f"Rolling KDE Heatmap of PPL for {title}")
+    plt.xlabel("Turn Window")
+    plt.ylabel("Perplexity Bins")
+    plt.tight_layout()
+    plt.show()
+
+    return densities
+
+
+from matplotlib import cm
+from matplotlib.colors import Normalize
+from IPython.display import HTML
+
+from matplotlib import cm
+from matplotlib.colors import Normalize
+from IPython.display import HTML
+
+def display_tokens_colored_by_kde(
+    token_list,
+    ppls,
+    densities,
+    window_size,
+    step,
+    tokenizer,
+    vmin=None,
+    vmax=None,
+    cmap_name="viridis"
+):
+    """
+    Colors each token using the rolling KDE heatmap.
+    
+    Args:
+        token_list: List of token tensors per turn.
+        ppls: List of token-level perplexities (flattened).
+        densities: 2D array of KDE values (n_windows x n_bins).
+        window_size: Size of rolling window used for KDE.
+        step: Step size used in rolling KDE.
+        tokenizer: HF tokenizer.
+        vmin, vmax: KDE value scale for coloring.
+        cmap_name: Name of matplotlib colormap.
+
+    Returns:
+        IPython HTML display of color-coded tokens.
+    """
+    num_tokens = len(ppls)
+    num_windows = densities.shape[0]
+    token_kde_scores = np.zeros(num_tokens)
+    token_counts = np.zeros(num_tokens)
+
+    # For each window, distribute score across involved tokens
+    for win_idx in range(num_windows):
+        start = win_idx * step
+        end = min(start + window_size, num_tokens)
+        # Use max density for that window
+        window_density = np.max(densities[win_idx])
+        for i in range(start, end):
+            token_kde_scores[i] += window_density
+            token_counts[i] += 1
+
+    # Normalize per token
+    with np.errstate(divide='ignore', invalid='ignore'):
+        averaged_scores = np.divide(token_kde_scores, token_counts, out=np.zeros_like(token_kde_scores), where=token_counts != 0)
+
+    # Normalize colors
+    norm = Normalize(vmin=vmin if vmin is not None else np.nanmin(averaged_scores),
+                     vmax=vmax if vmax is not None else np.nanmax(averaged_scores))
+    cmap = cm.get_cmap(cmap_name)
+
+    # Flatten and decode tokens
+    flat_tokens = [tok.item() for turn in token_list for tok in turn]
+    decoded_tokens = tokenizer.convert_ids_to_tokens(flat_tokens)
+
+    # HTML generation
+    html = "<div style='font-family: monospace; line-height: 2;'>"
+    for token, score in zip(decoded_tokens, averaged_scores):
+        color = cm.colors.rgb2hex(cmap(norm(score)))
+        clean_token = token.replace("Ġ", " ").replace("▁", " ").strip()
+        html += f"<span style='background-color:{color}; padding:2px 4px; margin:1px; border-radius:3px;'>{clean_token}</span> "
+    html += "</div>"
+
+    return HTML(html)
+
+# Run statistical tests
+from scipy import stats
+def compute_significance(original_ppls_p_spk):
+    spk1_clean = np.array(original_ppls_p_spk["<SPK0>"])
+    spk2_clean = np.array(original_ppls_p_spk["<SPK1>"])
+
+    ppl_spk1 = spk1_clean[~np.isnan(spk1_clean)]
+    ppl_spk2 = spk2_clean[~np.isnan(spk2_clean)]
+
+    ks_stat, ks_pvalue = stats.ks_2samp(ppl_spk1, ppl_spk2)
+    mw_stat, mw_pvalue = stats.mannwhitneyu(ppl_spk1, ppl_spk2, alternative='two-sided')
+    tt_stat, tt_pvalue = stats.ttest_ind(ppl_spk1, ppl_spk2, equal_var=False)
+
+    return {
+        "Kolmogorov-Smirnov": {"statistic": ks_stat, "p_value": ks_pvalue},
+        "Mann-Whitney U": {"statistic": mw_stat, "p_value": mw_pvalue},
+        "T-test": {"statistic": tt_stat, "p_value": tt_pvalue}
+    }
