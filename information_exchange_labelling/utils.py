@@ -760,3 +760,45 @@ def compute_significance(original_ppls_p_spk):
         "Mann-Whitney U": {"statistic": mw_stat, "p_value": mw_pvalue},
         "T-test": {"statistic": tt_stat, "p_value": tt_pvalue}
     }
+
+
+from transformers import AutoTokenizer
+import numpy as np
+
+def remove_match_prefix_ppl(token_list, ppl, matches, tokenizer):
+    """
+    For each line, remove the match prefix (after tokenizing) from both the tokens and the flat PPL array.
+
+    Args:
+        token_list (List[List[int]]): Tokenized dialog lines.
+        ppl (List[float]): Flat list of token-level PPL values.
+        match (str): String match to remove from beginning of each line.
+        tokenizer: Tokenizer used to tokenize everything.
+
+    Returns:
+        Tuple[List[List[int]], List[float]]: filtered_tokens, filtered_ppl
+    """
+    
+    line_offsets = np.cumsum([0] + [len(t) for t in token_list[:-1]])  # starting index of each line in flat ppl
+
+    filtered_tokens = []
+    filtered_ppl = []
+    filtered_encodings = []
+
+    for i, (token, match) in enumerate(zip(token_list, matches)):
+        tok_match = tokenizer(match, return_tensors="pt")
+        match_tok_len = len(tok_match.input_ids[0])
+        # Slice off the match prefix
+        token_filtered = token[match_tok_len:]
+        filtered_tokens.append(token_filtered)
+
+        # Use offset to slice from ppl
+        start = line_offsets[i] + match_tok_len
+        end = line_offsets[i] + len(token)
+        filtered_ppl.extend(ppl[start:end])
+        
+        filtered_encodings.extend(token_filtered)
+    
+        assert len(ppl[start:end]) == len(token_filtered)
+
+    return filtered_tokens, filtered_ppl, filtered_encodings
