@@ -573,7 +573,7 @@ def correlation_heatmap(y_cols, x_cols, full_data):
 
     return corr, fig_corr, p, fig_p, fig_r2
 
-def compute_dominance_per_spk(perplexity):
+def compute_dominance_per_spk(perplexity, token_list, matches, tokenizer):
     prev_idx_pp = 0
     tokens_ids_per_sentence = np.cumsum([t.size(0) for t in token_list])
     dialog = [tokenizer.decode(token, skip_special_tokens=True) for token in token_list]
