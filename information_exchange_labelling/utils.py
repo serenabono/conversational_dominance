@@ -484,42 +484,62 @@ def compute_per_utterance_mean_perplexity(tokenizer, dialog, tokens, idx_bin, pe
 
     return  per_utterance_ppl, per_utterance_bin
     
-def compute_graph_perplexity(tokenizer, tokens, p1, p2, matches, pattern = '<(SPK[1-9]|MOD)>', answers=None):
+def compute_graph_perplexity(tokenizer, tokens_list, p1, p2, matches, names, answers=None):
+    dialog = [tokenizer.decode(token, skip_special_tokens=True) for token in tokens_list]
     
-    dialog = [tokenizer.decode(token, skip_special_tokens=True) for token in tokens]
-    unique_matches = np.unique(matches)
-    
-    rows = int(np.ceil(np.sqrt(len(dialog))))
+    # rows = int(np.ceil(np.sqrt(len(dialog))))
+    rows = int(np.ceil(len(dialog)/6.0))
     # Create an 8x8 grid of subplots
-    fig, axes = plt.subplots(rows, rows, figsize=(30, 30))
+    fig, axes = plt.subplots(rows, 6, figsize=(30, 15))
     num_plots = len(dialog)
     # Set smaller font size
     plt.rcParams.update({'font.size': 8})
     
     assert num_plots == len(matches)
-    encodings = torch.cat(tokens)
-    tokens_ids_per_sentence = np.cumsum([t.size(0) for t in tokens])
+    encodings = torch.cat(tokens_list)
+    tokens_ids_per_sentence = np.cumsum([t.size(0) for t in tokens_list])
     assert tokens_ids_per_sentence[-1] == len(p1)
     
+    # Compute global y-limits across all p1 and p2 values
+    all_values = []
+    prev_idx_pp = 0
+    for idx in range(len(dialog)):
+        idx_pp = tokens_ids_per_sentence[idx]
+        p1_per_sent = p1[prev_idx_pp:idx_pp]
+        p2_per_sent = p2[prev_idx_pp:idx_pp]
+        all_values.extend(p1_per_sent)
+        all_values.extend(p2_per_sent)
+        prev_idx_pp = idx_pp
+
+    # Filter out NaNs and compute global limits
+    all_values = np.array(all_values)
+    global_min = np.nanmin(all_values)
+    global_max = np.nanmax(all_values)
+
     prev_idx_pp = 0
     for idx, ax in enumerate(axes.flatten()):
         if idx < num_plots:
             idx_pp = tokens_ids_per_sentence[idx]
             patt = matches[idx]
-            tokens = encodings[prev_idx_pp:idx_pp]
-            decoded = [tokenizer.decode([token], skip_special_tokens=True) for token in tokens]
+            sub_tokens = encodings[prev_idx_pp:idx_pp]
+            decoded = [tokenizer.decode([token], skip_special_tokens=True) for token in sub_tokens]
             p1_per_sent = p1[prev_idx_pp:idx_pp]
             p2_per_sent = p2[prev_idx_pp:idx_pp]
-            ax.plot(np.asarray(p1_per_sent), label=f'{patt} p1')
-            ax.plot(np.asarray(p2_per_sent), label=f'{patt} p2', color='r')
+            p1_name = names['p1']
+            ax.plot(np.asarray(p1_per_sent), label=f'{patt} {p1_name}')
+            #ax.plot(np.asarray(p2_per_sent), label=f'{patt} p2', color='r')
             #mean_value=np.nanmean(np.asarray(perpl_per_sent))
-            ax.axhline(p1_per_sent[0], color='g', label=f'{patt} p3')  # Fixed the color argument
+            # ax.axhline(p1_per_sent[0], color='g', label=f'{patt} p3')  # Fixed the color argument
+            p2_name = names['p2']
+            ax.plot(np.asarray(p2_per_sent), label=f'{patt} {p2_name}', color='g')
             ax.set_xticks(np.arange(len(decoded)))
             ax.set_xticklabels(decoded, rotation=90)
             if answers is not None:
                 ax.set_title(f'{answers[idx]}')
             ax.legend()
             prev_idx_pp=idx_pp
+
+            ax.set_ylim(global_min, global_max)
 
     # Hide any remaining empty subplots
     for ax in axes.flatten()[num_plots:]:
@@ -573,30 +593,101 @@ def correlation_heatmap(y_cols, x_cols, full_data):
 
     return corr, fig_corr, p, fig_p, fig_r2
 
-def compute_dominance_per_spk(perplexity, token_list, matches, tokenizer):
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy.stats import gaussian_kde
+
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy.stats import gaussian_kde
+
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.stats import gaussian_kde
+
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.stats import gaussian_kde
+
+
+import matplotlib.pyplot as plt
+from IPython.display import display, HTML
+import matplotlib.colors as mcolors
+
+def display_colored_sentences(tokens_list, p1, tokenizer, bound = None):
+    encodings = torch.cat(tokens_list)
+    decoded_tokens = [tokenizer.decode([token], skip_special_tokens=False) for token in encodings]
+
+    tokens_ids_per_sentence = np.cumsum([t.size(0) for t in tokens_list])
+    assert tokens_ids_per_sentence[-1] == len(p1)
+
+    global_min = np.nanmin(p1)
+    global_max = np.nanmax(p1)
+    if bound != None:
+        global_min, global_max = bound
+
+    # Create a white-to-red colormap
+    cmap = plt.cm.Reds
+    cmap = cmap(np.linspace(0, 1, 256))
+    # cmap[:50, :] = 1  # make the first 50 entries white (RGBA=1,1,1,1)
+    white_to_red = mcolors.ListedColormap(cmap)
+
+    html_output = ""
     prev_idx_pp = 0
-    tokens_ids_per_sentence = np.cumsum([t.size(0) for t in token_list])
-    dialog = [tokenizer.decode(token, skip_special_tokens=True) for token in token_list]
-    all_values = []
-    ppls_p_spk={}
-    for idx, match in enumerate(matches):
-        if match not in ppls_p_spk:
-            ppls_p_spk[match] = []
-        for px in range(len(token_list[idx])):
-            fin_idx = px + np.sum([len(l) for l in token_list[:idx]], dtype=int)
-            ppls_p_spk[match].append(perplexity[fin_idx])
-    return ppls_p_spk
 
+    for idx in range(len(tokens_list)):
+        idx_pp = tokens_ids_per_sentence[idx]
+        sentence_tokens = decoded_tokens[prev_idx_pp:idx_pp]
+        sentence_p1 = p1[prev_idx_pp:idx_pp]
 
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-from scipy.stats import gaussian_kde
+        colored_sentence = ""
+        for token, score in zip(sentence_tokens, sentence_p1):
+            token = token.strip()
+            token = token.replace("<", "&lt;").replace(">", "&gt;")
 
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-from scipy.stats import gaussian_kde
+            if global_max == global_min:
+                norm_score = 0.0
+            else:
+                norm_score = (score - global_min) / (global_max - global_min)
+            r, g, b, _ = white_to_red(norm_score)
+            color = mcolors.to_hex((r, g, b))
+            colored_sentence += f'<span style="color:{color}">{str(token)}</span> '
+        html_output += f"<span style='line-height:1.8em; font-size:130%; font-weight: bolder;'>{colored_sentence}</span><br>"
+        prev_idx_pp = idx_pp
+
+    # Display the HTML sentences
+    display(HTML(html_output))
+
+    # Create the color bar
+    fig, ax = plt.subplots(figsize=(6, 1))
+    norm = plt.Normalize(vmin=global_min, vmax=global_max)
+    fig.subplots_adjust(bottom=0.5)
+
+    cb1 = plt.colorbar(
+        plt.cm.ScalarMappable(norm=norm, cmap=white_to_red),
+        cax=ax, orientation='horizontal'
+    )
+    cb1.set_label('Perplexity')
+    plt.show()
+
+import re
+
+def preprocess(text, pattern=r'<(SPK[1-9]|MOD)>'):
+    matches = re.findall(pattern, text)
+    dialog = text.replace('\n', '')
+    dialog = re.sub(pattern, lambda m: '\n' + m.group(0), dialog)
+    dialog_lines = [
+        line.strip() + ' '
+        for line in dialog.split('\n')
+        if line.strip()
+    ]
+
+    return dialog_lines, matches
+
 
 def rolling_kde_heatmap_with_turns(
     ppls,
@@ -607,10 +698,11 @@ def rolling_kde_heatmap_with_turns(
     vmin=None,
     vmax=None,
     title="[SPK]",
+    return_densities=True
 ):
     """
     Plots a rolling KDE heatmap over token-level perplexities and marks turn boundaries.
-    Optionally returns the KDE densities array.
+    X-axis is labeled by turn indices.
 
     Args:
         ppls (List[float]): Flattened token-level perplexities.
@@ -623,33 +715,41 @@ def rolling_kde_heatmap_with_turns(
         return_densities (bool): If True, return the densities matrix.
 
     Returns:
-        If return_densities=True, returns the (n_windows x n_bins) KDE matrix.
+        densities (ndarray): KDE matrix of shape (n_windows x n_bins)
     """
     ppls = np.array(ppls)
     xs = np.linspace(0, np.nanmax(ppls), 100)
     densities = []
 
+    # Compute KDE over rolling windows
     for i in range(0, len(ppls) - window_size, step):
         window = ppls[i:i + window_size]
         if np.isnan(window).any():
-            densities.append(np.zeros_like(xs))  # pad with zeros for alignment
+            densities.append(np.zeros_like(xs))  # pad with zeros
         else:
             kde = gaussian_kde(window, bw_method=bandwidth)
             densities.append(kde(xs))
 
     densities = np.array(densities)
 
-    # Compute actual token indices of turn ends
-    turn_boundaries_token_idx = np.cumsum([len(tok) for tok in token_list])[:-1]
-    x_bins = np.arange(0, len(ppls) - window_size, step)
-    turn_boundaries_bins = [np.searchsorted(x_bins, tb) for tb in turn_boundaries_token_idx]
+    # Compute token indices for turn boundaries
+    turn_token_ends = np.cumsum([len(tok) for tok in token_list])
+    turn_boundaries_token_idx = turn_token_ends[:-1]
+
+    # Map each window midpoint to a turn index
+    window_starts = np.arange(0, len(ppls) - window_size, step)
+    window_midpoints = window_starts + window_size // 2
+    window_turn_idxs = [np.searchsorted(turn_token_ends, mid) for mid in window_midpoints]
+
+    # Mark turn boundaries on the x-axis
+    turn_boundaries_bins = [np.searchsorted(window_starts, tb) for tb in turn_boundaries_token_idx]
     unique_turn_bins = sorted(set(turn_boundaries_bins))
 
-    # Plot
+    # Plot heatmap
     plt.figure(figsize=(12, 5))
     ax = sns.heatmap(
         densities.T,
-        xticklabels=step,
+        xticklabels=False,
         yticklabels=False,
         cmap="viridis",
         cbar=True,
@@ -660,14 +760,24 @@ def rolling_kde_heatmap_with_turns(
     for xb in unique_turn_bins:
         ax.axvline(x=xb, color='white', linestyle='--', linewidth=0.5, alpha=0.7)
 
+    # Set sparse x-ticks using turn indices
+    xtick_pos = np.linspace(0, len(window_turn_idxs) - 1, num=min(10, len(window_turn_idxs)), dtype=int)
+    xtick_labels = [f"Turn {window_turn_idxs[i]}" for i in xtick_pos]
+    ax.set_xticks(xtick_pos)
+    ax.set_xticklabels(xtick_labels, rotation=45)
+
     plt.title(f"Rolling KDE Heatmap of PPL for {title}")
-    plt.xlabel("Turn Window")
+    plt.xlabel("Turn Index")
     plt.ylabel("Perplexity Bins")
     plt.tight_layout()
     plt.show()
 
-    return densities
+    if return_densities:
+        return densities
 
+from matplotlib import cm
+from matplotlib.colors import Normalize
+from IPython.display import HTML
 
 from matplotlib import cm
 from matplotlib.colors import Normalize
@@ -677,70 +787,92 @@ from matplotlib import cm
 from matplotlib.colors import Normalize
 from IPython.display import HTML
 
-def display_tokens_colored_by_kde(
+def display_turns_colored_by_kde(
     token_list,
     ppls,
     densities,
     window_size,
     step,
     tokenizer,
+    matches,
     vmin=None,
     vmax=None,
     cmap_name="viridis"
 ):
     """
-    Colors each token using the rolling KDE heatmap.
+    Colors each *turn* using the average of token-level rolling KDE values.
     
     Args:
         token_list: List of token tensors per turn.
-        ppls: List of token-level perplexities (flattened).
+        ppls: Flattened list of token-level perplexities.
         densities: 2D array of KDE values (n_windows x n_bins).
         window_size: Size of rolling window used for KDE.
         step: Step size used in rolling KDE.
         tokenizer: HF tokenizer.
+        matches: List of speaker tags per turn (e.g., ["<SPK1>", "<SPK2>", ...]).
         vmin, vmax: KDE value scale for coloring.
         cmap_name: Name of matplotlib colormap.
 
     Returns:
-        IPython HTML display of color-coded tokens.
+        IPython HTML display of color-coded turns grouped by speaker.
     """
     num_tokens = len(ppls)
     num_windows = densities.shape[0]
     token_kde_scores = np.zeros(num_tokens)
     token_counts = np.zeros(num_tokens)
 
-    # For each window, distribute score across involved tokens
+    # Aggregate KDE scores per token
     for win_idx in range(num_windows):
         start = win_idx * step
         end = min(start + window_size, num_tokens)
-        # Use max density for that window
         window_density = np.max(densities[win_idx])
         for i in range(start, end):
             token_kde_scores[i] += window_density
             token_counts[i] += 1
 
-    # Normalize per token
+    # Compute per-token average KDE score
     with np.errstate(divide='ignore', invalid='ignore'):
-        averaged_scores = np.divide(token_kde_scores, token_counts, out=np.zeros_like(token_kde_scores), where=token_counts != 0)
+        averaged_scores = np.divide(
+            token_kde_scores,
+            token_counts,
+            out=np.zeros_like(token_kde_scores),
+            where=token_counts != 0
+        )
 
-    # Normalize colors
-    norm = Normalize(vmin=vmin if vmin is not None else np.nanmin(averaged_scores),
-                     vmax=vmax if vmax is not None else np.nanmax(averaged_scores))
+    # Normalize color scale
+    norm = Normalize(
+        vmin=vmin if vmin is not None else np.nanmin(averaged_scores),
+        vmax=vmax if vmax is not None else np.nanmax(averaged_scores)
+    )
     cmap = cm.get_cmap(cmap_name)
 
-    # Flatten and decode tokens
+    # Decode tokens
     flat_tokens = [tok.item() for turn in token_list for tok in turn]
     decoded_tokens = tokenizer.convert_ids_to_tokens(flat_tokens)
 
-    # HTML generation
-    html = "<div style='font-family: monospace; line-height: 2;'>"
-    for token, score in zip(decoded_tokens, averaged_scores):
-        color = cm.colors.rgb2hex(cmap(norm(score)))
-        clean_token = token.replace("Ġ", " ").replace("▁", " ").strip()
-        html += f"<span style='background-color:{color}; padding:2px 4px; margin:1px; border-radius:3px;'>{clean_token}</span> "
-    html += "</div>"
+    # Compute averaged scores per turn
+    html = "<div style='font-family: monospace; line-height: 1.8;'>"
+    idx = 0
+    for turn_idx, turn in enumerate(token_list):
+        turn_len = len(turn)
+        speaker = matches[turn_idx].strip() if isinstance(matches[turn_idx], str) else str(matches[turn_idx])
 
+        # Average KDE scores over the turn's tokens
+        turn_scores = averaged_scores[idx:idx + turn_len]
+        avg_score = np.mean(turn_scores) if len(turn_scores) > 0 else 0.0
+        color = cm.colors.rgb2hex(cmap(norm(avg_score)))
+
+        # Decode and join tokens
+        turn_tokens = decoded_tokens[idx:idx + turn_len]
+        decoded_str = " ".join(tok.replace("Ġ", " ").replace("▁", " ").strip() for tok in turn_tokens)
+
+        # Format HTML
+        html += f"<div><strong>{speaker}</strong>: <span style='background-color:{color}; padding:2px 6px; border-radius:3px;'>{decoded_str}</span></div>\n"
+        idx += turn_len
+
+    html += "</div>"
     return HTML(html)
+
 
 # Run statistical tests
 from scipy import stats
@@ -765,40 +897,104 @@ def compute_significance(original_ppls_p_spk):
 from transformers import AutoTokenizer
 import numpy as np
 
-def remove_match_prefix_ppl(token_list, ppl, matches, tokenizer):
+def compute_dominance_per_spk(perplexity, token_list, matches, tokenizer):
+    prev_idx_pp = 0
+    tokens_ids_per_sentence = np.cumsum([t.size(0) for t in token_list])
+    dialog = [tokenizer.decode(token, skip_special_tokens=True) for token in token_list]
+    all_values = []
+    ppls_p_spk={}
+    for idx, match in enumerate(matches):
+        if match not in ppls_p_spk:
+            ppls_p_spk[match] = []
+        for px in range(len(token_list[idx])):
+            fin_idx = px + np.sum([len(l) for l in token_list[:idx]], dtype=int)
+            ppls_p_spk[match].append(perplexity[fin_idx])
+    return ppls_p_spk
+
+from transformers import AutoTokenizer
+import numpy as np
+
+from transformers import AutoTokenizer
+import numpy as np
+
+def remove_match_prefix_ppl(token_list, ppl, matches, tokenizer, min_len=3):
     """
-    For each line, remove the match prefix (after tokenizing) from both the tokens and the flat PPL array.
+    Removes matching prefixes from each line and filters out entire turns if remaining token length is below threshold.
 
     Args:
         token_list (List[List[int]]): Tokenized dialog lines.
         ppl (List[float]): Flat list of token-level PPL values.
-        match (str): String match to remove from beginning of each line.
-        tokenizer: Tokenizer used to tokenize everything.
+        matches (List[str]): List of string prefixes to remove from each line.
+        tokenizer: HuggingFace tokenizer used.
+        min_len (int): Minimum length (after prefix removal) to keep the turn.
 
     Returns:
-        Tuple[List[List[int]], List[float]]: filtered_tokens, filtered_ppl
+        Tuple[
+            List[List[int]],  # filtered_tokens
+            List[float],      # filtered_ppl
+            List[int],        # flat_token_ids
+            List[str]         # filtered_matches
+        ]
     """
-    
-    line_offsets = np.cumsum([0] + [len(t) for t in token_list[:-1]])  # starting index of each line in flat ppl
+    assert len(token_list) == len(matches), "Mismatch between token list and matches"
+
+    line_offsets = np.cumsum([0] + [len(t) for t in token_list[:-1]])  # start index in flat PPL array
 
     filtered_tokens = []
     filtered_ppl = []
-    filtered_encodings = []
+    flat_token_ids = []
+    filtered_matches = []
 
     for i, (token, match) in enumerate(zip(token_list, matches)):
         tok_match = tokenizer(match, return_tensors="pt")
         match_tok_len = len(tok_match.input_ids[0])
+
         # Slice off the match prefix
         token_filtered = token[match_tok_len:]
-        filtered_tokens.append(token_filtered)
 
-        # Use offset to slice from ppl
+        if len(token_filtered) < min_len:
+            continue  # skip turn entirely if below threshold
+
+        # Keep this turn
+        filtered_tokens.append(token_filtered)
+        filtered_matches.append(match)
+
+        # Extract aligned PPL values
         start = line_offsets[i] + match_tok_len
         end = line_offsets[i] + len(token)
-        filtered_ppl.extend(ppl[start:end])
-        
-        filtered_encodings.extend(token_filtered)
-    
-        assert len(ppl[start:end]) == len(token_filtered)
+        turn_ppl = ppl[start:end]
 
-    return filtered_tokens, filtered_ppl, filtered_encodings
+        assert len(turn_ppl) == len(token_filtered), f"PPL/token mismatch at turn {i}"
+        
+        filtered_ppl.extend(turn_ppl)
+        flat_token_ids.extend(token_filtered)
+
+    return filtered_tokens, filtered_ppl, flat_token_ids, filtered_matches
+
+def extract_tokens_and_ppls_by_turn_indices(turn_indices, token_list, ppls):
+    """
+    Extracts a filtered list of token lists and aligned PPLs from a flat PPL array.
+
+    Args:
+        turn_indices (List[int]): Indices of turns to keep.
+        token_list (List[List[int]]): Full list of token lists.
+        ppls (List[float]): Flattened list of per-token PPLs.
+
+    Returns:
+        Tuple:
+            filtered_token_list (List[List[int]]): Subset of token_list
+            filtered_ppl (List[float]): Subset of PPL values aligned with token IDs
+    """
+    token_lengths = [len(t) for t in token_list]
+    cum_starts = np.cumsum([0] + token_lengths)
+
+    filtered_token_list = []
+    filtered_ppl = []
+
+    for idx in turn_indices:
+        start = cum_starts[idx]
+        end = cum_starts[idx + 1]
+        filtered_token_list.append(token_list[idx])
+        filtered_ppl.extend(ppls[start:end])
+
+    return filtered_token_list, filtered_ppl
