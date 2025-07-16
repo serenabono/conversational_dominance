@@ -38,9 +38,7 @@ def get_token_spans(dialog, tokenizer):
     return spans, torch.tensor(total_tokens)
 
 
-def compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=" ", pattern = r'<(?:SPK[0-9]|MOD)>', debug=False):
-
-    max_length = 500
+def compute_p1(encodings, token_list, tokenizer, model, device, max_length = 500, start_of_sentence=" ", pattern = r'<(?:SPK[0-9]|MOD)>', debug=False):
     stride = 1
     
     pad_token_id = 0
@@ -74,8 +72,7 @@ def compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentenc
             break
     return nlls
 
-def compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=" ", pattern = r'<(?:SPK[0-9]|MOD)>', debug=False):
-    max_length = 500
+def compute_p2(encodings, token_list, tokenizer, model, device, max_length = 500, start_of_sentence=" ", pattern = r'<(?:SPK[0-9]|MOD)>', debug=False):
     stride = 1
 
     pad_token_id = 0
@@ -120,9 +117,8 @@ def compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentenc
     return nlls
 
 
-def compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=" ", pattern = r'<(?:SPK[0-9]|MOD)>', debug=False):
+def compute_p3(encodings, token_list, tokenizer, model, device, max_length = 500, start_of_sentence=" ", pattern = r'<(?:SPK[0-9]|MOD)>', debug=False):
     
-    max_length = 500
     stride = 1
     pad_token_id = 0
     assert len([t for token in token_list for t in token]) == encodings.input_ids.size(1)
@@ -220,28 +216,29 @@ if __name__ == "__main__":
 
     tot_n = len(filtered_d['file_content'])
     pattern='<(SPK[0-9]|MOD)>'
-    for idx, (el, path) in enumerate(zip(filtered_d["file_content"], filtered_d["file_name"])):
+    for idx, (dialog, path) in enumerate(zip(filtered_d["file_content"], filtered_d["file_name"])):
         ppl = {}
         if os.path.exists(f"{output_path}/dominance_scores_{path}.pkl"):
             print(f"skipping {path} ...")
             continue
         print(f"{idx}/{tot_n}")
         print(f"processing file {path}")
-        dialog = re.sub(r'\<', r'\n<', el).split("\n")[1:]
-        matches = re.findall(pattern, "".join(dialog))
-        token_list = [tokenizer(token, return_tensors="pt", return_offsets_mapping=True).input_ids[0] for token in dialog]
-        encodings = tokenizer(f"{start_of_sentence}".join(dialog), return_tensors="pt")
+        pattern = r'<(?:SPK[0-9]|MOD)>'
+        dialog_lines = re.sub(r"[\[\(].*?[\]\)]", "", dialog).replace("<", "\n<").split("\n")[1:]
+        matches = [f"{start_of_sentence}{match} " for match in re.findall(pattern, f"{start_of_sentence}".join(dialog_lines))]
+        token_list = [tokenizer(token, return_tensors="pt").input_ids[0] for token in dialog_lines]
+        encodings = tokenizer(f"{start_of_sentence}".join(dialog_lines), return_tensors="pt")
         
         if perplexity_func == "p1":
-            perpl = compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=" ", pattern=pattern, debug=False)
+            perpl = compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, pattern=pattern, debug=False)
         elif perplexity_func == "p2":  # Assuming 'per_user' is the only other option
-            perpl = compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=" ", pattern=pattern, debug=False)
+            perpl = compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, pattern=pattern, debug=False)
         elif perplexity_func == "p3":
-            perpl = compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=" ", pattern=pattern, debug=False)
+            perpl = compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, pattern=pattern, debug=False)
         else:
             print(f"Error: {perplexity_func}, not a known perplexity type") 
         ppl[path] = perpl
-        assert len(ppl[path]) == tokenizer(f"{start_of_sentence}".join(dialog_no_s), return_tensors="pt", return_offsets_mapping=True).input_ids.size(1)
-        assert len(matches) == len(dialog_no_s)
+        assert len(ppl[path]) == tokenizer(f"{start_of_sentence}".join(dialog_lines), return_tensors="pt", return_offsets_mapping=True).input_ids.size(1)
+        assert len(matches) == len(dialog_lines)
         with open(f"{output_path}/dominance_scores_{path}.pkl", 'wb') as file:
             pickle.dump(ppl, file)
