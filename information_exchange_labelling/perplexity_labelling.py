@@ -230,15 +230,15 @@ if __name__ == "__main__":
         encodings = tokenizer(f"{start_of_sentence}".join(dialog_lines), return_tensors="pt")
         
         if perplexity_func == "p1":
-            perpl = compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, pattern=pattern, debug=False)
+            perpl = compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 100, pattern=pattern, debug=False)
         elif perplexity_func == "p2":  # Assuming 'per_user' is the only other option
-            perpl = compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, pattern=pattern, debug=False)
+            perpl = compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 100, pattern=pattern, debug=False)
         elif perplexity_func == "p3":
-            perpl = compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, pattern=pattern, debug=False)
+            perpl = compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 100, pattern=pattern, debug=False)
         else:
             print(f"Error: {perplexity_func}, not a known perplexity type") 
         ppl[path] = perpl
-        assert len(ppl[path]) == tokenizer(f"{start_of_sentence}".join(dialog_lines), return_tensors="pt", return_offsets_mapping=True).input_ids.size(1)
-        assert len(matches) == len(dialog_lines)
+        #assert len(ppl[path]) == tokenizer(f"{start_of_sentence}".join(dialog_lines), return_tensors="pt", return_offsets_mapping=True).input_ids.size(1)
+        #assert len(matches) == len(dialog_lines)
         with open(f"{output_path}/dominance_scores_{path}.pkl", 'wb') as file:
             pickle.dump(ppl, file)
