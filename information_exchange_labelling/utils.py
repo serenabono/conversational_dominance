@@ -873,25 +873,116 @@ def display_turns_colored_by_kde(
     html += "</div>"
     return HTML(html)
 
-
-# Run statistical tests
+import numpy as np
+from itertools import combinations
 from scipy import stats
-def compute_significance(original_ppls_p_spk):
-    spk1_clean = np.array(original_ppls_p_spk["<SPK0>"])
-    spk2_clean = np.array(original_ppls_p_spk["<SPK1>"])
 
-    ppl_spk1 = spk1_clean[~np.isnan(spk1_clean)]
-    ppl_spk2 = spk2_clean[~np.isnan(spk2_clean)]
+def compute_significance(
+    original_ppls_p_spk,
+    spk_tokens,
+    *,
+    alternative_mw="two-sided",
+    equal_var_ttest=False,
+    adjust_p="fdr_bh"  # None or "fdr_bh"
+):
+    """
+    Pairwise significance tests (KS, Mann-Whitney U, Welch's t) across multiple speakers.
 
-    ks_stat, ks_pvalue = stats.ks_2samp(ppl_spk1, ppl_spk2)
-    mw_stat, mw_pvalue = stats.mannwhitneyu(ppl_spk1, ppl_spk2, alternative='two-sided')
-    tt_stat, tt_pvalue = stats.ttest_ind(ppl_spk1, ppl_spk2, equal_var=False)
+    Parameters
+    ----------
+    original_ppls_p_spk : dict[str, array-like]
+        Mapping like {"<SPK0>": arr, "<SPK1>": arr, ...}.
+    spk_tokens : list[str]
+        Speaker tokens to include (order doesn't matter).
+    alternative_mw : {"two-sided","less","greater"}
+        Alternative for Mann-Whitney U.
+    equal_var_ttest : bool
+        If False, do Welch's t-test; if True, classic independent t-test.
+    adjust_p : {None, "fdr_bh"}
+        If set, applies Benjamini–Hochberg FDR across *all* p-values (per test family).
 
-    return {
-        "Kolmogorov-Smirnov": {"statistic": ks_stat, "p_value": ks_pvalue},
-        "Mann-Whitney U": {"statistic": mw_stat, "p_value": mw_pvalue},
-        "T-test": {"statistic": tt_stat, "p_value": tt_pvalue}
-    }
+    Returns
+    -------
+    results_list : list[dict]
+        Tidy rows with keys: test, spk_i, spk_j, n_i, n_j, statistic, p_value, p_value_adj (if requested).
+    results_dict : dict
+        Nested dict results_dict[test][(spk_i, spk_j)] = {statistic, p_value, ...}
+    """
+    # Clean arrays
+    arrays = {}
+    for s in spk_tokens:
+        arr = np.asarray(original_ppls_p_spk[s], dtype=float)
+        arrays[s] = arr[~np.isnan(arr)]
+
+    pairs = list(combinations(spk_tokens, 2))
+    results = {"KS": {}, "Mann-Whitney U": {}, "T-test": {}}
+    rows_ks, rows_mw, rows_tt = [], [], []
+
+    for a, b in pairs:
+        x, y = arrays[a], arrays[b]
+        n_x, n_y = len(x), len(y)
+
+        # If any side empty, skip with NaNs
+        if n_x == 0 or n_y == 0:
+            ks_stat = mw_stat = tt_stat = np.nan
+            ks_p = mw_p = tt_p = np.nan
+        else:
+            ks_stat, ks_p = stats.ks_2samp(x, y, alternative="two-sided", mode="auto")
+            mw_stat, mw_p = stats.mannwhitneyu(x, y, alternative=alternative_mw, method="auto")
+            tt_stat, tt_p = stats.ttest_ind(x, y, equal_var=equal_var_ttest)
+
+        rows_ks.append({"test":"KS","spk_i":a,"spk_j":b,"n_i":n_x,"n_j":n_y,"statistic":ks_stat,"p_value":ks_p})
+        rows_mw.append({"test":"Mann-Whitney U","spk_i":a,"spk_j":b,"n_i":n_x,"n_j":n_y,"statistic":mw_stat,"p_value":mw_p})
+        rows_tt.append({"test":"T-test","spk_i":a,"spk_j":b,"n_i":n_x,"n_j":n_y,"statistic":tt_stat,"p_value":tt_p})
+
+        results["KS"][(a,b)] = {"statistic": ks_stat, "p_value": ks_p, "n_i": n_x, "n_j": n_y}
+        results["Mann-Whitney U"][(a,b)] = {"statistic": mw_stat, "p_value": mw_p, "n_i": n_x, "n_j": n_y}
+        results["T-test"][(a,b)] = {"statistic": tt_stat, "p_value": tt_p, "n_i": n_x, "n_j": n_y}
+
+    # Optional Benjamini–Hochberg adjustment per test family
+    def fdr_bh(rows):
+        # ignore NaNs in correction
+        pvals = np.array([r["p_value"] for r in rows], dtype=float)
+        idx = np.where(~np.isnan(pvals))[0]
+        m = len(idx)
+        if m == 0: 
+            return rows
+        order = idx[np.argsort(pvals[idx])]
+        ranks = np.empty_like(order, dtype=float)
+        ranks[np.arange(m)] = np.arange(1, m+1)
+
+        # compute adjusted p for the ordered set, then enforce monotonicity
+        adj = np.empty(m, dtype=float)
+        sorted_p = pvals[order]
+        adj_vals = (sorted_p * m) / ranks
+        adj_vals = np.minimum.accumulate(adj_vals[::-1])[::-1]
+        # place back
+        p_adj = np.full_like(pvals, np.nan, dtype=float)
+        p_adj[order] = np.clip(adj_vals, 0.0, 1.0)
+
+        # write into rows
+        for i, r in enumerate(rows):
+            r["p_value_adj"] = p_adj[i]
+        return rows
+
+    if adjust_p == "fdr_bh":
+        rows_ks = fdr_bh(rows_ks)
+        rows_mw = fdr_bh(rows_mw)
+        rows_tt = fdr_bh(rows_tt)
+
+        # also add to dict
+        for row in rows_ks:
+            a, b = row["spk_i"], row["spk_j"]
+            results["KS"][(a,b)]["p_value_adj"] = row["p_value_adj"]
+        for row in rows_mw:
+            a, b = row["spk_i"], row["spk_j"]
+            results["Mann-Whitney U"][(a,b)]["p_value_adj"] = row["p_value_adj"]
+        for row in rows_tt:
+            a, b = row["spk_i"], row["spk_j"]
+            results["T-test"][(a,b)]["p_value_adj"] = row["p_value_adj"]
+
+    results_list = rows_ks + rows_mw + rows_tt
+    return results_list, results
 
 
 from transformers import AutoTokenizer
@@ -910,9 +1001,6 @@ def compute_dominance_per_spk(perplexity, token_list, matches, tokenizer):
             fin_idx = px + np.sum([len(l) for l in token_list[:idx]], dtype=int)
             ppls_p_spk[match].append(perplexity[fin_idx])
     return ppls_p_spk
-
-from transformers import AutoTokenizer
-import numpy as np
 
 from transformers import AutoTokenizer
 import numpy as np
@@ -998,3 +1086,170 @@ def extract_tokens_and_ppls_by_turn_indices(turn_indices, token_list, ppls):
         filtered_ppl.extend(ppls[start:end])
 
     return filtered_token_list, filtered_ppl
+
+from transformers import AutoTokenizer
+import numpy as np
+
+def remove_match_prefix_ppl(token_list, ppl, matches, tokenizer, min_len=1):
+    """
+    Removes matching prefixes from each line and filters out entire turns if remaining token length is below threshold.
+
+    Args:
+        token_list (List[List[int]]): Tokenized dialog lines.
+        ppl (List[float]): Flat list of token-level PPL values.
+        matches (List[str]): List of string prefixes to remove from each line.
+        tokenizer: HuggingFace tokenizer used.
+        min_len (int): Minimum length (after prefix removal) to keep the turn.
+
+    Returns:
+        Tuple[
+            List[List[int]],  # filtered_tokens
+            List[float],      # filtered_ppl
+            List[int],        # flat_token_ids
+            List[str]         # filtered_matches
+        ]
+    """
+    assert len(token_list) == len(matches), "Mismatch between token list and matches"
+
+    line_offsets = np.cumsum([0] + [len(t) for t in token_list[:-1]])  # start index in flat PPL array
+
+    filtered_tokens = []
+    filtered_ppl = []
+    flat_token_ids = []
+    filtered_matches = []
+
+    for i, (token, match) in enumerate(zip(token_list, matches)):
+        tok_match = tokenizer(match, return_tensors="pt")
+        match_tok_len = len(tok_match.input_ids[0])
+
+        # Slice off the match prefix
+        token_filtered = token[match_tok_len:]
+
+        if len(token_filtered) < min_len:
+            continue  # skip turn entirely if below threshold
+
+        # Keep this turn
+        filtered_tokens.append(token_filtered)
+        filtered_matches.append(match)
+
+        # Extract aligned PPL values
+        start = line_offsets[i] + match_tok_len
+        end = line_offsets[i] + len(token)
+        turn_ppl = ppl[start:end]
+
+        assert len(turn_ppl) == len(token_filtered), f"PPL/token mismatch at turn {i}"
+        
+        filtered_ppl.extend(turn_ppl)
+        flat_token_ids.extend(token_filtered)
+
+    return filtered_tokens, filtered_ppl, flat_token_ids, filtered_matches
+
+import pandas as pd
+
+def expand_multiple_ppl_by_token(bin_df, ppl_dict, annotation_cols=None):
+    """
+    Expands a bin-level DataFrame into token-level rows, adding multiple PPL values per token.
+
+    Args:
+        bin_df (pd.DataFrame): must contain 'ppl' as a list of token indices.
+        ppl_dict (dict): dictionary of {name: List[float]}, e.g. {'ppl1': [...], 'ppl2': [...]}
+        annotation_cols (List[str]): optional list of annotation columns to repeat per token.
+
+    Returns:
+        pd.DataFrame: one row per token with multiple ppl values and repeated annotations.
+    """
+    # Validate that all ppl lists have the same length
+    lengths = [len(v) for v in ppl_dict.values()]
+    if not all(l == lengths[0] for l in lengths):
+        raise ValueError("All PPL arrays must have the same length.")
+
+    records = []
+
+    for _, row in bin_df.iterrows():
+        token_ids = row["ppl"]
+        if not isinstance(token_ids, list) or len(token_ids) == 0:
+            continue
+
+        for tok_id in token_ids:
+            if tok_id >= lengths[0]:
+                continue  # skip out-of-bounds
+
+            record = {"token_id": tok_id}
+            for name, ppl_values in ppl_dict.items():
+                record[name] = ppl_values[tok_id]
+
+            if annotation_cols:
+                for col in annotation_cols:
+                    record[col] = row.get(col, None)
+
+            records.append(record)
+
+    return pd.DataFrame(records)
+
+
+import numpy as np
+import pandas as pd
+from collections import defaultdict
+import torch  # make sure torch is imported
+
+def assign_words_to_bins(df, tokenizer, bin_size=1.0):
+    """
+    Assigns words to time bins based on uniform spread over the utterance duration.
+    Returns: dict of pd.DataFrames, one per speaker
+    """
+    # Fix nested defaultdict
+    bin_tok = defaultdict(lambda: defaultdict(list))
+    bin_ppl = defaultdict(lambda: defaultdict(list))
+    tok_len = 0
+
+    for _, row in df.iterrows():
+        spk = row['speaker']
+        start = row["start"]
+        stop = row["stop"]
+        duration = stop - start
+            
+        if duration <= 0 or pd.isna(start) or pd.isna(stop):
+            continue
+
+        tokens = row["tokens"]
+        n_tokens = len(tokens)
+        if n_tokens == 0:
+            continue
+
+        # Uniformly spread tokens over time
+        tok_times = np.linspace(start, stop, n_tokens + 1)
+        for i, tok in enumerate(tokens):
+            tok_start = tok_times[i]
+            tok_end = tok_times[i + 1]
+
+            bin_start_idx = int(np.floor(tok_start / bin_size))
+            bin_end_idx = int(np.floor(tok_end / bin_size))
+
+            for b in range(bin_start_idx, bin_end_idx + 1):
+                bin_tok[spk][b].append(tok)
+                bin_ppl[spk][b].append(tok_len + i)
+
+        tok_len += n_tokens
+
+    # Determine full range of bins
+    max_bin = int(np.ceil(df["stop"].max() / bin_size))
+    all_bins = list(range(max_bin + 1))
+    all_speakers = df["speaker"].unique()
+
+    # Build a DataFrame per speaker
+    bins_df = {
+        spk: pd.DataFrame([
+            {
+                "time_bin": b,
+                "start_time": b * bin_size,
+                "end_time": (b + 1) * bin_size,
+                "words": tokenizer.decode(torch.tensor(bin_tok[spk][b]), skip_special_tokens=True) if bin_tok[spk][b] else None,
+                "ppl": bin_ppl[spk][b],
+                "n_tok": len(bin_tok[spk][b])
+            }
+            for b in all_bins
+        ])
+        for spk in all_speakers
+    }
+
+    return bins_df
