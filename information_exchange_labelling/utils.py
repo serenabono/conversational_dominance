@@ -939,7 +939,7 @@ def compute_significance(
         results["Mann-Whitney U"][(a,b)] = {"statistic": mw_stat, "p_value": mw_p, "n_i": n_x, "n_j": n_y}
         results["T-test"][(a,b)] = {"statistic": tt_stat, "p_value": tt_p, "n_i": n_x, "n_j": n_y}
 
-    # Optional Benjamini–Hochberg adjustment per test family
+    # O`ptional Benjamini–Hochberg adjustment per test family
     def fdr_bh(rows):
         # ignore NaNs in correction
         pvals = np.array([r["p_value"] for r in rows], dtype=float)
@@ -1146,6 +1146,43 @@ def remove_match_prefix_ppl(token_list, ppl, matches, tokenizer, min_len=1):
 
 import pandas as pd
 
+def average_ppl_per_turn(df, ppl_dict, idx_col='ppl', annotation_cols=None):
+    """
+    For each row in df, average values from ppl_dict at indices listed in df[idx_col].
+
+    Args:
+        df (pd.DataFrame): DataFrame with a column of token indices (e.g., 'ppl').
+        ppl_dict (dict): Dictionary with name -> list of PPL values.
+        idx_col (str): Column in df with list of indices per turn.
+        annotation_cols (List[str]): Optional columns to carry forward.
+
+    Returns:
+        pd.DataFrame: Averaged PPL values per turn, optionally with annotations.
+    """
+    import numpy as np
+    import pandas as pd
+
+    records = []
+    for _, row in df.iterrows():
+        token_ids = row[idx_col]
+        if not isinstance(token_ids, list) or len(token_ids) == 0:
+            continue
+
+        record = {}
+        for name, ppl_values in ppl_dict.items():
+            selected = [ppl_values[i] for i in token_ids if i < len(ppl_values)]
+            record[f'{name}_avg'] = np.mean(selected) if selected else None
+            record['tokens'] = token_ids
+            record['tok_len'] = len(token_ids)
+
+        if annotation_cols:
+            for col in annotation_cols:
+                record[col] = row.get(col, None)
+
+        records.append(record)
+
+    return pd.DataFrame(records)
+
 def expand_multiple_ppl_by_token(bin_df, ppl_dict, annotation_cols=None):
     """
     Expands a bin-level DataFrame into token-level rows, adding multiple PPL values per token.
@@ -1192,7 +1229,7 @@ import pandas as pd
 from collections import defaultdict
 import torch  # make sure torch is imported
 
-def assign_words_to_bins(df, tokenizer, bin_size=1.0):
+def assign_words_to_bins(df, tokenizer, bin_size=1.0, per_speaker=True):
     """
     Assigns words to time bins based on uniform spread over the utterance duration.
     Returns: dict of pd.DataFrames, one per speaker
