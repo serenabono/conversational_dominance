@@ -230,11 +230,11 @@ if __name__ == "__main__":
         encodings = tokenizer(f"{start_of_sentence}".join(dialog_lines), return_tensors="pt")
         
         if perplexity_func == "p1":
-            perpl = compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 100, pattern=pattern, debug=False)
+            perpl = compute_p1(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 500, pattern=pattern, debug=False)
         elif perplexity_func == "p2":  # Assuming 'per_user' is the only other option
-            perpl = compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 100, pattern=pattern, debug=False)
+            perpl = compute_p2(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 500, pattern=pattern, debug=False)
         elif perplexity_func == "p3":
-            perpl = compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 100, pattern=pattern, debug=False)
+            perpl = compute_p3(encodings, token_list, tokenizer, model, device, start_of_sentence=start_of_sentence, max_length = 500, pattern=pattern, debug=False)
         else:
             print(f"Error: {perplexity_func}, not a known perplexity type") 
         ppl[path] = perpl

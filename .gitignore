@@ -7,5 +7,6 @@ notebooks/bitsandbytes.egg-info/dependency_links.txt
 **/fine-tuned-gpt2-speakers-*
 data/processed/CANDOR_gpt2-large/affective_labels/**
 data/processed/triadic-pilot/**
-notebooks/information_exchange_labelling/*
 data/external/CANDOR/*
+notebooks/information_exchange_labelling/dataset_perplexity_results/CANDOR**
+notebooks/information_exchange_labelling/dataset_perplexity_results/triadic-pilot**
