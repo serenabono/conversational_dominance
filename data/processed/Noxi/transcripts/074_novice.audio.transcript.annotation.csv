@@ -1,0 +1,79 @@
+2.35;5.67; Ah, hallo.;1.00
+5.69;9.89;Ich sehe dich auch, okay.;1.00
+9.95;10.85;Ich höre dich auch, ja.;1.00
+10.87;10.93;Mhm.;1.00
+30.27;30.43; Gerne.;1.00
+30.45;30.99;Monitoring-Systeme;1.00
+63.84;65.72; Bin mir nicht so sicher.;1.00
+65.74;68.78;Kommt auf den Kontext drauf an, was du damit meinst genau.;1.00
+68.90;85.09;Also in großen Firmen ist es ja so, wenn du große Anwendungen für Firmen schreibst, dann möchten die Firmen natürlich wissen, ob die Anwendung ihren Zweck erfüllt, ob die Software ihren Zweck erfüllt.;1.00
+85.11;89.94;Dann wird der Ist-Zustand einfach betrachtet und es soll alles so sein, wie erwartet.;1.00
+89.95;90.44;Wenn Probleme auftreten,;1.00
+95.33;95.47; okay ja;1.00
+139.80;142.41; Dann werden die Daten bearbeitet und analysiert und am Schluss möchte man irgendein Ergebnis oder irgendeine Reaktion dann haben.;1.00
+142.43;144.43;Und ja, zur Datensammlung ist es erstmal so, da gibt es verschiedene Methoden, wie man davon gehen kann.;1.00
+144.45;144.79;Blackbox, Whitebox.;1.00
+144.81;144.87;Mhm.;1.00
+165.09;169.80; Blackbox kenne ich, aber halt vom Flugzeug so und Whitebox, keine Ahnung, was ist das?;1.00
+169.82;171.80;Okay, also bei Whitebox, ich bin eigentlich immer, wenn man Kenntnis von dem hat, was dahinter steckt.;1.00
+171.84;181.16;Wenn man jetzt Daten sammeln möchte und man auf Whitebox-Methoden zugreift, dann hat man in der Regel Zugriff auf die Programm-Code und kann sich dann zum Beispiel da reinklicken.;1.00
+181.18;193.67;Da kann man natürlich den Zähler mitlaufen lassen, wie auch irgendwas ausgeführt wurde.;1.00
+194.50;195.72; Das ist ja eine Art, um Daten für irgendeinen Zweck zu sammeln.;1.00
+195.74;198.36;Daten in Zukunft zum Beispiel auf die APIs oder einfach auf Logs zum Beispiel, die dann gepasst werden können, um Daten rauszuziehen.;1.00
+198.38;199.30;Bei den Erkunftsmethoden ist es dagegen anders.;1.00
+199.32;200.52;Da hat man keine Kenntnis von den Dingen, die dahinterstecken.;1.00
+227.55;227.61; Mhm.;1.00
+282.19;284.87; Okay, du hast das in der Firma gemacht, oder?;1.00
+284.95;286.11;Oder hast du das extern gemacht?;1.00
+292.32;292.75; Ah, okay.;1.00
+292.76;296.67;Oder was meinst du?;1.00
+296.69;307.27;Ja, weil du meintest ja, dass es dazu da ist, um Software zu beobachten, ob da Fehler auftreten und welche Software genau oder was für ein Projekt war das dann genau, an dem du oder das dann überwacht hast.;1.00
+307.31;307.85;In dem Sinne.;1.00
+309.33;312.59;Das ist im Prinzip irrelevant.;1.00
+312.61;321.45;Also man kann sich jetzt Web-Anwendungen vorstellen für Firmen und im konkreten Fall wollte man einfach schauen, ob diese Web-Anwendungen;1.00
+323.56;324.25; Und auf was hast du dann überprüft?;1.00
+324.26;325.14;Ja, im Endeffekt habe ich mir dann angeschaut,;1.00
+354.72;354.76; Ja.;1.00
+392.65;393.27; Okay.;1.00
+393.33;398.85;Und was waren dann deine Ergebnisse von deiner Arbeit oder was war die Hypothese so oder keine Ahnung?;1.00
+405.90;407.64;Ne, nicht;1.00
+410.15;414.57; Ich hatte im Bachelor Multimedia gehabt in der Uni, aber jetzt im Barster nicht.;1.00
+414.63;437.49;Da geht es im Prinzip, wir machen ja jetzt bei uns in der Vorlesung, haben ja so ein Klassifikations-Lernverfahren.;1.00
+437.51;438.35;Man schaut die Daten an, sagt, das ist jetzt...;1.00
+440.20;440.28; Okay.;1.00
+475.07;478.75; Und da kann man jetzt mit statistischen Methoden beurteilen, wie sich dieser Zahlenwert basierend auf der Vergangenheit in der Zukunft verändern müsste, wenn das Muster beibehalten wird.;1.00
+478.77;480.01;Da gibt es eine ganze Gruppe von Methoden, wie man das bestimmt.;1.00
+504.34;504.42; Nein.;1.00
+504.44;504.52;Nein.;1.00
+535.71;535.75; Ja.;1.00
+535.77;535.81;Ja.;1.00
+565.76;567.18; Aber den nächsten möglichen Wert, den kann man schon ganz gut bestimmen.;1.00
+567.20;567.90;Und es gibt halt verschiedene Grade.;1.00
+567.92;570.78;Der einfachste Fall wäre einfach der exponentielle gewichtete Durchschnitt, wo man dann den nächsten Wert bestimmt, für das nächste Zeitintervall.;1.00
+570.80;572.54;Beziehungsweise dann kann man mit dem nächsten Grad den Trend noch mit einberechnen, den;1.00
+594.65;594.73; Okay.;1.00
+658.63;659.07; Okay, ja, das macht Sinn.;1.00
+659.09;659.57;Und was ist rausgekommen?;1.00
+693.71;693.75; Ja.;1.00
+722.11;727.97; vorausgerechnet, wie er sein müsste, basieren auf den Daten, die wir bisher reingeschmissen haben, dann geschaut, wie der Wert in Wirklichkeit ist, dann konnte man den Abstand ermitteln, wie weit man daneben liegt und wenn es über einen gewissen Wert war, dann wurde das als Anomalie klassifiziert.;1.00
+727.99;729.29;Wenn es ungefähr das war, was man erwartet hat, dann hat es gepasst.;1.00
+729.31;730.67;Er hat die Daten hergenommen, um seinen Algorithmus zu verbessern und;1.00
+751.23;753.77; Und wie groß war die Abweichung, die du da erreicht hast?;1.00
+753.79;775.90;Also am Ende war es auf den Trainingsdaten gesehen eine Erkennungswahrscheinlichkeit von 90% mit den Anomalien, die ich zum Testen da hatte.;1.00
+775.92;777.76;Das Ergebnis muss man allerdings mit Vorsicht gewissen, weil, und jetzt kommt es, nicht jeden...;1.00
+778.52;780.47; Zeitpunkt, den er richtig klassifiziert hat, ist auch, als richtig klassifiziert gezählt haben.;1.00
+780.49;786.89;Das heißt, wenn er jetzt einen Tag lang gemessen hat und jede Minute geschaut hat, ist das eine Anomalie oder nicht, und er bei fast allen gesagt hat, es ist keine Anomalie, und dann gab es vielleicht fünf Anomalien, von denen drei wirkliche Anomalien waren, dann hat er in zwei Fällen einfach nur daneben gelegen, aber das war;1.00
+809.89;810.03; Okay, ja.;1.00
+810.05;810.81;Okay, aber immer noch besser als Zufall.;1.00
+810.83;810.95;Stimmt.;1.00
+849.48;863.69; ok und deswegen auch multimedia master ok cool wie lange ist das denn her;1.00
+866.44;868.64; Das ist eigentlich auch noch ein halbes Jahr her, aber inzwischen hat man ja noch einen weiteren Fokus bekommen.;1.00
+868.66;869.62;Ist da so viel passiert im letzten halben Jahr?;1.00
+869.64;871.35;Naja, du hast jetzt halt mehrere Vorlesungen, die sich genau mit dem Thema beschäftigen.;1.00
+871.37;872.83;Und in der Arbeit bin ich halt genau in dieses eine Thema eingeschrieben.;1.00
+872.85;873.87;Und immerhin hat man sich nur um das konzentriert.;1.00
+873.89;874.95;Und jetzt an der Uni ist es natürlich so, da hast du...;1.00
+923.91;932.12; Okay.;1.00
+932.17;940.64;Ja, danke für den Einblick.;1.00
+940.68;951.55;Ich glaube, ich sollte jetzt einfach das Headset weglegen und den Raum verlassen, um das Gespräch zu beenden.;1.00
+951.77;953.43;Bis gleich von der anderen Seite.;1.00

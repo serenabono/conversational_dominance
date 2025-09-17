@@ -1,0 +1,129 @@
+2.69;7.29; Hi, ich sehe dich.;1.00
+7.33;8.31;Super.;1.00
+8.37;11.04;Und du hörst mich auch?;1.00
+11.12;14.36;Okay, gut.;1.00
+14.40;21.92;Ich würde dir einfach mal was erzählen, wie es dazu gekommen ist, dass ich hier studiere und den Studiengang gewählt habe.;1.00
+21.96;28.59;Das kam alles vom Bachelorarbeitsthema bei mir.;1.00
+28.73;28.95;Und;1.00
+29.75;35.47; Ja, wenn du möchtest, erzähle ich dir einfach ein bisschen was über den Inhalt und was ich da so erarbeitet habe.;1.00
+36.77;41.70;Ja, passt, okay.;1.00
+42.38;49.60;Das Thema war Anomalieerkennung in Monitoring-Systemen.;1.00
+49.62;57.92;Da ging es darum, dass man Monitoring-Systeme;1.00
+58.73;59.59; einfach anschaut.;1.00
+59.61;70.97;Weißt du, was ein Monitoring-System ist?;1.00
+71.03;83.10;Also in großen Firmen ist es ja so, wenn du große Anwendungen für Firmen schreibst, dann möchten die Firmen natürlich wissen, ob die Anwendung ihren Zweck erfüllt, ob die Software ihren Zweck erfüllt.;1.00
+83.14;88.08;Da wird der Ist-Zustand einfach betrachtet und es soll alles so sein, wie erwartet.;1.00
+88.71;101.99; Wenn Probleme auftreten, dann will man die auch frühzeitig erkennen und genau dafür sind so Monitoring-Systeme da, dass Probleme eben erkannt werden können.;1.00
+102.15;114.86;Und genau, meine Aufgabe war eben dann, mal so ein Monitoring-System anzuschauen, was da wichtig ist und mich ein bisschen in die Materie einzuarbeiten.;1.00
+118.76;123.40; Wenn du möchtest, dann kann ich dir das auch ein bisschen noch im Detail erklären.;1.00
+123.42;130.28;Also einfach mal einfach raushauen.;1.00
+130.34;135.01;Ja, das Thema, das gliedert sich eigentlich in mehrere Bereiche.;1.00
+135.03;140.07;Zuallererst muss man irgendwie Daten sammeln.;1.00
+140.11;147.55;Dann werden die Daten verarbeitet und analysiert und am Schluss möchte man irgendein Ergebnis oder irgendeine Reaktion dann haben.;1.00
+149.74;160.97; Und ja, zur Datensammlung ist es erstmal so, da gibt es verschiedene Methoden, wie man da vorgehen kann.;1.00
+161.00;170.87;Blackbox, Whitebox, hast du schon mal gehört, nehme ich an?;1.00
+170.93;177.77;Okay, also von Whitebox-Methoden spricht man eigentlich immer, wenn man Kenntnis von dem hat, was dahinter steckt.;1.00
+178.81;189.42; Also wenn man jetzt Daten sammeln möchte und man auf Whitebox-Methoden zugreift, dann hat man in der Regel Zugriff auf den Programmcode und kann sich dann zum Beispiel da reinklinken.;1.00
+189.46;194.00;Da kann man dann irgendeinen Zähler mitlaufen lassen, wie oft irgendwas ausgeführt wurde.;1.00
+194.03;199.93;Das wäre eine Art, um Daten für irgendeinen Zweck zu sammeln.;1.00
+199.95;207.97;Da hat man Zugriff zum Beispiel auf die APIs oder auf Logs zum Beispiel, die dann gepasst werden können.;1.00
+209.02;210.98; um Daten rauszuziehen.;1.00
+211.00;213.74;Bei Blackbox-Methoden ist es dagegen anders.;1.00
+213.80;217.96;Da hat man keine Kenntnis von den Dingen, die dahinter stecken.;1.00
+217.98;227.02;Das ist wie gesagt eine Blackbox, wie beim Flugzeug.;1.00
+227.04;237.37;Zum Beispiel, man kann, da man ja nicht weiß, was innen genau vorgeht, muss man versuchen, von außen Informationen darüber zu sammeln.;1.00
+238.23;245.60; Da kann man dann zum Beispiel hergehen und so Netzwerksniffer zum Beispiel, das wären Blackbox-Methoden in dem Fall.;1.00
+245.62;257.99;Da wird einfach von außen der Netzwerkverkehr angeschaut, ohne zu wissen, was in den Geräten vielleicht passiert, aber man kann genau schauen, was geht raus und was geht in das Gerät rein und Informationen darüber sammeln.;1.00
+258.01;267.89;Andere Möglichkeit wären zum Beispiel, wenn man weiß, dass es bestimmte Services gibt, auch im Internet oder im lokalen Netzwerk, kann man einfach mal;1.00
+268.56;280.33; diese Services anpingen und schauen, ob irgendwas zurückkommt, dann weiß man, ja, der Service ist vielleicht noch online und der funktioniert oder der Timer läuft aus und da kommt gar nichts zurück.;1.00
+280.38;284.88;Du hast das in der Firma gemacht, oder?;1.00
+284.92;288.42;Ich habe es in der Firma... Hast du das extern gemacht?;1.00
+288.48;291.58;Ne, da bin ich eigentlich schon längere Zeit angestellt gewesen.;1.00
+294.85;295.49;Oder was meinst du?;1.00
+308.14;310.28; Es ist im Prinzip irrelevant.;1.00
+310.32;323.19;Also du kannst es dir als Web-Anwendung vorstellen für Firmen und im konkreten Fall wollte man einfach schauen, ob diese Web-Anwendung ordentlich läuft.;1.00
+323.23;327.17;Das kannst du im Prinzip auf jede Art von Software übertragen.;1.00
+327.21;332.64;Und in dem Fall war es eben der Zugriff auf eine Web-Anwendung, wenn man so will.;1.00
+332.68;333.52;Vereinfacht dargestellt.;1.00
+346.94;361.69; ja im endeffekt habe ich mir dann angeschaut die nutzer statistiken also die nutzer zugriffe im prinzip auf die web-anwendung habe ich mir angeschaut zum beispiel;1.00
+363.29;368.71; Wenn man sich den Tagesrhythmus oder den Arbeitsrhythmus von Personen anschaut, dann ist es ja immer dasselbe Muster.;1.00
+368.75;369.61;Irgend so ein Zyklus.;1.00
+369.65;374.19;In der Früh um 8 geht die Arbeit los, dann greifen ganz viele drauf zu.;1.00
+374.21;379.49;Mittags loggen sich vielleicht welche ab, weil sie zum Essen gehen.;1.00
+379.57;383.10;Und danach kommen sie wieder rein und abends ist dann Sense.;1.00
+383.13;388.22;Und am Wochenende weicht eben dieser Rhythmus ab.;1.00
+388.28;390.38;Also am Wochenende ist meistens die Firma zu.;1.00
+399.97;405.51; Also ich habe mir da wirklich ein Lernverfahren angeschaut.;1.00
+405.53;408.65;Du hast ja auch Multimedia, oder?;1.00
+408.69;409.63;Hast du Multimedia 2?;1.00
+412.89;419.98;Okay, das Mastervorlesung ist was anderes.;1.00
+420.01;425.06;Da geht es im Prinzip, wir machen ja jetzt bei uns in der Vorlesung...;1.00
+428.88;433.12; haben wir ja so ein Klassifikations-Lernverfahren im Prinzip.;1.00
+433.16;445.43;Man schaut die Daten an, sagt, das ist jetzt Fall A, das andere ist Fall B und dann muss man das erstmal so manuell annotieren.;1.00
+445.47;448.53;Man hat vielleicht mehrere Features, auf die man das prüft.;1.00
+448.57;456.79;Das Lernverfahren, was ich mir da angeschaut habe, das war ein mathematisches oder ein statistisches Lernverfahren, was im Prinzip;1.00
+457.46;459.70; nur auf einen Wert angewandt wurde.;1.00
+459.74;464.76;Also man hatte nicht mehrere Features, sondern man hatte genau nur einen Wert, den man angeschaut hat.;1.00
+464.80;472.16;In dem Fall wären es zum Beispiel die Anzahl der User, die sich innerhalb von fünf Minuten eingeloggt haben.;1.00
+472.20;475.14;Also einfach nur einen Zahlenwert.;1.00
+475.20;483.26;Und da kann man jetzt mit statistischen Methoden eben beurteilen, wie sich dieser Zahlenwert basierend auf der;1.00
+484.49;493.34; Vergangenheit in der Zukunft verändern müsste, wenn das Muster beibehalten wird.;1.00
+493.36;503.83;Da gibt es so eine ganze Gruppe von Methoden, wie man das bestimmt.;1.00
+503.87;509.79;Exponential Smoothing, exponentielle Glättung und dann verschiedene Grade davon.;1.00
+509.83;510.71;Hast du das schon mal gehört?;1.00
+512.89;513.03;Nein.;1.00
+514.64;527.04; Also ja, das ist im Prinzip, die einfachste Form ist der exponentiell gewichtete Durchschnitt von dem Zahlenwert.;1.00
+527.08;538.71;Und wenn man dann mehr Informationen hinzufügt, dann kriegt man dann vielleicht noch nicht nur den Durchschnitt vom Zahlenwert, sondern dann berücksichtigt man vielleicht noch den Trend vom Zahlenwert.;1.00
+538.75;539.31;Also ob das;1.00
+540.29;548.39; ob man gerade eine absteigende Anzahl an Zugriffe hat oder eine aufsteigende.;1.00
+548.45;560.30;Die Idee ist einfach, man weiß, wie es in der Vergangenheit war, hat dann irgendwelche Parameter, die sich auf die Werte in der Vergangenheit eingespielt haben und dann kann man den nächsten oder mehrere Werte in der Zukunft vorausberechnen.;1.00
+560.32;565.59;Natürlich wird dann der Fehler, je weiter man in die Zukunft den Wert vorausberechnet, immer größer.;1.00
+565.63;569.75;Aber den nächsten möglichen Wert kann man schon ganz gut bestimmen.;1.00
+574.63;578.51; Und es gibt halt dann verschiedene Grade.;1.00
+578.53;586.36;Der einfachste Fall wäre einfach der exponentiell gewichtete Durchschnitt, wo man dann den nächsten Wert bestimmt für das nächste Zeitintervall.;1.00
+586.38;592.40;Beziehungsweise dann kann man mit dem nächsten Grad den Trend noch mit einberechnen.;1.00
+593.60;602.31;Wenn die Tendenz in dem Moment fallend ist, dann wird der Wert vermutlich auch tiefer liegen, als wenn man nur den Durchschnitt berücksichtigen würde.;1.00
+603.51;609.36; Und dann gibt es noch weitere Grade, bei denen dann saisonale Zyklen mit reinspielen.;1.00
+609.41;620.30;Also das wäre, wenn man das auf die Geschäftswelt abbilden kann, genau Tages- und Wochenzyklen, die man dann abbilden könnte.;1.00
+620.34;629.94;Und das ist eine Gattung von Lernverfahren, die eigentlich noch älter sind als das, was wir im Prinzip jetzt hier verwenden.;1.00
+629.98;631.68;Also älter als...;1.00
+634.78;644.46; wie heißt es, Support Vector Machines, das was wir im Praktikum gemacht haben und was war das andere?;1.00
+644.50;663.07;Neurale Netze, das wurde alles erst später entwickelt, das war wirklich eines der ersten und einfachsten Methoden und auch von der Performance eines der, die am wenigsten Rechenpower gebraucht haben;1.00
+668.32;685.75; Ja, und dann habe ich eben so einen Algorithmus mal implementiert in R und habe das ausprobiert, was da so rausgekommen ist.;1.00
+690.31;692.83;Ja, die Frage aller Fragen.;1.00
+692.85;695.99;Das Ergebnis war eigentlich ganz gut.;1.00
+696.03;696.29;Ich hatte;1.00
+697.04;704.54; Ich musste die Trainingsdaten davor auch erstmal sammeln, aber auf die Trainingsdaten hat es dann eigentlich ganz gut gepasst.;1.00
+705.76;712.53;Also ich habe nur geschaut im Prinzip, ob auf den Daten eine Anomalie vorliegt mit dem Algorithmus.;1.00
+712.57;726.60;Ich habe im Prinzip die Daten, die ich gemessen habe, reingeschmissen, dann jeweils den nächsten Wert vorausberechnet, wie er sein müsste, basierend auf den Daten, die ich bisher reingeschmissen habe,;1.00
+727.14;739.75; dann geschaut, wie der Wert in Wirklichkeit ist, dann konnte man den Abstand ermitteln, wie weit man daneben liegt und wenn es über einen gewissen Wert war, dann wurde das als Anomalie klassifiziert.;1.00
+739.78;743.79;Wenn es ungefähr das war, was man erwartet hat, dann hat es gepasst.;1.00
+743.83;749.41;Er hat die Daten hergenommen, um seinen Algorithmus zu verbessern und es ging weiter mit dem nächsten Punkt.;1.00
+749.47;755.46;Also;1.00
+756.95;768.66; Am Ende war es auf die Trainingsdaten gesehen eine Erkennungswahrscheinlichkeit von 90% mit den Anomalien, die ich zum Testen da hatte.;1.00
+768.70;783.79;Das Ergebnis muss man allerdings mit Vorsicht genießen, weil ich jeden Zeitpunkt, den er richtig klassifiziert hat, auch als richtig klassifiziert gezählt habe.;1.00
+783.83;785.89;Das heißt, wenn er jetzt sagt,;1.00
+786.65;813.94; den tag lang gemessen hat und jede minute geschaut hat ist das eine anomalie oder nicht und er bei fast allen gesagt hat ist keine anomalie und dann gab es vielleicht fünf anomalien von denen drei wirkliche anomalien war dann hat er in zwei fällen einfach nur daneben gelegen aber das war natürlich auf die breite der richtig klassifizierten nicht anomalien ein sehr kleiner teil;1.00
+814.69;818.27; Und daher auch so eine gute Erkennungsrate.;1.00
+818.33;824.99;Wenn man jetzt nur die Anomalien betrachtet, dann wird es so 60% gewesen sein.;1.00
+830.91;837.52;Ja, stimmt.;1.00
+837.56;839.66;Ja, war schon ein cooles Projekt eigentlich.;1.00
+843.68;844.50;Deswegen habe ich mir gedacht,;1.00
+845.24;849.20; Das schaust du dir mal genauer an und studierst das im Master noch gescheiter.;1.00
+849.30;851.83;Also Maschinen lernen und sowas.;1.00
+851.87;854.67;Genau.;1.00
+854.73;861.69;Inzwischen weiß man da mehr drüber, über das Thema, aber damals war das schon eine harte Nuss, das zu bearbeiten.;1.00
+865.01;865.75;Wie lange ist das denn her?;1.00
+865.77;872.55;Naja, ist eigentlich auch nur ein halbes Jahr her, aber inzwischen hat man ja doch mal einen breiteren Fokus noch bekommen.;1.00
+872.63;873.87;Ein breiteres Spektrum.;1.00
+877.10;882.75; naja, du hast jetzt halt mehrere Vorlesungen, die sich genau mit dem Thema beschäftigen.;1.00
+882.79;889.97;Und in der Arbeit bin ich halt genau in dieses eine Thema eingestiegen und immer tiefer und habe mich nur auf das konzentriert.;1.00
+889.99;903.94;Und jetzt an der Uni ist es natürlich so, da hast du Vorlesungen, die gehen auf die Breite ein und man lernt halt auch nochmal andere Machine Learning Algorithmen kennen.;1.00
+904.00;904.12;Als;1.00
+905.21;906.23; ich mir davor angeschaut habe.;1.00
+906.25;920.87;Ich habe mich ja im Prinzip davor nur auf genau diesen einen Algorithmus konzentriert und den dann zwar auch wirklich von Hand dann programmiert und ausprobiert, aber jetzt nicht diese Breite an Sachen gelernt.;1.00
+924.86;927.88;Okay.;1.00
+927.89;928.24;Gut.;1.00
+936.72;936.96; Okay.;1.00
+948.15;950.20;Ja, ich glaube, das machen wir, oder?;1.00
+950.25;952.64;Also, dann ciao.;1.00

@@ -1,0 +1,122 @@
+2.12;4.42; Oh, hi.;1.00
+4.50;7.33;Okay, ich bin der Daniel, du bist der?;1.00
+9.15;9.55;Olli.;1.00
+9.59;11.07;Olli, okay.;1.00
+11.11;18.48;Genau, also mein Thema, über das ich jetzt was erzählen will, ist das Thema von meiner Bachelorarbeit.;1.00
+18.54;26.59;Und da geht es darum, wie man, dass irgendwie, wenn Leute Auto fahren, dass es nicht die Zeit ist,;1.00
+27.87;29.33; das einzige Kriterium ist.;1.00
+29.37;37.45;Und wenn man jetzt herkömmliche Navigationssysteme anschaut, dann schauen die eigentlich immer nur auf die Zeit, die ein Mensch von A nach B braucht und optimieren das.;1.00
+37.51;53.80;Und wenn man aber genauer hinschaut, dann hat jeder Mensch irgendwie so einzelne und unterschiedliche Fahrpräferenzen, die dann quasi wie so ein Fingerabdruck schon fast auf einen Mensch zutreffen.;1.00
+53.86;55.56;Das heißt, irgendwie die einen Menschen, die fahren;1.00
+56.08;66.09; Irgendwie nicht so gerne Autobahnen, die anderen, die fahren irgendwie lieber eine Landstraße, weil es eine schönere Landschaft ist.;1.00
+66.11;74.07;Oder die einen wollen einfach die Anzahl der Ampeln irgendwie minimieren, weil das ist andauernde Stop-and-Go-denurft.;1.00
+74.11;82.72;Und da wählen dann Leute erstaunlicherweise andere Routen, irgendwie von A nach B, die eben nicht immer die kürzesten Routen von der Zeit sind.;1.00
+83.93;87.57; Und das kann man eigentlich bei allen Menschen irgendwie feststellen.;1.00
+87.65;103.15;Und genau darüber ist quasi das Thema von meiner Bachelorarbeit gewesen, dass man irgendwie einen Haufen Daten bekommt und dann schaut, was haben die Leute für Präferenzen beim Autofahren.;1.00
+103.35;112.73;Das war eigentlich so ein Microsoft-Datensatz einfach von Leuten, die sich ein Jahr lang irgendwie mit GPS-Sensoren im Leben bewegt haben.;1.00
+113.45;119.83; Und dann sollte man eben herausfinden, warum bewegen die sich so, wie sie sich bewegen.;1.00
+119.91;127.57;Und das ist irgendwie in der Literatur, gibt es ja schon einige Paper darüber, dass es eben solche Präferenzen gibt.;1.00
+127.65;141.46;Und interessant ist halt, dass man ganz viele Daten dann irgendwie gleichzeitig betrachten muss und man eben nicht dieses Einwegproblem hat, wo man einfach überall die Wegstrecke von A nach B ausrechnet, sondern dass man dann eben präferiert,;1.00
+142.43;148.47; x verschiedene Werte hat und das dann berechnungstechnisch ziemlich aufwendig wird.;1.00
+148.49;170.60;Interessant ist aber, dass man eben, dass jeder Mensch eben da fast wie so eine Art Fingerabdruck hat, also dass man auch zum Einkaufen irgendwie nochmal anders fährt als zur Arbeit, also dass die Zeit da auch nochmal eine Rolle spielt und dass aber eben oft Leute eine weniger optimale Strecke wählen, nur um;1.00
+171.46;177.03; irgendwie angenehmer zu fahren, sage ich jetzt mal.;1.00
+177.04;192.89;Genau, aber die kann man dann theoretisch auf eine Karte mappen und dann hat man bei der Karte zum Beispiel Google Maps, da sind ja zum Beispiel die Anzahl der Ampeln dabei, da hat man die Anzahl der Kreisverkehre, da kann man irgendwie sehen, durch welche Landschaft das Ganze führt.;1.00
+192.93;197.01;Also wenn man das dann auf eine Karte mappt, dann hat man da einen Haufen Infos zusätzlich.;1.00
+199.09;205.65; Und auch zum Beispiel, also ein anderes Beispiel wäre, dass manche Leute irgendwie den Spritverbrauch minimieren wollen.;1.00
+205.69;213.13;Und das dann eben auch vorkommen kann, dass Leute dann extra langsamer fahren und eine ruhigere Strecke, um weniger Sprit zu verbrauchen.;1.00
+213.21;222.14;Und dann vielleicht nicht die Autobahn wählen oder nicht die Schnellstraße, sondern eher irgendwas, wo man konstant irgendwie schnell fährt.;1.00
+222.32;223.54;Und;1.00
+225.98;230.58; Genau, da gibt es, da forscht BMW und so, forscht auch relativ viel.;1.00
+230.62;235.98;Nur meine Daten, die waren jetzt eben über China, über Peking.;1.00
+236.02;239.08;Das war manchmal relativ schwer vorstellbar.;1.00
+239.12;239.62;Genau, ja.;1.00
+239.66;250.66;Und vor allem, wenn man nicht sehen kann, warum die Leute jetzt den Weg genommen haben, war das statistisch manchmal relativ schwer, weil man jetzt nicht gesehen hat, war da jetzt vielleicht gerade ein Stau zu diesem Zeitpunkt.;1.00
+250.69;252.09;Genau, die sind nicht da.;1.00
+252.15;253.21;Also das ist allgemein...;1.00
+254.67;256.70; dann schwer zu sehen gewesen.;1.00
+256.72;278.51;Aber interessant war eben, was man mitgenommen hat, dass es diese Präferenzen gibt, also dass herkömmliche Navis eigentlich oft ungenau sind und man jetzt auch mit verschiedenen Lernverfahren eigentlich so eine Präferenz lernen kann, wenn man jetzt seine Strecken zum Beispiel trackt und dann da so eine Präferenz rauszieht und die kann man dann in zukünftiger Routenfindung dann verwenden.;1.00
+283.05;285.35; Genau, das ist die Intention dahinter.;1.00
+285.45;297.22;Das ist dann immer so ein Problem, dass man abschätzen muss, ist die Strecke noch gut genug?;1.00
+298.78;307.00;Du würdest auch keine 30 Minuten Umweg machen für eine 5 Minuten Autofahrt, nur damit du durch eine schöne Landschaft fährst.;1.00
+307.02;308.49;Das würdest du ja niemals machen.;1.00
+308.51;311.99;Und deshalb ist eben immer die Frage, ist das Ganze verhältnismäßig oder nicht?;1.00
+312.84;317.74; Und das ist ein Problem, was man dabei noch lösen müsste, um das dann in Zukunft einzubauen.;1.00
+320.06;335.25;Genau, aber an sich ist es ganz interessant, fand ich jetzt, wie man einfach feststellen kann, dass man Leute trackt, dann schaut, wie fahren die und denen dann Routen zu empfehlen in Zukunft, die eben ihren Präferenzen entsprechen.;1.00
+336.48;338.26;Das ist ein Haufen Mathe und...;1.00
+342.42;358.26; Definitiv, zum Beispiel BMW hat da so ein Forschungsprojekt am Laufen, die haben ihre DriveNow-Flotte, die ist mit GPS-Sensoren ausgestattet.;1.00
+362.02;368.66;Okay, die DriveNow-Flotte, also dieses Carsharing-Ding,;1.00
+369.33;385.82; ist ja ausgestattet mit GPS-Sensoren und die sind auch im Normalfall internetfähig und da kann man eben auch die Strecken dann auswerten und hat dann auch eine Identität dazu, weil sich ja jeder da quasi anmeldet, welches Auto er jetzt gerade nimmt.;1.00
+385.86;388.78;Und da macht BMW auch relativ viel.;1.00
+388.84;394.62;Und allgemein ist aber eben, da gibt es ein paar Schwierigkeiten, weil du würdest jetzt zum Beispiel komplett anders fahren, als ob du;1.00
+395.46;405.86; Wenn du zur Arbeit fährst, willst du vielleicht schnell da sein, einfach nur... Genau, aber die Präferenz kann sich mit der Zeit eben noch mal ändern.;1.00
+405.90;412.94;Wenn du jetzt am Wochenende Auto fährst, kann es dir völlig egal sein, ob du jetzt da fünf Minuten länger oder kürzer fährst.;1.00
+412.98;416.16;Weil Wochenende, egal das Wetter, ist einfach nur cool.;1.00
+416.20;420.87;Du wirst da vielleicht auch mal irgendwie... Genau, also...;1.00
+422.58;428.90; dir wäre da ein Fußgänger überwegt, der oft verstopft ist, wäre dir wahrscheinlich egal.;1.00
+428.92;434.53;Das würdest du viel eher hinnehmen, als wenn du einfach kurz, schnell von A nach B kommen willst.;1.00
+434.59;448.10;Deshalb ist es allgemein, die Theorie ist schön, aber wie es halt oft auch in der Informatik irgendwie ist, ist, dass die Praxis dann noch schwer umzusetzen ist, weil es halt dann noch weitere Faktoren gibt. ...;1.00
+462.36;463.88; Das hat man nicht gemacht.;1.00
+463.90;466.38;Das hat man nicht gemacht, weil das ganz schwer ist.;1.00
+466.42;476.24;Der müsste quasi in der gleichen Stadt fahren und müsste den gleichen irgendwie Wohnort haben, weil einfach die Straßen so unterschiedlich sind.;1.00
+476.28;480.94;Deshalb ist es statistisch relativ schwer, das irgendwie dann zu zeigen.;1.00
+480.98;482.36;Aber man kann eben, wenn man;1.00
+482.91;490.13; so einen Datensatz, wenn man so ein Profil anschaut und dann in seiner Datenbank schaut, kann man ziemlich schnell den finden, der da eben gefahren ist.;1.00
+490.81;491.27;Das geht schon.;1.00
+493.60;506.50;Aber es ist halt die Frage, ob das jemals in naher Zukunft bei uns in unseren Autos dann angewendet wird, weil es eben noch ein paar so wirkliche Drawbacks hat, so mit der;1.00
+507.67;510.48; mit der Tageszeit und irgendwie mit den Launen.;1.00
+510.52;514.20;Also die nennen das in der Literatur, nennen das immer so Driving Moods.;1.00
+514.24;517.56;Je nachdem, wie man halt gerade drauf ist, kann es sein, dass es sich komplett unterscheidet.;1.00
+520.34;523.34;Aber insgesamt kann man halt schon beim Autofahren ziemlich viel optimieren.;1.00
+523.36;536.25;Zum Beispiel jetzt gerade der Spritverbrauch, da spielt dann eben so Sachen wie Höhendifferenz oder so, spielt dann alles damit rein, was man eben auch, wenn man jetzt nicht nur diese Präferenz anschaut,;1.00
+537.13;550.20; Sondern man kann eben zum Beispiel auch beim Navi dann, wenn man diese Technik verwendet, beim Navi eingeben, ja, ich will die Route wählen, wo ich am wenigsten Sprit verbrauche, wenn es die Informationen mal gibt.;1.00
+550.32;558.76;Und weil du kannst ja heutzutage im Navi eigentlich nur auswählen, ob du eine Mautstraße wählen willst oder nicht.;1.00
+558.88;565.49;Und das ist auf jeden Fall ein Ansatz, den man da wahrscheinlich noch weiter verfolgen wird, ist das zum Beispiel...;1.00
+567.49;572.21; Genau, ja.;1.00
+572.23;584.80;Genau, also Energieverbrauch ist natürlich ein Punkt, gerade mit der Elektromobilität, was man da auf jeden Fall noch einiges tun kann.;1.00
+584.84;586.94;Man will ja nicht immer nur schnell fahren.;1.00
+586.98;592.52;Das merkst du ja allein, wenn die ganzen Omas auf der Landstraße fahren.;1.00
+592.54;593.34;Die fahren selten 100 kmh.;1.00
+594.33;603.59; sondern die Gurken da auch öfter mal mit 60, 70 durch die Gegend und das ist halt genau der Fall, dass sie halt... Genau, ja.;1.00
+603.61;608.38;Das ist die Kernidee an dem Ganzen.;1.00
+608.42;620.97;Wüsste ich auch nicht, was ich da so mehr dazu wirklich erzählen sollte.;1.00
+620.99;624.03;Genau, also das war zum Beispiel zum Beispiel also;1.00
+624.96;633.38; Die Uni, an der ich meinen Bachelor gemacht habe, das ist eines der Hauptforschungsthemen im Datenbankraum.;1.00
+633.42;636.95;Das war die LMU in München und die machen da relativ viel.;1.00
+636.99;644.71;Und auch mein Betreuer, die haben da extra sogar ein Framework dafür geschrieben, dass man diese Daten auswerten kann.;1.00
+644.75;652.99;Ein relativ aufwendiges, das dann Open Street Map implementiert und die GPS-Strecken quasi auf so Straßen mappt.;1.00
+655.08;658.72; auf die Karte mappt und man dann eben diese ganzen Zusatzinformationen rausziehen kann.;1.00
+659.82;665.88;Und dann ist eben auch allgemein schwer zu sehen, weil die meisten Lösungen sind ja eben dann Pareto optimal.;1.00
+665.92;671.83;Ich weiß nicht, ob du das kennst.;1.00
+671.87;675.71;Dass man nicht eindeutig sagen kann, was besser ist von zwei Lösungen.;1.00
+675.75;682.57;Wenn jetzt der eine Weg drei Ampeln hat und fünf Minuten Weg braucht, fünf Minuten Zeit braucht,;1.00
+683.22;689.38; und der andere hat vier Ampeln und braucht vier Minuten, dann weißt du jetzt nicht, welcher da eindeutig besser ist.;1.00
+689.48;700.61;Und das wäre jetzt so eine Pareto-optimale Lösung, sodass man dann eben immer abwägen muss, was ist da das Ziel.;1.00
+700.65;703.65;Genau, und was nimmt man davon.;1.00
+703.69;703.93;Genau.;1.00
+705.63;708.00;Ja.;1.00
+708.06;710.54;Ich glaube, ich habe das meiste davon gesagt.;1.00
+710.58;712.48;Ich habe gedacht, man könnte darüber mehr erzählen, aber;1.00
+714.09;725.49; Das ist ein komisches Bachelorarbeit-Thema.;1.00
+725.51;740.51;Ja, unter anderem, ich muss da erstmal bewerten, welche Fahrten eignen sich überhaupt, die ich mir anschaue und dann habe ich in diesem Framework dann implementiert, dass man dann GPS-Strecken da reinladen kann und die dann;1.00
+741.87;767.96; genau, also von diesem Projekt aus Peking, dass mir dann halt auf der Karte alles angezeigt wird, wie die gefahren sind und die sind halt, das Problem bei dem ganzen Projekt war, also an dem Datensatz, der war halt im ganzen Leben von denen aufgenommen, das war nicht nur das Autofahren, sondern die sind auch manchmal zum Einkaufen gelaufen oder haben eine U-Bahn genommen und man musste dann erstmal aussortieren.;1.00
+769.14;769.80;Nee, die haben...;1.00
+770.58;775.66; Die hatten einfach ein Smartphone dabei und das Smartphone wurde getrackt.;1.00
+775.70;776.92;Das hätte ich vielleicht erwähnen sollen.;1.00
+776.94;783.20;Das war halt eine relativ große Schwierigkeit, weil die Daten dann ziemlich... Genau, das wäre besser gewesen.;1.00
+783.24;793.20;Das war dann auch eine meiner Schlussfolgerungen, dass es statistisch deutlich besser funktioniert hätte.;1.00
+793.24;795.34;Genau, ja.;1.00
+795.36;799.24;Das war ein Datensatz, den man einfach für viele Sachen verwenden kann.;1.00
+799.34;799.52;Und...;1.00
+801.63;806.25; wie man mir den halt hingeworfen hat, weil er halt auch kostenlos ist.;1.00
+806.29;816.06;Ein weiteres Problem ist, dass gerade so Energieoptimierung ist ganz schwer, weil man da Höhendaten braucht und GPS ist ziemlich schlecht bei Höhendaten.;1.00
+816.10;830.11;Die können schon ungefähr sagen, wie hoch das ist, aber wenn ich jetzt schauen will, wie weit ist eine Strecke, wie viel Höhendifferenz gibt es da, also während der Fahrt nicht nur bei den Endpunkten, sondern während der Fahrt, dann ist der GPS ziemlich schlecht.;1.00
+830.90;834.66; Und deshalb kann man das für den Energieverbrauch zum Beispiel nicht verwenden.;1.00
+834.76;838.01;Und OpenStreetMap ist auch nicht so gut wie Google Maps.;1.00
+841.59;844.89;Das stellt man immer mal wieder fest, ist auch so.;1.00
+844.93;849.37;Und deshalb, da gab es einfach einen Haufen Punkte, die da das Leben schwer gemacht haben.;1.00
+849.39;852.38;Aber am Ende kann man eben feststellen, dass es diese Präferenzen gibt.;1.00
+853.63;853.86;Genau.;1.00
+856.08;857.82;Ja, ich glaube, das war es dann, oder?;1.00
+859.87;860.81; Haben wir unsere Viertelstunde?;1.00
+860.87;861.15;Achso, okay.;1.00
+861.17;861.23;Gut.;1.00

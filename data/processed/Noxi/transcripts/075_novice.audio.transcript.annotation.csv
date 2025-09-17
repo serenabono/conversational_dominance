@@ -1,0 +1,58 @@
+2.00;2.04; Hi!;1.00
+2.06;2.33;So, diesmal ja.;1.00
+74.38;75.00; Das ist gar nicht so einfach, ne?;1.00
+117.79;118.01; Vielen Dank.;1.00
+162.99;164.29; Ja, ja, ich habe schon verstanden.;1.00
+165.19;172.88;Ich überlege gerade nur, wie kann man das dann, man kann doch bei Dropbox Dateien per Link teilen, oder?;1.00
+172.90;177.88;Genau, man kann ja einfach einen Weblink schenken, man muss gar nicht Dropbox selber haben.;1.00
+177.92;179.71;Funktioniert das auch mit Boxcrypto?;1.00
+189.16;189.48; Vielen Dank.;1.00
+220.63;227.71; Das heißt aber, dass ich jetzt nicht einfach irgendwen einen Weblink zu den Daten in meinen verschlüsselten Ordner schicken kann, oder?;1.00
+227.73;228.47;Kannst du machen, klar.;1.00
+228.49;230.07;Kannst du natürlich machen, aber nur, wenn der andere User auch einen Account hat.;1.00
+230.09;230.25;Ja, okay.;1.00
+230.27;232.87;Also natürlich, wenn einer von den beiden mal einen hat, dann ist es natürlich planlos, weil dann hat der andere auch einen Account.;1.00
+253.83;254.01; Ja, stimmt.;1.00
+295.69;296.69; Warum macht man das überhaupt in JavaScript?;1.00
+296.71;298.17;Das ist doch eine Anwendung, die man installiert.;1.00
+327.00;341.76; Das ist doch eine Anwendung, die man installiert, also die man auf den Rechnen... Okay.;1.00
+341.82;341.96;Ja?;1.00
+341.98;345.08;Okay.;1.00
+345.10;347.96;Genau, man muss ja normal was installieren, oder?;1.00
+347.99;351.37;Das geht ja nicht über das Webinterface.;1.00
+351.41;352.45;Da gibt es ja sowas gar nicht.;1.00
+355.79;355.85; Mhm.;1.00
+420.26;420.87; die schlüssel erzeugung jetzt;1.00
+461.66;461.72; Mhm.;1.00
+494.41;494.69; Na gut, das ist...;1.00
+532.70;555.42; noch mal was anderes kurz wenn du das zeug die die schlüssel und so generiert im browser warum warum möchte man das auf der maschine lokal generieren und nicht zum beispiel auf dem server von box crypto da hätte man ja die rechenpower müssen nur übertragen;1.00
+555.87;558.65; Und man synchronisiert die ja eh über die ganzen Devices.;1.00
+558.67;560.75;Das liegt ganz einfach daran, dass die als Firmenphilosophie gesagt haben, sie wollen keine Schlüssel.;1.00
+560.77;561.27;Also das Problem ist halt,;1.00
+614.97;618.21; Okay, aber das kann man ja im Prinzip dann genauso machen.;1.00
+618.27;618.55;Oder?;1.00
+618.57;619.13;Täusche ich mich da?;1.00
+619.15;619.67;Ich meine, man kann ja dann...;1.00
+645.79;645.83; Ja.;1.00
+687.18;687.38; Ja, stimmt.;1.00
+687.40;687.44;Ja.;1.00
+687.46;687.50;Ja.;1.00
+687.52;687.56;Ja.;1.00
+722.56;724.68; Wie hast du es dann im Prinzip gemacht?;1.00
+724.70;726.52;Hat es funktioniert über JavaScript dann?;1.00
+726.54;731.99;Genau, also ich habe zuerst mal ausprobiert, so RSA-Schlüsse zu erzeugen, dann haben wir mal so eine C++-Bibliothek genommen, haben die Native Client-Module angefangen, das mal aufgeführt, haben natürlich alles gebenchmarked, wie schnell das Ganze tatsächlich ist, dann gab es noch;1.00
+754.31;754.97; zwei weitere, die interessant sind.;1.00
+754.99;755.59;Das eine ist ASM.js von Mozilla.;1.00
+755.61;756.71;Und das ist mehr oder weniger ein Subset von JavaScript.;1.00
+756.73;759.33;Mehr oder weniger so eine Erweiterung von JavaScript, kann man das schon nennen, die aber jeder JavaScript-Compiler kompilieren kann.;1.00
+759.35;760.49;Aber wenn du von einem ASM.js-fähigen Compiler kompilierst,;1.00
+790.52;790.74; und das ist;1.00
+818.70;819.42; Das war der Test, oder?;1.00
+819.44;819.54;Okay.;1.00
+845.91;845.97; Mhm.;1.00
+881.58;881.86; Zugänglich ist.;1.00
+912.18;914.02; Gibt es das schon oder ist das geplant?;1.00
+953.93;954.77; Und das habe ich dann benutzt für die Abi.;1.00
+954.79;957.52;Die ist noch relativ neu, also als ich angefangen habe, daran zu arbeiten, stand die Spezifikation, glaube ich, erst ein halbes Jahr oder so.;1.00
+957.54;961.42;Dementsprechend waren nicht alle Methoden implementiert, aber so viele, dass man damit, glaube ich, alle Operationen, die man machen will, auch tatsächlich machen kann und damit eine super Lösung hat.;1.00
+986.87;988.13; Ich glaube, das war ein guter Schlusssatz.;1.00

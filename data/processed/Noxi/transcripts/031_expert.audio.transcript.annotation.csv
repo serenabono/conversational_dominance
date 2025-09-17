@@ -1,0 +1,185 @@
+1.50;1.80; Oh, hello.;1.00
+3.85;4.33;You can hear me?;1.00
+4.47;4.89;Oh, excellent.;1.00
+6.27;8.27;So do you have a specific... Yeah, I can hear you.;1.00
+8.31;8.85;Yeah, that's fine.;1.00
+9.55;9.65;Okay.;1.00
+10.39;11.45;So do I just start talking now?;1.00
+14.71;15.19;Okay, yeah.;1.00
+15.47;19.47;So I can talk about something called ARP cache poisoning, if you'd like, because that's an interesting topic.;1.00
+19.53;22.81;But if you've got any other security issues you'd like to talk about, we can talk about that.;1.00
+25.85;30.31;Okay, so do you know anything... So do you know anything about networking?;1.00
+33.35;41.75; Okay, so when a computer wants to talk to another computer on a network, it has to send a packet, right?;1.00
+42.41;49.38;And it uses a... So normally, I talk to your computer using an IP address.;1.00
+49.94;52.80;So you have an IP address, I have an IP address, and I send you a packet.;1.00
+53.32;59.36;But our actual Ethernet cards, the hardware on our computer has something called a MAC address.;1.00
+60.06;60.20;And;1.00
+61.42;70.36; To actually send something to the next segment along the network, you have to send their MAC address as the address, just like a postcode on an address.;1.00
+71.52;77.96;And so when you first connect your computer to a network, it has to find out what someone's MAC address is before it can send a packet to them.;1.00
+78.30;86.96;So it does something called address resolution protocol, which is where it says, what's the MAC address belonging to this IP?;1.00
+87.14;88.36;Because I want to send it a message.;1.00
+89.00;92.27; And then someone else will respond and say, oh, the MAC address is this.;1.00
+93.43;96.51;And then you cache that in your computer, and then you can send them packets.;1.00
+98.49;99.91;So that's so far so good.;1.00
+100.33;103.57;So what ARP cache poisoning is, it's actually a network attack.;1.00
+103.99;107.95;So you go into like a Starbucks or something like this, and you sit down with your laptop.;1.00
+108.45;113.05;And what you do is you find out someone else on the network, and you find out what their IP address is.;1.00
+113.85;116.89; And then you pick the router on the network.;1.00
+116.97;120.92;And what you want to do is try and intercept traffic going between the router and their machine.;1.00
+120.94;123.88;Because maybe they're browsing the web or something, right?;1.00
+123.90;129.60;So they're browsing the web and you want to intercept their passwords and you want to hack into their email and things like this, yeah?;1.00
+129.96;136.57;So what you do is you send them a message that says... So I send a message.;1.00
+136.59;139.23;Imagine you're on the network as well and you're talking to the router.;1.00
+139.59;142.77;I send you a message that says the router's MAC address is this.;1.00
+143.74;146.66; and I send it my MAC address, right?;1.00
+146.80;147.30;As a fake.;1.00
+148.28;148.56;Yeah.;1.00
+149.98;150.66;Exactly, right?;1.00
+151.04;157.31;And unfortunately, the problem with ARP protocol is that your computer won't usually worry about who's sending the message.;1.00
+157.35;159.89;It'll just go, oh, okay, and it'll log it, right?;1.00
+160.01;169.16;And so then I send a message to the router as well and say, this is your MAC address, but I sent him my MAC address, right?;1.00
+169.80;172.72;So from then on, I'm just sitting on the network, and from then on,;1.00
+173.12;175.64; Both machines are sending me all the traffic they've got.;1.00
+176.14;181.35;And all I have to do is change the address and send it on to the other party.;1.00
+181.83;183.61;And I'm a man in the middle in this conversation.;1.00
+183.67;186.51;So you want to go to a website.;1.00
+186.81;189.89;You send a packet to the router, but it actually goes to my machine.;1.00
+190.71;194.47;I then look at the packet and go, oh, very nice, passwords and things, right?;1.00
+195.01;200.55;And then I forward it on to the router, and you guys have no idea this has happened.;1.00
+201.57;214.69; Which makes it such a powerful attack because it can be very difficult to know whether it's happening to you, especially if you go into somewhere with an unsecured network like a Starbucks or somewhere where maybe their router isn't well secured.;1.00
+216.22;220.24;And then if you actually pull this off, then you get all the traffic between them things.;1.00
+220.28;230.22;And so if they're using a website that isn't encrypted, which you know is still some websites, then you can just read off their passwords and their emails and everything else that they're doing as much as you want.;1.00
+230.67;231.75; And it's quite terrifying.;1.00
+232.71;235.41;Yeah, yeah, yeah.;1.00
+235.67;251.28;So my advice would be definitely use HTTPS encrypted websites wherever you can, because that way you can ensure that maybe someone is sniffing the traffic, but they can't read what it is because it's encrypted.;1.00
+252.44;253.52;Do you have any questions?;1.00
+261.47;262.41; So usually no.;1.00
+263.37;268.76;If you're using a nice secure algorithm with a good key exchange algorithm, then they can't read it.;1.00
+268.82;269.94;They're just seeing nonsense.;1.00
+270.42;275.88;So there are things called key exchange algorithms that work to try and establish a shared secret.;1.00
+276.22;281.19;So if I want to talk to you in a secure... Yeah, yeah, we often use public key to do it.;1.00
+281.71;289.73;And so I send you a message, you send me a message, and we use that to establish a shared symmetric key that no one else can use.;1.00
+290.13;292.24; And then someone else can read it, but they can't get it in.;1.00
+293.24;298.48;The only problem becomes if the key you're using isn't long enough, then it can be forced.;1.00
+299.48;308.35;And so one of the problems, for example, is that they think that the NSA has access to this giant supercomputer, which can break a lot of the keys that everyone's using.;1.00
+316.15;318.03;So, you know, it's fine.;1.00
+318.27;318.39;So,;1.00
+318.89;324.96; They think that the NSA have access to a supercomputer powerful enough to routinely break some of these keys.;1.00
+325.32;332.36;So if people are using older encryption algorithms that they think are good, they actually turn out to be very easily broken.;1.00
+332.72;339.81;And then people like the NSA or other nefarious parties will routinely hack into their stuff, which is a real concern.;1.00
+343.87;345.35;Well, no.;1.00
+345.53;348.27;So no, reading someone else's communications isn't legal.;1.00
+348.80;354.17; But on the other hand, the NSA, they probably write their own rules to an extent and don't tell anyone what they do.;1.00
+355.09;360.05;If I was a hacker and I went into a Starbucks and I started sniffing people's traffic, that isn't allowed.;1.00
+360.35;369.13;I mean, in fact, if you go into a Starbucks and you read unencrypted traffic, then it's publicly available to everyone.;1.00
+369.21;376.70;So it doesn't, in a sense, you can't claim... So all network traffic is actually sent to all computers online.;1.00
+376.94;380.48; They're just instructed to disregard it because it's not addressed to them.;1.00
+381.02;385.36;But you don't have to in the sense that you could just change your network card to just accept it.;1.00
+385.85;390.15;So, yeah, it could be a bit of a gray area.;1.00
+390.31;393.87;Certainly, once you start getting people's passwords, then it's in a lot of trouble.;1.00
+393.91;397.47;But, I mean, you'd only be in real trouble when you actually use their password to log in somewhere.;1.00
+398.37;400.25;In the NSA's case, I think they just do what they want.;1.00
+401.13;402.43;Yeah.;1.00
+404.11;404.29;Yeah.;1.00
+413.38;423.16; Yep.;1.00
+423.60;426.43;It's sent in plain text, and you can read it.;1.00
+426.97;430.85;And I mean, you should, yeah.;1.00
+430.91;440.76;And if you set up an ARP spoof, because I've done one to test it out, and if you set one up, then whenever you go to a website, your username and password just pops up on the screen of the hacker.;1.00
+442.34;448.41; it actually sniffs all the packets and extracts the username and password specifically and shows them to you and logs them for you.;1.00
+448.77;449.95;So it's pretty terrifying.;1.00
+451.19;466.20;So yeah, you always want to, if you're using any website where you're putting in confidential information, so passwords or credit card details or anything like that, always make sure that it's HTTPS and then it's encrypted and then no one can read it, or at least in principle.;1.00
+477.64;480.18; Yeah, so if you, yeah.;1.00
+485.83;486.01;Yeah.;1.00
+489.93;493.69;Yeah, so it will be because they will have accounted for this.;1.00
+494.24;502.12;So when you're not using a browser and you're putting in your password for something like the Google Play Store or iOS Store, they will be using encryption, but you can't see it.;1.00
+502.54;504.84;You just have to trust that Apple know what they're doing a little bit.;1.00
+506.04;512.44; But, yeah, on some applications, you can't guarantee that because you don't know how they've been coded.;1.00
+512.50;518.40;So I would be very careful about typing in my password on, like, a third-party app that I don't know has been properly programmed.;1.00
+519.22;520.50;Yeah, I would be careful about that.;1.00
+523.40;524.30;Yeah, yeah, yeah.;1.00
+532.17;533.09;Wireshark, yeah, yeah, yeah.;1.00
+538.94;544.32; Yeah, so it's exactly the same except that ARP spoofing gets more packets sent to your machine.;1.00
+544.36;545.16;That's the only difference.;1.00
+546.26;552.86;Wireshark still allows you, if you're on a network, to have a look at all the packets that are going back and forth.;1.00
+553.30;557.52;Again, you'll mostly be able to read the ones that aren't encrypted but not the ones that are.;1.00
+558.02;565.59;So if someone's using Telnet or some old FTP protocol or something like that, then their password is just being sent straight out in plain text.;1.00
+565.89;568.35;And then it literally just pops up in Wireshark and you can read it.;1.00
+570.35;573.31; So, yeah, I wouldn't, yeah, don't use FTP either.;1.00
+573.43;574.53;Or secure FTP is better.;1.00
+574.55;575.45;Yeah.;1.00
+576.91;590.78;Yeah, so there's a program called EttaCap which does ARP spoofing.;1.00
+591.36;592.88; And it's very easy to use.;1.00
+593.06;594.80;Both of them are made to be really easy to use.;1.00
+595.06;596.82;Wireshark is just an analysis tool.;1.00
+596.86;601.16;You can't actually inject any packets using it.;1.00
+601.76;604.59;But you can also analyze a lot of different kinds of protocols.;1.00
+604.63;609.65;So you can look at HTTP, and you can look at SSH, and you can look at Telnet, and all these different protocols.;1.00
+609.67;610.75;So that could be quite useful.;1.00
+611.41;617.78;But EttaCap, literally, you just tell it, this is computer A, this is computer B, off you go.;1.00
+618.20;621.08;And it'll just send the ARP spoof to both of them and get cracking.;1.00
+622.06;623.98; And there's really little else to it than that.;1.00
+625.46;629.20;I mean, in terms of actually programming it yourself, it wouldn't be very hard to do.;1.00
+629.22;630.58;You just need to send the right packets.;1.00
+630.82;637.12;And then maybe resend them every five minutes so that they keep updating their cache with the incorrect values.;1.00
+644.31;648.05;No, so it won't be detected by almost anything on the actual machine.;1.00
+648.62;651.48; If you've got a really good router, yeah, yeah, it's terrifying.;1.00
+651.56;661.66;If you get a really good router, like a Cisco router, which is like sort of industrial standard, then they will have a process on it which monitors the ARP addresses, the MAC addresses of all the machines.;1.00
+661.88;668.53;And if one of them suddenly changes in a suspicious way, it will notice and might dump people off the network to stop that from happening.;1.00
+669.03;676.49;But I guess the real question is if you go into a random coffee shop and they've got their Wi-Fi that's free to use, have they got a really good router that does this?;1.00
+676.51;676.87;I don't know.;1.00
+679.51;681.98; And so that's something to be a bit concerned about.;1.00
+684.76;687.20;No, well, no, I don't want to get arrested, you see.;1.00
+688.24;688.44;No.;1.00
+691.10;699.28;No, so I don't think, no, I don't, I mean, once their password starts coming up on your screen, I would describe it as definitely morally dubious.;1.00
+701.52;703.72;But not illegal, I suppose, if you're not using their password.;1.00
+705.09;708.13; And Wireshark isn't illegal, you know, network sniffing.;1.00
+708.21;711.32;I mean, you'd probably get in quite a lot of trouble and you wouldn't be allowed back for coffee.;1.00
+712.68;717.50;But, yeah, not too illegal.;1.00
+717.54;722.35;I mean, I want to try it in this building, but I'm a bit worried they might have some kind of mechanism for determining.;1.00
+722.41;723.93;I've emailed Will Armitage.;1.00
+724.45;725.71;Yeah, yeah.;1.00
+725.99;729.45;But I tried it at home and it worked fine and was a little bit worrying.;1.00
+730.19;733.43;My router apparently didn't... Yeah, my router didn't notice.;1.00
+734.70;756.65; yeah yes safely I can do what I want to myself at home and no one minds yeah yeah yeah I want you if you do try it and it's so easy to do that you'll you'll you'll be always be really careful after that when you're on the web about what bit sites you visit because it's kind of scary;1.00
+769.89;770.15; Yes?;1.00
+774.20;775.08;It's very similar.;1.00
+775.50;782.66;So ARP is a MAC address thing, and it only happens on your local network segment, so between my computer and yours and the router we're talking to.;1.00
+783.50;786.02;DNS can happen between any computer.;1.00
+786.44;796.37;And so what happens is you type in a website like google.com, and then someone else sends back a reply that says they're at this IP, but they aren't.;1.00
+797.13;816.16; And then what happens is your website just goes to their website instead and then maybe...and then you've got all kinds of problems because they can serve you malware from their website using JavaScript or they can just make their website look like something where you need to log in and then you log in and they've got your username and password even if it's encrypted.;1.00
+816.78;819.84;So, yeah, DNS spoofing is very dangerous.;1.00
+820.74;822.20;They've started trying to crack down on it.;1.00
+822.22;823.72;They've got something called DNSSEC.;1.00
+824.33;829.75; which is where they attach certificates and encryption to DNS records to try and improve this.;1.00
+829.79;831.17;But it's not very widely used.;1.00
+832.61;834.08;So it's still a huge problem.;1.00
+835.28;836.86;Public key certificates help a lot.;1.00
+836.92;844.24;So if you see the padlock on your browser, that means that it's encrypted and also backed up using a certificate.;1.00
+845.86;852.11;And that certificate is tied to a specific IP address, which means that if someone spoofed them, the certificate won't work;1.00
+852.78;855.24; and then your browser will throw a big warning.;1.00
+855.66;856.96;So your browser will tell you.;1.00
+865.19;865.45;Yeah.;1.00
+870.43;870.63;Yeah.;1.00
+871.03;877.08;So, yeah, I mean, in 90% of cases, that just means they've messed up their certificate.;1.00
+877.18;878.18;It doesn't mean they're malicious.;1.00
+878.68;881.44;But in some cases, it could mean that they've spoofed you;1.00
+881.99;883.75; and you're a different website than you thought you were.;1.00
+884.43;886.62;And this certificate is the only thing that's warning you.;1.00
+887.12;894.66;So you just have to make absolutely sure you're comfortable with what you're doing when you click through that, because it could be your last warning before they steal all your data.;1.00
+899.62;904.07;Yeah, exactly.;1.00
+904.37;905.83;So just be careful when you go through there.;1.00
+907.73;907.81;OK.;1.00
+911.50;912.98; Yeah, it makes you a bit paranoid.;1.00
+913.66;922.64;Yeah.;1.00
+922.70;923.20;Usually, no.;1.00
+923.50;924.64;It's very, very worrying.;1.00
+925.78;927.97;If you've got a really good one, maybe, but probably not.;1.00
+928.42;928.92;Mine didn't.;1.00
+929.02;932.05;I've got one, and it didn't do anything when I tried it.;1.00
+932.49;932.83;Yeah.;1.00
+944.56;944.98; No, no.;1.00
+946.34;946.76;Are you happy?;1.00
+947.79;948.43;Yeah.;1.00
+950.89;951.24;No problem.;1.00
+952.12;952.36;Okay.;1.00
+953.58;953.80;Bye then.;1.00

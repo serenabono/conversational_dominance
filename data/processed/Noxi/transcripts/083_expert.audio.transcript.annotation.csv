@@ -1,0 +1,132 @@
+5.93;6.35; Hallo.;1.00
+8.91;11.19;So.;1.00
+11.23;13.09;Ich glaube, wir können schon anfangen, oder?;1.00
+13.15;13.87;Ich höre dich gut.;1.00
+13.89;14.46;Hörst du mich auch?;1.00
+14.52;17.18;Ja.;1.00
+17.20;19.48;So, jetzt.;1.00
+19.52;20.80;Ja, jetzt.;1.00
+20.84;22.24;Du weißt das Thema noch gar nicht, oder?;1.00
+22.42;24.46;Nein.;1.00
+24.50;31.82;Ich hätte gedacht, ich erzähle dir was über Vorhersagesysteme im medizinischen Bereich.;1.00
+31.88;32.59;Ist das interessant?;1.00
+32.62;34.43;Ja.;1.00
+34.49;34.77;Ah ja, gut.;1.00
+35.99;46.24; Also dann, das ist zum Beispiel so, du kannst im Krankenhaus von irgendwelchen Patienten mal so die Blutwerte aufschreiben.;1.00
+46.28;50.50;Da gibt es ja, was weiß ich, 20, 30 verschiedene Werte oder noch mehr.;1.00
+50.56;53.24;Und die tust du dann in der Datenbank speichern.;1.00
+53.30;56.91;Und da guckst du, was der nach allen möglichen Untersuchungen denn hatte.;1.00
+56.92;62.29;Sagen wir mal, der hatte jetzt Leberkrebs, der hatte eine Entzündung hier und der andere hatte das.;1.00
+63.17;74.87; Und dann tust du zum Schluss so einen Computer drüber laufen lassen, der einen Zusammenhang aus den Blutwerten versucht herzustellen und dem letztendlichen Ergebnis.;1.00
+74.91;87.38;Also dass du praktisch sagst, alle, die bei den Blutwerten hier einen hohen Wert hatten und hier einen niedrigen und hier normal, die hatten zum Schluss 80 Prozent von denen diese Entzündung an dem und dem Organ oder sowas.;1.00
+89.28;91.24;Also der Computer versucht aus den gesammelten Daten;1.00
+91.90;93.40; so ein Wahrscheinlichkeitsmodell herzustellen.;1.00
+93.42;96.61;Alle, die das hatten und das, haben die und die Krankheit mit der und der Wahrscheinlichkeit.;1.00
+98.21;102.67;Ja, und da musst du erstmal einen Haufen Daten sammeln.;1.00
+102.71;105.85;Und dann musst du da so ein Modell erstellen an so einem Computer.;1.00
+105.87;108.23;Das läuft vielleicht an einem Krankenhaus oder so.;1.00
+108.25;111.17;Auf dem Server läuft da so ein Vorhersagesystem.;1.00
+111.21;119.25;Und dann kann so ein Arzt an seinem Computer sich hinsetzen und die Patienten die Werte eintippen, die Blutwerte oder so.;1.00
+119.27;120.67;Und dann kommt der Computer und sagt, ja,;1.00
+124.34;129.19; 40% der Menschen mit diesen Blutwerten hatten am Ende die und die Erkrankung.;1.00
+129.21;130.25;20% die und die.;1.00
+130.29;133.47;Der gibt halt zum Beispiel die 5 oder 3 häufigsten aus.;1.00
+133.51;137.89;Und dann kann der Arzt zum Schluss entscheiden, welche Untersuchungen er macht.;1.00
+137.93;141.81;Wenn er jetzt sieht, die meisten hatten das und die anderen hatten das.;1.00
+141.87;147.97;Und so könnte man diese medizinischen Vorhersagesysteme halbwegs gestalten.;1.00
+148.01;149.64;Das heißt, alle werden...;1.00
+161.92;163.98; Genau, so rum.;1.00
+164.02;166.80;Und dann wird so ein Wahrscheinlichkeitsmodell abgeleitet.;1.00
+166.84;167.72;Weißt du, wie ich meine?;1.00
+167.74;177.17;Der eine hatte hier zu hoch und der andere hier zu niedrig und die meisten, die hier zu hoch und hier zu niedrig hatten, hatten zum Schluss eine Herzinsuffizienz oder so was.;1.00
+177.21;180.17;Oder irgendeine andere spezifische Krankheit.;1.00
+180.21;180.87;Genau.;1.00
+180.93;181.75;Und an dem kann der;1.00
+182.59;185.65; Patient oder der Arzt dann die weiteren Schritte ableiten.;1.00
+185.69;197.52;Du kannst zum Beispiel gucken, da gibt es ja diesen Spruch, häufig ist es häufig, dass du, wenn etwas sehr wahrscheinlich ist, das zuerst prüfst.;1.00
+197.56;199.42;Das macht ja Sinn.;1.00
+199.46;211.37;Und dann wäre es zum Beispiel auch sinnvoll, dass das Vorhersagesystem dann auch gleich angibt, dass du mit einem bestimmten Test vielleicht gleich mehrere Sachen ausschließen könntest, dass er diesen Test dann vorzieht.;1.00
+212.16;213.73; Das hat der Arzt vielleicht nicht so direkt im Blick.;1.00
+215.33;219.93;Dann könnte man natürlich Kosten sparen.;1.00
+219.95;226.05;Für die Krankenkasse spart sich bestimmt Kosten, die Ärzte sparen sich Zeit und Nerven und die Patienten wahrscheinlich auch.;1.00
+226.09;228.47;Und insgesamt ist doch das was, was total sinnvoll ist.;1.00
+228.63;242.00;Das sollte eigentlich in jedem Krankenhaus sitzen und sollte jeder Arzt zum Schluss so ein Tablet haben, gucken, einscannen die Werte irgendwie oder eintippen und dann so ein Modell zurückkriegen, ja das und das und das muss man prüfen und dann überlegt er, ja das macht Sinn,;1.00
+242.65;251.34; Oder nee, das macht nicht Sinn.;1.00
+253.92;256.28;Ich weiß, dass die Daten gesammelt wurden.;1.00
+256.30;259.84;Dass es schon eine Uniklinik gibt, die Daten sammelt.;1.00
+259.86;264.22;Anonymisiert versteht sich, mit Einverständnis der Patienten.;1.00
+264.32;268.70;Und man müsste jetzt noch dieses Modell entwickeln, dieses Vorhersageding.;1.00
+268.74;269.60;Und dann noch eine;1.00
+271.76;278.14; Ja, irgendwie so eine Art Server, der halt die Anfragen entgegennimmt von dem Tablet, sag ich mal, oder von irgendeinem Gerät, was die Ärzte haben.;1.00
+278.18;280.48;Tablet, glaube ich, bietet sich da an.;1.00
+280.54;282.88;Oder am Computer, vielleicht auch beides.;1.00
+282.92;290.81;Irgendwas im Browser, irgendwas Web-basiertes, da kann man vom Handy, Tablet, von überall kann man dann da hingehen.;1.00
+290.85;295.67;Ja, und dann wäre auch schön,;1.00
+300.95;302.39; Ja, nicht rangehen.;1.00
+302.43;303.05;Musst du auflegen.;1.00
+317.33;318.15;Nee.;1.00
+318.19;319.41;Hast du das Skript nicht gelesen?;1.00
+319.45;324.57;Da stand drin, man soll die Handys auf lautlos stellen.;1.00
+324.63;325.23;Na gut.;1.00
+325.29;329.94;Und toll wäre es natürlich, wenn diese Vorhersagesysteme auch für Bilddaten gehen, nicht bloß für die Eingabe.;1.00
+329.95;330.50;Weißt du, was ich meine?;1.00
+331.24;336.02; Da kannst du zum Beispiel so ein Ganzkapazität machen oder MRT.;1.00
+336.04;343.65;Schmeißt dieses Bild in deinen Computer rein und der sagt, das hier sieht komisch aus, das hier sieht auch komisch aus, das hier.;1.00
+343.67;345.87;Und der vermutet das und das.;1.00
+345.91;351.31;Ob das mit den Bilddaten geht, das weiß ich noch nicht, aber es wäre doch mal schön, das zu testen.;1.00
+351.33;353.77;Man kann es einfach mal probieren, um zu gucken, ob sowas möglich ist.;1.00
+353.86;356.76;Wie steht das mit den Bilddaten?;1.00
+369.26;375.97; Meinst du jetzt von den Bildern oder allgemein das Ganze?;1.00
+376.01;376.99;Das kann ich jetzt noch nicht sagen.;1.00
+377.19;383.92;Man müsste halt die Daten auswerten und dann gucken, wenn man die Daten auswertet, ob da ein Modell entstanden ist.;1.00
+383.95;386.48;Weil wenn ich jetzt 1000 Patientendaten habe, sage ich mal,;1.00
+387.33;395.32; Und ich kriege zum Schluss ein Modell raus, das die ganze Zeit richtig liegt oder sagen wir mal zu 95 Prozent der Zeit richtig liegt.;1.00
+395.34;397.04;Man muss ja das irgendeinen Nutzen haben, das Modell.;1.00
+398.08;404.56;Da kann man ja auch mit einer Kreuzvalidierung die Genauigkeit dieses Modells testen.;1.00
+404.60;406.44;Kennst du diese Kreuzvalidierung?;1.00
+406.49;408.91;Ja, genau.;1.00
+408.95;411.93;Da tut man halt immer, ich habe 1000 Leute, dann teile ich das in drei Gruppen auf.;1.00
+411.97;413.17;Mit den einen trainiere ich das Modell.;1.00
+413.77;418.37; Mit den anderen teste ich das Modell, mit den anderen tue ich die Werte zurücktrainieren.;1.00
+418.41;424.23;So oder so ähnlich in Kurzform.;1.00
+424.25;426.43;Ja, und die Patienten sparen sich auch Zeit.;1.00
+426.45;434.60;Und vor allem nicht bloß Kosten und Zeit, sondern es macht ja was, ob die Patienten jetzt richtig diagnostiziert werden oder falsch, dass sie nicht falsch diagnostiziert werden.;1.00
+434.64;436.82;Oder dass überhaupt mal was diagnostiziert wird, kann ja auch sein.;1.00
+438.66;440.20;Und die Ärzte sind eh alle überlastet.;1.00
+440.24;441.18;Bitte?;1.00
+441.24;441.46;Bitte?;1.00
+457.87;459.23; Ja, da ist ja der Arzt dazwischen.;1.00
+459.25;464.47;Das System schlägt das vor und der Arzt sagt dann, da müssten ja die Leberwerte noch schlecht sein.;1.00
+464.51;467.71;Und dann guckt er drauf, ups, die sind ja schlecht, habe ich jetzt vergessen.;1.00
+467.75;471.86;Oder er guckt drauf und sagt, nee, ist alles normal, so ein Schwachsinn, das mache ich nicht.;1.00
+471.90;473.66;Das ist ja nur ein Vorschlagesystem.;1.00
+475.20;479.78; Ist ja nicht so, dass der Computer dann auch die Behandlung ausführt.;1.00
+479.80;485.84;Vielleicht kann er bei der Behandlung dann, wenn man die Medikamente eintippt, kann er gleich noch gucken, ob die Medikamente sich miteinander vertragen.;1.00
+485.88;493.64;Weißt du, ich meine so ein allgemeines Patientenmanagementsystem, wo die Leute... So, ja.;1.00
+493.66;500.83;Ne, ich meine, dann kannst du auch, wenn der Patient in ein anderes Krankenhaus geht, schickst du ihm so einen Link mit und dann kann das Krankenhaus alles abrufen, was der bisher hatte.;1.00
+500.85;501.59;Dann musst du nicht ständig die;1.00
+503.06;504.08; Wie sagt man denn da?;1.00
+504.10;505.84;Die Kartei mitschicken.;1.00
+505.88;511.10;Weil der geht zum nächsten Arzt und der nächste Arzt weiß gar nicht, was der für Medikamente nimmt oder was der für eine Geschichte hatte.;1.00
+511.12;513.99;Und das noch dazu im schnellen Überblick zu machen.;1.00
+514.01;521.43;Und dann kann man vielleicht noch für das Krankenhaus, wäre das vielleicht ganz interessant, dass man dann guckt, vielleicht kann man da intern auch noch die Kosten speichern.;1.00
+521.45;531.80;Zum Beispiel wenn Behandlung A sich als effizienter oder sich als wirkungsvoll erwiesen hat in 60% der Fälle und Behandlung B;1.00
+533.07;540.61; in 59% der Fälle, dann ist ja eigentlich Behandlung A besser, aber Behandlung B ist vielleicht ein Zehntel vom Preis nur.;1.00
+540.65;542.95;Müsste man dann überlegen, ob das das wert ist.;1.00
+542.99;553.26;Dass man dann vielleicht doch... Ja, müsste man dann die Leute fragen.;1.00
+553.32;561.36;Also ich denke ausgerechnet bei gesundheitlichen Sachen, da wollen die Leute, wir wollen ja gesund sein, wer will denn nicht gesund sein?;1.00
+561.38;561.80;Vor allem die, die;1.00
+562.86;565.42; die dann krank werden, die wollen ja möglichst schnell gesund werden.;1.00
+565.46;567.36;Und dann glaube ich, stimmen die dann möglichst schnell.;1.00
+567.38;568.30;Oder was heißt möglichst schnell?;1.00
+568.84;571.52;Das hört sich jetzt wie ein Druckmittel an, aber ich glaube, das ist kein Druckmittel.;1.00
+571.54;579.91;Ich glaube eher, dass das nur die Leute ein bisschen bewusster macht, dass sie so Daten teilen können und auch selber was davon haben.;1.00
+585.10;590.38;Ja, aber man kann ja vielleicht aus tausend Leuten schon was ableiten, was man für Millionen anwenden kann.;1.00
+594.31;595.67; Findest du das gut, ne?;1.00
+595.69;598.91;Sind wir auch in der Zeit schon?;1.00
+598.93;604.19;Kaufst du es ab, oder, das System?;1.00
+604.29;606.65;Ach so, ja, okay.;1.00
+606.69;612.34;Na gut, aber ich denke, hast du noch Fragen?;1.00
+612.38;614.84;Keine konkreten, ne?;1.00
+614.88;618.82;Ja, okay, dann würde ich sagen, wir sind jetzt fertig, ne?;1.00
+618.84;618.92;Okay.;1.00

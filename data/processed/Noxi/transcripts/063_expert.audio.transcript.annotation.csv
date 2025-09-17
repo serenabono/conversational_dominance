@@ -1,0 +1,102 @@
+1.76;27.60; okay hello again yeah um okay so do you know anything about jazz music school okay we can do school related okay um so the design and modeling what what's dma;1.00
+29.49;30.07; No, I don't.;1.00
+30.85;36.38;You're the expert, so you know something.;1.00
+36.40;38.90;Okay, so, do you know anything about type theory?;1.00
+38.92;44.72;Oh, I don't, but I would really like to know something.;1.00
+46.60;53.11;Oh, well, interestingly enough, I am doing my dissertation in type theory, so I have plenty to talk about that.;1.00
+54.97;58.09;So, a while ago, well...;1.00
+58.79;66.19; A few years ago, there was an interesting discovery made in mathematics that brought rise to the new world of homotopy type theory.;1.00
+67.14;86.77;And that proves a relationship between algebraic topology and type theory, meaning that everything that we knew about type theory can now be expressed as some sort of topology, where we can put things in some unknown space and connect them with lines and make shapes together.;1.00
+90.82;95.58; So type theory is kind of like an alternative to set theory.;1.00
+95.78;96.66;I mean, informally.;1.00
+97.24;106.25;So set theory, like the way you construct set theory is you have all these axioms that you start off with.;1.00
+106.73;113.61;And then on these axioms, you have a deductive system like first order logic that lets you construct statements.;1.00
+114.23;116.17;But with type theory, you don't have any axioms.;1.00
+116.35;118.71;You just have a deductive system.;1.00
+119.19;120.11; which is type theory.;1.00
+120.73;127.59;And the interesting thing is that any type that you make is a proposition.;1.00
+128.19;131.90;So an inhabitant of that type is a proof.;1.00
+132.47;136.52;So if you can think of a function, that would be a type.;1.00
+137.36;140.50;And then any proof would be an implementation of that function.;1.00
+141.12;148.80;So interestingly enough, you can use this to create a functional programming language that's also a proof assistant because;1.00
+149.41;152.83; Any function that you implement is a proof that that function exists.;1.00
+154.67;162.55;So this works really well, but there are all these problems in the theory that simply aren't provable.;1.00
+163.11;176.35;So one of the really annoying things is given two functions, f and g, if I give them an input and they always return the same output for the same input,;1.00
+177.04;179.56; then surely f and g must be the same function.;1.00
+180.16;181.59;But that's unprovable.;1.00
+182.10;188.25;That's not possible in current structures, which is what homotopy type theory tries to solve.;1.00
+188.85;196.31;So there's a big interesting world about how to safely write programs.;1.00
+197.30;203.26;So one of the;1.00
+205.91;235.53; very closely linked concepts in homotopy type theory is the idea of a simplicial set so you have um so if you can imagine what we did like in mal like a dfa so dfa is like an example of a mathematical model and a simplicial set is just another example of a mathematical model that you can use to show things so with a simplicial set um you have this concept of a simplex;1.00
+236.07;240.79; which is kind of like a building block of shapes in all these dimensions.;1.00
+241.22;245.22;So in the first dimension, it's a single line.;1.00
+245.72;247.34;And in the second dimension, it's a triangle.;1.00
+248.06;259.55;And if you have a collection of these, you can construct a simplicial set, which is, say, if you have a triangle, that's like one triangle and then three lines and then three dots.;1.00
+261.25;262.53;And you can build upon these.;1.00
+262.83;264.35;And what you can also do is;1.00
+264.91;293.35; you can translate from a triangle at a third point and connect it and you get a trapezoid and then you move that point and you get a triangle again so there are all these relationships and this plays really closely in the theory of homotopy type theory but it's kind of like a tenuous link if you don't understand the pages and pages of maths behind it but I mean;1.00
+294.25;304.44; Interestingly enough, the place where it was discovered was in the Institute for Advanced Study in Princeton University, or like just outside Princeton.;1.00
+305.22;318.74;And it was discovered by this man called Vladimir Vodevsky, who emailed Torsten saying, oh, you're a type theorist, and I am working with homotopy stuff.;1.00
+319.44;321.69;There might be a relationship, but yeah.;1.00
+323.25;323.49;Yeah, why?;1.00
+331.02;338.43; So he gets the email from a mathematician saying, there might be a connection between our two very unrelated fields.;1.00
+338.89;341.39;Do you want to come to Princeton to, like, figure this out?;1.00
+341.93;343.41;He gets flown over to Princeton.;1.00
+344.09;353.02;They, like, work on it, publish a book, and, like, through... No, there's also alcohol involved, I was told.;1.00
+353.82;355.04;So there's that.;1.00
+356.81;359.51; Lots of maths and alcohol go hand in hand very nicely.;1.00
+363.16;366.02;The actual place is a very funny university.;1.00
+366.50;370.14;So it's a university technically, but it doesn't have any students.;1.00
+371.14;379.01;All it has are tenured professors and PhD students.;1.00
+380.61;385.27;The point is that if you're a lecturer at the Institute for Advanced Study, you have tenure.;1.00
+385.96;387.04; And they can't kick you out.;1.00
+387.46;389.16;And they give you all the resources you want.;1.00
+389.24;390.73;To solve maths on your own.;1.00
+391.27;392.45;And then eventually like.;1.00
+392.49;394.25;You're supposed to come up with a crazy discovery.;1.00
+396.07;396.93;Which sometimes works.;1.00
+396.97;397.87;Sometimes doesn't work.;1.00
+399.23;400.89;But like Einstein was.;1.00
+401.21;402.01;One of the.;1.00
+403.13;404.98;Like elected chairman of the.;1.00
+405.56;406.39;Like university.;1.00
+406.42;408.16;Which is pretty cool.;1.00
+409.56;410.62;But like.;1.00
+410.96;412.36;Some scientists don't like it.;1.00
+412.68;414.78;Like Richard Feynman called them like.;1.00
+416.42;445.48; intellectual like it's just basically like intellectual masturbation in the department like they don't actually learn anything because if you're just locked in a room for like a few years to figure out something you'll never actually you have to interact with other people so you didn't like them that much but it's an interesting place I didn't know it existed so yeah yeah I know if you're super smart like that'd be a perfect setup you get paid tenure;1.00
+446.19;474.30; just do anything that you want and they can't like tell you what to do it's great but yeah i mean this is one of the more successful well hopefully uh i mean i have to understand what i'm talking about first because the introduction of type theory and homotopy stuff that i gave was absolutely appalling so i don't actually know what i'm talking about yet but hopefully;1.00
+474.95;479.22; Once I do maybe like one or two PhDs, I might need like a third PhD as well.;1.00
+479.82;485.66;After the three PhDs, I might be able to possibly get an entry-level position in this university.;1.00
+486.22;487.84;So, we'll see.;1.00
+487.86;490.32;Yeah.;1.00
+492.95;493.29;Monday.;1.00
+493.31;496.43;Yeah.;1.00
+500.25;502.09;Well, I have an idea of what I'm talking about.;1.00
+502.13;502.73;It's just like,;1.00
+504.20;509.78; It's hard to present it in 10 minutes for the to present exactly what simplicial sets are.;1.00
+509.80;514.34;I had to do 30 pages of background in the dissertation.;1.00
+515.02;520.22;And then once the 30 pages of background were done, you could start with like the basics of a simplicial set.;1.00
+520.82;523.92;So like, I don't know how to condense it yet.;1.00
+528.57;529.01;Yeah, I know.;1.00
+529.05;529.27;Right.;1.00
+529.43;531.53;Like, well, hopefully I'm nearly done.;1.00
+532.99;534.35; 18,000 words later, nearly done.;1.00
+536.15;538.01;So, yeah, that's my eventful.;1.00
+538.63;542.88;And if it interests you, then I highly recommend a career in this path.;1.00
+543.62;544.52;It's very fruitful.;1.00
+544.54;547.42;You get lots of satisfying discoveries.;1.00
+553.72;554.44;Yeah, exactly.;1.00
+554.46;558.51;Because the guy himself is a Fields Medalist, so he's a big hotshot.;1.00
+560.51;561.81;You know what a Fields Medalist is, right?;1.00
+563.21;579.88; Yeah, so, well, he's got one of them, I can't remember what he got it for, but, like, it's pretty cool stuff, so, I mean, if he tells you, like, I think there's something here, like, you get on the next flight over to Princeton, like, quickly, he's, I mean, he was right this time, so.;1.00
+579.89;579.98;Yeah.;1.00
+580.00;589.50;So, do you want to carry on, like, doing something related to that, maybe?;1.00
+592.95;594.67; Yeah, possibly a PhD might be good.;1.00
+596.99;602.79;I'm not entirely sure what it's like to do a PhD because a third year dissertation is already quite stressful.;1.00
+603.25;611.37;So I can't imagine a three year thesis being any less stressful on top of teaching abilities.;1.00
+611.43;616.70;But if it's possible to get a PhD, it'd be cool to be called doctor.;1.00
+619.04;620.66;I think time's up.;1.00
+621.60;621.74;Yeah.;1.00
+623.28;623.54; Okay.;1.00
+625.83;626.94;So, we're done.;1.00

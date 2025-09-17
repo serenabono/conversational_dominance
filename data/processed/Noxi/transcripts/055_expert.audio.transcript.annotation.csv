@@ -1,0 +1,93 @@
+2.73;2.95; Hi.;1.00
+4.55;5.03;Can you hear me?;1.00
+7.35;7.93;All right then.;1.00
+9.68;10.20;I'm Ashok.;1.00
+14.14;14.46;All right.;1.00
+15.72;30.33;So today we might talk a bit about interpositioning, tracking and discuss a bit about the privacy issue and how interpositioning;1.00
+31.57;60.30; Helps or might help in our everyday life, you know the future applications for example and we can share our opinions You can share your thoughts about it Yeah Yeah, so right now my PhD focuses on trying to develop our occupancy model of individuals and;1.00
+60.80;61.76; throughout the entire building.;1.00
+63.10;68.66;And to develop an occupancy model throughout the entire building, we need a sort of robust indoor positioning being deployed.;1.00
+69.42;74.62;So that also means that I will have to collect a lot of data from individuals.;1.00
+75.94;80.45;As a result, I need to have the technology or the devices user friendly so that;1.00
+80.75;83.45; They can use the device very easily when they move around.;1.00
+84.01;91.91;So for that reason, I'm using Wi-Fi, which is very readily available right now in every building, commercial or residential.;1.00
+92.69;105.48;And I'm using Bluetooth at the same time together so that I can get more denser tracking positions with more accuracy.;1.00
+106.12;106.26;Yeah.;1.00
+107.62;119.16; Yeah, the main reason for developing an occupancy model is to understand how energy is being consumed or energy resources are being used in buildings.;1.00
+120.06;129.41;So the Nottingham built environment department has some simulation platform which is linked with energy plus.;1.00
+130.19;143.01; So they have the behavioral models of human beings, you know, like working with different applications, you know, window opening, light switching, appliance usage, washing, sleeping.;1.00
+143.43;148.51;Those behavioral models are probabilistic and they're already added in the simulation platform.;1.00
+148.91;153.17;What they're missing right now is a robust occupancy model.;1.00
+153.75;159.27;So at this moment, they're just using occupancy model, which was built on data.;1.00
+160.03;187.37; just tracking people's movement in and out of their office rooms but obviously you can understand that it doesn't represent a true occupancy right because you can be out of your office and at the same time you can be anywhere else and using up resources in the building right so to get an idea when and where a person can be in a building the probability of their appearances in different places you know and in different times of the day that is why we need a;1.00
+187.94;215.50; Occupancy model and that's where my interpositioning comes in at the same time Yeah any Yes Well the privacy concern is not the major;1.00
+216.55;222.21; focus of my research, but obviously when I'm collecting data, I need to address that issue at the same time.;1.00
+223.66;232.36;So when I'll be tracking people, it would be limited to certain areas of the building that are frequently occupied.;1.00
+234.40;244.78;For example, when I'll be using the indoor positioning, you know, there are different ways of tracking people and solution systems, indoor positioning systems that are being researched upon.;1.00
+244.82;246.12;So some of them are;1.00
+246.78;269.58; fingerprinting you know you create a radio map of the entire of the building floor and you will you can be only tracked within those fingerprinted areas only otherwise there are trilateration triangulation you know or RFID if you put RFID in every places you know and you have RFID chip in your pocket then;1.00
+270.39;299.70; will be detected in every location so with wi-fi and bluetooth i'm i'm trying to see using i'm going for fingerprinting so i won't be tracking people's movement in areas where they might not prefer to so apart from that apart from tracking their names would be anonymized i don't need to know their names i need no need to know their profession or any identity personal identity so i just need the data so and i believe this data;1.00
+300.29;319.29; since their names and occupation or timing of their arrival, departure, and when and where they were from the tracking data will not be identified, and I will not be sharing those with the supervisors maybe or other administrator of the security, et cetera.;1.00
+319.67;321.93;So I think the privacy would be maintained, hopefully.;1.00
+322.03;328.39;I remember when the CDC might be involved with their studies;1.00
+331.56;338.87; Yeah.;1.00
+358.01;364.11; mhm mhm mhm mhm;1.00
+399.63;416.61; Which university bought, you say?;1.00
+433.66;434.30; Yeah, yeah, yeah.;1.00
+434.72;437.12;I'll definitely go through it.;1.00
+438.00;439.82;I'll definitely address that concern.;1.00
+440.38;445.40;Another thing, why my research will not be privacy-intrusive?;1.00
+445.44;451.10;Because I will just use the data to develop the model.;1.00
+451.16;451.72;And after that,;1.00
+453.79;461.27; For example, if I were to track you, I will know your device MAC address from your mobile or something.;1.00
+461.30;464.04;But I'll not be using your mobile device.;1.00
+464.07;473.14;So I'll be giving you a transmitter device that would be specifically made for tracking.;1.00
+473.62;478.56;So that will be coming with the Bluetooth, the Wi-Fi, and accelerometer.;1.00
+479.44;480.66;That's called the Edison device.;1.00
+481.52;485.96; So from that device, I'll be getting your device ID and etc.;1.00
+486.04;493.73;But after that, I think no one would know whether this device was with you or whether that device was with me.;1.00
+494.47;509.40;So that's why I guess if I were to use your mobile device, then definitely later on if someone got to know your device ID and they could cross-correlate or cross-check with my data,;1.00
+509.76;521.17; then they would have been able to very easily identify, OK, this guy always bunked office and was always away in the cafeteria room or common room chatting with friends.;1.00
+522.15;523.41;Yeah, that might be an issue.;1.00
+523.71;537.00;Probably if I give them a device specifically bought for this research, it will reduce the chances of privacy being hampered, I guess.;1.00
+537.52;544.37; But yeah, that's definitely a good point to go through all the specifics of how to maintain privacy.;1.00
+549.13;552.11;Any other concern regarding tracking?;1.00
+555.65;562.20;I heard your research was related to, as far as I remember, related to music referencing, right?;1.00
+562.22;563.04;Yeah.;1.00
+564.11;577.77; personalized personalized music references referring system have you or have you thought about using location technology in providing personalized music experiences or suggestions;1.00
+602.90;621.33; Okay.;1.00
+621.37;623.65;Yeah, it's better to start from simple things, you know.;1.00
+624.21;652.54; yeah it's good yeah but i think uh once like uh you know um um some some um music recommendation softwares you know uh do take into account the location of the individual so for example if you were to be in europe in france or germany uh they might suggest you uh popular music or songs you know that are that are in the top list in those countries or specific areas you know;1.00
+653.68;660.83; Those features might be a good addition, I guess.;1.00
+661.13;665.81;Maybe not for the PhD, but later on as it expands.;1.00
+702.52;703.36; yes because;1.00
+705.88;706.64; Yeah, yeah.;1.00
+707.18;715.09;Initially, there were a lot of thoughts about adding both outdoor and indoor movement, but it adds a lot of complexity, like you said.;1.00
+716.15;720.89;You're trying to keep things more simpler, so it's better to keep things simpler.;1.00
+721.55;725.15;I try to get things just indoor, otherwise it's too much.;1.00
+726.22;727.88; Work for a three-year PhD.;1.00
+728.48;751.38;Yeah, but another major reason for going for Wi-Fi and Bluetooth is because I could have used other sophisticated and more accurate devices and or technology like inertial navigation systems, you know in food tracker, which which has the gyroscope the accelerometer which give which would give you the heading and also your angular movement rotation;1.00
+752.07;761.20; And which can be used with, you know, particle filters or other filtering technology, you know, together with the movement data to give you more precise location accuracy.;1.00
+761.24;768.60;So right now with Bluetooth and Wi-Fi, I'm getting accuracy, maximum accuracy error of, say, five meter.;1.00
+769.50;771.94;But that is not for every position.;1.00
+772.00;777.92;So since it's a fingerprint, so it's in fingerprint selects, you divide up the floor into grids of cell blocks.;1.00
+778.59;805.13; certain like two meter by two meter something like that so the maximum error that i get for certain cell certain blocks is five meter or six meter but otherwise they're they roughly varies between uh three meter two to three meter some of them exactly uh accurately provides the data but it hovers around two to three meter accuracy maximum maximum is five to six meter so i think;1.00
+806.77;827.13; If I wanted to reduce this accuracy to like a meter level, within a one meter, you know, or less than a meter, then I would need to use, you know, other technologies like inertial navigation systems with these or ultra wide bands, which are very accurate, which gives you centimeter accuracy positioning.;1.00
+827.73;833.24;But for occupancy model, because I have to justify in my PhD why I have chosen this technology, right?;1.00
+833.27;836.32;Because the ultimate goal is to develop occupancy model;1.00
+836.74;842.33; and try to evaluate its performance and how good it is compared to the current one.;1.00
+842.97;848.27;So that's why I have to choose a technology which is suitable at the same time, which is easier to carry.;1.00
+848.43;859.48;So the food tracker, I'll probably need data from at least 15 to 20 people, spanned over a week's movement, you know, for the entire office hour.;1.00
+860.36;865.70; I think it will be a hassle for everyone to wear a foot tracker in their feet, you know, and walk around.;1.00
+866.66;867.30;It'll be a problem.;1.00
+867.34;869.30;At the same time, foot tracker costs a lot.;1.00
+869.34;877.23;So buying 20 foot trackers, I think all my expense allocation would just be blown away.;1.00
+877.25;879.45;Yeah.;1.00
+884.76;884.94;Yeah.;1.00
+886.36;887.54;No, that's fine.;1.00
+887.58;887.88;We should;1.00
+889.31;891.67; decide on choosing a new topic for the next conversation.;1.00
+891.69;894.64;Alright then.;1.00
+895.42;896.66;I'll see you a bit later.;1.00
+897.38;897.56;Yeah.;1.00
+897.90;898.16;Bye-bye.;1.00

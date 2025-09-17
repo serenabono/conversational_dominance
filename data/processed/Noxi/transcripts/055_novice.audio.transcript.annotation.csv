@@ -1,0 +1,85 @@
+1.24;17.63; K it me me me me I'm Chris up;1.00
+32.01;38.42; helps or might help in our everyday life, you know, using applications, for example, and we can share our opinions.;1.00
+38.48;40.66;You can share your thoughts about it.;1.00
+41.92;44.92;What method of tracking in particular are you going to be looking at?;1.00
+45.04;48.20;Using Bluetooth, wireless networks?;1.00
+48.26;48.84;What would you get?;1.00
+49.22;49.44;GPS?;1.00
+49.46;49.76;Yeah.;1.00
+49.78;58.71;So, right now, my PhD focuses on trying to develop an occupancy model of individuals;1.00
+61.39;61.63; Okay.;1.00
+92.14;93.50; yeah show;1.00
+121.81;129.84; The Nottingham Built Environment Department has some simulation platform which is linked with Energy Plus.;1.00
+130.72;143.49;So they have the behavioral models of human beings, you know, like working with different applications, you know, opening, light switching, appliance usage, washing, sleeping.;1.00
+143.93;148.51;Those behavioral models are probabilistic and they're already added in the simulation platform.;1.00
+150.67;152.59; up just up;1.00
+180.26;185.96; probability of their appearance in different places and in different times of the day.;1.00
+186.76;197.09;That's why we need a mockability model and that's where my interpositioning comes in at the same time.;1.00
+197.11;203.41;You were talking about managing the inevitable privacy concerns that can be part of that.;1.00
+204.57;208.68;How much looking into that have you done so far?;1.00
+212.59;223.52; Privacy concern is not the major focus of my research, but obviously when I'm collecting data, I need to address that issue at the same time.;1.00
+224.12;232.80;So when I'll be tracking people, it will be limited to certain areas of the building that are frequently occupied.;1.00
+233.26;240.03;For example, when I'll be using the interpositioning, there are different ways of tracking people.;1.00
+241.46;245.16; and solution systems, inter-positing systems that are being researched upon.;1.00
+245.26;257.36;So some of them are fingerprinting, you know, you create a radio map of the entire, of the building floor, and you can be only tracked within those fingerprinted areas only.;1.00
+257.90;267.37;Otherwise, there are trilateration, triangulation, you know, or RFID, if you put RFID in every place, you know,;1.00
+272.56;273.72; yet or or or;1.00
+304.35;328.62; I'm trying to remember which UK city, it might have been Bath, but there's a study, if you;1.00
+329.18;338.16; Google it, you'll find it, but there was a study they used, they were just using Bluetooth beacons and tracking sort of crowd movement and sort of crowd flow dynamics.;1.00
+339.08;339.50;Hey, I'm back.;1.00
+339.52;352.11;Yeah, so the study in Bath, they were just using Bluetooth;1.00
+360.01;373.26; and they had anonymized the data, but what they found is that it's really difficult to anonymize Cravo data because people are creatures of habit and they go to the same places.;1.00
+373.61;386.83;So although you just had the sort of ID number, the MAC address perhaps of the device, you had the same MAC address turning up at, you know, if they spent 90% of their time at one location and then 20% at another,;1.00
+388.14;391.70; Chances are you found during a weekday their place of work and their home.;1.00
+392.24;400.94;So you found that you could sort of identify people even after sort of anonymising just by dint of where they'd been.;1.00
+400.96;411.03;So it might be a good study for you to Google, just to reference, to have a read through how they managed the privacy issues there, just in case you run into any of the same, and it'd be a good one to reference.;1.00
+411.37;413.29;If I can find it, I'll send it to you at some point.;1.00
+416.55;434.15; I think it was Bath, it was done, it was in the UK city, I think Bath, but yeah, if you Google for data anonymity, Bluetooth tracking study in the UK, it's sort of one of the first to come up, it sort of, it's, yeah.;1.00
+434.17;444.76;Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.;1.00
+447.77;451.97; Because I will just use the data to develop the model.;1.00
+452.11;458.95;And after that, for example, if I were to track you, I will know your device, Mac address, right?;1.00
+459.23;461.74;From your mobile or something.;1.00
+461.77;464.48;But I will not be using your mobile device.;1.00
+464.52;473.52;So I will be giving you a transmitter device that is specifically made for tracking.;1.00
+474.08;474.26;Yeah.;1.00
+479.51;480.71; right yeah show yeah;1.00
+515.43;518.13; yeah yeah yeah;1.00
+545.26;564.53; cool uh... uh... exit past past like me recommendation yet uh...;1.00
+574.75;579.10; in providing personalized music experiences or suggestions?;1.00
+579.12;589.82;I've thought about it, and certainly there is a large body of literature on location-based music recommendation, including some done here in the Mixed Reality Lab.;1.00
+592.67;601.99;But whilst it is an interesting area, it's an additional problem to the main aspect that I'm looking to focus on.;1.00
+604.27;619.87; So I'm trying to keep things as simple as possible and tightly defined for the moment and then add more interesting nuances and complexities later on where I've got a firmer base and a couple of studies to stand on.;1.00
+636.00;638.76; do take into account the location of the individual.;1.00
+638.86;651.85;So, for example, if you were to be in Europe or France or Germany, they might suggest you popular music or songs, you know, that are in the top list in those countries or specific areas.;1.00
+651.87;656.31;Those features might be a good addition, I guess.;1.00
+656.57;662.89;Maybe not for the PhD, you know, but later on.;1.00
+663.61;664.11;Later on, sure.;1.00
+664.13;664.87;Yeah, yeah.;1.00
+667.75;668.21; Absolutely.;1.00
+668.23;672.44;I'm trying to think if I've got any other questions.;1.00
+672.46;681.98;I can't think of anything off the top of my head.;1.00
+683.18;694.03;I suppose one of the things is you said you chose to use Bluetooth and WiFi as your main means of tracking.;1.00
+694.61;694.91;Is that;1.00
+695.30;698.56; because GPS is notoriously unreliable indoors.;1.00
+698.58;701.06;And is all your tracking going to be indoors?;1.00
+701.08;702.64;Yeah, yeah.;1.00
+702.66;715.57;Initially, there were a lot of thoughts about adding both outdoor and indoor movement, but it adds a lot of complexity.;1.00
+715.59;715.67;Sure.;1.00
+715.69;716.03;Yeah, yeah.;1.00
+716.33;717.95;So you keep it simple to start with.;1.00
+717.97;719.01;It's simpler.;1.00
+719.89;720.01;Sure.;1.00
+720.07;720.61;It's simpler, yeah.;1.00
+721.73;722.37;What I expected.;1.00
+726.04;726.58; Yeah.;1.00
+726.60;726.90;Sure.;1.00
+726.92;727.00;Yeah.;1.00
+763.90;764.59; Yeah.;1.00
+797.30;797.44; Okay.;1.00
+797.46;797.68;Yeah.;1.00
+828.16;833.64; But for occupancy model, because I have to justify my PhD, why I have chosen this technology?;1.00
+833.78;843.29;Because the ultimate goal is to develop occupancy model and evaluate its performance and how good it is compared to the current one.;1.00
+843.45;849.21;So that's why I have to choose a technology which is suitable at the same time, which is easier to carry.;1.00
+849.27;853.89;So for food tracker, I'll probably need data from at least 15 to 20 people.;1.00
+865.50;887.25; yeah sure sure I'm I what I think that space questions I've got any anything else you want to tell me or sure she yep;1.00
+893.09;896.75; Alright, I'll see you in a bit.;1.00
