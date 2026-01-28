@@ -216,6 +216,7 @@ if __name__ == "__main__":
 
     tot_n = len(filtered_d['file_content'])
     pattern='<(SPK[0-9]|MOD)>'
+    #---->> max_length 500
     for idx, (dialog, path) in enumerate(zip(filtered_d["file_content"], filtered_d["file_name"])):
         ppl = {}
         if os.path.exists(f"{output_path}/dominance_scores_{path}.pkl"):

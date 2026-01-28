@@ -5,7 +5,7 @@ MODEL_ID="gpt2-large"
 #MODEL_ID="unsloth/Meta-Llama-3.1-8B-bnb-4bit"
 DEVICE="cuda:2"
 DATA_PATH="/u/sebono/conversational_dominance/data/processed/CANDOR/conversations.csv"
-INDEX_PATH="/u/sebono/conversational_dominance/data/processed/CANDOR/group_2.csv"
+INDEX_PATH="/u/sebono/conversational_dominance/data/processed/CANDOR/all_groups.csv"
 PERPL_FUNC="p3"
 OUTPUT_PATH="/u/sebono/conversational_dominance/notebooks/information_exchange_labelling/dataset_perplexity_results/CANDOR_${PERPL_FUNC}_${MODEL_ID}/"
 

@@ -893,7 +893,7 @@ def compute_significance(
     original_ppls_p_spk : dict[str, array-like]
         Mapping like {"<SPK0>": arr, "<SPK1>": arr, ...}.
     spk_tokens : list[str]
-        Speaker tokens to include (order doesn't matter).
+        Speaker tokens to include (order doesn't matter).display_colored_sentences
     alternative_mw : {"two-sided","less","greater"}
         Alternative for Mann-Whitney U.
     equal_var_ttest : bool
@@ -1228,23 +1228,50 @@ import numpy as np
 import pandas as pd
 from collections import defaultdict
 import torch  # make sure torch is imported
+from collections import defaultdict
+import numpy as np
+import pandas as pd
+import torch
 
-def assign_words_to_bins(df, tokenizer, bin_size=1.0, per_speaker=True):
+def assign_words_to_bins(
+    df,
+    tokenizer,
+    ppl_dict=None,          # {"p1": arraylike, "p2": arraylike, "p3": arraylike}
+    bin_size=1.0,
+    per_speaker=True,
+    store_lists=True,       # store p1_vals/p2_vals/p3_vals as lists
+    store_avgs=True,        # store p1_avg/p2_avg/p3_avg as scalars
+):
     """
-    Assigns words to time bins based on uniform spread over the utterance duration.
-    Returns: dict of pd.DataFrames, one per speaker
+    Assign tokens to time bins by uniformly spreading tokens over utterance duration.
+
+    Returns:
+      dict of pd.DataFrames, one per speaker.
+
+    Requires df columns:
+      - speaker, start, stop, tokens (list of token ids)
+    If ppl_dict is provided, it must map token_id (global index) -> value for p1/p2/p3.
     """
-    # Fix nested defaultdict
-    bin_tok = defaultdict(lambda: defaultdict(list))
-    bin_ppl = defaultdict(lambda: defaultdict(list))
+
+    bin_tok = defaultdict(lambda: defaultdict(list))  # token ids (for decoding)
+    bin_idx = defaultdict(lambda: defaultdict(list))  # global token indices
     tok_len = 0
 
+    # Validate ppl_dict if provided
+    if ppl_dict is not None:
+        lengths = {k: len(v) for k, v in ppl_dict.items()}
+        if len(set(lengths.values())) != 1:
+            raise ValueError(f"All PPL arrays must have same length. Got: {lengths}")
+        ppl_L = next(iter(lengths.values()))
+    else:
+        ppl_L = None
+
     for _, row in df.iterrows():
-        spk = row['speaker']
+        spk = row["speaker"]
         start = row["start"]
         stop = row["stop"]
         duration = stop - start
-            
+
         if duration <= 0 or pd.isna(start) or pd.isna(stop):
             continue
 
@@ -1253,8 +1280,9 @@ def assign_words_to_bins(df, tokenizer, bin_size=1.0, per_speaker=True):
         if n_tokens == 0:
             continue
 
-        # Uniformly spread tokens over time
+        # spread tokens uniformly in time
         tok_times = np.linspace(start, stop, n_tokens + 1)
+
         for i, tok in enumerate(tokens):
             tok_start = tok_times[i]
             tok_end = tok_times[i + 1]
@@ -1262,31 +1290,152 @@ def assign_words_to_bins(df, tokenizer, bin_size=1.0, per_speaker=True):
             bin_start_idx = int(np.floor(tok_start / bin_size))
             bin_end_idx = int(np.floor(tok_end / bin_size))
 
+            global_tok_id = tok_len + i
+
             for b in range(bin_start_idx, bin_end_idx + 1):
                 bin_tok[spk][b].append(tok)
-                bin_ppl[spk][b].append(tok_len + i)
+                bin_idx[spk][b].append(global_tok_id)
 
         tok_len += n_tokens
 
-    # Determine full range of bins
+    # full range of bins + speakers
     max_bin = int(np.ceil(df["stop"].max() / bin_size))
     all_bins = list(range(max_bin + 1))
     all_speakers = df["speaker"].unique()
 
-    # Build a DataFrame per speaker
-    bins_df = {
-        spk: pd.DataFrame([
-            {
+    bins_df = {}
+
+    for spk in all_speakers:
+        rows = []
+        for b in all_bins:
+            idxs = bin_idx[spk][b]  # global token indices in this bin
+
+            record = {
                 "time_bin": b,
                 "start_time": b * bin_size,
                 "end_time": (b + 1) * bin_size,
-                "words": tokenizer.decode(torch.tensor(bin_tok[spk][b]), skip_special_tokens=True) if bin_tok[spk][b] else None,
-                "ppl": bin_ppl[spk][b],
+                "words": tokenizer.decode(torch.tensor(bin_tok[spk][b]), skip_special_tokens=True)
+                         if bin_tok[spk][b] else None,
+                "ppl": idxs,                 # global token indices
                 "n_tok": len(bin_tok[spk][b])
             }
-            for b in all_bins
-        ])
-        for spk in all_speakers
-    }
+
+            # Add p1/p2/p3 values if available
+            if ppl_dict is not None:
+                # keep only in-bounds indices
+                idxs_in = [t for t in idxs if 0 <= t < ppl_L]
+
+                if store_lists:
+                    for name, arr in ppl_dict.items():
+                        record[f"{name}_vals"] = [arr[t] for t in idxs_in] if idxs_in else []
+
+                if store_avgs:
+                    for name, arr in ppl_dict.items():
+                        record[f"{name}_avg"] = (float(np.mean([arr[t] for t in idxs_in]))
+                                                 if idxs_in else np.nan)
+
+            rows.append(record)
+
+        bins_df[spk] = pd.DataFrame(rows)
 
     return bins_df
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def corr_trend_analysis(
+    df,
+    p_col,
+    emotion_cols,
+    length_col,
+    k_list,
+    corr_fn,
+    alpha=0.05,
+    use_abs=False,
+    stop_at_nonsig=True,
+    title="Emergence of emotion–interaction coupling",
+    figsize=(8, 5),
+):
+    """
+    Compute and plot correlation trends between a conversational metric and emotions.
+
+    Steps:
+      1) Compute raw + length-controlled Spearman correlations for each k
+      2) Optionally truncate curves when significance is lost
+      3) Plot reversed trajectory (late → early conversation)
+
+    Returns:
+      results_df : pd.DataFrame with all computed statistics
+    """
+
+    # ---------- compute correlations ----------
+    out_rows = []
+
+    for k in k_list:
+        dfk = df.tail(k)
+        x = dfk[p_col].values
+        L = dfk[length_col].values
+
+        for emo in emotion_cols:
+            y = dfk[emo].values
+            res = corr_fn(x, y, L)
+
+            out_rows.append({
+                "k": k,
+                "emotion": emo,
+                "r_raw": res["r_raw"],
+                "p_raw": res["p_raw"],
+                "r_ctrl_len": res["r_ctrl"],
+                "p_ctrl_len": res["p_ctrl"],
+                "r_x_len": res["r_len_x"],
+                "r_y_len": res["r_len_y"],
+            })
+
+    results_df = pd.DataFrame(out_rows)
+
+    # ---------- plotting ----------
+    sns.set_style("whitegrid")
+    fig, ax = plt.subplots(figsize=figsize)
+
+    emotions = results_df["emotion"].unique()
+    palette = sns.color_palette("tab10", len(emotions))
+
+    for emo, color in zip(emotions, palette):
+        df_emo = (
+            results_df[results_df["emotion"] == emo]
+            .sort_values("k", ascending=False)  # late → early
+        )
+
+        if stop_at_nonsig:
+            sig = df_emo["p_ctrl_len"] < alpha
+            if not sig.any():
+                continue
+            last_sig_idx = sig[sig].index[-1]
+            df_emo = df_emo.loc[:last_sig_idx]
+
+        y = df_emo["r_ctrl_len"].abs() if use_abs else df_emo["r_ctrl_len"]
+
+        ax.plot(
+            df_emo["k"],
+            y,
+            marker="o",
+            linewidth=2,
+            color=color,
+            label=str(emo).replace("prob_face_", "")
+        )
+
+    ax.axhline(0, color="black", linestyle="--", linewidth=1, alpha=0.6)
+    ax.set_xlim(ax.get_xlim()[::-1])  # reverse x-axis
+
+    ax.set_xlabel("Conversation progress (tokens from end → start)")
+    ax.set_ylabel("|Spearman r|" if use_abs else "Spearman r (length-controlled)")
+    ax.set_title(title)
+    ax.legend(title="Emotion", frameon=True)
+
+    sns.despine()
+    plt.tight_layout()
+    plt.show()
+
+    return results_df
